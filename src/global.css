@@ -1,0 +1,41 @@
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background: #fcfcfc;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #5a67d8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+.menu-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+.menu-column {
+  min-width: 180px;
+}
+.menu-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.menu-link {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: #5a67d8;
+  text-decoration: none;
+}
+.menu-link:hover {
+  color: #2b6cb0;
+  text-decoration: underline;
+}
