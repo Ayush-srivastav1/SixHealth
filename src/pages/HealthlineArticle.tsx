@@ -74,7 +74,7 @@ export default function HealthlineArticle() {
     <div className="min-h-screen bg-white font-sans text-gray-900">
       {/* Breadcrumbs */}
       <div className="bg-gray-100 border-b">
-        <div className="max-w-7xl mx-auto px-4 py-3 text-xs text-gray-500 flex gap-2 items-center">
+        <div className="article-content py-3 px-4 text-xs text-gray-500 flex gap-2 items-center">
             <Link to="/" className="hover:text-gray-900">Home</Link>
             <ChevronRight className="w-3 h-3" />
             <Link to="/health" className="hover:text-gray-900">Health</Link>
@@ -83,7 +83,7 @@ export default function HealthlineArticle() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 py-8 lg:py-12 flex flex-col lg:flex-row gap-12">
+      <div className="article-content py-8 lg:py-12 flex flex-col lg:flex-row gap-12 px-4">
         
         {/* Main Content */}
         <main className="flex-1 max-w-4xl">

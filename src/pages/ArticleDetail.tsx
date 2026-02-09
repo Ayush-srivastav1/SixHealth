@@ -61,7 +61,7 @@ export default function ArticleDetail() {
   );
 
   return (
-    <div className="max-w-4xl mx-auto py-12 px-4">
+    <div className="article-content py-12 px-4">
       <header className="bg-gradient-to-r from-purple-700 to-purple-500 text-white rounded-lg p-10 mb-8">
         <h1 className="text-4xl font-bold mb-3">{foundArticle.title}</h1>
         <div className="flex gap-3 items-center text-sm opacity-90">

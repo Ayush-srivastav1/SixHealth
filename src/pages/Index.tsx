@@ -27,7 +27,7 @@ const Index = () => {
     <Layout>
       {/* Hero Section Placeholder */}
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-12 text-center">
-        <div className="container">
+        <div className="site-container">
           <h1 className="text-4xl font-bold">Welcome to Six Health</h1>
           <p className="mt-4 text-lg">Your trusted health information hub</p>
         </div>
@@ -38,7 +38,7 @@ const Index = () => {
 
       {/* Latest Articles Grid */}
       <section className="py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content - Latest Articles */}
             <div className="lg:col-span-2">
@@ -95,7 +95,7 @@ const Index = () => {
 
       {/* Quick Links by Topic */}
       <section className="border-t bg-muted/50 py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <h2 className="mb-6 text-2xl font-bold">Quick Links</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {/* Conditions Quick Links */}

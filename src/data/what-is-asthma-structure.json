@@ -1,0 +1,61 @@
+{
+  "slug": "what-is-asthma",
+  "title": "What is Asthma? A Comprehensive Guide to Symptoms, Causes, and Management",
+  "excerpt": "Asthma is a chronic inflammatory disease of the airways causing breathing difficulties. Learn about its causes, risk factors, and how it affects the lungs in this detailed guide.",
+  "category": "Basics",
+  "imageUrl": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&h=600&fit=crop",
+  "author": "Dr. Sarah Mitchell",
+  "authorRole": "Pulmonologist",
+  "reviewer": "Dr. James Wilson",
+  "reviewerRole": "MD, Respiratory Medicine",
+  "readTime": "15 min read",
+  "date": "Feb 10, 2026",
+  "updatedDate": "Feb 15, 2026",
+  "headings": [
+    { "level": 2, "text": "Understanding Asthma: Definition and Overview" },
+    { "level": 2, "text": "How Asthma Develops" },
+    { "level": 2, "text": "Risk Factors and Causes" },
+    { "level": 3, "text": "Genetic Factors" },
+    { "level": 3, "text": "Allergies (Atopy)" },
+    { "level": 3, "text": "Environmental Exposures" },
+    { "level": 3, "text": "Infections" },
+    { "level": 3, "text": "Obesity" },
+    { "level": 3, "text": "Hormonal Factors" },
+    { "level": 2, "text": "Types of Asthma" },
+    { "level": 3, "text": "Allergic Asthma" },
+    { "level": 3, "text": "Non-Allergic Asthma" },
+    { "level": 3, "text": "Occupational Asthma" },
+    { "level": 3, "text": "Exercise-Induced Bronchoconstriction (EIB)" },
+    { "level": 3, "text": "Cough-Variant Asthma" },
+    { "level": 3, "text": "Adult-Onset Asthma" },
+    { "level": 2, "text": "Symptoms and Warning Signs" },
+    { "level": 2, "text": "Diagnosis" },
+    { "level": 3, "text": "Spirometry" },
+    { "level": 3, "text": "Peak Flow Monitoring" },
+    { "level": 3, "text": "Other Tests" },
+    { "level": 2, "text": "Treatment and Management" },
+    { "level": 3, "text": "Medications" },
+    { "level": 3, "text": "Asthma Action Plan" },
+    { "level": 2, "text": "Living with Asthma" },
+    { "level": 3, "text": "Trigger Avoidance" },
+    { "level": 3, "text": "Healthy Lifestyle" },
+    { "level": 2, "text": "Prognosis" },
+    { "level": 2, "text": "Key Takeaways" }
+  ],
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&h=600&fit=crop",
+      "caption": null,
+      "context": "lead image for article"
+    }
+  ],
+  "links": [],
+  "notes": {
+    "externalLinksFound": false,
+    "additionalResourcesSuggested": [
+      "Allergy testing resources",
+      "Spirometry and peak flow instructions",
+      "Local pulmonology clinics and patient support groups"
+    ]
+  }
+}

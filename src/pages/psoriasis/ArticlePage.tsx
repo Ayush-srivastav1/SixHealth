@@ -1,27 +1,34 @@
 import { useLocation, useParams, useNavigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
 import { tabSections } from "../Psoriasis";
+import { sampleArticles } from "@/data/articles";
 
 export default function ArticlePage() {
   const { articleId } = useParams();
   const location = useLocation();
   const navigate = useNavigate();
-  // Find the article by id (slug)
+  // First try to find the article in the central data source by slug
+  const dataArticle = sampleArticles.find((a) => a.slug === articleId);
+
+  // If not found, fall back to tabSections (legacy static mapping)
   let foundArticle = null;
   let foundSection = null;
-  for (const section of tabSections || []) {
-    for (const [heading, desc] of section.articles) {
-      const slug = heading.toLowerCase().replace(/\s+/g, '-');
-      if (slug === articleId) {
-        foundArticle = { heading, desc };
-        foundSection = section.title;
-        break;
+  if (!dataArticle) {
+    for (const section of tabSections || []) {
+      for (const [heading, desc] of section.articles) {
+        const slug = heading.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+        if (slug === articleId) {
+          foundArticle = { heading, desc };
+          foundSection = section.title;
+          break;
+        }
       }
+      if (foundArticle) break;
     }
-    if (foundArticle) break;
   }
-  const title = foundArticle?.heading || location.state?.title || "Article";
-  const desc = foundArticle?.desc || "";
+
+  const title = dataArticle?.title || foundArticle?.heading || location.state?.title || "Article";
+  const desc = dataArticle?.excerpt || foundArticle?.desc || "";
 
   return (
     <Layout>

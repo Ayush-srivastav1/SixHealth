@@ -34,7 +34,7 @@ export default function PageLayout({
         )}
       </section>
       {/* Main Content */}
-      <div className="max-w-5xl mx-auto px-4 py-10">
+      <div className="site-container py-10">
         {children}
       </div>
     </div>

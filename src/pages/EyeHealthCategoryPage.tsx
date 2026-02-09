@@ -139,7 +139,7 @@ export default function EyeHealthCategoryPage() {
     return (
       <Layout>
         <section className="py-12">
-          <div className="container text-center">
+          <div className="site-container text-center">
             <h1 className="text-2xl font-bold mb-2">Category Not Found</h1>
             <p className="text-muted-foreground mb-4">The category you're looking for doesn't exist.</p>
             <Link to="/conditions/eye-health">
@@ -155,7 +155,7 @@ export default function EyeHealthCategoryPage() {
     <Layout>
       {/* Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -182,7 +182,7 @@ export default function EyeHealthCategoryPage() {
 
       {/* Featured Image */}
       <section className="border-b">
-        <div className="container">
+        <div className="site-container max-w-3xl">
           <div className="my-8 rounded-xl overflow-hidden">
             <img 
               src={category.image} 
@@ -239,7 +239,7 @@ export default function EyeHealthCategoryPage() {
 
       {/* Newsletter */}
       <section className="bg-muted/50 py-12 border-t mt-12">
-        <div className="container max-w-2xl">
+        <div className="site-container max-w-2xl">
           <div className="text-center mb-6">
             <h2 className="text-2xl font-bold mb-2">Stay Updated on Eye Health</h2>
             <p className="text-muted-foreground">

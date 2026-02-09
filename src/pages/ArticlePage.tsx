@@ -26,7 +26,7 @@ const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
 
   // Try to find a sleep article by slug
-  const sleepArticle = sleepData.find(
+  const sleepArticle = sleepArticles.find(
     (a) => a.slug === slug
   );
 

@@ -1,6 +1,7 @@
 
 import React from "react";
 import { Layout } from "@/components/layout/Layout";
+import WellnessDropdowns from "@/components/WellnessDropdowns";
 
 const categoryHubs = [
   { name: "Abortion Care", href: "/abortion" },
@@ -42,6 +43,16 @@ const WellnessPage: React.FC = () => {
       <div className="bg-white min-h-screen text-gray-900">
         <div className="max-w-5xl mx-auto px-4 py-10">
           <h1 className="text-4xl font-bold mb-8">Wellness Topics</h1>
+          <WellnessDropdowns
+            wellnessItems={categoryHubs.map((h) => ({ title: h.name, href: h.href }))}
+            featureItems={signaturePrograms.map((s) => ({ title: s.name, href: s.href }))}
+            connectItems={[
+              { title: "Contact Us", href: "/contact" },
+              { title: "Sign Up for Newsletter", href: "/newsletters" },
+              { title: "Resources", href: "/resources" },
+              { title: "Feedback", href: "/feedback" },
+            ]}
+          />
           {/* Category Hubs */}
           <section className="mb-12">
             <h2 className="text-2xl font-semibold mb-4">Category Hubs</h2>

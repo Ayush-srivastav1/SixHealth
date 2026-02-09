@@ -32,6 +32,8 @@ export const navigationCategories: NavigationCategory[] = [
       { title: "Sleep Health", href: "/conditions/sleep" },
       { title: "Type 2 Diabetes", href: "/conditions/type-2-diabetes" },
       { title: "Weight Management", href: "/conditions/weight-management" },
+      { title: "Radiation Therapy Guide", href: "/radiation-therapy-guide" },
+      { title: "Lymphedema Care", href: "/lymphedema-care" },
 
    
       // Add more as needed

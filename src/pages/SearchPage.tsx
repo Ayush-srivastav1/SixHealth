@@ -51,7 +51,7 @@ const SearchPage = () => {
   return (
     <Layout>
       <section className="bg-muted/30 py-8 lg:py-12">
-        <div className="container max-w-4xl text-center">
+        <div className="site-container max-w-4xl text-center">
           <h1 className="mb-6 text-3xl font-bold lg:text-4xl">Search Results</h1>
           
           <form onSubmit={handleSearch} className="flex max-w-lg mx-auto gap-2">
@@ -71,7 +71,7 @@ const SearchPage = () => {
       </section>
 
       <section className="py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           {query ? (
             <div className="mb-8">
               <p className="text-lg text-muted-foreground">

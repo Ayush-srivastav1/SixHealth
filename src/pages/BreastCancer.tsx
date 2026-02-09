@@ -91,7 +91,7 @@ function Section({
 }: {
   section: {
     title: string
-    articles: { id: string; title: string }[]
+    articles: { id: string; title: string; preview: string; slug: string }[]
   }
 }) {
   const navigate = useNavigate()
@@ -105,7 +105,7 @@ function Section({
           <button
             key={article.id}
             onClick={() =>
-              navigate(`/breast-cancer/article/${article.id}`)
+              navigate(`/breast-cancer/article/${article.slug}`)
             }
             className="border rounded p-5 bg-white hover:shadow transition text-left"
           >
@@ -114,8 +114,9 @@ function Section({
               alt={article.title}
               className="w-full h-36 object-cover rounded mb-3"
             />
-            <h3 className="font-semibold">{article.title}</h3>
-            <span className="text-purple-700 text-sm mt-2 inline-block">
+            <h3 className="font-semibold mb-2">{article.title}</h3>
+            <p className="text-sm text-muted-foreground mb-3">{article.preview}</p>
+            <span className="text-purple-700 text-sm inline-block">
               Read more →
             </span>
           </button>

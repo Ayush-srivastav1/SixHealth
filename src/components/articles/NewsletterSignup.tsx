@@ -27,7 +27,7 @@ export function NewsletterSignup({ variant = "card", className }: NewsletterSign
   if (variant === "banner") {
     return (
       <div className={cn("bg-primary py-8", className)}>
-        <div className="container">
+        <div className="site-container">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <div className="text-center md:text-left">
               <h3 className="text-xl font-bold text-primary-foreground">

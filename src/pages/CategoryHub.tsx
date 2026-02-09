@@ -21,7 +21,7 @@ const CategoryHub = () => {
     <Layout>
       {/* Category Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -39,7 +39,7 @@ const CategoryHub = () => {
 
       {/* Articles Grid */}
       <section className="py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content */}
             <div className="lg:col-span-2">

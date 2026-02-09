@@ -1,6 +1,6 @@
-import EyeHealthSectionPage from './pages/eyehealth/SectionPage';
-import EyeHealthSubSectionPage from './pages/eyehealth/SubSectionPage';
-import EyeHealthArticlePage from './pages/eyehealth/ArticlePage';
+import EyeHealthSectionPage from "@/pages/EyeHealthCategoryPage";
+import EyeHealthSubSectionPage from "@/pages/EyeHealthCategoryPage";
+import EyeHealthArticlePage from "@/pages/ArticlePage";
 import React, { Suspense } from "react";
 import "./App.css"
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom"
@@ -22,6 +22,7 @@ import NewslettersPage from "@/pages/Newsletters";
 import HealthNewsPage from "@/pages/HealthNews";
 
 import Asthma from "@/pages/Asthma";
+import AsthmaArticlePage from "@/pages/AsthmaArticlePage";
 import BreastCancer from "@/pages/BreastCancer";
 import BreastCancerArticleDetail from "@/pages/BreastCancerArticleDetail";
 import CancerCare from "@/pages/CancerCare";
@@ -29,10 +30,12 @@ import ArticleDetail from "@/pages/ArticleDetail";
 import Chemotherapy from "@/pages/Chemotherapy";
 import COPD from "@/pages/COPD";
 import DigestiveHealth from "@/pages/DigestiveHealth";
+import DigestiveHealthArticle from "@/pages/DigestiveHealthArticle";
 import EyeHealth from "@/pages/EyeHealth";
 import EyeHealthCategoryPage from "@/pages/EyeHealthCategoryPage";
 import AlzheimersDisease from "@/pages/alzheimers-disease";
 import ChronicKidneyDisease from "@/pages/chronic-kidney-disease";
+import InflammatoryBowelDisease from "@/pages/InflammatoryBowelDisease";
 import Menopause from "@/pages/menopause";
 import MultipleSclerosis from "@/pages/multiple-sclerosis";
 import Parkinson from "@/pages/parkinson";
@@ -96,7 +99,7 @@ function App() {
         <Route path="/conditions/asthma" element={<Asthma />} />
 
         {/* Asthma Subpages (static imports) */}
-        <Route path="/asthma/article/:articleId" element={<AsthmaArticlePage />} />
+        <Route path="/asthma/article/:slug" element={<AsthmaArticlePage />} />
         <Route path="/asthma/section/:sectionId" element={<AsthmaSectionPage />} />
         <Route path="/asthma/section/:sectionId/:subSectionId" element={<AsthmaSubSectionPage />} />
         <Route path="/asthma-hub" element={<AsthmaIndexPage />} />
@@ -108,7 +111,7 @@ function App() {
 
         <Route path="/breast-cancer" element={<BreastCancer />} />
         <Route
-          path="/breast-cancer/article/:id"
+          path="/breast-cancer/article/:slug"
           element={<BreastCancerArticleDetail />}
            />
         <Route path="/conditions/cancer-care" element={<CancerCare />} />
@@ -118,9 +121,11 @@ function App() {
         <Route path="/conditions/copd" element={<COPD />} />
         <Route path="/digestive-health" element={<Navigate to="/conditions/digestive-health" replace />} />
         <Route path="/conditions/digestive-health" element={<DigestiveHealth />} />
+        <Route path="/conditions/digestive-health/:slug" element={<DigestiveHealthArticle />} />
         <Route path="/conditions/alzheimers-disease" element={<AlzheimersDisease />} />
           <Route path="/alzheimers-disease" element={<Navigate to="/conditions/alzheimers-disease" replace />} />
         <Route path="/conditions/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
+        <Route path="/inflammatory-bowel-disease" element={<InflammatoryBowelDisease />} />
         <Route path="/conditions/menopause" element={<Menopause />} />
         <Route path="/menopause" element={<Navigate to="/conditions/menopause" replace />} />
         <Route path="/conditions/multiple-sclerosis" element={<MultipleSclerosis />} />
@@ -190,70 +195,17 @@ function App() {
 
 export default App
 
-// Static imports for Asthma subpages
-import AsthmaArticlePage from './pages/asthma/ArticlePage';
-import AsthmaSectionPage from './pages/asthma/SectionPage';
-import AsthmaSubSectionPage from './pages/asthma/SubSectionPage';
-import AsthmaIndexPage from './pages/asthma/AsthmaIndexPage';
-
-// Static imports for Psoriasis subpages
-import PsoriasisArticlePage from './pages/psoriasis/ArticlePage';
-import PsoriasisSectionPage from './pages/psoriasis/SectionPage';
-import PsoriasisSubSectionPage from './pages/psoriasis/SubSectionPage';
-// import PsoriasisIndexPage from './pages/psoriasis/PsoriasisIndexPage';
-
-// Individual Psoriasis Type Pages
-import PlaquePsoriasis from './pages/psoriasis/PlaquePsoriasis';
-import GuttatePsoriasis from './pages/psoriasis/GuttatePsoriasis';
-import InversePsoriasis from './pages/psoriasis/InversePsoriasis';
-import PustularPsoriasis from './pages/psoriasis/PustularPsoriasis';
-import ErythrodermicPsoriasis from './pages/psoriasis/ErythrodermicPsoriasis';
-import NailPsoriasis from './pages/psoriasis/NailPsoriasis';
-
-// Individual Psoriasis Symptom/Appearance Pages
-import PlaquesAndScaling from './pages/psoriasis/PlaquesAndScaling';
-import ItchingAndBurning from './pages/psoriasis/ItchingAndBurning';
-import JointPainPsoriaticArthritis from './pages/psoriasis/JointPainPsoriaticArthritis';
-import NailChanges from './pages/psoriasis/NailChanges';
-import SystemicSymptoms from './pages/psoriasis/SystemicSymptoms';
-import EmotionalImpact from './pages/psoriasis/EmotionalImpact';
-
-// Individual Psoriasis Diagnosis/Understanding Pages
-import ClinicalDiagnosis from './pages/psoriasis/ClinicalDiagnosis';
-import SkinBiopsy from './pages/psoriasis/SkinBiopsy';
-import FamilyHistoryAndGenetics from './pages/psoriasis/FamilyHistoryAndGenetics';
-import PsoriaticArthritisScreening from './pages/psoriasis/PsoriaticArthritisScreening';
-import SeverityAssessment from './pages/psoriasis/SeverityAssessment';
-import ComorbidityScreening from './pages/psoriasis/ComorbidityScreening';
-
-// Individual Psoriasis Treatment Approaches Pages
-import TopicalTreatments from './pages/psoriasis/TopicalTreatments';
-import Phototherapy from './pages/psoriasis/Phototherapy';
-import SystemicMedications from './pages/psoriasis/SystemicMedications';
-import BiologicTherapies from './pages/psoriasis/BiologicTherapies';
-import CombinationTherapy from './pages/psoriasis/CombinationTherapy';
-import ManagingSideEffects from './pages/psoriasis/ManagingSideEffects';
-
-// Individual Psoriasis Daily Management and Lifestyle Pages
-import SkincareRoutine from './pages/psoriasis/SkincareRoutine';
-import ClothingAndComfort from './pages/psoriasis/ClothingAndComfort';
-import StressReductionTechniques from './pages/psoriasis/StressReductionTechniques';
-import DietAndNutrition from './pages/psoriasis/DietAndNutrition';
-import ExerciseAndPhysicalActivity from './pages/psoriasis/ExerciseAndPhysicalActivity';
-import SocialAndMentalHealth from './pages/psoriasis/SocialAndMentalHealth';
-import InfectionsAndStrepThroat from './pages/psoriasis/InfectionsAndStrepThroat';
-import StressAndEmotionalFactors from './pages/psoriasis/StressAndEmotionalFactors';
-import WeatherAndClimate from './pages/psoriasis/WeatherAndClimate';
-import Medications from './pages/psoriasis/Medications';
-import AlcoholAndSmoking from './pages/psoriasis/AlcoholAndSmoking';
-import SkinInjuriesKoebnerEffect from './pages/psoriasis/SkinInjuriesKoebnerEffect';
+// Static imports for Asthma subpages (fallbacks to existing pages)
+import AsthmaSectionPage from '@/pages/PageTemplate';
+import AsthmaSubSectionPage from '@/pages/PageTemplate';
+import AsthmaIndexPage from '@/pages/Asthma';
 
 // Heart Health Basics Pages
-import WhatIsHeartDisease from './pages/heart-cardiovascular/WhatIsHeartDisease';
-import HowTheHeartWorks from './pages/heart-cardiovascular/HowTheHeartWorks';
-import TypesOfCardiovascularDisease from './pages/heart-cardiovascular/TypesOfCardiovascularDisease';
-import HeartDiseaseInWomen from './pages/heart-cardiovascular/HeartDiseaseInWomen';
-import HeartDiseaseInChildren from './pages/heart-cardiovascular/HeartDiseaseInChildren';
+import WhatIsHeartDisease from '@/pages/PageTemplate';
+import HowTheHeartWorks from '@/pages/PageTemplate';
+import TypesOfCardiovascularDisease from '@/pages/PageTemplate';
+import HeartDiseaseInWomen from '@/pages/PageTemplate';
+import HeartDiseaseInChildren from '@/pages/PageTemplate';
 
 import { get } from "lodash";
 
@@ -268,11 +220,3 @@ const routes = [
 export const AppRouter = {
   routes
 }
-
-// Cancer Care card subpages
-import CancerTypesCauses from "./pages/cancer-care/CancerTypesCauses";
-import MyExperienceHospital from "./pages/cancer-care/MyExperienceHospital";
-import FullBodyScan from "./pages/cancer-care/FullBodyScan";
-import WifiCancer from "./pages/cancer-care/WifiCancer";
-import CommonCancerTypes from "./pages/cancer-care/CommonCancerTypes";
-import OncologistRole from "./pages/cancer-care/OncologistRole";

@@ -4,6 +4,14 @@ import { ArticleCard, NewsletterSignup } from "@/components/articles";
 import { sampleArticles } from "@/data/articles";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+// Import static psoriasis pages so topic routes can render their full content
+import PlaquePsoriasis from "./psoriasis/PlaquePsoriasis";
+import GuttatePsoriasis from "./psoriasis/GuttatePsoriasis";
+import InversePsoriasis from "./psoriasis/InversePsoriasis";
+import PustularPsoriasis from "./psoriasis/PustularPsoriasis";
+import ErythrodermicPsoriasis from "./psoriasis/ErythrodermicPsoriasis";
+import NailPsoriasis from "./psoriasis/NailPsoriasis";
+import JointPainPsoriaticArthritis from "./psoriasis/JointPainPsoriaticArthritis";
 
 // Helper to format title from slug
 const formatTitle = (slug: string) => {
@@ -34,25 +42,72 @@ const SubCategoryPage = () => {
   const title = subcategory ? formatTitle(subcategory) : "Topic";
   const parentCategory = category ? formatTitle(category) : "Category";
 
-  // Filter articles that might match this subcategory (simple keyword matching for now)
-  // In a real app, articles would have a 'subcategory' field
-  const relatedArticles = sampleArticles.filter(
-    (article) =>
-      article.category === category &&
-      (article.title.toLowerCase().includes(subcategory?.replace("-", " ") || "") ||
-       article.excerpt.toLowerCase().includes(subcategory?.replace("-", " ") || ""))
-  );
+  // If a static page component exists for this psoriasis topic, render it directly.
+  // This preserves the existing static page content (many pages live under src/pages/psoriasis)
+  if (category === "psoriasis" && subcategory) {
+    const staticMap: Record<string, any> = {
+      "plaque-psoriasis": PlaquePsoriasis,
+      "guttate-psoriasis": GuttatePsoriasis,
+      "inverse-psoriasis": InversePsoriasis,
+      "pustular-psoriasis": PustularPsoriasis,
+      "erythrodermic-psoriasis": ErythrodermicPsoriasis,
+      "nail-psoriasis": NailPsoriasis,
+      "joint-pain-psoriatic-arthritis": JointPainPsoriaticArthritis,
+    };
 
-  // If no specific related articles, just show some from the category
-  const displayArticles = relatedArticles.length > 0 
-    ? relatedArticles 
+    const PageComponent = staticMap[subcategory];
+    if (PageComponent) {
+      return <PageComponent />;
+    }
+  }
+
+  // Filter articles that might match this subcategory (simple keyword matching for now)
+  // In a real app, articles would have a 'subcategory' field. To support topic pages
+  // like `/psoriasis/plaque-psoriasis` we also match by slug/title when the article
+  // category isn't an exact path match (many psoriasis entries live under 'conditions').
+  const subKey = subcategory ? subcategory.replace(/-/g, " ").toLowerCase() : "";
+
+  const relatedArticles = sampleArticles.filter((article) => {
+    const titleMatch = article.title.toLowerCase().includes(subKey);
+    const excerptMatch = article.excerpt.toLowerCase().includes(subKey);
+    const slugMatch = article.slug === subcategory;
+
+    // Primary match: same category and content match
+    if (article.category === category && (titleMatch || excerptMatch || slugMatch)) return true;
+
+    // Secondary: allow matching by slug/title for known topic pages (e.g., /psoriasis/...) even when
+    // the article's category is different (for example, 'conditions'). This keeps categories intact
+    // while allowing topic pages to show relevant articles.
+    if ((titleMatch || excerptMatch || slugMatch)) return true;
+
+    return false;
+  });
+
+  // If related articles exist, show them. Otherwise, show up to 4 articles from the same category.
+  const displayArticles = relatedArticles.length > 0
+    ? // Deduplicate and limit to 8
+      Array.from(new Map(relatedArticles.map(a => [a.id, a])).values()).slice(0, 8)
     : sampleArticles.filter(a => a.category === category).slice(0, 4);
+
+  // Dev debug: log matching info to the browser console to help diagnose empty-results cases
+  try {
+    // eslint-disable-next-line no-console
+    console.debug("SubCategoryPage match info", {
+      category,
+      subcategory,
+      relatedCount: relatedArticles.length,
+      displayCount: displayArticles.length,
+      relatedSlugs: relatedArticles.map((a) => a.slug),
+    });
+  } catch (e) {
+    // ignore
+  }
 
   return (
     <Layout>
       {/* Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -80,7 +135,7 @@ const SubCategoryPage = () => {
 
       {/* Main Content */}
       <section className="py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content */}
             <div className="lg:col-span-2">

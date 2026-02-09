@@ -26,7 +26,7 @@ export default function Chemotherapy() {
     <Layout>
       {/* Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -57,7 +57,7 @@ export default function Chemotherapy() {
 
       {/* Main Content */}
       <section className="py-8 lg:py-12">
-        <div className="container">
+        <div className="site-container">
           {/* TABS */}
           <div className="flex flex-wrap gap-4 border-b pb-3 mb-10">
             {tabs.map((tab) => (

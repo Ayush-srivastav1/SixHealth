@@ -78,6 +78,7 @@ export default function ChronicKidneyDisease() {
   const [activeTab, setActiveTab] = useState(tabs[0]);
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
+  
 
   return (
     <Layout>
@@ -116,14 +117,11 @@ export default function ChronicKidneyDisease() {
                   return (
                     <Link
                       key={heading}
-                      to={`/chronic-kidney-disease/${slug}`}
-                      className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 no-underline flex flex-col"
+                      to={`/conditions/chronic-kidney-disease/${slug}`}
+                      className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 cursor-pointer flex flex-col p-5"
                     >
-                      <div className="p-5 flex flex-col h-full">
-                        <h3 className="font-semibold mb-2 leading-snug">{heading}</h3>
-                        <p className="text-sm text-muted-foreground leading-relaxed flex-1">{desc}</p>
-                        <span className="text-purple-600 text-sm font-semibold mt-3">Read more →</span>
-                      </div>
+                      <h3 className="font-semibold mb-2 leading-snug">{heading}</h3>
+                      <p className="text-sm text-muted-foreground leading-relaxed flex-1">{desc}</p>
                     </Link>
                   );
                 })}
