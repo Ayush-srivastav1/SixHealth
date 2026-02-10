@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const mythsArticle = sampleArticles.find((a) => a.slug === "myths");
+
 export default function Myths() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">The Truth About 8 Common COPD Myths</h1>
-      <p>Debunking misconceptions about COPD.</p>
-    </Layout>
-  );
+  return <ArticlePage article={mythsArticle} />;
 }

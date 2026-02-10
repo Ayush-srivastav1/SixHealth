@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const drugsListArticle = sampleArticles.find((a) => a.slug === "drugs-list");
+
 export default function DrugsList() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">COPD Drugs: A List of Medications</h1>
-      <p>Medications to help relieve your symptoms.</p>
-    </Layout>
-  );
+  return <ArticlePage article={drugsListArticle} />;
 }

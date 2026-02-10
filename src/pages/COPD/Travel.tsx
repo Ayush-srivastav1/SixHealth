@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const travelArticle = sampleArticles.find((a) => a.slug === "travel");
+
 export default function Travel() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Your Guide to Safe and Easy Travel with COPD</h1>
-      <p>Travel tips and safety for COPD.</p>
-    </Layout>
-  );
+  return <ArticlePage article={travelArticle} />;
 }

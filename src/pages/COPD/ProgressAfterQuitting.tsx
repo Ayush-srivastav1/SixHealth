@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const progressAfterQuittingArticle = sampleArticles.find((a) => a.slug === "progress-after-quitting");
+
 export default function ProgressAfterQuitting() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Does COPD Progress After Quitting Smoking?</h1>
-      <p>What to expect after you quit.</p>
-    </Layout>
-  );
+  return <ArticlePage article={progressAfterQuittingArticle} />;
 }

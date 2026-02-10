@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const disabilityBenefitsArticle = sampleArticles.find((a) => a.slug === "disability-benefits");
+
 export default function DisabilityBenefits() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Disability Benefits and Asthma</h1>
-      <p>Understanding your rights and benefits.</p>
-    </Layout>
-  );
+  return <ArticlePage article={disabilityBenefitsArticle} />;
 }

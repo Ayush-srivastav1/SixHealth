@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const whatIsCOPDArticle = sampleArticles.find((a) => a.slug === "what-is-copd");
+
 export default function WhatIsCOPD() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">What Is Chronic Obstructive Pulmonary Disease (COPD)?</h1>
-      <p>Overview, causes, and risk factors.</p>
-    </Layout>
-  );
+  return <ArticlePage article={whatIsCOPDArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const treatmentOptionsArticle = sampleArticles.find((a) => a.slug === "treatment-options");
+
 export default function TreatmentOptions() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Understanding Your COPD Treatment Options</h1>
-      <p>Explore your choices for managing COPD.</p>
-    </Layout>
-  );
+  return <ArticlePage article={treatmentOptionsArticle} />;
 }

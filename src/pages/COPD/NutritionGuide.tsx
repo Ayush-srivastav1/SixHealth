@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const nutritionGuideArticle = sampleArticles.find((a) => a.slug === "nutrition-guide");
+
 export default function NutritionGuide() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">COPD Nutrition Guide: 5 Diet Tips</h1>
-      <p>Nutrition advice for people with COPD.</p>
-    </Layout>
-  );
+  return <ArticlePage article={nutritionGuideArticle} />;
 }

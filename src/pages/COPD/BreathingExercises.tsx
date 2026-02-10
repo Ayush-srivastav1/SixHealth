@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const breathingExercisesArticle = sampleArticles.find((a) => a.slug === "breathing-exercises");
+
 export default function BreathingExercises() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Breathing Exercises to Increase Lung Capacity</h1>
-      <p>Techniques to help you breathe easier.</p>
-    </Layout>
-  );
+  return <ArticlePage article={breathingExercisesArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const lungTransplantsArticle = sampleArticles.find((a) => a.slug === "lung-transplants");
+
 export default function LungTransplants() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">What You Need to Know About Lung Transplants for COPD</h1>
-      <p>When and why lung transplants are considered.</p>
-    </Layout>
-  );
+  return <ArticlePage article={lungTransplantsArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const antiInflammatoryDietArticle = sampleArticles.find((a) => a.slug === "anti-inflammatory-diet");
+
 export default function AntiInflammatoryDiet() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Can an Anti-Inflammatory Diet Help Manage COPD?</h1>
-      <p>Dietary tips for better health.</p>
-    </Layout>
-  );
+  return <ArticlePage article={antiInflammatoryDietArticle} />;
 }

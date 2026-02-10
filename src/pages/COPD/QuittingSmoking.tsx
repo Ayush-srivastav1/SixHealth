@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const quittingSmokingArticle = sampleArticles.find((a) => a.slug === "quitting-smoking");
+
 export default function QuittingSmoking() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Quitting Smoking as a COPD Treatment</h1>
-      <p>How quitting helps your lungs.</p>
-    </Layout>
-  );
+  return <ArticlePage article={quittingSmokingArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const asthmaAttackArticle = sampleArticles.find((a) => a.slug === "asthma-attack");
+
 export default function AsthmaAttack() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Your Guide to Asthma Attack First Aid</h1>
-      <p>What to do during an asthma attack.</p>
-    </Layout>
-  );
+  return <ArticlePage article={asthmaAttackArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const factsArticle = sampleArticles.find((a) => a.slug === "facts");
+
 export default function Facts() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Important Facts For You To Know About COPD</h1>
-      <p>Key statistics and facts.</p>
-    </Layout>
-  );
+  return <ArticlePage article={factsArticle} />;
 }

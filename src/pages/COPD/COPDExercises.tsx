@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const copdExercisesArticle = sampleArticles.find((a) => a.slug === "copd-exercises");
+
 export default function COPDExercises() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">Breathing Exercises with COPD</h1>
-      <p>Special exercises for COPD patients.</p>
-    </Layout>
-  );
+  return <ArticlePage article={copdExercisesArticle} />;
 }

@@ -1,9 +1,8 @@
-import { Layout } from "@/components/layout";
+import ArticlePage from "@/components/ArticlePage";
+import { sampleArticles } from "@/data/articles";
+
+const protectLungsArticle = sampleArticles.find((a) => a.slug === "protect-lungs");
+
 export default function ProtectLungs() {
-  return (
-    <Layout>
-      <h1 className="text-3xl font-bold mb-4">4 Ways to Protect Your Lung Health with Asthma</h1>
-      <p>Tips for asthma and COPD overlap.</p>
-    </Layout>
-  );
+  return <ArticlePage article={protectLungsArticle} />;
 }

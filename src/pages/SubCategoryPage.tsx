@@ -13,6 +13,32 @@ import ErythrodermicPsoriasis from "./psoriasis/ErythrodermicPsoriasis";
 import NailPsoriasis from "./psoriasis/NailPsoriasis";
 import JointPainPsoriaticArthritis from "./psoriasis/JointPainPsoriaticArthritis";
 
+// COPD static pages
+import AdaptiveExercises from "./COPD/AdaptiveExercises";
+import AntiInflammatoryDiet from "./COPD/AntiInflammatoryDiet";
+import AsthmaAttack from "./COPD/AsthmaAttack";
+import BreathingExercises from "./COPD/BreathingExercises";
+import ColdTurkey from "./COPD/ColdTurkey";
+import COPDExercises from "./COPD/COPDExercises";
+import DisabilityBenefits from "./COPD/DisabilityBenefits";
+import DrugsList from "./COPD/DrugsList";
+import Facts from "./COPD/Facts";
+import FlareUp from "./COPD/FlareUp";
+import FluRisk from "./COPD/FluRisk";
+import Vaccines from "./COPD/Vaccines";
+import WhatIsCOPD from "./COPD/WhatIsCOPD";
+import LungTransplants from "./COPD/LungTransplants";
+import Myths from "./COPD/Myths";
+import NewTreatments from "./COPD/NewTreatments";
+import TreatmentOptions from "./COPD/TreatmentOptions";
+import NutritionGuide from "./COPD/NutritionGuide";
+import ProgressAfterQuitting from "./COPD/ProgressAfterQuitting";
+import Progression from "./COPD/Progression";
+import ProtectLungs from "./COPD/ProtectLungs";
+import QuittingSmoking from "./COPD/QuittingSmoking";
+import QuitTobacco from "./COPD/QuitTobacco";
+import Travel from "./COPD/Travel";
+
 // Helper to format title from slug
 const formatTitle = (slug: string) => {
   if (!slug) return "";
@@ -53,6 +79,41 @@ const SubCategoryPage = () => {
       "erythrodermic-psoriasis": ErythrodermicPsoriasis,
       "nail-psoriasis": NailPsoriasis,
       "joint-pain-psoriatic-arthritis": JointPainPsoriaticArthritis,
+    };
+
+    const PageComponent = staticMap[subcategory];
+    if (PageComponent) {
+      return <PageComponent />;
+    }
+  }
+
+  // If a static page exists for COPD topics, render it directly.
+  if (category && category.toLowerCase() === "copd" && subcategory) {
+    const staticMap: Record<string, any> = {
+      "adaptive-exercises": AdaptiveExercises,
+      "anti-inflammatory-diet": AntiInflammatoryDiet,
+      "asthma-attack": AsthmaAttack,
+      "breathing-exercises": BreathingExercises,
+      "cold-turkey": ColdTurkey,
+      "copd-exercises": COPDExercises,
+      "disability-benefits": DisabilityBenefits,
+      "drugs-list": DrugsList,
+      "facts": Facts,
+      "flare-up": FlareUp,
+      "flu-risk": FluRisk,
+      "vaccines": Vaccines,
+      "what-is-copd": WhatIsCOPD,
+      "lung-transplants": LungTransplants,
+      "myths": Myths,
+      "new-treatments": NewTreatments,
+      "treatment-options": TreatmentOptions,
+      "nutrition-guide": NutritionGuide,
+      "progress-after-quitting": ProgressAfterQuitting,
+      "progression": Progression,
+      "protect-lungs": ProtectLungs,
+      "quitting-smoking": QuittingSmoking,
+      "quit-tobacco": QuitTobacco,
+      "travel": Travel,
     };
 
     const PageComponent = staticMap[subcategory];
