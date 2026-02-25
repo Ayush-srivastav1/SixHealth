@@ -13,6 +13,7 @@ import asthmaInChildren from './blog/asthma/asthma-in-children';
 import asthmaLifestyle from './blog/asthma/asthma-lifestyle';
 import adultOnsetAsthma from './blog/asthma/adult-onset-asthma';
 import asthmaAndAllergies from './blog/asthma/asthma-and-allergies';
+import { breastCancerSections } from './breastCancerSections';
 
 export interface BlogContent {
   heading: string;
@@ -4039,4 +4040,28 @@ style="max-width:100%; border-radius:8px;"
 ];
 
 export default blogData;
+
+// Append recovered Breast Cancer articles into `blogData` while avoiding duplicates
+;(function appendBreastCancer() {
+  try {
+    const mapped = breastCancerSections.flatMap(section =>
+      section.articles.map(a => ({
+        id: a.id,
+        slug: a.slug,
+        title: a.title,
+        category: 'Breast Cancer',
+        categorySlug: 'breast-cancer',
+        description: a.preview,
+        content: a.content,
+      }))
+    );
+    const existingSlugs = new Set(blogData.map(b => b.slug));
+    const toAdd = mapped.filter(m => !existingSlugs.has(m.slug));
+    if (toAdd.length > 0) blogData.push(...toAdd);
+  } catch (e) {
+    // If mapping fails, do not break module
+    // eslint-disable-next-line no-console
+    console.warn('Failed to append breast cancer articles', e);
+  }
+})();
 
