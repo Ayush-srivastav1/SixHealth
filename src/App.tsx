@@ -199,6 +199,7 @@ function App() {
         <Route path="/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
         <Route path="/chronic-kidney-disease/article/:slug" element={<ArticlePage />} />
         <Route path="/conditions/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
+        <Route path="/conditions/:conditionSlug/article/:articleSlug" element={<ArticlePage />} />
         <Route path="/inflammatory-bowel-disease" element={<InflammatoryBowelDisease />} />
         <Route path="/conditions/menopause" element={<Menopause />} />
         <Route path="/menopause" element={<Navigate to="/conditions/menopause" replace />} />
