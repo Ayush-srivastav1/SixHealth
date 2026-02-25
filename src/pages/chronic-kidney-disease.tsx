@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Layout } from "@/components/layout";
 import { Link } from "react-router-dom";
+import { allArticles } from "@/data/allArticles";
 
 const tabs = [
   "Early Stage",
@@ -79,6 +80,7 @@ export default function ChronicKidneyDisease() {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
   
+  
 
   return (
     <Layout>
@@ -108,17 +110,28 @@ export default function ChronicKidneyDisease() {
           {tabSections.map((section) => (
             <section
               key={section.id}
-              className={activeTab === section.title ? "" : "opacity-60 pointer-events-none select-none"}
+              className={activeTab === section.title ? "" : "opacity-60"}
             >
               <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
                 {section.articles.map(([heading, desc]) => {
-                  const slug = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+                  const generated = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+                  // Try to find a matching article in blogData by title, slug or aliases
+                  const match = allArticles.find((a) => {
+                    if (!a) return false;
+                    if ((a.title || "").toString().trim() === heading) return true;
+                    if ((a.slug || "").toString().toLowerCase() === generated) return true;
+                    const aliases = (a as any).aliases || [];
+                    if (Array.isArray(aliases) && aliases.map((x: any) => x.toString().toLowerCase()).includes(generated)) return true;
+                    return false;
+                  });
+                  const slug = match ? match.slug : generated;
+                  const cat = match ? (match.categorySlug || match.category || "chronic-kidney-disease") : "chronic-kidney-disease";
                   return (
                     <Link
                       key={heading}
-                      to={`/conditions/chronic-kidney-disease/${slug}`}
-                      className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 cursor-pointer flex flex-col p-5"
+                      to={`/chronic-kidney-disease/article/${slug}`}
+                      className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 cursor-pointer flex flex-col p-5 text-left"
                     >
                       <h3 className="font-semibold mb-2 leading-snug">{heading}</h3>
                       <p className="text-sm text-muted-foreground leading-relaxed flex-1">{desc}</p>
@@ -185,6 +198,7 @@ export default function ChronicKidneyDisease() {
           </div>
         </aside>
       </div>
+      
       {/* Footer */}
       <footer className="mt-10 border-t pt-4 text-xs text-muted-foreground text-center">
         <div className="mb-2">
