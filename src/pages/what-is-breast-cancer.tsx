@@ -18,7 +18,7 @@ export default function WhatIsBreastCancer() {
             <p className="text-gray-600">A comprehensive, reader-friendly guide explaining how breast cancer develops, how it is diagnosed and staged, treatment options, side-effect management, and advice for living well during and after treatment.</p>
 
             <div className="mt-4 text-sm text-gray-700">
-              <div><strong>Author:</strong> SixHealth Editorial Team • <strong>Medical review:</strong> Dr. Faith Selchick, DNP, AOCNP</div>
+              <div><strong>Author:</strong> Editorial Team • <strong>Medical review:</strong> Dr. Faith Selchick, DNP, AOCNP</div>
               <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
             </div>
 

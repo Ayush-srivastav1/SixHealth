@@ -1,5 +1,6 @@
 import { useParams, Link } from "react-router-dom"
 import { Layout } from "@/components/layout"
+import { findArticleBySlug } from "@/data/allArticles"
 import { breastCancerSections } from "@/data/breastCancerSections"
 import {
   Clock,
@@ -13,22 +14,13 @@ import {
   ChevronRight,
   BookOpen,
 } from "lucide-react"
+import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRenderer"
 
 export default function BreastCancerArticleDetail() {
   const { slug } = useParams<{ slug: string }>()
 
-  // Find article and its section
-  let article: any = null
-  let sectionTitle = ""
-
-  for (const section of breastCancerSections) {
-    const foundArticle = section.articles.find((a) => a.slug === slug)
-    if (foundArticle) {
-      article = foundArticle
-      sectionTitle = section.title
-      break
-    }
-  }
+  const article: any = findArticleBySlug(slug)
+  const sectionTitle = article?.category || "Breast Cancer"
 
   if (!article) {
     return (
@@ -92,7 +84,7 @@ export default function BreastCancerArticleDetail() {
             <div className="flex flex-wrap items-center gap-6 article-meta">
               <span className="flex items-center gap-2">
                 <User className="h-4 w-4" />
-                SixHealth Editorial Team
+                Editorial Team
               </span>
               <span className="flex items-center gap-2">
                 <Calendar className="h-4 w-4" />
@@ -121,115 +113,13 @@ export default function BreastCancerArticleDetail() {
               {/* Author & Review Info */}
               <div className="mb-8 article-meta border-b pb-6">
                 <p>
-                  Medically reviewed by <span className="font-semibold">Dr. Faith Selchick, DNP, AOCNP</span> — Written by <span className="font-semibold">SixHealth Editorial Team</span>
+                  Medically reviewed by <span className="font-semibold">Dr. Faith Selchick, DNP, AOCNP</span> — Written by <span className="font-semibold">Editorial Team</span>
                 </p>
               </div>
 
               {/* Article Content */}
               <div className="prose prose-lg max-w-none mb-12">
-                <div className="text-gray-700 whitespace-pre-wrap leading-relaxed">
-                  {article.content.split('\n\n').map((paragraph: string, i: number) => {
-                    if (!paragraph.trim()) return null
-                    
-                    // Handle images [IMAGE_RIGHT: /path | caption] - image on right
-                    if (paragraph.trim().startsWith('[IMAGE_RIGHT:')) {
-                      const match = paragraph.match(/\[IMAGE_RIGHT:\s*(.+?)\s*\|\s*(.+?)\s*\]/);
-                      if (match) {
-                        return (
-                          <div key={i} className="my-8 grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
-                            <div className="text-gray-700 leading-relaxed">
-                              <p>Explore the molecular and cellular mechanisms that drive breast cancer development, including genetic mutations and risk factors.</p>
-                            </div>
-                            <figure className="flex flex-col">
-                              <img 
-                                src={match[1]} 
-                                alt={match[2]}
-                                className="w-full h-72 object-cover rounded-lg mb-3 bg-gray-200"
-                              />
-                              <figcaption className="text-sm text-gray-600 italic">
-                                {match[2]}
-                              </figcaption>
-                            </figure>
-                          </div>
-                        )
-                      }
-                    }
-                    
-                    // Handle images [IMAGE_LEFT: /path | caption] - image on left
-                    if (paragraph.trim().startsWith('[IMAGE_LEFT:')) {
-                      const match = paragraph.match(/\[IMAGE_LEFT:\s*(.+?)\s*\|\s*(.+?)\s*\]/);
-                      if (match) {
-                        return (
-                          <div key={i} className="my-8 grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
-                            <figure className="flex flex-col order-last lg:order-first">
-                              <img 
-                                src={match[1]} 
-                                alt={match[2]}
-                                className="w-full h-72 object-cover rounded-lg mb-3 bg-gray-200"
-                              />
-                              <figcaption className="text-sm text-gray-600 italic">
-                                {match[2]}
-                              </figcaption>
-                            </figure>
-                            <div className="text-gray-700 leading-relaxed">
-                              <p>Understand the diagnostic pathways and imaging techniques that help identify and classify breast cancer.</p>
-                            </div>
-                          </div>
-                        )
-                      }
-                    }
-                    
-                    // Handle images [IMAGE: /path | caption] - full width
-                    if (paragraph.trim().startsWith('[IMAGE:')) {
-                      const match = paragraph.match(/\[IMAGE:\s*(.+?)\s*\|\s*(.+?)\s*\]/);
-                      if (match) {
-                        return (
-                          <figure key={i} className="my-8">
-                            <img 
-                              src={match[1]} 
-                              alt={match[2]}
-                              className="w-full h-64 object-cover rounded-lg mb-3 bg-gray-200"
-                            />
-                            <figcaption className="text-sm text-gray-600 text-center italic">
-                              {match[2]}
-                            </figcaption>
-                          </figure>
-                        )
-                      }
-                    }
-                    
-                    // Handle headings (##)
-                    if (paragraph.trim().startsWith('## ')) {
-                      const heading = paragraph.trim().replace('## ', '')
-                      return (
-                        <h2 key={i} className="text-2xl font-bold text-gray-900 mt-8 mb-4">
-                          {heading}
-                        </h2>
-                      )
-                    }
-                    
-                    // Handle bullet points
-                    if (paragraph.trim().startsWith('- ')) {
-                      const items = paragraph.split('\n').filter(l => l.trim().startsWith('- '))
-                      return (
-                        <ul key={i} className="list-disc list-inside space-y-2 my-4">
-                          {items.map((item: string, j: number) => (
-                            <li key={j} className="text-gray-700">
-                              {item.replace('- ', '').trim()}
-                            </li>
-                          ))}
-                        </ul>
-                      )
-                    }
-                    
-                    // Regular paragraphs
-                    return (
-                      <p key={i} className="text-gray-700 mb-4 leading-relaxed">
-                        {paragraph.trim()}
-                      </p>
-                    )
-                  })}
-                </div>
+                <ArticleContent content={article.content} />
               </div>
 
               {/* Share Section */}
@@ -268,8 +158,7 @@ export default function BreastCancerArticleDetail() {
                     <a href="#intro" className="text-purple-600 hover:text-purple-700 block">
                       Overview
                     </a>
-                    {article.content.split('\n').filter((l: string) => l.startsWith('## ')).map((heading: string, idx: number) => {
-                      const title = heading.replace('## ', '')
+                    {getHeadingsFromContent(article.content).map((title: string, idx: number) => {
                       const id = title.toLowerCase().replace(/[^a-z0-9]+/g, '-')
                       return (
                         <a key={idx} href={`#${id}`} className="text-purple-600 hover:text-purple-700 block">
