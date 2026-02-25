@@ -197,7 +197,6 @@ function App() {
         <Route path="/alzheimers-disease" element={<Navigate to="/conditions/alzheimers-disease" replace />} />
 
         <Route path="/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
-        <Route path="/chronic-kidney-disease/article/:slug" element={<ArticlePage />} />
         <Route path="/conditions/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
         <Route path="/conditions/:conditionSlug/article/:articleSlug" element={<ArticlePage />} />
         <Route path="/inflammatory-bowel-disease" element={<InflammatoryBowelDisease />} />
