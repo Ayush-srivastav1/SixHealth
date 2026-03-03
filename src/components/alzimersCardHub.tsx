@@ -1,4 +1,5 @@
 import React from "react";
+import { contentToString } from "@/lib/articleUtils";
 import { ArrowRight } from "lucide-react";
 
 export interface CardSection {
@@ -54,7 +55,7 @@ export function CardHub({ sections, onArticleClick }: CardHubProps) {
                     </h3>
 
                     <p className="text-gray-600 text-sm mb-4 flex-grow line-clamp-3">
-                      {article.content}
+                      {contentToString((article as unknown as { content?: unknown }).content)}
                     </p>
 
                     {/* Read More Button */}

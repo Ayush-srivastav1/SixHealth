@@ -22,7 +22,7 @@ export const eyeHealthCategories: EyeHealthCategory[] = [
     title: "Eye Care",
     description: "Comprehensive eye care and preventive measures",
     longDescription: "Learn about essential eye care practices, prevention strategies, and how to maintain healthy vision. Discover the importance of regular eye exams, protective measures, and lifestyle habits that support long-term eye health.",
-    image: "https://images.unsplash.com/photo-1576091160550-112173f7f869?w=500&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1576091160550-112173f7f869?auto=format&fit=crop&w=1200&q=80&fm=webp",
     slug: "eye-care"
   },
   {
@@ -30,7 +30,7 @@ export const eyeHealthCategories: EyeHealthCategory[] = [
     title: "Treating Macular Degeneration",
     description: "Management and treatment options for macular degeneration",
     longDescription: "Macular degeneration is a progressive eye condition affecting central vision. Explore treatment options, management strategies, and coping techniques for living with age-related macular degeneration (AMD).",
-    image: "https://images.unsplash.com/photo-1576091160579-112173f7f869?w=500&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1576091160579-112173f7f869?auto=format&fit=crop&w=1200&q=80&fm=webp",
     slug: "macular-degeneration"
   },
   {
@@ -38,7 +38,7 @@ export const eyeHealthCategories: EyeHealthCategory[] = [
     title: "Treating Dry Eye Syndrome",
     description: "Solutions and treatments for dry eye conditions",
     longDescription: "Dry eye syndrome affects millions of people. Learn about causes, symptoms, and various treatment options ranging from simple remedies to advanced therapies that can provide relief.",
-    image: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?w=500&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?auto=format&fit=crop&w=1200&q=80&fm=webp",
     slug: "dry-eye-syndrome"
   },
   {
@@ -46,7 +46,7 @@ export const eyeHealthCategories: EyeHealthCategory[] = [
     title: "Nutrition & Supplements",
     description: "Dietary support and supplements for eye health",
     longDescription: "Nutrition plays a crucial role in eye health. Discover the best vitamins, minerals, and nutrients that support vision, including lutein, zeaxanthin, omega-3s, and antioxidants.",
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp",
     slug: "nutrition-supplements"
   },
   {
@@ -54,7 +54,7 @@ export const eyeHealthCategories: EyeHealthCategory[] = [
     title: "Living with Blindness",
     description: "Support and resources for people with vision loss",
     longDescription: "Resources and guidance for people living with blindness or severe vision loss. Explore adaptive technologies, support services, and strategies for maintaining independence and quality of life.",
-    image: "https://images.unsplash.com/photo-1529148482759-b8fcb8792588?w=500&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1529148482759-b8fcb8792588?auto=format&fit=crop&w=1200&q=80&fm=webp",
     slug: "living-with-blindness"
   }
 ];
@@ -65,42 +65,42 @@ export const editorsPicks: EyeHealthArticle[] = [
     title: "How Does the 20-20-20 Rule Prevent Eyestrain?",
     excerpt: "The 20-20-20 rule is a simple technique to reduce eyestrain and protect your vision during prolonged screen time.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a775?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a775?auto=format&fit=crop&w=1200&q=80&fm=webp"
   },
   {
     id: "optometrist-vs-ophthalmologist",
     title: "Optometrists, Ophthalmologists, and Opticians: What's the Difference?",
     excerpt: "Understanding the different types of eye care professionals and when to see each one.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1576091160550-112173f7f869?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1551913400-1e029ce8c5c5?auto=format&fit=crop&w=1200&q=80&fm=webp"
   },
   {
     id: "detached-retina-risk",
     title: "Who Is at Risk of a Detached Retina?",
     excerpt: "Learn about risk factors and symptoms of retinal detachment.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1618328198882-2b51be8b0337?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1618328198882-2b51be8b0337?auto=format&fit=crop&w=1200&q=80&fm=webp"
   },
   {
     id: "styes-and-stress",
     title: "Is There a Connection Between Styes and Stress?",
     excerpt: "Explore the relationship between stress and eye infections.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1579154204601-01d82b9c3054?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1579154204601-01d82b9c3054?auto=format&fit=crop&w=1200&q=80&fm=webp"
   },
   {
     id: "pink-eye-appearance",
     title: "Pink Eye: What Does it Look Like?",
     excerpt: "Visual guide to identifying and recognizing pink eye symptoms.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?auto=format&fit=crop&w=1200&q=80&fm=webp"
   },
   {
     id: "read-eye-prescription",
     title: "How to Read Your Eye Prescription",
     excerpt: "Understand what the numbers and abbreviations on your eye prescription mean.",
     category: "eye-care",
-    image: "https://images.unsplash.com/photo-1580489944761-b60bbb06ed43?w=500&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1580489944761-b60bbb06ed43?auto=format&fit=crop&w=1200&q=80&fm=webp"
   }
 ];
 

@@ -259,7 +259,7 @@ Questions to ask:
 
 ## Author & review
 
-- **Written by:** SixHealth Editorial Team
+- **Written by:** Editorial Team
 - **Medically reviewed by:** Dr. Amina R. Hayes, MD, FACS, Reconstructive Microsurgeon
 - **Last reviewed:** February 5, 2026
 

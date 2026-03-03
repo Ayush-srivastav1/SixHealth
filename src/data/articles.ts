@@ -1,22 +1,6 @@
 import { CategoryType } from "@/components/articles";
 
-export interface Article {
-  id: string;
-  title: string;
-  slug: string;
-  excerpt: string;
-  category: CategoryType;
-  content?: string;
-  images?: string[];
-  imageUrl: string;
-  author: string;
-  authorRole: string;
-  reviewer: string;
-  reviewerRole: string;
-  readTime: string;
-  date: string;
-  updatedDate: string;
-}
+export type Article = import("@/types/article").Article;
 
 // Sample articles for demonstration - replace with your content
 export const sampleArticles: Article[] = [
@@ -26,7 +10,7 @@ export const sampleArticles: Article[] = [
     slug: "understanding-heart-disease",
     excerpt: "Learn about the warning signs of heart disease, what causes it, and the lifestyle changes that can help prevent cardiovascular problems.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Dr. Sarah Mitchell",
     authorRole: "Cardiologist",
     reviewer: "Dr. James Wilson",
@@ -56,7 +40,7 @@ export const sampleArticles: Article[] = [
     slug: "mediterranean-diet-guide",
     excerpt: "Everything you need to know about the Mediterranean diet, including meal plans, recipes, and the science behind its health benefits.",
     category: "nutrition",
-    imageUrl: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Lisa Rodriguez, RD",
     authorRole: "Registered Dietitian",
     reviewer: "Dr. Anna Thompson",
@@ -126,7 +110,7 @@ export const sampleArticles: Article[] = [
         slug: "guttate-psoriasis",
         excerpt: "Symptoms, causes, and treatment options for guttate psoriasis, often triggered by infections.",
         category: "conditions",
-        imageUrl: "https://images.unsplash.com/photo-1582719478176-2a1d9b6f8e7e?w=800&h=600&fit=crop&fm=webp",
+        imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=39000351&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Dermatology Editorial Team",
         authorRole: "Editorial",
         reviewer: "Dr. James Wilson",
@@ -141,7 +125,7 @@ export const sampleArticles: Article[] = [
         slug: "inverse-psoriasis",
         excerpt: "How inverse psoriasis differs from other types, common locations, and treatment approaches.",
         category: "conditions",
-        imageUrl: "https://images.unsplash.com/photo-1605902711622-cfb43c44367f?w=800&h=600&fit=crop&fm=webp",
+        imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=837455660&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Dermatology Editorial Team",
         authorRole: "Editorial",
         reviewer: "Dr. Patricia Adams",
@@ -156,7 +140,7 @@ export const sampleArticles: Article[] = [
         slug: "pustular-psoriasis",
         excerpt: "Understanding pustular psoriasis — symptoms, triggers, and treatment options for this less common form.",
         category: "conditions",
-        imageUrl: "https://images.unsplash.com/photo-1582719478176-2a1d9b6f8e7e?w=800&h=600&fit=crop&fm=webp",
+        imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=39000351&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Dermatology Editorial Team",
         authorRole: "Editorial",
         reviewer: "Dr. Robert Kim",
@@ -171,7 +155,7 @@ export const sampleArticles: Article[] = [
         slug: "erythrodermic-psoriasis",
         excerpt: "A guide to erythrodermic psoriasis, its severity, treatment priorities, and when to seek urgent care.",
         category: "conditions",
-        imageUrl: "https://images.unsplash.com/photo-1605902711622-cfb43c44367f?w=800&h=600&fit=crop&fm=webp",
+        imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=837455660&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Dermatology Editorial Team",
         authorRole: "Editorial",
         reviewer: "Dr. Steven White",
@@ -308,11 +292,11 @@ export const sampleArticles: Article[] = [
 </section>
 `,
     images: [
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=800&h=600&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=800&h=600&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=800&h=600&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=339514392&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -328,13 +312,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Six adaptive exercises and progressions to safely improve strength, endurance, and breathing control for people with COPD.",
     category: "conditions",
     images: [
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=339514392&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -457,13 +441,13 @@ export const sampleArticles: Article[] = [
 </section>
 `,
     images: [
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -479,13 +463,13 @@ export const sampleArticles: Article[] = [
     excerpt: "A practical walking and conditioning plan using breathing techniques to safely build endurance for people with COPD.",
     category: "conditions",
     images: [
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770964667&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -598,13 +582,13 @@ export const sampleArticles: Article[] = [
 </section>
 `,
     images: [
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=339514392&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -620,13 +604,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Options for quitting tobacco including counseling, nicotine replacement, and behavioral strategies tailored for people with lung disease.",
     category: "conditions",
     images: [
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1582719478176-2a1d9b6f8e7e?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770964667&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=39000351&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -641,7 +625,7 @@ export const sampleArticles: Article[] = [
     slug: "protect-lungs",
     excerpt: "Practical daily habits, avoidance strategies, and environmental tips to reduce lung irritation and protect lung function.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=339514392&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -657,13 +641,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Diet and nutrition strategies to maintain weight, reduce breathlessness, and support energy levels for people living with COPD.",
     category: "nutrition",
     images: [
-      "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770964667&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770964667&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Lisa Rodriguez, RD",
     authorRole: "Registered Dietitian",
     reviewer: "Dr. Maria Chen",
@@ -679,13 +663,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Which vaccines are recommended for people with COPD and how vaccination reduces severe illness and exacerbations.",
     category: "conditions",
     images: [
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -700,7 +684,7 @@ export const sampleArticles: Article[] = [
     slug: "flare-up",
     excerpt: "How to recognize COPD flare-ups, immediate self-care steps, and when to seek urgent medical help.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -715,7 +699,7 @@ export const sampleArticles: Article[] = [
     slug: "flu-risk",
     excerpt: "Why respiratory infections are riskier with COPD and practical prevention tips to lower those risks.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -731,13 +715,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Common medications used in COPD, how they work, and common side effects to watch for.",
     category: "drugs",
     images: [
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Pharmacy Editorial Team",
     authorRole: "Editorial",
     reviewer: "Dr. Maria Chen",
@@ -753,13 +737,13 @@ export const sampleArticles: Article[] = [
     excerpt: "Who is eligible for lung transplantation, the evaluation process, and outcomes for people with advanced COPD.",
     category: "treatments",
     images: [
-      "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=770392786&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Transplant Editorial Team",
     authorRole: "Editorial",
     reviewer: "Dr. Maria Chen",
@@ -774,7 +758,7 @@ export const sampleArticles: Article[] = [
     slug: "myths",
     excerpt: "Separating fact from fiction: common misconceptions about COPD and the evidence behind the truth.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -789,7 +773,7 @@ export const sampleArticles: Article[] = [
     slug: "new-treatments",
     excerpt: "An overview of emerging therapies and research directions in COPD care, from new inhalers to biologic approaches.",
     category: "news",
-    imageUrl: "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Medical News Team",
     authorRole: "Editorial",
     reviewer: "Dr. Maria Chen",
@@ -805,13 +789,13 @@ export const sampleArticles: Article[] = [
     excerpt: "How clinicians decide on treatment strategies for COPD including inhaled therapies, pulmonary rehab, and surgical options.",
     category: "treatments",
     images: [
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1580281657521-36a2b6b1b0d3?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1554284126-aa88f22d8f4b?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=209034778&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=117169629&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=339514392&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -1100,7 +1084,7 @@ export const sampleArticles: Article[] = [
   </ul>
 </section>
 `,
-    imageUrl: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -1116,13 +1100,13 @@ export const sampleArticles: Article[] = [
     excerpt: "What happens to lung function after quitting, and how quitting changes long-term risk and symptoms.",
     category: "conditions",
     images: [
-      "https://images.unsplash.com/photo-1470167290877-7d2a3b9f3a0f?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=1200&h=800&fit=crop&fm=webp",
-      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp"
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=846929843&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://images.unsplash.com/photo-1576091160399-112122dee78e?auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=56889732&auto=format&fit=crop&w=1200&q=80&fm=webp",
+      "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1470167290877-7d2a3b9f3a0f?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=846929843&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",
@@ -1137,7 +1121,7 @@ export const sampleArticles: Article[] = [
     slug: "common-myths-about-copd",
     excerpt: "Debunking common misconceptions about COPD and offering practical, evidence-based guidance for patients and caregivers.",
     category: "conditions",
-    imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Editorial Team",
     authorRole: "Editorial",
     reviewer: "Dr. Maria Chen",
@@ -1152,7 +1136,7 @@ export const sampleArticles: Article[] = [
     slug: "travel",
     excerpt: "How to plan travel, manage medications and oxygen, and reduce risks while away from home with COPD.",
     category: "lifestyle",
-    imageUrl: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=600&fit=crop&fm=webp",
+    imageUrl: "https://source.unsplash.com/1200x800/?articles%20medical%20healthcare%20hospital%20doctor%20patient&sig=423226529&auto=format&fit=crop&w=1200&q=80&fm=webp",
     author: "Jamie L. Reed",
     authorRole: "PT, DPT",
     reviewer: "Dr. Maria Chen",

@@ -3,6 +3,9 @@ import { useState, useRef } from "react";
 import { Layout } from "@/components/layout";
 import PageLayout from "@/components/layout/PageLayout";
 import { Link } from "react-router-dom";
+import { findArticleBySlug, allArticles } from "@/data/allArticles";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 
 
@@ -81,30 +84,42 @@ function Section({ section }: {
     <section>
       <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {section.articles.map((article) => (
-          <Link
-            key={article.id}
-            className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none no-underline"
-            to={`/eye-health/article/${article.id}`}
-            state={{ title: article.title }}
-          >
+        {section.articles.map((article) => {
+          const gen = (article.id || article.title || "").toString();
+          const found =
+            findArticleBySlug(gen, "eye-health") ||
+            findArticleBySlug(article.title, "eye-health") ||
+            findArticleBySlug(gen) ||
+            findArticleBySlug(article.title);
+          const targetCategory = found ? (found.categorySlug || found.category) : "eye-health";
+          const targetSlug = found ? found.slug : (article.id || article.title).toString();
+
+          return (
+            <Link
+              key={article.id}
+              className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none no-underline"
+              to={`/conditions/${targetCategory}/article/${targetSlug}`}
+              state={{ title: found ? found.title : article.title }}
+            >
             <img
-              src="/health-placeholder.png"
+              src="/placeholder.svg"
+              loading="lazy"
+              onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
               alt={article.title}
               className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
-              loading="lazy"
             />
             <h3 className="font-semibold mb-2">{article.title}</h3>
             <span className="text-purple-700 text-sm font-semibold mt-auto">
               Read more →
             </span>
           </Link>
-        ))}
+          );
+        })}
       </div>
     </section>
   );
 }
-
+ 
 export default function EyeHealth() {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
@@ -148,3 +163,4 @@ export default function EyeHealth() {
     </Layout>
   );
 }
+

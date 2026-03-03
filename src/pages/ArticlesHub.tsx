@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Layout } from "@/components/layout";
 import { ArticleCard, NewsletterSignup } from "@/components/articles";
-import { sampleArticles } from "@/data/articles";
+import { allArticles } from "@/data/allArticles";
 import { ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -10,7 +10,7 @@ const ArticlesHub = () => {
     <Layout>
       {/* Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="w-full px-4 lg:px-8">
+        <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -34,18 +34,18 @@ const ArticlesHub = () => {
 
       {/* Main Content */}
       <section className="py-8 lg:py-12">
-        <div className="w-full px-4 lg:px-8">
+        <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content */}
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h2 className="text-xl font-semibold">
-                  All Articles ({sampleArticles.length})
+                  All Articles ({allArticles.length})
                 </h2>
               </div>
 
-              <div className="grid gap-6 sm:grid-cols-2">
-                {sampleArticles.map((article) => (
+              <div className="container grid">
+                {allArticles.map((article) => (
                   <ArticleCard key={article.id} {...article} />
                 ))}
               </div>

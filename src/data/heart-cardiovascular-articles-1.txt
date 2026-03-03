@@ -1,0 +1,210 @@
+{
+  id: "heart-disease-types",
+  slug: "types-of-heart-disease",
+  title: "Types of Heart Disease: Understanding the Differences",
+  category: "Heart & Cardiovascular",
+  categorySlug: "heart-cardiovascular",
+  description: "Comprehensive guide to different types of heart disease including coronary artery disease, heart failure, and arrhythmias and their specific characteristics.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Different types of heart disease and cardiac conditions"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Heart disease encompasses a range of conditions, each with unique characteristics, symptoms, and treatment approaches. Understanding these differences helps patients recognize symptoms early, pursue appropriate treatment, and manage their condition effectively. Modern medicine offers targeted therapies designed specifically for each heart disease type, improving outcomes significantly when properly diagnosed and managed.
+</p>
+
+<h2>Coronary Artery Disease (CAD)</h2>
+<p>
+Coronary artery disease remains the most common type of heart disease, affecting millions globally. It develops when plaque accumulates in coronary arteries, narrowing blood flow to the heart muscle. Symptoms may include chest pain (angina) or may be silent initially. Risk factors include high cholesterol, high blood pressure, smoking, diabetes, and family history. Diagnostic tests including EKG, stress tests, and cardiac catheterization confirm CAD. Treatment ranges from lifestyle modifications and medications to angioplasty or bypass surgery depending on severity.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160699-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Coronary artery disease and artery blockage visualization"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Heart Failure</h2>
+<p>
+Heart failure occurs when the heart cannot pump adequately to meet the body's needs. Classified as systolic (weakened pumping) or diastolic (stiff heart relaxation problems), heart failure ranges from mild to severe. Symptoms include shortness of breath, fatigue, swollen legs, and rapid heartbeat, particularly with exertion. Causes include CAD, high blood pressure, diabetes, and cardiomyopathy. Management involves ACE inhibitors, beta-blockers, diuretics, and lifestyle modifications including sodium restriction and fluid management. Regular monitoring helps prevent acute decompensation.
+</p>
+
+<h2>Arrhythmias (Irregular Heartbeats)</h2>
+<p>
+Arrhythmias involve irregular heartbeats, ranging from minor palpitations to life-threatening rhythm disturbances. Atrial fibrillation (AF) is the most common arrhythmia, increasing stroke risk through blood clot formation. Ventricular arrhythmias like ventricular tachycardia can cause fainting or sudden cardiac death. Causes include heart disease, electrolyte imbalances, thyroid problems, and caffeine overuse. Treatments range from lifestyle modifications to medications (antiarrhythmics, rate-control drugs) and procedures like ablation or device implantation (pacemakers, defibrillators).
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Heart rhythm monitoring and cardiac assessment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Valvular Heart Disease</h2>
+<p>
+Heart valves control one-way blood flow through cardiac chambers. Valvular disease develops from stenosis (narrowing) or regurgitation (leaking). Rheumatic fever, endocarditis, and degenerative changes cause valve damage. Symptoms include shortness of breath, chest discomfort, and fatigue. Diagnosis occurs via echocardiography showing valve dysfunction. Treatment depends on severity, ranging from monitoring to medications (vasodilators for regurgitation) or valve repair/replacement surgery. Regular follow-up ensures timely intervention before complications develop.
+</p>
+
+<h2>Cardiomyopathy</h2>
+<p>
+Cardiomyopathy involves heart muscle disease, causing enlarged, stiff, or thickened hearts unable to pump effectively. Dilated cardiomyopathy (enlarged heart) is most common, often from viral infections, alcohol use, or unknown causes. Hypertrophic cardiomyopathy features abnormal thickening, potentially causing sudden cardiac death in athletes. Restrictive cardiomyopathy involves stiff ventricles limiting filling. Symptoms include shortness of breath, fatigue, and swelling. Management involves heart failure medications, ICD devices, and sometimes heart transplantation for severe cases.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "heart-disease-risk-factors",
+  slug: "risk-factors-heart-disease",
+  title: "Understanding Risk Factors for Heart Disease",
+  category: "Heart & Cardiovascular",
+  categorySlug: "heart-cardiovascular",
+  description: "Learn about modifiable and non-modifiable risk factors for heart disease and how to assess and manage your personal risk.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160775-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cardiovascular risk factors and health assessments"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Heart disease risk involves multiple factors, some controllable and others inherited or age-related. Understanding your personal risk profile enables targeted prevention efforts. Most heart attacks and strokes occur in people with known risk factors, suggesting that early identification and aggressive management significantly reduce disease occurrence. Taking personal risk seriously motivates lifestyle changes proven to extend healthy life years.
+</p>
+
+<h2>Non-Modifiable Risk Factors</h2>
+<p>
+Age represents a key non-modifiable risk factor, with heart disease increasing substantially after 45 for men and 55 for women (or after menopause). Family history strongly influences risk; having parents or siblings with early heart disease significantly increases your risk. Genetic conditions including familial hypercholesterolemia increase risk dramatically. Male sex confers higher risk at younger ages. Race also influences risk, with some populations having higher disease rates. While you cannot change these factors, they guide the intensity of prevention efforts—those with strong family history require more aggressive risk reduction.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160812-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Blood pressure and cholesterol screening for risk assessment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Major Modifiable Risk Factors</h2>
+<p>
+High blood pressure (hypertension) significantly increases heart disease and stroke risk by forcing the heart to work harder and damaging arteries. High LDL cholesterol deposits in arteries, promoting plaque formation. High triglycerides and low HDL cholesterol worsen risk. Smoking dramatically increases risk within weeks of starting and decreases substantially within months of quitting, making smoking cessation among the most impactful interventions. Diabetes increases risk 2-4 fold by damaging blood vessels and affecting cholesterol levels. Physical inactivity, obesity, and poor diet all contribute to multiple risk factors. Managing these factors through medications, lifestyle changes, and behavioral interventions prevents or delays heart disease significantly.
+</p>
+
+<h2>Contributing Risk Factors</h2>
+<p>
+Chronic stress and depression increase heart disease risk, partly through inflammation and behavioral factors. Poor sleep quality and sleep disorders including sleep apnea independently increase risk. Excessive alcohol consumption damages the heart muscle. Chronic kidney disease increases cardiovascular risk. Autoimmune conditions including lupus and rheumatoid arthritis elevate risk. Air pollution exposure contributes to atherosclerosis development. Addressing these factors complements traditional risk factor management for comprehensive protection.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160852-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Heart-healthy lifestyle and risk reduction strategies"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "heart-disease-diagnosis",
+  slug: "diagnostic-tests-heart-disease",
+  title: "Diagnostic Tests for Heart Disease: What to Expect",
+  category: "Heart & Cardiovascular",
+  categorySlug: "heart-cardiovascular",
+  description: "Comprehensive overview of cardiac diagnostic tests including EKG, echocardiography, stress tests, and cardiac catheterization.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160862-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cardiac diagnostic testing and heart monitoring equipment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Modern cardiac diagnostics enable early detection, accurate diagnosis, and personalized treatment planning. Understanding available tests helps patients prepare appropriately and discuss results with healthcare providers. Many tests are non-invasive and safe, while others provide definitive information guiding treatment decisions. Regular screening in at-risk individuals often detects disease early when treatments prove most effective.
+</p>
+
+<h2>EKG (Electrocardiogram)</h2>
+<p>
+EKG records electrical activity producing heartbeats via surface electrodes. Performed in minutes without preparation, it detects irregular rhythms, previous heart attacks, and electrolyte abnormalities. Limitations include lower sensitivity in detecting milder coronary disease. Resting EKG serves as baseline for comparison during stress testing. Multiple EKGs over time reveal changing patterns indicating disease progression. Normal EKG doesn't exclude heart disease, particularly in patients with stable symptoms, necessitating additional testing when clinical suspicion remains high.
+</p>
+
+<h2>Echocardiography (Ultrasound)</h2>
+<p>
+Echocardiography uses ultrasound to visualize heart structure and function in real-time. It measures chamber size, wall thickness, and valve function, detects pericardial fluid, and assesses blood flow patterns. Transthoracic echo (external probe) remains the standard first imaging test. Transesophageal echo (probe via swallowed tube) provides superior detail when transthoracic views prove inadequate. Stress echocardiography combines imaging with exercise or drug stress to detect ischemia. Excellent safety profile and no radiation make it ideal for serial monitoring during treatment.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160872-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Echocardiography and cardiac ultrasound imaging"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Stress Testing</h2>
+<p>
+Stress testing evaluates how the heart responds to increased demand. Exercise stress tests involve monitored treadmill or bike exercise with continuous EKG monitoring. Dobutamine stress (medication increasing heart rate) or adenosine stress (vasodilator) offer alternatives for those unable to exercise. Nuclear stress testing with radioactive tracers adds ischemia detection sensitivity. Reduced blood flow during stress indicates significant coronary narrowing. Positive tests guide referral to cardiac catheterization for intervention. Normal stress tests provide reassurance, though limited sensitivity means some patients with coronary disease may test normal.
+</p>
+
+<h2>Cardiac Catheterization</h2>
+<p>
+Cardiac catheterization involves threading a tube through arteries to the heart and coronary vessels. It remains the gold standard for coronary artery visualization and ischemia assessment. Vessel narrowing severity is precisely quantified, guiding intervention decisions. Simultaneous pressure measurements assess heart function. Complications including bleeding, infection, and rarely stroke occur in less than 2% of procedures. Many patients undergo intervention (angioplasty, stent placement) during same procedure when significant narrowing is identified. Careful patient selection and preparation minimize risks.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160882-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cardiac catheterization and coronary intervention procedures"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

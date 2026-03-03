@@ -1,9 +1,9 @@
 import React from "react";
 import { useEffect } from "react";
-import "./App.css";
 import { BrowserRouter as Router, Routes, Route, Navigate, useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { findArticleBySlug } from "@/data/allArticles";
+import { ScrollToTop } from "@/components/ScrollToTop";
 
 import Index from "@/pages/Index";
 import ArticlePage from "@/pages/ArticlePage";
@@ -43,7 +43,7 @@ import AsthmaSubSectionPage from "@/pages/asthma/SubSectionPage";
 import BreastCancer from "@/pages/BreastCancer";
 import BreastCancerArticleDetail from "@/pages/BreastCancerArticleDetail";
 import CancerCare from "@/pages/CancerCare";
-import ArticleDetail from "@/pages/ArticleDetail";
+import LegacyArticleRedirect from "@/pages/LegacyArticleRedirect";
 import Chemotherapy from "@/pages/Chemotherapy";
 import COPD from "@/pages/COPD";
 import DigestiveHealth from "@/pages/DigestiveHealth";
@@ -87,6 +87,10 @@ import HealthHub from "@/pages/HealthHub";
 import BlogHub from "@/pages/BlogHub";
 import BlogPostDetail from "@/pages/BlogPostDetail";
 import FeaturedPage from "@/pages/FeaturedPage";
+
+import { VideoHubPage } from "@/pages/VideoHubPage";
+import { VideoCategoryPage } from "@/pages/VideoCategoryPage";
+import { VideoDetailPage } from "@/pages/VideoDetailPage";
 
 import PageTemplate from "./pages/PageTemplate";
 import pageConfig from "./pages/pageConfig";
@@ -148,6 +152,7 @@ function App() {
   return (
     <Router>
       <LinkInterceptor />
+      <ScrollToTop />
       <Routes>
         {/* Core Pages */}
         <Route path="/" element={<Index />} />
@@ -161,6 +166,13 @@ function App() {
         <Route path="/:category/article/:slug" element={<ArticlePage />} />
         {/* Support two-segment category paths like /conditions/chronic-kidney-disease/article/:slug */}
         <Route path="/:category/:subcategory/article/:slug" element={<ArticlePage />} />
+        
+        {/* BACKWARD COMPATIBILITY: Legacy ID-based routes redirect to new slug-based routes */}
+        {/* Old route from CancerCare hub: /article/:id */}
+        <Route path="/article/:id" element={<LegacyArticleRedirect />} />
+        {/* Old route for cancer care: /conditions/cancer-care/article/:id */}
+        <Route path="/conditions/cancer-care/article/:id" element={<LegacyArticleRedirect />} />
+        
         {/* legacy handling for specific categories is removed to restore default behavior */}
         <Route path="/search" element={<SearchPage />} />
         <Route path="/author/:authorId" element={<AuthorPage />} />
@@ -185,7 +197,6 @@ function App() {
         <Route path="/breast-cancer/article/:slug" element={<BreastCancerArticleDetail />} />
         <Route path="/conditions/cancer-care" element={<CancerCare />} />
         <Route path="/conditions/cancer-care/my-experience-melanoma" element={<MyExperienceMelanoma />} />
-        <Route path="/conditions/cancer-care/article/:id" element={<ArticleDetail />} />
         <Route path="/chemotherapy" element={<Chemotherapy />} />
         <Route path="/conditions/copd" element={<COPD />} />
 
@@ -196,9 +207,7 @@ function App() {
         <Route path="/conditions/alzheimers-disease" element={<AlzheimersDisease />} />
         <Route path="/alzheimers-disease" element={<Navigate to="/conditions/alzheimers-disease" replace />} />
 
-        <Route path="/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
         <Route path="/conditions/chronic-kidney-disease" element={<ChronicKidneyDisease />} />
-        <Route path="/conditions/:conditionSlug/article/:articleSlug" element={<ArticlePage />} />
         <Route path="/inflammatory-bowel-disease" element={<InflammatoryBowelDisease />} />
         <Route path="/conditions/menopause" element={<Menopause />} />
         <Route path="/menopause" element={<Navigate to="/conditions/menopause" replace />} />
@@ -248,17 +257,32 @@ function App() {
         <Route path="/abortion" element={<Abortion />} />
         <Route path="/wellness/abortion" element={<Abortion />} />
         <Route path="/black-health" element={<BlackHealth />} />
+        <Route path="/wellness/black-health" element={<BlackHealth />} />
         <Route path="/cbd" element={<Cbd />} />
+        <Route path="/wellness/cbd" element={<Cbd />} />
         <Route path="/fitness" element={<Fitness />} />
+        <Route path="/wellness/fitness" element={<Fitness />} />
         <Route path="/healthy-beauty" element={<HealthyBeauty />} />
+        <Route path="/wellness/healthy-beauty" element={<HealthyBeauty />} />
         <Route path="/hearing-health" element={<HearingHealth />} />
+        <Route path="/wellness/hearing-health" element={<HearingHealth />} />
+        <Route path="/wellness/hearing" element={<HearingHealth />} />
         <Route path="/lgbtqia" element={<Lgbtqia />} />
+        <Route path="/wellness/lgbtqia" element={<Lgbtqia />} />
         <Route path="/nutrition" element={<Nutrition />} />
+        <Route path="/wellness/nutrition" element={<Nutrition />} />
         <Route path="/parenthood" element={<Parenthood />} />
+        <Route path="/wellness/parenthood" element={<Parenthood />} />
         <Route path="/sexual-health" element={<SexualHealth />} />
+        <Route path="/wellness/sexual-health" element={<SexualHealth />} />
         <Route path="/skincare" element={<Skincare />} />
+        <Route path="/wellness/skincare" element={<Skincare />} />
+        <Route path="/wellness/skin-care" element={<Skincare />} />
         <Route path="/vitamins-supplements" element={<VitaminsSupplements />} />
+        <Route path="/wellness/vitamins-supplements" element={<VitaminsSupplements />} />
         <Route path="/reviews" element={<ReviewsPage />} />
+        <Route path="/wellness/reviews" element={<ReviewsPage />} />
+        <Route path="/wellness/:slug" element={<ArticlePage />} />
         <Route path="/sponsored-topics" element={<SponsoredTopics />} />
         <Route path="/health-news" element={<HealthNewsPage />} />
 
@@ -268,6 +292,12 @@ function App() {
         {/* Tools Pages */}
         <Route path="/tools" element={<ToolsIndex />} />
         <Route path="/tools/bmi-calculator" element={<BmiCalculator />} />
+
+        {/* Video Hub Routes */}
+        <Route path="/videos" element={<VideoHubPage />} />
+        <Route path="/videos/:categorySlug" element={<VideoCategoryPage />} />
+        <Route path="/videos/:categorySlug/:slug" element={<VideoDetailPage />} />
+        <Route path="/tools/video-series" element={<VideoHubPage />} />
 
         {/* Dynamic Categories (must stay at bottom) */}
         <Route path="/:category" element={<CategoryHub />} />

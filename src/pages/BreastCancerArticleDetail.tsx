@@ -15,11 +15,12 @@ import {
   BookOpen,
 } from "lucide-react"
 import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRenderer"
+import type { Article as BlogArticle } from "@/data/allArticles"
 
 export default function BreastCancerArticleDetail() {
   const { slug } = useParams<{ slug: string }>()
 
-  const article: any = findArticleBySlug(slug)
+  const article = findArticleBySlug(slug) as BlogArticle | undefined
   const sectionTitle = article?.category || "Breast Cancer"
 
   if (!article) {

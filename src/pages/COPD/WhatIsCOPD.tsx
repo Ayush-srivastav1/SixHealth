@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const whatIsCOPDArticle = sampleArticles.find((a) => a.slug === "what-is-copd");
+const whatIsCOPDArticle = findArticleBySlug("what-is-copd");
 
 export default function WhatIsCOPD() {
   return <ArticlePage article={whatIsCOPDArticle} />;

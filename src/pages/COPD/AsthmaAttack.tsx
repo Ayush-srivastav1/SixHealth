@@ -1,8 +1,16 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticleRenderer, { ArticleLayout } from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const asthmaAttackArticle = sampleArticles.find((a) => a.slug === "asthma-attack");
+const SLUG = "asthma-attack";
+const asthmaAttackArticle =
+  findArticleBySlug(SLUG) ?? {
+    id: SLUG,
+    slug: SLUG,
+    title: "Asthma Attack",
+    category: "conditions",
+    content: "<p>Placeholder content for Asthma Attack.</p>",
+  };
 
 export default function AsthmaAttack() {
-  return <ArticlePage article={asthmaAttackArticle} />;
+  return <ArticleLayout article={asthmaAttackArticle} />;
 }

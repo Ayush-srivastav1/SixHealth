@@ -5,31 +5,38 @@ import {
   NewsletterSignup,
   CategoryType 
 } from "@/components/articles";
-import { sampleArticles } from "@/data/articles";
+import { allArticles } from "@/data/allArticles";
 import { navigationCategories } from "@/data/categories";
 import { TrendingUp, ArrowRight, Play, ChevronRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 
 const Index = () => {
-  const featuredArticle = sampleArticles[0];
-  const trendingArticles = sampleArticles.slice(1, 5);
-  const latestArticles = sampleArticles.slice(5, 11);
-  const popularArticles = sampleArticles.slice(0, 6);
+  const featuredArticle = allArticles[0];
+  const trendingArticles = allArticles.slice(1, 5);
+  const latestArticles = allArticles.slice(5, 11);
+  const popularArticles = allArticles.slice(0, 6);
 
   const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];
 
   // Debug: Log articles
-  console.log("sampleArticles:", sampleArticles);
+  console.log("allArticles count:", allArticles.length);
   console.log("latestArticles:", latestArticles);
 
   return (
     <Layout>
-      {/* Hero Section Placeholder */}
-      <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-12 text-center">
-        <div className="site-container">
-          <h1 className="text-4xl font-bold">Welcome to Six Health</h1>
-          <p className="mt-4 text-lg">Your trusted health information hub</p>
+      {/* Hero Banner — real photo from Unsplash with WebP source and text overlay */}
+      <section className="relative">
+        <picture>
+          <source srcSet="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1920&q=80&fm=webp" type="image/webp" />
+          <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1920&q=80" alt="Healthcare professionals" className="w-full h-[320px] object-cover block" />
+        </picture>
+
+        <div className="absolute inset-0 bg-black/45 flex items-center justify-center">
+          <div className="text-center px-4">
+            <h1 className="text-4xl md:text-5xl font-bold text-white">Welcome to Six Health</h1>
+            <p className="mt-3 text-lg text-sky-100">Your trusted health information hub</p>
+          </div>
         </div>
       </section>
 
@@ -38,7 +45,7 @@ const Index = () => {
 
       {/* Latest Articles Grid */}
       <section className="py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content - Latest Articles */}
             <div className="lg:col-span-2">
@@ -95,7 +102,7 @@ const Index = () => {
 
       {/* Quick Links by Topic */}
       <section className="border-t bg-muted/50 py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <h2 className="mb-6 text-2xl font-bold">Quick Links</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {/* Conditions Quick Links */}

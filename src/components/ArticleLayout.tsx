@@ -1,5 +1,7 @@
 import React from "react";
 import { Layout } from "@/components/layout";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 type Author = {
   name: string;

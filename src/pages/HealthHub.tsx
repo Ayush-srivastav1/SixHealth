@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Layout } from "@/components/layout";
-import { healthlineArticles } from "@/data/healthlineArticles";
+import { allArticles } from "@/data/allArticles";
 import { ChevronLeft, ChevronRight, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -15,11 +15,16 @@ export default function HealthHub() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
+  // Derive legacy `healthlineArticles` from the consolidated `allArticles`.
+  const healthlineArticles = allArticles.filter(a => a.source === "healthline" || (a.slug || "").toString().toLowerCase().startsWith("healthline-"));
+
   const categories = Array.from(new Set(healthlineArticles.map(a => a.category)));
 
   const filteredArticles = healthlineArticles.filter(article => {
+    const content = article.content as any;
+    const contentStr = typeof content === 'string' ? content : (Array.isArray(content) ? (content as any[]).map(c => c.text || '').join(' ') : '');
     const matchesSearch = article.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
-                          article.content.toLowerCase().includes(searchQuery.toLowerCase());
+                          contentStr.toLowerCase().includes(searchQuery.toLowerCase());
     const matchesCategory = selectedCategory ? article.category === selectedCategory : true;
     return matchesSearch && matchesCategory;
   });
@@ -40,7 +45,7 @@ export default function HealthHub() {
       <div className="bg-gray-50 min-h-screen pb-12">
         {/* Hero Section */}
         <section className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-4 py-12 lg:py-16">
+          <div className="container py-12 lg:py-16">
             <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6 tracking-tight">
               Health Library
             </h1>
@@ -90,7 +95,7 @@ export default function HealthHub() {
         </section>
 
         {/* Articles Grid */}
-        <section className="max-w-7xl mx-auto px-4 py-12">
+        <section className="container py-12">
           <div className="mb-6 flex justify-between items-center">
             <h2 className="text-2xl font-bold text-gray-900">
               {searchQuery ? `Search Results (${filteredArticles.length})` : "Latest Articles"}
@@ -109,7 +114,9 @@ export default function HealthHub() {
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
                      {/* Placeholder Image */}
                      <img 
-                        src="/placeholder.svg" 
+                        src="/placeholder.svg"
+                        loading="lazy"
+                        onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
                         alt="" 
                         className="w-full h-full object-cover opacity-80 group-hover:scale-105 transition-transform duration-500"
                       />
@@ -127,7 +134,7 @@ export default function HealthHub() {
                       {article.title}
                     </h3>
                     <p className="text-gray-600 text-sm mb-4 line-clamp-3 flex-1">
-                      {article.content.substring(0, 150)}...
+                      {((() => { const content = article.content as any; return (typeof content === 'string') ? content : (Array.isArray(content) ? (content as any[]).map(c => c.text || '').join(' ') : ''); })()).substring(0, 150)}...
                     </p>
                     <div className="flex items-center justify-between text-xs text-gray-500 mt-auto pt-4 border-t">
                       <span>By {article.author}</span>

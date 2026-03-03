@@ -9,18 +9,42 @@ interface NavLinkCompatProps extends Omit<NavLinkProps, "className"> {
 }
 
 const NavLink = forwardRef<HTMLAnchorElement, NavLinkCompatProps>(
-  ({ className, activeClassName, pendingClassName, to, ...props }, ref) => {
+  (
+    {
+      className,
+      activeClassName = "text-[#f4b400]", // default Healthline active
+      pendingClassName,
+      to,
+      ...props
+    },
+    ref
+  ) => {
     return (
       <RouterNavLink
         ref={ref}
         to={to}
         className={({ isActive, isPending }) =>
-          cn(className, isActive && activeClassName, isPending && pendingClassName)
+          cn(
+            // Base header link style
+            "flex items-center h-full transition-colors duration-200",
+            
+            // Default color
+            "text-white hover:text-[#f4b400]",
+            
+            // Custom classes if provided
+            className,
+            
+            // Active state
+            isActive && activeClassName,
+            
+            // Pending (optional)
+            isPending && pendingClassName
+          )
         }
         {...props}
       />
     );
-  },
+  }
 );
 
 NavLink.displayName = "NavLink";

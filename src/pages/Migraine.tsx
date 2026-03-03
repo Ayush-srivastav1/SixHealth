@@ -2,6 +2,8 @@
 import { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 const migraineTabs = [
   "About Migraine",
@@ -96,15 +98,12 @@ const migraineSectionsDetailed = [
 export default function Migraine() {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  const sectionRefs = migraineTabs.reduce((acc, tab) => {
-    acc[tab] = useRef(null);
-    return acc;
-  }, {});
+  const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
 
-  const scrollToSection = (category) => {
-    const ref = sectionRefs[category];
-    if (ref && ref.current) {
-      ref.current.scrollIntoView({ behavior: "smooth", block: "start" });
+  const scrollToSection = (category: string) => {
+    const el = sectionRefs.current?.[category];
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
 
@@ -134,7 +133,7 @@ export default function Migraine() {
       {/* CONTENT: Show all sections */}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {migraineSectionsDetailed.map((section) => (
-          <div key={section.id} ref={sectionRefs[section.category]}>
+          <div key={section.id} ref={(el) => (sectionRefs.current[section.category] = el)}>
             <MigraineSection section={section} />
           </div>
         ))}
@@ -196,10 +195,11 @@ function MigraineSection({ section }: {
               onClick={() => navigate(`/migraine/${slug}`)}
             >
               <img
-                src="/health-placeholder.png"
+                src="/placeholder.svg"
                 alt={article.title}
                 className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
                 loading="lazy"
+                onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
               />
               <h3 className="font-semibold mb-2">{article.title}</h3>
               <span className="text-purple-700 text-sm font-semibold mt-auto">

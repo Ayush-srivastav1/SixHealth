@@ -11,12 +11,13 @@ import {
   Link as LinkIcon,
   ChevronRight,
 } from "lucide-react";
+import { contentToString } from "@/lib/articleUtils";
 
 export default function DigestiveHealthArticle() {
   const { slug } = useParams<{ slug: string }>();
 
   // Find article from all sections
-  let article: any = null;
+  let article: { title?: string; content?: string | unknown[] } | null = null;
   let sectionTitle = "";
 
   const sectionNames = [
@@ -102,7 +103,7 @@ export default function DigestiveHealthArticle() {
             <div className="flex flex-wrap items-center gap-6 text-sm text-gray-600">
               <span className="flex items-center gap-2">
                 <User className="h-4 w-4" />
-                SixHealth Editorial Team
+                Editorial Team
               </span>
               <span className="flex items-center gap-2">
                 <Calendar className="h-4 w-4" />
@@ -121,14 +122,16 @@ export default function DigestiveHealthArticle() {
           {/* Featured Image */}
           <img
             src="/placeholder.svg"
+            loading="lazy"
+            onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
             alt={article.title}
             className="w-full h-96 object-cover rounded-lg mb-8 bg-gray-200"
           />
 
           {/* Main Content */}
           <div className="prose prose-lg max-w-none mb-8">
-            <p className="text-gray-700 leading-relaxed text-lg mb-6">
-              {article.content}
+              <p className="text-gray-700 leading-relaxed text-lg mb-6">
+              {contentToString(article.content)}
             </p>
           </div>
 

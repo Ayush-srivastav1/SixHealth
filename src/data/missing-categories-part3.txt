@@ -1,0 +1,130 @@
+{
+  id: "weight-management",
+  slug: "overview",
+  title: "Weight Management: Sustainable Approaches to Healthy Weight",
+  category: "Weight Management",
+  categorySlug: "weight-management",
+  description: "Learn evidence-based strategies for sustainable weight management, including nutrition, physical activity, and behavioral approaches.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160802-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Weight management and healthy lifestyle"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Sustainable weight management supports health, reduces chronic disease risk, and improves quality of life. Rather than pursuing rapid weight loss through restrictive dieting, evidence-based approaches emphasize lifestyle changes that can be maintained long-term. Understanding nutrition, physical activity, and behavioral factors enables people to achieve and maintain healthy weight while enjoying food and life.
+</p>
+
+<h2>Understanding Weight Management</h2>
+<p>
+Body weight results from complex interactions between genetics, metabolism, environment, and behavior. Caloric balance forms the foundation: consuming fewer calories than expended produces weight loss. However, factors beyond calories including metabolism rate, hormonal regulation, and appetite control significantly influence weight. Sustainable weight management typically targets 1-2 pounds per week. More rapid weight loss often involves unsustainable practices causing muscle loss and metabolic slowdown, frequently followed by weight regain. Understanding that weight management is a long-term process rather than short-term goal enables realistic expectations and promotes adherence.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160812-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutrition planning and balanced diet"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Nutrition and Physical Activity</h2>
+<p>
+A balanced diet emphasizing whole foods, vegetables, fruits, lean proteins, and whole grains supports weight management while providing nutrients. Recording food intake increases awareness and enables identification of patterns. Portion control prevents excessive calorie consumption despite eating nutritious foods. Regular physical activity combining cardio and strength training burns calories, builds muscle that supports metabolism, and provides health benefits beyond weight loss. Aim for 150 minutes of moderate activity weekly. Behavioral strategies including meal planning, eating mindfully, managing stress, and getting adequate sleep all support weight management success.
+</p>
+
+<h2>Long-Term Success Strategies</h2>
+<p>
+Set realistic goals focusing on health improvements rather than number on scale alone. Track progress through multiple measurements including fitness improvements and clothing fit. Build support systems including healthcare providers, support groups, and family encouragement. Identify and manage emotional eating triggers through stress management and coping strategies. Address sleep, stress, and medical conditions affecting weight management. Expect plateaus as normal; patience and consistency eventually produce progress. Medical treatments including medications and procedures help selected individuals when lifestyle approaches aren't sufficient. Remember that weight management is a lifelong process requiring sustained commitment rather than temporary diet followed by return to previous habits.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160822-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Fitness and active lifestyle for weight management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "alzheimers-caregiving",
+  slug: "overview",
+  title: "Caregiving for Alzheimer's Disease: Support and Strategies",
+  category: "Caregiving for Alzheimer's Disease",
+  categorySlug: "caregiving-alzheimers",
+  description: "Essential guidance for caregivers supporting loved ones with Alzheimer's disease, including care strategies, emotional support, and resource navigation.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160832-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Alzheimer's caregiving and support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Caregiving for someone with Alzheimer's disease is challenging physically, emotionally, and financially. As the disease progresses, care needs escalate dramatically. Caregivers need practical knowledge, emotional support, and access to resources to provide quality care while maintaining their own wellbeing. Understanding disease progression, learning effective communication strategies, and developing support networks enable caregivers to navigate this difficult journey with greater confidence and resilience.
+</p>
+
+<h2>Understanding Alzheimer's Disease Progression</h2>
+<p>
+Alzheimer's disease progresses through mild, moderate, and severe stages over 8-10 years on average. Early stages involve mild memory loss and cognitive changes that initially seem minor. Moderate stages, the longest phase, involve increasing confusion, behavioral changes, and need for assistance. Severe stage involves loss of communication ability and dependence for all activities of daily living. Understanding typical progression helps caregivers anticipate needs and plan appropriately. Individual progression varies; some people decline rapidly while others maintain some abilities longer. Knowledge enables realistic planning and reduces shock at changes that naturally occur.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Caregiver support and emotional health"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Practical Caregiving Strategies</h2>
+<p>
+Create safe environments by reducing fall hazards, removing dangerous items, and ensuring adequate lighting. Use memory aids including labels, written reminders, and photos. Establish consistent routines as familiarity reduces confusion and anxiety. Communicate using simple language, allowing time for responses. Redirect rather than argue when confronted with false beliefs. Manage behavioral changes through understanding triggers and modifying environment or approach. Maintain the person's dignity, autonomy, and participation in decision-making to extent possible. Involve healthcare providers in care planning and addressing medical complications. Don't hesitate to ask for help and utilize adult day programs when available.
+</p>
+
+<h2>Caregiver Self-Care and Support</h2>
+<p>
+Caregiver burnout is real and damaging to both caregiver and care recipient. Taking breaks, maintaining social connections, pursuing stress-relieving activities, and maintaining physical health sustains caregiver ability to provide high-quality care. Join support groups connecting with others facing similar challenges. Consider respite care providing temporary relief for breaks or medical appointments. Seek counseling addressing emotional challenges, grief, and stress. Discuss financial and legal planning early including power of attorney and healthcare decisions. Accept that you cannot do everything perfectly; good enough caregiving, supported by professional help and community resources, is sustainable caregiving. Prioritizing caregiver wellbeing enables long-term care provision and protects your own health.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160852-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Community resources and professional care support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

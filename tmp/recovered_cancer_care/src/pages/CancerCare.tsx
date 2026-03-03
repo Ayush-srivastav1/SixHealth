@@ -1,6 +1,5 @@
 import { useState, useRef } from "react";
-import PageLayout from "@/components/layout/PageLayout";
-import { Layout } from "@/components/layout";
+import { Layout, PageLayout } from "@/components/Layout";
 import { CardHub } from "@/components/alzimersCardHub";
 import { useNavigate } from "react-router-dom";
 import { allArticles } from "@/data/allArticles";
@@ -210,4 +209,36 @@ export default function CancerCare() {
                     placeholder="Enter your email"
                     className="border border-purple-300 rounded px-4 py-2"
                     required
-Create file succeeded.
+                  />
+                  <button
+                    type="submit"
+                    className="bg-purple-600 text-white rounded px-4 py-2 font-semibold hover:bg-purple-700"
+                  >
+                    Subscribe
+                  </button>
+                </form>
+              </>
+            ) : (
+              <p className="text-purple-700">Thank you for subscribing!</p>
+            )}
+          </div>
+
+          {/* SECTIONS */}
+          {sections.map((section) => (
+            <div key={section.id} ref={sectionRefs[section.category]}>
+              <h2 className="text-2xl font-bold mb-6">{section.title}</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {section.articles.map((article) => (
+                  <div key={article.id} className="border rounded-lg p-4 hover:shadow-lg cursor-pointer" onClick={() => {}}>
+                    <h3 className="text-lg font-semibold mb-2">{article.title}</h3>
+                    <p className="text-gray-600">{article.content}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </section>
+      </PageLayout>
+    </Layout>
+  );
+}

@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const treatmentOptionsArticle = sampleArticles.find((a) => a.slug === "treatment-options");
+const treatmentOptionsArticle = findArticleBySlug("treatment-options");
 
 export default function TreatmentOptions() {
   return <ArticlePage article={treatmentOptionsArticle} />;

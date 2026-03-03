@@ -8,7 +8,7 @@ import {
 } from "@/components/articles";
 import { Toc } from "@/components/Toc";
 import { ArticleSidebar } from "@/components/ArticleSidebar";
-import { asthmaSections } from "@/data/asthmaArticles";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 import { 
   Clock, 
   User, 
@@ -21,6 +21,7 @@ import {
   ChevronRight
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRenderer";
 import { cn } from "@/lib/utils";
 import { useEffect, useState } from "react";
 
@@ -82,22 +83,11 @@ const parseContent = (content: string) => {
 export default function AsthmaArticlePage() {
   const { articleId } = useParams();
   
-  // Find article
-  let article: any = null;
-  let relatedArticles: any[] = [];
-  
-  // Search through all sections to find the article
-  for (const section of asthmaSections) {
-    const found = section.articles.find(a => a.slug === articleId || a.id === articleId);
-    if (found) {
-      article = found;
-      // Get related articles from the same section, excluding current
-      relatedArticles = section.articles
-        .filter(a => a.id !== found.id)
-        .slice(0, 3);
-      break;
-    }
-  }
+  // Find article using centralized data
+  const article: any = findArticleBySlug(articleId);
+  const relatedArticles: any[] = article
+    ? allArticles.filter(a => a.category === article.category && a.id !== article.id).slice(0, 3)
+    : [];
 
   if (!article) {
     return (
@@ -113,12 +103,8 @@ export default function AsthmaArticlePage() {
     );
   }
 
-  // Generate TOC items
-  const tocItems = parseContent(article.content)
-    .filter(block => block.type === 'h2')
-    .map(block => ({ id: block.id!, label: block.content }));
-
-  const contentBlocks = parseContent(article.content);
+  // Generate TOC items from centralized helper
+  const tocItems = getHeadingsFromContent(article.content).map(h => ({ id: slugify(h), label: h }));
 
   return (
     <Layout>
@@ -218,40 +204,7 @@ export default function AsthmaArticlePage() {
 
               {/* Article Body */}
               <div className="prose prose-slate max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-headings:font-bold prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-6 prose-p:text-lg prose-p:leading-relaxed prose-li:text-lg">
-                {contentBlocks.map((block, index) => {
-                  if (block.type === 'h2') {
-                    return <h2 key={index} id={block.id}>{block.content}</h2>;
-                  }
-                  if (block.type === 'h3') {
-                    return <h3 key={index} id={block.id}>{block.content}</h3>;
-                  }
-                  if (block.type === 'ul') {
-                    const items = JSON.parse(block.content) as string[];
-                    return (
-                      <ul key={index}>
-                        {items.map((item, i) => {
-                            // Simple bold handling inside list items
-                            const parts = item.split(/(\*\*.*?\*\*)/g);
-                            return (
-                                <li key={i}>
-                                    {parts.map((part, pi) => {
-                                        if (part.startsWith('**') && part.endsWith('**')) {
-                                            return <strong key={pi}>{part.replace(/\*\*/g, '')}</strong>;
-                                        }
-                                        return part;
-                                    })}
-                                </li>
-                            );
-                        })}
-                      </ul>
-                    );
-                  }
-                  if (block.type === 'strong_p') {
-                      return <p key={index} className="font-bold">{block.content}</p>;
-                  }
-                  // Paragraph
-                  return <p key={index}>{block.content}</p>;
-                })}
+                <ArticleContent content={article.content} />
               </div>
 
               {/* Social Sharing */}

@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const quitTobaccoArticle = sampleArticles.find((a) => a.slug === "quit-tobacco");
+const quitTobaccoArticle = findArticleBySlug("quit-tobacco");
 
 export default function QuitTobacco() {
   return <ArticlePage article={quitTobaccoArticle} />;

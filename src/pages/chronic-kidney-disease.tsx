@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Layout } from "@/components/layout";
+import { Link } from "react-router-dom";
 import { allArticles } from "@/data/allArticles";
-import { ArticleCard } from "@/components/articles/ArticleCard";
 
 const tabs = [
   "Early Stage",
@@ -127,19 +127,15 @@ export default function ChronicKidneyDisease() {
                   });
                   const slug = match ? match.slug : generated;
                   const cat = match ? (match.categorySlug || match.category || "chronic-kidney-disease") : "chronic-kidney-disease";
-                  const forceUrl = `/conditions/${cat}/article/${slug}`;
                   return (
-                    <div key={heading}>
-                      <ArticleCard
-                        title={heading}
-                        excerpt={desc}
-                        slug={slug}
-                        category={"Chronic Kidney Disease"}
-                        categorySlug={cat}
-                        forceUrl={forceUrl}
-                        className="h-full"
-                      />
-                    </div>
+                    <Link
+                      key={heading}
+                      to={`/conditions/${cat}/article/${slug}`}
+                      className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 cursor-pointer flex flex-col p-5 text-left"
+                    >
+                      <h3 className="font-semibold mb-2 leading-snug">{heading}</h3>
+                      <p className="text-sm text-muted-foreground leading-relaxed flex-1">{desc}</p>
+                    </Link>
                   );
                 })}
               </div>

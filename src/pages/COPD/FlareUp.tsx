@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const flareUpArticle = sampleArticles.find((a) => a.slug === "flare-up");
+const flareUpArticle = findArticleBySlug("flare-up");
 
 export default function FlareUp() {
   return <ArticlePage article={flareUpArticle} />;

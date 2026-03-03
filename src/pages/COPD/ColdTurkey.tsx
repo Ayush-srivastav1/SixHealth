@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const coldTurkeyArticle = sampleArticles.find((a) => a.slug === "cold-turkey");
+const coldTurkeyArticle = findArticleBySlug("cold-turkey");
 
 export default function ColdTurkey() {
   return <ArticlePage article={coldTurkeyArticle} />;

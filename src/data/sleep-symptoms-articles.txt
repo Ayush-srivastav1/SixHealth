@@ -1,0 +1,305 @@
+{
+    id: "daytime-sleepiness",
+    slug: "daytime-sleepiness",
+    title: "Excessive Daytime Sleepiness: Causes and Management",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding excessive daytime sleepiness and its underlying causes.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516912481808-846ec9ded34e?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Excessive daytime sleepiness"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Excessive daytime sleepiness (EDS)—persistent difficulty staying awake during waking hours—affects 10-20% of adults. More than simple tiredness, EDS compromises safety, productivity, and quality of life. Identifying the underlying cause enables targeted treatment.
+</p>
+
+<h2>What Distinguishes EDS from Fatigue</h2>
+<p>
+Daytime sleepiness involves actual sleep propensity—difficulty staying awake, falling asleep unintentionally, overwhelming drowsiness. Fatigue involves low energy and motivation without specific sleep tendency. People with EDS doze off in meetings, during conversations, or while driving; fatigue sufferers feel low-energy but stay awake. Sleep study testing (multiple sleep latency test) confirms EDS by quantifying sleep tendency—abnormally quick sleep onset confirms EDS. Important distinction because causes and treatments differ.
+</p>
+
+<h2>Primary Causes of EDS</h2>
+<p>
+Insufficient sleep duration—sleeping less than personally required—is the most common cause. Individual sleep needs vary 7-9 hours is average but some need 6, others need 10; chronically insufficient sleep causes EDS proportional to sleep debt. Sleep fragmentation from sleep disorders prevents restorative sleep—frequent arousals, breathing interruptions, or leg movements leaving total sleep time normal but sleep quality poor. Sleep apnea, restless leg syndrome, periodic limb movement disorder causing frequent arousals create EDS despite 8-hour sleep. Circadian rhythm misalignment from shift work, jet lag, or intrinsic circadian disorders like delayed sleep phase syndrome cause EDS. Narcolepsy, idiopathic hypersomnia (neurological EDS of unclear cause), or other neurological conditions create primary EDS.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517286428247-d1cc0fb8c83c?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep improvement strategies"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Secondary Causes</h2>
+<p>
+Medical conditions—hypothyroidism, anemia, autoimmune disease, chronic infections—drain energy. Depression and other mood disorders frequently cause EDS. Obesity worsens sleep apnea and contributes to general EDS. Medications—antihistamines, sedating antidepressants, muscle relaxants—cause EDS as side effect. Substance use including alcohol (which fragments sleep), cannabis, and stimulant withdrawal cause EDS. Chronic sleep restriction from demanding schedules perpetuates EDS.
+</p>
+
+<h2>Clinical Evaluation</h2>
+<p>
+Sleep history documents sleep duration, quality, and symptoms. Sleep diary tracks timing and sleepiness. Questions about driving difficulty, work impact, attention problems help quantify severity. Physical exam may reveal obesity, anatomy predisposing to sleep apnea, thyroid abnormality, or other medical causes. Sleep study (polysomnography) evaluates for obstructive sleep apnea, restless leg syndrome, and other sleep disorders. Multiple sleep latency test quantifies EDS objectively. Blood tests screen for thyroid dysfunction, anemia, infection, or metabolic disorders.
+</p>
+
+<h2>Treatment Approaches</h2>
+<p>
+Increasing sleep duration if insufficient is obvious first step—even 1-2 hours additional sleep transforms EDS in sleep-deprived individuals. Treating underlying sleep disorders (sleep apnea with CPAP, restless leg syndrome with medication) resolves EDS. Addressing circadian misalignment—shifting schedule or using light therapy—helps circadian disorders. Treating underlying medical or psychiatric conditions helps. Stimulant medications (modafinil, amphetamines) improve alertness in narcolepsy and other primary conditions. Behavioral modifications—avoiding driving when sleepy, strategic napping, caffeine use timing—support management.
+</p>
+
+<p>
+Excessive daytime sleepiness is treatable once underlying causes are identified.
+</p>
+  `
+  },
+  {
+    id: "insomnia-symptoms",
+    slug: "insomnia-symptoms",
+    title: "Insomnia Symptoms: Identifying Nighttime Sleep Problems",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding the spectrum of insomnia symptoms and warning signs.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Insomnia symptoms"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Insomnia symptoms range from occasional sleep difficulty to severe persistent problems disrupting daily life. Recognizing symptoms early enables timely intervention.
+</p>
+
+<h2>Sleep-Onset Symptoms</h2>
+<p>
+Difficulty falling asleep—lying awake 30+ minutes despite drowsiness—is common insomnia presentation. Racing thoughts, inability to "turn off mind," or anxiety about sleep perpetuate wakefulness. Physical restlessness—tossing and turning, inability to find comfortable position—delays sleep. Some people call this "racing mind insomnia" or "hyperarousal." The harder they try to sleep, the worse insomnia becomes due to performance anxiety. Progression from occasional difficulty (perhaps a night or two weekly) to frequent difficulty (most nights) indicates developing insomnia.
+</p>
+
+<h2>Sleep-Maintenance Symptoms</h2>
+<p>
+Frequent awakenings during night fragment sleep. Some people wake once or twice; others wake multiple times. Difficulty returning to sleep after waking is characteristic—lying awake 20+ minutes trying to fall back asleep. This pattern particularly frustrates people; they achieve sleep finally then lose it. Early morning awakening—waking 1-2 hours earlier than desired with inability to return to sleep—creates truncated nighttime sleep. This pattern particularly associates with depression and age.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep quality impacts"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Sleep Quality Issues</h2>
+<p>
+Unrefreshing sleep—sleeping the full allotted time (6-8 hours) yet waking unrefreshed—indicates inadequate sleep quality. Multiple brief partial awakenings during night fragment sleep preventing deep restorative sleep. Restless sleep—constant movement, nightmares, sleep-talking, thrashing—disrupts sleep quality. Sleep fragmented by breathing interruptions, leg movements, or frequency urination prevents quality sleep. Some people describe sleeping "lightly"—hearing every household sound, unable to stay asleep if disturbed.
+</p>
+
+<h2>Daytime Consequences</h2>
+<p>
+Daytime sleepiness follows nighttime sleep disruption—the less sleep, the more daytime somnolence. Concentration and memory problems develop as sleep deprivation accumulates—people struggle to focus at work, forget conversations, have difficulty learning. Mood disturbances—irritability, anxiety, depression—result from sleep deprivation. Motivation and energy decrease—even simple tasks seem overwhelmingly difficult. Reaction time slows increasing accident risk. Anxiety about the upcoming night's sleep develops—performance anxiety perpetuating insomnia. Health deteriorates—immunity weakens, pain perception increases, blood pressure elevates.
+</p>
+
+<h2>Behavioral Changes</h2>
+<p>
+Sleep anxiety develops—worry about sleeping well, fear of insomnia returning, hypervigilance about sleep. This anxiety paradoxically maintains insomnia. Avoidance behavior develops—avoiding bed until exhausted, napping excessively during day (which worsens nighttime insomnia), adjusting schedule around sleep fears. Substance use sometimes increases—caffeine to fight daytime sleepiness, alcohol as sleep aid (which actually worsens sleep), sedative use developing dependency risks.
+</p>
+
+<h2>When Insomnia Becomes Chronic</h2>
+<p>
+Occasional sleep difficulty (few nights monthly) is normal and usually doesn't require treatment. Regular difficulty (several nights weekly) warrants attention. Chronic insomnia (3+ months, 3+ nights weekly with daytime consequences) requires professional evaluation and treatment. Duration and frequency matter for diagnosis and intervention decisions.
+</p>
+
+<p>
+Identifying insomnia symptoms early enables prompt treatment preventing condition progression.
+</p>
+  `
+  },
+  {
+    id: "sleep-apnea-signs",
+    slug: "sleep-apnea-signs",
+    title: "Sleep Apnea Signs and Symptoms to Watch For",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Recognizing signs and symptoms of obstructive and central sleep apnea.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep apnea warning signs"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep apnea often goes undiagnosed despite serious health consequences. Recognizing early signs enables timely diagnosis and treatment.
+</p>
+
+<h2>Nighttime Signs</h2>
+<p>
+Loud snoring is classic sleep apnea sign—often the first thing noticed by bed partners. Snoring represents upper airway narrowing; complete apnea events involve snoring interruption followed by silence (breathing stops) then gasping/choking sounds. Witnessed breathing pauses—bed partners report seeing breathing stop for 10+ seconds—is hallmark sign. Gasping or choking awakenings during sleep suggest breathing interruptions. Restless sleep with constant movement, tossing and turning, or position changes reflects sleep fragmentation from apnea events and arousals. Excessive sweating during sleep, particularly soaking bedclothes, results from physical struggle during apnea and sympathetic arousal.
+</p>
+
+<h2>Daytime Signs</h2>
+<p>
+Excessive daytime sleepiness—unintentional napping, difficulty staying awake during meetings or driving—indicates severe nighttime sleep disruption. Morning headaches result from carbon dioxide retention during apnea events; headaches typically resolve within 30 minutes of waking. Grogginess and difficulty waking accompany poor sleep quality. Irritability and mood disturbance stem from chronic sleep deprivation. Concentration and memory problems reflect poor sleep quality's cognitive impact. Dry mouth or sore throat result from mouth breathing during apnea. Frequent awakening to urinate occurs partly from low oxygen causing arousals, partly from sleep fragmentation and nighttime blood pressure changes affecting kidney function.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516728267335-59b6b0ac8c14?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep disorder diagnosis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Medical Signs</h2>
+<p>
+Hypertension resistant to medications suggests sleep apnea as cause—sleep apnea contributes to 50% of hypertension cases. Atrial fibrillation (irregular heart rhythm) or other arrhythmias can result from sleep apnea. Obesity and weight gain exacerbate sleep apnea. Enlarged tonsils, deviated septum, or large neck circumference on exam increase sleep apnea risk. Daytime sleepiness despite sleeping 8+ hours suggests apnea rather than insufficient sleep.
+</p>
+
+<h2>Risk Factors Present With Signs</h2>
+<p>
+Combination of signs with risk factors increases sleep apnea likelihood. Obese males middle-aged or older with snoring and daytime sleepiness have high sleep apnea probability. Family history of sleep apnea increases risk. Heart failure, stroke history, or atrial fibrillation in context of daytime sleepiness suggests sleep apnea. Declining cognitive function in older adults might reflect sleep apnea rather than normal aging.
+</p>
+
+<h2>When to Seek Evaluation</h2>
+<p>
+Witnessed breathing pauses warrant urgent evaluation. Severe daytime sleepiness with safety concerns (driving difficulty) requires evaluation. Snoring with daytime sleepiness suggests evaluation. Resistant hypertension or recent atrial fibrillation merit sleep apnea evaluation. Family history of sleep apnea makes screening appropriate. Self-screening questionnaires (STOP-BANG, Epworth Sleepiness Scale) help identify need for formal evaluation.
+</p>
+
+<p>
+Early recognition and treatment of sleep apnea prevent serious cardiovascular and cognitive consequences.
+</p>
+  `
+  },
+  {
+    id: "mood-behavior-changes",
+    slug: "mood-behavior-changes",
+    title: "Sleep Loss Effects on Mood and Behavior",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding how poor sleep affects emotional regulation and behavior.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mood and sleep connection"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep and mood are deeply connected. Even one night of poor sleep affects mood; chronic sleep deprivation causes significant emotional and behavioral changes. Understanding this connection helps people recognize sleep problems masquerading as mood disorders.
+</p>
+
+<h2>Immediate Mood Effects</h2>
+<p>
+Irritability and anger increase dramatically after poor sleep—people are "short-fused" over minor annoyances. Patience decreases; usually tolerant people become easily frustrated. Anxiety increases; worry and fear amplify. Depressed mood follows sleep loss—even without sleep disorder, one poor night's sleep lowers mood noticeably. Emotional reactivity heightens—normal events become emotionally overwhelming. Crying or emotional sensitivity increases. People describe feeling "on edge" or emotionally raw. Stress tolerance plummets—normal work or family stress becomes overwhelming.
+</p>
+
+<h2>Emotional Regulation Impairment</h2>
+<p>
+Prefrontal cortex functioning—the brain region controlling emotional regulation, impulse control, and executive function—declines with sleep deprivation. Amygdala activation (fear/threat center) increases. Result: people struggle to regulate emotional responses. Emotionally triggering situations that normally they handle calmly become upsetting. Emotional overreaction common to events warranting mild annoyance. Recovery from emotional upsets takes longer. People make emotionally reactive decisions they later regret.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mental health and sleep"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Cognitive-Emotional Effects</h2>
+<p>
+Concentration difficulty means people struggle to focus on emotionally complex conversations or decisions. Negative thinking bias develops—people interpret situations more negatively, see worst-case scenarios more readily. Rumination increases—worry loops that are hard to escape. Pessimism and hopelessness increase particularly in vulnerable individuals. Suicidal ideation risk increases with untreated sleep disorders. Motivation and pleasure (anhedonia) decrease—things usually enjoyable become uninteresting. Social withdrawal occurs—difficulty engaging with others when emotionally depleted.
+</p>
+
+<h2>Behavioral Changes</h2>
+<p>
+Conflict and arguments increase in relationships—partners experience mood changes and emotional reactivity. Risky decision-making increases—judgment impaired from sleep deprivation. Impulse control decreases; people act without thinking, say things they shouldn't, engage in uncharacteristic behavior. Substance use often increases—alcohol or drugs to manage mood or sleep. Performance at work/school declines from motivation loss and emotional dysregulation. Appetite changes—some eat more seeking comfort, others lose appetite. Activation level changes—some become hyperactive/agitated, others lethargic.
+</p>
+
+<h2>Sleep Deprivation vs. Primary Mood Disorder</h2>
+<p>
+Key distinction: sleep deprivation-related mood changes resolve with adequate sleep. Treatment addressing underlying sleep problem (insomnia, sleep apnea, etc.) restores mood. If someone has insomnia for months and develops depression, treating insomnia often resolves depression without separate antidepressant treatment. However, primary mood disorders also cause insomnia—distinguishing which is primary requires clinical evaluation. Treatment often addresses both simultaneously. Sleep quality normalization whether from behavioral intervention or medication often improves mood proportionally to sleep improvement.
+</p>
+
+<p>
+Recognizing mood changes related to poor sleep directs treatment toward sleep optimization rather than mood disorders alone.
+</p>
+  `
+  },
+  {
+    id: "cognitive-impairment",
+    slug: "cognitive-impairment",
+    title: "Cognitive Impairment from Sleep Disorders",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding sleep loss effects on memory, attention, and cognitive function.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cognitive function and sleep"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep plays critical role in memory consolidation, attention, and executive function. Sleep deprivation from any cause—insufficient sleep, insomnia, sleep apnea, or other sleep disorders—impairs cognition significantly. Chronic sleep disruption may accelerate cognitive aging.
+</p>
+
+<h2>Attention and Concentration</h2>
+<p>
+Sustained attention declines after sleep loss. Tasks requiring focused concentration become harder—people struggle to maintain focus in meetings, lectures, or reading for extended periods. Selective attention suffers—screening out irrelevant information and focusing on relevant information becomes harder. Distractibility increases dramatically; mind drifts easily. Complex tasks requiring attention fragments worse than simple automatic tasks. Morning-after drowsiness characteristic of poor sleep night makes morning tasks harder. Performance on attention-demanding tasks (driving, operating machinery, professional work) deteriorates measurably.
+</p>
+
+<h2>Memory Impairment</h2>
+<p>
+Memory encoding suffers when sleep-deprived—learning new information becomes harder. Sleep is essential for consolidating memories from short-term to long-term storage; skipping or disrupting sleep limits consolidation. Sleep deprivation affects working memory—holding information temporarily while using it. People struggle to hold several pieces of information while performing task. Short-term memory access becomes harder—forgetting names, appointments, tasks discussed earlier. Long-term memory recall worsens—older memories become harder to access. Procedural memory (learning motor skills, procedures) suffers—taking longer to learn tasks, making more mistakes. This is why students pulling "all-nighters" before exams often perform poorly despite cramming.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep restoration brain function"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Executive Function</h2>
+<p>
+Executive function—planning, decision-making, problem-solving, cognitive flexibility, impulse control—centered in prefrontal cortex declines with sleep loss. Planning becomes harder; organizing complex tasks requires more effort. Decision-making suffers; choices become less optimal, more impulsive. Problem-solving abilities decline; troubleshooting and creative solution-finding become harder. Cognitive flexibility decreases—switching between tasks or perspectives becomes harder. Mental set-shifting slows. Impulse control weakens; inhibiting inappropriate responses becomes harder. Financial decisions, professional decisions suffer particularly from sleep deprivation.
+</p>
+
+<h2>Processing Speed</h2>
+<p>
+How quickly people process information slows with sleep deprivation. Reaction times increase measurably—dangerous for driving. Mental processing feels slower—formulating responses takes longer. Complex information processing takes more cognitive effort. This is partly why sleep-deprived people feel "foggy" or "fuzzy"—mental processing literally slows.
+</p>
+
+<h2>Chronic Sleep Disruption and Cognitive Aging</h2>
+<p>
+Chronic untreated sleep disorders (particularly sleep apnea with repeated oxygen drops) may accelerate cognitive aging. Some research suggests untreated sleep apnea associated with earlier cognitive decline. Chronic sleep restriction accelerates aging-related cognitive changes. This emphasizes importance of treating sleep disorders promptly—potential long-term cognitive consequences.
+</p>
+
+<h2>Reversibility</h2>
+<p>
+Good news: cognitive impairment from sleep deprivation is largely reversible with adequate sleep. One good night restores attention substantially. One week of good sleep restores memory function significantly. However, recovery takes longer than injury onset—one bad night affects cognition immediately; cognitive recovery takes several days of good sleep. Chronic cognitive impairment from long-standing sleep disorders improves with treatment but recovery takes weeks to months.
+</p>
+
+<p>
+Treating underlying sleep disorders restores cognitive function and preserves long-term brain health.
+</p>
+  `
+  }

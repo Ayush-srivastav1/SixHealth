@@ -2,6 +2,8 @@
 import { useState, useRef } from "react";
 import { Layout } from "@/components/layout";
 import { Link } from "react-router-dom";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 
 const tabs = [
@@ -211,7 +213,8 @@ function Section({ section }: {
               className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none"
             >
               <img
-                src="/health-placeholder.png"
+                src="/placeholder.svg"
+onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
                 alt={article.title}
                 className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
                 loading="lazy"
@@ -227,3 +230,6 @@ function Section({ section }: {
     </section>
   );
 }
+
+
+

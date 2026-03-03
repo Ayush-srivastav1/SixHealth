@@ -1,0 +1,135 @@
+{
+  id: "psoriasis-types-variants",
+  slug: "types-variants-psoriasis",
+  title: "Psoriasis Types: Plaque, Guttate, Pustular, and Others",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Detailed guide to different psoriasis types and variants, their characteristics, triggers, and specific management approaches.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160715-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis types and skin manifestations"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Psoriasis manifests in various forms, each with distinct clinical presentations, triggers, and treatment responses. Understanding specific psoriasis types enables targeted management and accurate prognostication. Patients may experience different types sequentially or concurrently. Dermatologic evaluation confirms specific type, guiding personalized treatment plans optimizing outcomes.
+</p>
+
+<h2>Plaque Psoriasis</h2>
+<p>
+Plaque psoriasis affects 80-90% of patients, characterized by well-demarcated red plaques with silvery-white scales. Initially appearing as smaller lesions, plaques gradually enlarge and may coalesce into larger areas. Common sites include elbows, knees, scalp, and lower back, though any body area may be affected. Lesions often itch or burn. Plaques can be extensive, affecting quality of life significantly. Spontaneous remission may occur but relapse is common. Topical and systemic treatments effectively clear plaques in most patients, though recurrence is frequent. Psoriatic arthritis affects 10-30% of plaque psoriasis patients, requiring additional arthritis management.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160725-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis treatment and skin care management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Guttate Psoriasis</h2>
+<p>
+Guttate psoriasis features small droplet-like lesions (1-10mm) typically appearing suddenly on trunk and proximal limbs. Often follows streptococcal pharyngitis by 2-3 weeks, suggesting infectious triggering. Commonly affects children and young adults. Lesions appear abruptly as numerous small papules, dramatically different from patient's baseline if they had prior plaque psoriasis. While initially extensive in coverage, individual lesions smaller than plaque psoriasis. Often improves spontaneously within weeks to months. Some patients convert to plaque psoriasis subsequently. Strep treatment may reduce guttate lesions. Short course systemic therapy may be beneficial given acute onset and potential spontaneous resolution.
+</p>
+
+<h2>Pustular Psoriasis</h2>
+<p>
+Pustular psoriasis features sterile pus-filled pustules on erythematous base, painful and uncomfortable. Generalized pustular psoriasis involves widespread pustule formation, requiring systemic therapy. Localized pustular psoriasis affects palms, soles, or intertriginous areas. Particularly disabling given pain and secondary infection risk. Topical treatments provide limited benefit; systemic therapies are usually necessary. Severe cases may require hospitalization for supportive care and systemic treatment initiation. Pregnancy, infections, and certain medications may trigger pustular flares. Early aggressive treatment prevents severe disease and complications.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160735-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Dermatological care and psoriasis management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Inverse and Other Variants</h2>
+<p>
+Inverse psoriasis affects skin folds (axillae, groin, inframammary) with bright red lesions lacking characteristic scale due to moisture. Maceration and secondary infections are common. Topical treatments suited for intertriginous areas avoid irritation. Erythrodermic psoriasis causes widespread erythema covering majority of body surface, sometimes progressing to systemic symptoms (fever, chills). Representing psoriasis emergency requiring hospitalization, erythrodermic psoriasis demands rapid systemic therapy. Nail psoriasis causes pitting, discoloration, and onycholysis (nail separation), affecting 50% of psoriasis patients. Psoriatic arthritis accompanies skin manifestations in many patients, requiring rheumatologic management alongside dermatologic therapy.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "psoriasis-triggers-management",
+  slug: "psoriasis-triggers-prevention",
+  title: "Psoriasis Triggers: Identification and Prevention Strategies",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn common psoriasis triggers including infections, stress, injuries, and environmental factors plus prevention strategies.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160745-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis triggers and stress management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Identifying personal psoriasis triggers enables proactive disease management. While universal triggers vary among individuals, recognizing patterns specific to your disease facilitates preventive strategies. Minimizing trigger exposure reduces flare frequency and severity, improving quality of life. Keeping trigger logs helps identify relationships between exposures and flares.
+</p>
+
+<h2>Infectious Triggers</h2>
+<p>
+Streptococcal pharyngitis commonly precedes or triggers psoriasis flares, particularly guttate variants. Prompt antibiotic treatment may reduce psoriasis risk. Viral infections including HIV increase psoriasis risk and severity. Skin infections worsen existing psoriasis. Preventing infections through hand hygiene, vaccinations, and prompt infection treatment helps minimize trigger exposure. Some patients experience clear psoriasis improvement with HIV treatment, suggesting immune dysregulation underlies psoriasis development.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160752-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Stress reduction and mental health for psoriasis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Stress and Psychological Triggers</h2>
+<p>
+Psychological stress triggers or exacerbates psoriasis in 40-80% of patients, potentially through stress hormone effects on immune function. Stress management techniques including meditation, yoga, exercise, and psychotherapy help minimize stress-induced flares. Adequate sleep, which often decreases with stress, independently affects psoriasis severity. Patients under sustained stress benefit from stress-reduction interventions. Chronic stress-related psoriasis worsening sometimes improves when stress resolves.
+</p>
+
+<h2>Physical Triggers</h2>
+<p>
+Skin trauma including cuts, scratches, tattoos, and surgical scars may trigger localized psoriasis flares at injury sites (Koebner phenomenon). Avoiding unnecessary trauma and protecting injured skin helps prevent iatrogenic flares. Sunburn paradoxically improves psoriasis in many patients, though phototherapy more safely provides UV exposure. Medications including beta-blockers, NSAIDs, and lithium may trigger or worsen psoriasis; when alternatives exist, switching medications may prevent flares. Rapid corticosteroid tapering may rebound-flare psoriasis; careful tapering minimizes this risk.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160762-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Lifestyle management for psoriasis control"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

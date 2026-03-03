@@ -1,8 +1,8 @@
 import { Layout } from "@/components/layout";
-import { sampleArticles } from "@/data/articles";
+import { findArticleBySlug } from "@/data/allArticles";
 
 export default function PustularPsoriasis() {
-  const article = sampleArticles.find((a) => a.slug === "pustular-psoriasis");
+  const article = findArticleBySlug("pustular-psoriasis");
   return (
     <Layout>
       <div className="max-w-3xl mx-auto px-4 py-10">

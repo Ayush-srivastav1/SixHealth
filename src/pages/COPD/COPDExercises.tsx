@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const copdExercisesArticle = sampleArticles.find((a) => a.slug === "copd-exercises");
+const copdExercisesArticle = findArticleBySlug("copd-exercises");
 
 export default function COPDExercises() {
   return <ArticlePage article={copdExercisesArticle} />;

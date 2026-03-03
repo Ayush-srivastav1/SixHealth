@@ -518,7 +518,8 @@ function Section({ section, onArticleClick }: {
             onClick={() => onArticleClick(article.id)}
           >
             <img
-              src="/health-placeholder.png"
+              src="/placeholder.svg"
+onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
               alt={article.title}
               className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
               loading="lazy"
@@ -908,3 +909,6 @@ function NursingHomeDetail({ onClose }: { onClose: () => void }) {
     </div>
   );
 }
+
+
+

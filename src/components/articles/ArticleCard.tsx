@@ -1,21 +1,25 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { CategoryBadge, CategoryType } from "./CategoryBadge";
 import { Clock, User } from "lucide-react";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 import { cn } from "@/lib/utils";
 
 export interface ArticleCardProps {
   title: string;
-  excerpt: string;
+  excerpt?: string;
   slug: string;
-  category: CategoryType;
-  imageUrl: string;
-  author: string;
-  readTime: string;
-  date: string;
+  category: CategoryType | string;
+  categorySlug?: string;
+  imageUrl?: string;
+  author?: string;
+  readTime?: string;
+  date?: string;
   featured?: boolean;
   compact?: boolean;
   className?: string;
   baseUrl?: string;
+  forceUrl?: string;
 }
 
 export function ArticleCard({
@@ -23,6 +27,7 @@ export function ArticleCard({
   excerpt,
   slug,
   category,
+  categorySlug,
   imageUrl,
   author,
   readTime,
@@ -30,20 +35,37 @@ export function ArticleCard({
   compact = false,
   className,
   baseUrl = "/article",
+  forceUrl,
 }: ArticleCardProps) {
+  const navigate = useNavigate();
+  const catSlug = (categorySlug || (typeof category === "string" ? (category as string).toLowerCase().replace(/\s+/g, "-") : "")).toString();
+  const articlePath = forceUrl || (catSlug ? `/${catSlug}/article/${slug}` : `${baseUrl}/${slug}`);
+  try {
+     
+    console.debug("ArticleCard path", { id: title, slug, category, categorySlug: catSlug, articlePath });
+  } catch (e) {
+    // ignore
+  }
+  const handleClick = () => navigate(articlePath);
   if (compact) {
     return (
-      <article className={cn("group flex gap-3", className)}>
-        <Link to={`${baseUrl}/${slug}`} className="shrink-0">
-          <img
-            src={imageUrl}
-            alt={title}
-            className="h-16 w-16 rounded-md object-cover transition-transform group-hover:scale-105"
-          />
+      <article onClick={handleClick} className={cn("group flex gap-3 cursor-pointer", className)}>
+        <Link to={articlePath} className="shrink-0">
+          {imageUrl ? (
+            <SafeImage
+              src={imageUrl}
+              alt={title}
+              fallbackTopic="generalHealth"
+              componentName="ArticleCardCompact"
+              className="h-16 w-16 rounded-md object-cover transition-transform group-hover:scale-105"
+            />
+          ) : (
+            <div className="h-16 w-16 rounded-md bg-gray-100 flex items-center justify-center text-sm text-muted-foreground">No image</div>
+          )}
         </Link>
         <div className="flex flex-col justify-center">
-          <CategoryBadge category={category} className="mb-1 self-start" />
-          <Link to={`${baseUrl}/${slug}`}>
+          <CategoryBadge category={category as CategoryType} className="mb-1 self-start" />
+          <Link to={articlePath}>
             <h4 className="line-clamp-2 text-sm font-medium leading-tight group-hover:text-primary">
               {title}
             </h4>
@@ -55,23 +77,25 @@ export function ArticleCard({
 
   if (featured) {
     return (
-      <article
+      <article onClick={handleClick}
         className={cn(
-          "group relative overflow-hidden rounded-xl",
+          "group relative overflow-hidden rounded-xl cursor-pointer",
           className
         )}
       >
-        <Link to={`${baseUrl}/${slug}`} className="block">
+        <Link to={articlePath} className="block">
           <div className="relative aspect-[16/9] overflow-hidden">
-            <img
+            <SafeImage
               src={imageUrl}
               alt={title}
+              fallbackTopic="generalHealth"
+              componentName="ArticleCardFeatured"
               className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-foreground/80 via-foreground/20 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
-            <CategoryBadge category={category} className="mb-3" />
+            <CategoryBadge category={category as CategoryType} className="mb-3" />
             <h2 className="mb-2 text-2xl font-bold leading-tight drop-shadow-sm lg:text-3xl">
               {title}
             </h2>
@@ -95,29 +119,31 @@ export function ArticleCard({
   }
 
   return (
-    <article
+    <article onClick={handleClick}
       className={cn(
-        "group overflow-hidden rounded-lg border bg-card transition-shadow hover:shadow-md",
+        "group overflow-hidden rounded-lg border bg-card transition-shadow hover:shadow-md cursor-pointer",
         className
       )}
     >
-      <Link to={`/article/${slug}`} className="block">
+      <Link to={articlePath} className="block">
         <div className="aspect-[16/10] overflow-hidden">
-          <img
+          <SafeImage
             src={imageUrl}
             alt={title}
+            fallbackTopic="generalHealth"
+            componentName="ArticleCardDefault"
             className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
           />
         </div>
       </Link>
-      <div className="p-4">
-        <CategoryBadge category={category} className="mb-2" />
-        <Link to={`/article/${slug}`}>
-          <h3 className="mb-2 line-clamp-2 font-semibold leading-tight group-hover:text-primary">
+      <div className="p-4 card">
+        <CategoryBadge category={category as CategoryType} className="mb-2" />
+        <Link to={articlePath}>
+          <h3 className="card-title mb-2 line-clamp-2 leading-tight group-hover:text-primary">
             {title}
           </h3>
         </Link>
-        <p className="mb-3 line-clamp-2 text-sm text-muted-foreground">
+        <p className="card-desc mb-3 line-clamp-2 text-sm">
           {excerpt}
         </p>
         <div className="flex items-center gap-3 text-xs text-muted-foreground">

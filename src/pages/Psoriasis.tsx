@@ -99,10 +99,7 @@ export default function Psoriasis() {
   const [activeTab, setActiveTab] = useState(tabs[0]);
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  const sectionRefs = tabs.reduce((acc, tab) => {
-    acc[tab] = useRef(null);
-    return acc;
-  }, {});
+  const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
   const navigate = useNavigate();
 
   const scrollToSection = (tab) => {
@@ -143,7 +140,7 @@ export default function Psoriasis() {
           {tabSections.map((section) => (
             <section
               key={section.id}
-              ref={sectionRefs[section.title]}
+              ref={(el) => (sectionRefs.current[section.title] = el)}
             >
               <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">

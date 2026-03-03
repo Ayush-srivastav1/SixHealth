@@ -1,12 +1,17 @@
 import { useState, useRef } from "react";
 import { Layout } from "@/components/layout";
 import { useNavigate } from "react-router-dom";
-import { sleepArticles } from "@/data/sleepArticles";
+import { allArticles } from "@/data/allArticles";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
+
+// Compatibility shim: derive the previous `sleepArticles` export from `allArticles`.
+const sleepArticles = allArticles.filter((a) => (a.slug || "").toString().toLowerCase().startsWith("sleep-") || a.source === "sleep");
 
 function Section({ section }: {
   section: {
     title: string;
-    articles: { id: string; title: string; slug?: string; excerpt?: string; content: string }[];
+    articles: { id: string; title: string; slug?: string; excerpt?: string; content: string | any[] }[];
   };
 }) {
   const navigate = useNavigate();
@@ -22,15 +27,16 @@ function Section({ section }: {
               className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none"
               onClick={() => navigate(`/sleep/${slug}`)}
             >
-              <img
-                src="/health-placeholder.png"
+              <SafeImage
+                src={imageLibrary.sleep}
                 alt={article.title}
+                fallbackTopic="sleep"
+                componentName="SleepCard"
                 className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
-                loading="lazy"
               />
               <h3 className="font-semibold mb-2">{article.title}</h3>
               <p className="text-sm text-muted-foreground flex-1 mb-2">
-                {article.excerpt || article.content.slice(0, 120) + "..."}
+                {article.excerpt || ((typeof article.content === 'string') ? article.content.slice(0, 120) : (Array.isArray(article.content) ? article.content.map((c:any) => c.text || '').join(' ').slice(0,120) : '') ) + "..."}
               </p>
               <span className="text-purple-700 text-sm font-semibold mt-auto">
                 Read more →
@@ -57,53 +63,49 @@ const sections = [
     id: "basics",
     title: "Sleep Basics",
     category: "Sleep Basics",
-    articles: sleepArticles,
+    articles: sleepArticles.filter(a => 
+      ["why-we-sleep", "sleep-duration-recommendations", "circadian-rhythms", "sleep-and-health", "sleep-across-lifespan"].includes(a.slug)
+    ),
   },
   {
     id: "disorders",
     title: "Sleep Disorders",
     category: "Sleep Disorders",
-    articles: [
-      { id: "d1", title: "Insomnia", content: "Difficulty falling or staying asleep…" },
-      { id: "d2", title: "Sleep Apnea", content: "Breathing interruptions during sleep…" },
-      { id: "d3", title: "Restless Leg Syndrome", content: "Uncomfortable sensations…" },
-      { id: "d4", title: "Narcolepsy", content: "Excessive daytime sleepiness…" },
-      { id: "d6", title: "Delayed Sleep Phase Syndrome", content: "Circadian rhythm disorder…" },
-    ],
+    articles: sleepArticles.filter(a => 
+      ["insomnia", "sleep-apnea", "restless-leg-syndrome", "narcolepsy", "delayed-sleep-phase"].includes(a.slug)
+    ),
   },
   {
     id: "symptoms",
     title: "Symptoms & Warning Signs",
     category: "Symptoms & Warning Signs",
-    articles: [
-      { id: "s1", title: "Daytime Sleepiness", content: "Struggling to stay awake…" },
-      { id: "s2", title: "Insomnia Symptoms", content: "Nighttime wakefulness…" },
-      { id: "s3", title: "Sleep Apnea Signs", content: "Snoring and gasping…" },
-      { id: "s4", title: "Mood and Behavior Changes", content: "Sleep deprivation effects…" },
-      { id: "s5", title: "Cognitive Impairment", content: "Brain fog and poor memory…" },
-      { id: "s6", title: "Physical Health Impacts", content: "Weight, immunity, and more…" },
-    ],
+    articles: sleepArticles.filter(a => 
+      ["daytime-sleepiness", "insomnia-symptoms", "sleep-apnea-signs", "mood-behavior-changes", "cognitive-impairment", "physical-health-impacts"].includes(a.slug)
+    ),
   },
   {
     id: "diagnosis",
     title: "Diagnosis & Evaluation",
     category: "Diagnosis & Evaluation",
-    articles: [
-      { id: "dg1", title: "Sleep Study (Polysomnography)", content: "Comprehensive sleep testing…" },
-      { id: "dg2", title: "Home Sleep Testing", content: "Portable monitoring devices…" },
-      { id: "dg3", title: "Sleep Diary", content: "Tracking your sleep patterns…" },
-      { id: "dg4", title: "Medical History", content: "Risk factors and symptoms…" },
-      { id: "dg5", title: "Questionnaires and Scales", content: "Standardized assessments…" },
-    ],
+    articles: sleepArticles.filter(a => 
+      ["polysomnography", "home-sleep-testing", "sleep-diary", "medical-history-assessment", "sleep-questionnaires"].includes(a.slug)
+    ),
+  },
+  {
+    id: "treatment",
+    title: "Treatment Options",
+    category: "Treatment Options",
+    articles: sleepArticles.filter(a => 
+      ["sleep-medications", "cognitive-behavioral-therapy-sleep", "sleep-restriction-therapy", "light-therapy-sleep", "bedroom-environment", "relaxation-techniques"].includes(a.slug)
+    ),
   },
   {
     id: "hygiene",
     title: "Sleep Hygiene Practices",
     category: "Sleep Hygiene Practices",
-    articles: [
-      { id: "h1", title: "Bedroom Environment", content: "Temperature, light, and noise…" },
-      { id: "h6", title: "Relaxation Techniques", content: "Wind-down routines…" },
-    ],
+    articles: sleepArticles.filter(a => 
+      ["sleep-hygiene-practices", "sleep-environment-optimization"].includes(a.slug)
+    ),
   },
 ];
 
@@ -181,3 +183,4 @@ export default function Sleep() {
     </Layout>
   );
 }
+

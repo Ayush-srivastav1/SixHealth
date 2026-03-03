@@ -1,0 +1,756 @@
+{
+  id: "stages-of-breast-cancer",
+  slug: "stages-of-breast-cancer",
+  title: "Understanding Breast Cancer Stages",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn about the TNM staging system and how cancer stages affect treatment options and prognosis for breast cancer patients.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Breast cancer staging classification"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Breast cancer staging is a system used to classify cancers based on their size, location, and whether they have spread beyond the breast tissue. The TNM system (Tumor, Node, Metastasis) is the most commonly used staging method worldwide. Understanding your cancer stage is essential for determining treatment options and predicting outcomes.
+</p>
+
+<h2>Overview of the TNM Staging System</h2>
+<p>
+The TNM classification provides three key pieces of information. T describes the size and extent of the primary tumor in the breast. N indicates whether cancer has spread to nearby lymph nodes. M shows whether distant metastasis (spread to other organs) has occurred. These three factors combine to create overall stages ranging from 0 to IV, with lower numbers indicating earlier, more localized cancers that typically have better prognoses.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical imaging for cancer diagnosis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Breast Cancer Stages Explained</h2>
+<p>
+Stage 0 represents carcinoma in situ where cancer cells are confined to the ducts or lobules. Stage I tumors are small and have not spread to lymph nodes. Stage II cancers may be larger or have spread to a few lymph nodes. Stage III (locally advanced) cancers are larger with more extensive lymph node involvement. Stage IV indicates metastatic disease with spread to distant organs like the lungs, liver, or brain.
+</p>
+
+<h2>Factors Affecting Prognosis</h2>
+<p>
+Beyond TNM staging, other factors influence prognosis including tumor grade (how abnormal cells appear), hormone receptor status (ER/PR positive or negative), and HER2 status. Genomic testing may also predict how likely cancer is to recur. Younger patients and those with earlier-stage diagnoses generally have more favorable outcomes, though individual circumstances vary considerably.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Pathology and laboratory testing"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Treatment Based on Stage</h2>
+<p>
+Stage 0 and early-stage cancers may be treated with lumpectomy and radiation without chemotherapy. Advanced stages often require multimodal therapy combining surgery, chemotherapy, radiation, and/or targeted therapies. Metastatic disease typically focuses on systemic treatments to control tumor growth and manage symptoms, as cure becomes less likely but survival can extend significantly with modern therapies.
+</p>
+
+<h2>Living with Your Stage</h2>
+<p>
+Receiving a cancer diagnosis can be emotionally overwhelming. Understanding your specific stage provides clarity about your treatment journey and expected timeline. Regular follow-up visits and imaging surveillance help monitor for recurrence. Connecting with support groups and healthcare providers who specialize in your stage of cancer ensures you receive appropriate, stage-specific care and support.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Healthcare team consultation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "types-of-breast-cancer",
+  slug: "types-of-breast-cancer",
+  title: "Types of Breast Cancer: A Complete Guide",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Explore the different types of breast cancer including ductal, lobular, and other rare variants, and how each type affects treatment decisions.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Breast cancer cell types under microscope"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Breast cancer is not a single disease but rather a collection of different cancers that originate in breast tissue. Each type has distinct characteristics, growth patterns, and treatment responses. Understanding your specific type helps your medical team develop the most effective treatment strategy for your individual situation.
+</p>
+
+<h2>Overview of Major Breast Cancer Types</h2>
+<p>
+The most common types are ductal carcinoma in situ (DCIS), invasive ductal carcinoma (IDC), and invasive lobular carcinoma (ILC). DCIS represents cancer confined to the milk ducts and is considered stage 0. IDC accounts for about 80% of invasive breast cancers and can spread beyond the breast. ILC, representing 10-15% of cases, originates in the lobules and tends to be multifocal.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Breast tissue anatomy diagram"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Rare and Special Types</h2>
+<p>
+Inflammatory breast cancer is rare but aggressive, presenting with redness and swelling. Paget's disease affects the nipple and areola. Triple-negative breast cancer lacks estrogen, progesterone, and HER2 receptors, requiring different treatment approaches. Metaplastic carcinoma is rare and typically aggressive. Knowing if you have one of these special types informs prognosis and guides therapy selection.
+</p>
+
+<h2>Hormone Receptor Status</h2>
+<p>
+Beyond histology, cancers are classified by estrogen receptor (ER) and progesterone receptor (PR) status. ER-positive and PR-positive cancers respond to hormone-blocking therapies. ER-negative and PR-negative cancers do not benefit from these drugs but may respond better to chemotherapy or other targeted agents. This classification significantly influences treatment planning.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Laboratory specimen testing"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>HER2 Status and Targeted Therapy</h2>
+<p>
+Approximately 15-20% of breast cancers overexpress HER2, a protein that promotes aggressive growth. HER2-positive cancers historically had poorer outcomes but now respond well to targeted antibodies like trastuzumab (Herceptin). HER2 negative cancers do not benefit from these targeted therapies, making correct identification crucial for treatment selection.
+</p>
+
+<h2>Implications for Treatment</h2>
+<p>
+Your specific cancer type and receptor status directly determine which treatments will be effective. Hormone-positive cancers may be treated with aromatase inhibitors or tamoxifen. HER2-positive cancers benefit from monoclonal antibodies and other HER2-directed drugs. Multidisciplinary tumor boards review pathology reports to ensure all relevant factors guide your personalized treatment plan.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160690-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Treatment planning consultation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "mammography-screening-guide",
+  slug: "mammography-screening-guide",
+  title: "Mammography Screening Guide: What You Need to Know",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Understand mammography screening guidelines, types of mammograms, what to expect during the procedure, and how to interpret your results.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mammography screening procedure"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Mammography is the primary imaging tool for breast cancer screening in asymptomatic women. Regular mammograms can detect cancers before they are palpable or cause symptoms, when treatment is most effective. Understanding screening recommendations and what the procedure involves helps women make informed decisions about their breast health.
+</p>
+
+<h2>Screening Guidelines Overview</h2>
+<p>
+Most major organizations recommend that average-risk women begin mammography at age 40-50 and continue every 1-2 years. Women at higher risk due to family history, genetic mutations, or other factors may begin screening earlier and at more frequent intervals. Your personal risk profile should guide discussion with your healthcare provider about when to start and how often to screen.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mammogram imaging display"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Types of Mammograms</h2>
+<p>
+2D mammography projects multiple breast views onto flat images. 3D mammography (tomosynthesis) creates layered images, improving cancer detection and reducing false positives. Digital mammography provides better results than film mammography, particularly in younger and denser-breast women. Supplemental screening with ultrasound or MRI may be recommended for those with dense breast tissue.
+</p>
+
+<h2>The Screening Process</h2>
+<p>
+During mammography, each breast is positioned between a plate and an X-ray detector, and compression is applied to spread tissue. Two views are typically taken of each breast. The procedure is brief, often uncomfortable but not painful, and involves minimal radiation exposure. Results are typically available within 1-2 weeks and reviewed by trained radiologists.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Radiologist reviewing mammogram"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Understanding Results</h2>
+<p>
+Results are reported using the BI-RADS scale (Breast Imaging-Reporting and Data System). Category 1 (negative) and 2 (benign findings) require routine follow-up. Category 3 (probably benign) typically requires short-term follow-up. Category 4-5 findings recommend biopsy. Your radiologist should discuss results and next steps clearly with your healthcare provider.
+</p>
+
+<h2>Benefits and Limitations</h2>
+<p>
+Mammography reduces breast cancer mortality through early detection, particularly in women over 50. It can reliably detect cancers in fatty breast tissue but is less sensitive in dense breast tissue. False positives can lead to additional imaging and biopsies. Screening should be individualized based on personal risk factors and patient preferences.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Breast health education"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "biopsies-diagnostic-tests",
+  slug: "biopsies-diagnostic-tests",
+  title: "Breast Biopsies and Diagnostic Tests Explained",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn about different breast biopsy techniques, what to expect, and how biopsy results guide diagnosis and treatment decisions.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Breast biopsy procedure"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+A breast biopsy is the only definitive way to diagnose breast cancer. When imaging or physical examination reveals a suspicious finding, tissue sampling is performed to determine whether cancer is present and, if so, what type and characteristics it has. Understanding the biopsy process and results helps patients feel more prepared and informed.
+</p>
+
+<h2>Overview of Biopsy Methods</h2>
+<p>
+Core needle biopsies use a larger needle to remove multiple tissue samples and are minimally invasive. Vacuum-assisted biopsies use suction to obtain samples and work well for lesions deep in breast tissue. Fine needle aspiration biopsies use thin needles for smaller lesions. Excisional biopsies surgically remove the entire lesion or suspicious area. The choice of method depends on lesion size, location, and characteristics.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Pathology tissue analysis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>What to Expect During Biopsy</h2>
+<p>
+Biopsies typically take 15-60 minutes depending on the technique. Local anesthesia numbs the breast, minimizing discomfort. Image guidance (ultrasound, mammography, or MRI) directs the needle to the target lesion. Most patients experience mild pressure and pulling sensations but minimal pain. A small bandage covers the site afterward, and most patients resume normal activities the same day.
+</p>
+
+<h2>Biopsy Results Interpretation</h2>
+<p>
+Benign findings indicate no cancer is present and typically require routine follow-up. Atypical findings represent changes that are not cancer but may increase future risk and may warrant short-term follow-up or surgical excision. High-risk lesions like radial scars or papillomas often require excision to exclude cancer. Malignant findings confirm cancer diagnosis and provide details about type, grade, and receptor status.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Microscopy laboratory analysis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Additional Testing</h2>
+<p>
+If cancer is diagnosed, additional tests determine hormone receptor status, HER2 status, and other prognostic factors. Genetic testing may reveal mutations affecting treatment. Staging studies including imaging and blood work assess whether cancer has spread. These comprehensive tests guide personalized treatment recommendations from your medical team.
+</p>
+
+<h2>After Your Biopsy</h2>
+<p>
+Results are typically available within 5-7 days and reviewed by your healthcare provider. Some women experience mild bruising or soreness at the biopsy site. Contact your doctor if you experience persistent pain, fever, or redness. If cancer is found, your medical team will discuss treatment options and connect you with appropriate specialists.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Doctor consultation with patient"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "genetic-testing-brca",
+  slug: "genetic-testing-brca",
+  title: "BRCA Genetic Testing: Understanding Your Risk",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn about BRCA1 and BRCA2 genetic mutations, who should consider testing, what results mean, and how to manage hereditary cancer risk.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Genetic testing analysis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+BRCA1 and BRCA2 genetic mutations significantly increase the risk of breast and ovarian cancer. These hereditary mutations account for 5-10% of all breast cancers. Understanding your genetic status empowers you to make informed decisions about screening, prevention, and treatment. Genetic counseling helps interpret results and guides risk management strategies.
+</p>
+
+<h2>Understanding BRCA Mutations</h2>
+<p>
+BRCA1 and BRCA2 are tumor suppressor genes that normally repair DNA damage. Mutations impair this function, allowing cancer-causing mutations to accumulate. Women with BRCA1 mutations have a 45-87% lifetime risk of breast cancer. BRCA2 mutation carriers face 45-69% risk. Men with mutations also face elevated breast cancer risk, plus increased prostate and pancreatic cancer risk.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Genetic counselor consultation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Who Should Consider Testing</h2>
+<p>
+Testing is recommended for those with personal history of breast cancer before age 50, triple-negative breast cancer, ovarian cancer, pancreatic cancer, or metastatic prostate cancer. Family history of BRCA-related cancers, known BRCA mutations in the family, or ancestry associated with higher mutation frequency (Ashkenazi Jewish, other populations) are strong indicators. Genetic counselors help determine if testing is appropriate.
+</p>
+
+<h2>The Testing Process</h2>
+<p>
+Genetic testing involves a simple blood test or saliva sample that is analyzed for BRCA1 and BRCA2 mutations. Testing typically takes 1-4 weeks. Results may show a pathogenic mutation (disease-causing), a variant of uncertain significance (unclear risk), or no mutation detected. Genetic counselors review results, explain implications, and provide support regardless of outcome.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Laboratory genetic testing"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Risk Management for Mutation Carriers</h2>
+<p>
+Enhanced surveillance intensifies screening starting earlier than standard recommendations. Magnetic resonance imaging (MRI) supplements mammography for improved detection. Chemoprevention with tamoxifen or aromatase inhibitors reduces breast cancer risk by 40-70%. Preventive surgery (mastectomy and/or oophorectomy) reduces cancer risk by 90%, suitable for some high-risk individuals.
+</p>
+
+<h2>Implications for Family Members</h2>
+<p>
+If you carry a BRCA mutation, your first-degree relatives (children, siblings, parents) have a 50% chance of inheriting the same mutation. Genetic counseling and testing help family members understand their status and make personalized risk management decisions. Many families benefit from multigenerational genetic counseling to understand inheritance patterns and options.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Family health planning"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "surgery-for-breast-cancer",
+  slug: "surgery-for-breast-cancer",
+  title: "Breast Cancer Surgery: Types and Recovery",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Understand different breast cancer surgical options including lumpectomy and mastectomy, what to expect during recovery, and reconstruction options.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Surgical oncology procedure"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Surgery is primary treatment for most breast cancers. The goal is to remove cancer while preserving function and appearance when possible. The choice between breast-conserving surgery and mastectomy depends on cancer characteristics, breast size, patient preferences, and ability to undergo radiation. Understanding surgical options empowers patients to participate in treatment decisions.
+</p>
+
+<h2>Breast-Conserving Surgery</h2>
+<p>
+Lumpectomy (also called partial mastectomy or segmentectomy) removes the tumor and surrounding normal tissue margin. This approach preserves most of the breast and is suitable for early-stage cancers with acceptable tumor-to-breast size ratios. Lumpectomy must be followed by radiation therapy to reduce recurrence risk. Cosmetic outcomes are typically good, though some dimpling or contour changes may occur.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Surgical pathology preparation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Mastectomy</h2>
+<p>
+Mastectomy removes the entire breast including breast tissue, skin, and nipple. Total mastectomy leaves chest wall muscles intact. Modified radical mastectomy also removes axillary lymph nodes. Skin-sparing or nipple-sparing mastectomy preserves skin for better reconstruction options. Mastectomy is used for larger cancers, multiple tumors, or patient preference and can often be followed by reconstruction.
+</p>
+
+<h2>Axillary Lymph Node Surgery</h2>
+<p>
+Sentinel lymph node biopsy identifies and removes 1-3 lymph nodes most likely to contain cancer. This staged approach minimizes lymphedema risk while providing staging information. Axillary lymph node dissection removes multiple nodes when cancer is detected in sentinel nodes. Node surgery provides prognostic information but has associated risks including arm swelling and nerve injury.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Post-surgical care monitoring"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Recovery Timeline</h2>
+<p>
+Most patients go home the day of surgery under local or general anesthesia. Pain peaks during the first 1-2 weeks and typically improves gradually. Activity restrictions apply for 3-6 weeks, with heavy lifting prohibited longer. Drainage tubes may be placed to prevent fluid accumulation and are typically removed within 1-2 weeks. Return to normal activities including exercise usually occurs around 4-6 weeks post-surgery.
+</p>
+
+<h2>Breast Reconstruction Options</h2>
+<p>
+Reconstruction after mastectomy improves body image and psychological well-being. Implant-based reconstruction uses saline or silicone implants alone or with tissue expanders. Autologous reconstruction transfers tissue from the abdomen, back, or buttocks. Combined approaches may offer optimal results. Reconstruction can occur at the time of mastectomy or later, and timing should be discussed with your surgical team.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Supportive care after surgery"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "chemotherapy-for-breast-cancer",
+  slug: "chemotherapy-for-breast-cancer",
+  title: "Chemotherapy for Breast Cancer: What to Expect",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn about chemotherapy drugs used to treat breast cancer, treatment schedules, side effects, and strategies for managing your care during treatment.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Intravenous chemotherapy administration"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Chemotherapy uses powerful drugs to kill cancer cells throughout the body. For breast cancer, it is often used before surgery to shrink tumors (neoadjuvant) or after surgery to destroy remaining cancer cells (adjuvant). Combination regimens target different aspects of cancer cell biology, improving effectiveness. Understanding how chemotherapy works and what to expect helps patients prepare mentally and physically.
+</p>
+
+<h2>Common Chemotherapy Regimens</h2>
+<p>
+AC (Adriamycin/cyclophosphamide) followed by taxane therapy is standard for many breast cancers. The AC portion typically lasts 12 weeks, followed by taxane treatment for 12-24 weeks. Some regimens include other drugs like trastuzumab for HER2-positive cancers or pertuzumab. Your oncology team recommends specific regimens based on cancer characteristics, risk factors, and individual health status.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Chemotherapy nursing care"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Treatment Schedule</h2>
+<p>
+Most chemotherapy is given intravenously every 2-3 weeks. Treatment days are often called "chemo days," followed by a recovery period before the next cycle. A typical course involves 12-24 weeks of treatment divided into cycles. Some newer drugs are given orally daily. Your team provides a treatment calendar outlining specific dates and times, allowing you to plan work, care responsibilities, and support systems accordingly.
+</p>
+
+<h2>Managing Side Effects</h2>
+<p>
+Hair loss is common with many drugs but temporary, with regrowth beginning 3-6 months after completion. Nausea and vomiting are well-managed with modern anti-nausea medications. Fatigue impacts many patients and improves with gentle activity and adequate rest. Low blood counts increase infection and bleeding risks, requiring precautions. Mouth sores, appetite changes, and limb tingling also occur but usually resolve after treatment ends.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutritional support during cancer treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Supportive Care Strategies</h2>
+<p>
+Anti-nausea medications prescribed preventatively minimize side effects. Growth factor injections boost white blood cell counts when needed. Small frequent meals, ginger, and bland foods help manage nausea. Gentle exercise like walking combats fatigue. Scalp cooling and head wraps can minimize hair loss. Support groups and counseling help manage emotional challenges. Communicate openly with your medical team about side effects so adjustments can be made.
+</p>
+
+<h2>Life During Treatment</h2>
+<p>
+Many patients work during chemotherapy, though energy levels often require accommodations. Planning rest days around treatment cycles helps. Inform friends and family about realistic expectations for your availability and energy. Accept help with household tasks, childcare, and meals. Most side effects are temporary and improve significantly after treatment completion. Regular follow-up ensures early detection of any cancer recurrence.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cancer survivor support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "radiation-therapy-guide",
+  slug: "radiation-therapy-guide",
+  title: "Radiation Therapy for Breast Cancer: Complete Guide",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Understand radiation therapy for breast cancer, treatment planning, side effects, and what to expect during your treatment course.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Radiation therapy treatment planning"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Radiation therapy uses high-energy beams to destroy cancer cells in the breast. It is typically recommended after lumpectomy to reduce recurrence risk and is sometimes used after mastectomy when high-risk features are present. Modern techniques precisely target cancer while minimizing exposure to healthy tissue. Understanding the treatment process helps patients feel more prepared and empowered.
+</p>
+
+<h2>Who Needs Radiation Therapy</h2>
+<p>
+Radiation is standard after breast-conserving surgery in almost all cases. After mastectomy, radiation may be used if cancer is large, involves lymph nodes extensively, or has other high-risk features. Partial breast irradiation focuses radiation on the area where cancer was removed, using fewer treatments. Your radiation oncologist evaluates your specific situation to determine if radiation is recommended for you.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Radiation simulation imaging"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Treatment Planning</h2>
+<p>
+Simulation is the planning process where a CT scan precisely maps your treatment area. Tattoos or marks help technicians deliver radiation to the exact same location each day. Your treatment plan specifies the radiation dose, number of treatments, and areas to be treated. Planning takes 1-2 hours and involves multiple imaging studies. The resulting plan balances cancer control with minimization of harm to surrounding tissues.
+</p>
+
+<h2>The Treatment Experience</h2>
+<p>
+Radiation therapy is typically delivered 5 days a week for 3-7 weeks depending on the protocol. Each treatment lasts 15-30 minutes, though most time is spent positioning and imaging. The radiation beam is transmitted from an external machine called a linear accelerator. Patients lie still during treatment, and unlike chemotherapy, radiation is not systemic so energy levels remain relatively stable.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Post-radiation skin care"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Side Effects</h2>
+<p>
+Skin irritation develops gradually during treatment, resembling a sunburn, and peaks shortly after treatment ends before improving. Fatigue, though usually mild, can accumulate as treatment progresses. Breast swelling and firmness occur during treatment and may persist for months. Rarely, long-term effects include rib fractures, brachial plexopathy, or second cancers, but benefits in cancer control generally outweigh these small risks.
+</p>
+
+<h2>Managing Your Treatment</h2>
+<p>
+Protect skin from sun exposure during and after treatment. Use gentle cleansers and soft clothing over the treated area. Avoid deodorants with aluminum compounds during treatment. Maintain good nutrition and stay hydrated. Gentle exercise and adequate sleep help manage fatigue. Communicate any significant side effects to your radiation oncologist so adjustments can be made if needed.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Oncology team follow-up"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "life-after-treatment",
+  slug: "life-after-treatment",
+  title: "Life After Breast Cancer Treatment: Moving Forward",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Navigate survivorship after breast cancer, including follow-up care, recurrence monitoring, and strategies for rebuilding your life.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cancer survivor celebration"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Completing breast cancer treatment is a major milestone, yet many survivors face uncertainty about life afterward. Developing a survivorship plan with your oncology team provides clarity about follow-up care, monitoring, and lifestyle modifications. Understanding what to expect during the first years after treatment helps you move forward with confidence and purpose.
+</p>
+
+<h2>Survivorship Care Planning</h2>
+<p>
+Your oncology team should provide a summary of your cancer diagnosis, treatments received, and side effects to monitor. A survivorship care plan outlines recommended follow-up visits, imaging studies, and blood work schedules. Typically you'll see your oncologist every 3-6 months for the first 2-3 years, then annually. Clear communication between your oncologist and primary care physician ensures coordinated, comprehensive care.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Healthcare team collaboration"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Monitoring for Recurrence</h2>
+<p>
+Regular physical exams are the cornerstone of recurrence monitoring. Annual mammography screens for new cancers. Some patients with higher risk may have more frequent imaging. Be vigilant about new breast symptoms and report them promptly. Surveillance focuses on early detection of recurrence when treatment options are optimal. The goal is to catch any return of cancer at the earliest, most treatable stage.
+</p>
+
+<h2>Managing Long-Term Side Effects</h2>
+<p>
+Lymphedema, arm swelling from lymph node surgery, can develop years after treatment. Early intervention with compression therapy and physical therapy prevents progression. Numbness or tingling from chemotherapy-related neuropathy usually improves but may persist. Chemotherapy-related cognitive changes ("chemo brain") affect some survivors, though symptoms typically improve over time. Strategies include cognitive rehabilitation, exercise, and stress management.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Physical rehabilitation therapy"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Physical and Mental Health</h2>
+<p>
+Regular exercise improves strength, energy, and mood while reducing recurrence risk. Aim for 150 minutes of moderate activity weekly. Maintain a healthy diet rich in fruits, vegetables, and whole grains. Limit alcohol and avoid smoking. Many survivors benefit from psychotherapy or support groups to process experiences and manage anxiety about recurrence. Addressing mental health is as important as physical recovery.
+</p>
+
+<h2>Returning to Normal Life</h2>
+<p>
+Return to work gradually if possible, discussing accommodations with your employer as needed. Resume hobbies, travel, and social activities at your own pace. Relationships may shift after cancer; open communication with family helps rebuild connections. Sexual health concerns from treatment can be addressed with your medical team. Many survivors find meaning in advocacy, volunteer work, or helping others facing cancer.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Survivor advocacy and community"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

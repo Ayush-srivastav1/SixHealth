@@ -1,8 +1,16 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticleRenderer, { ArticleLayout } from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const antiInflammatoryDietArticle = sampleArticles.find((a) => a.slug === "anti-inflammatory-diet");
+const SLUG = "anti-inflammatory-diet";
+const antiInflammatoryDietArticle =
+  findArticleBySlug(SLUG) ?? {
+    id: SLUG,
+    slug: SLUG,
+    title: "Anti-Inflammatory Diet",
+    category: "conditions",
+    content: "<p>Placeholder content for Anti-Inflammatory Diet.</p>",
+  };
 
 export default function AntiInflammatoryDiet() {
-  return <ArticlePage article={antiInflammatoryDietArticle} />;
+  return <ArticleLayout article={antiInflammatoryDietArticle} />;
 }

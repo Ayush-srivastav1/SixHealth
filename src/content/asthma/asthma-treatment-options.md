@@ -3,7 +3,7 @@ slug: asthma-treatment-options
 title: "Modern Asthma Treatments: From Inhalers to Biologics"
 excerpt: "Explore the latest advancements in asthma care, including smart inhalers and biologic therapies for severe cases."
 category: Treatment
-author: "SixHealth Editorial Team"
+author: "Editorial Team"
 authorRole: ""
 reviewer: "Dr. James Wilson"
 reviewerRole: "MD, Respiratory Medicine"

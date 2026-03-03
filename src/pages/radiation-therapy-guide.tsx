@@ -17,7 +17,7 @@ export default function RadiationTherapyGuide() {
                 <p className="text-gray-600 mt-2">A practical, patient-centered guide to how radiation therapy works, what to expect, managing side effects, and long-term follow-up.</p>
 
                 <div className="mt-4 text-sm text-gray-700">
-                  <div><strong>Author:</strong> SixHealth Editorial Team • <strong>Medical review:</strong> Prof. Daniel Reed, MD (Radiation Oncology)</div>
+                  <div><strong>Author:</strong> Editorial Team • <strong>Medical review:</strong> Prof. Daniel Reed, MD (Radiation Oncology)</div>
                   <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
                 </div>
               </div>

@@ -1,22 +1,5 @@
 
-export interface ArticleSection {
-  id: string;
-  heading: string;
-  body: string;
-}
-
-export interface Article {
-  id: string;
-  title: string;
-  author: string;
-  reviewer?: string;
-  date: string;
-  category: string;
-  keyTakeaways?: string[];
-  content: string;
-  sections: ArticleSection[];
-  sourceLabel?: string;
-}
+import type { ArticleSection, Article } from "@/types/article";
 
 const categories = [
   "Nutrition",
@@ -83,6 +66,7 @@ const generateArticles = (count: number): Article[] => {
     
     articles.push({
       id: slug,
+      slug: slug,
       title: `${template.titlePrefix} ${topic}`,
       author: author,
       reviewer: reviewer,

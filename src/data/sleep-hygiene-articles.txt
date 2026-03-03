@@ -1,0 +1,173 @@
+{
+    id: "sleep-hygiene-practices",
+    slug: "sleep-hygiene-practices",
+    title: "Sleep Hygiene: Best Practices for Healthy Sleep Habits",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Evidence-based sleep hygiene practices improving sleep quality and consistency.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516823597251-b3d06d6e0b53?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep hygiene habits"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep hygiene—practices and habits supporting healthy sleep—forms foundation of good sleep. While sleep hygiene alone insufficient treating established sleep disorders, it's essential component of any sleep improvement plan.
+</p>
+
+<h2>Consistent Sleep Schedule</h2>
+<p>
+Same bedtime and wake time daily—including weekends—anchors circadian rhythm powerfully. Rhythm regulated this way stabilizes sleep. Even 1-2 hour weekend variation disrupts circadian regulation. Choosing schedule fitting daily requirements important; schedule consistency matters more than exact time. Most people feel best with 6.5-8 hours sleep fit to their schedule. Consistent schedule usually improves sleep within 1-2 weeks and continues benefit indefinitely.
+</p>
+
+<h2>Caffeine Timing</h2>
+<p>
+Caffeine half-life approximately 5-6 hours—half remaining in body 5-6 hours after intake. Caffeine after 2 PM typically interferes with 11 PM bedtime sleep. Sensitive people need earlier cutoff. Coffee, tea, cola, energy drinks, chocolate contain caffeine. Gradual reduction prevents withdrawal headaches if dependent. Eliminating caffeine entirely often dramatically improves sleep in sensitive people. Some people tolerate morning caffeine well; others must avoid entirely. Individual sensitivity varies substantially.
+</p>
+
+<h2>Alcohol Timing and Limitation</h2>
+<p>
+Alcohol sedates initially but fragments sleep severely within 3-4 hours of intake. Drinking evening alcohol results in early night sleep followed by fragmented second half. Nightly alcohol damages sleep quality cumulatively. Regular drinkers develop tolerance; larger quantities needed for initial sedation. Sleep quality worsens significantly with regular alcohol. Red line: alcohol within 3-5 hours of bedtime disrupts sleep. Earlier drinking (1-2 hours) provides time for absorption/metabolism. Moderation (women ≤1, men ≤2 drinks daily) and avoiding before bed supports sleep.
+</p>
+
+<h2>Exercise Timing</h2>
+<p>
+Regular exercise (150+ minutes weekly) substantially improves sleep quality, reduces insomnia, improves daytime sleepiness. Aerobic exercise particularly beneficial. Timing matters—late-day strenuous exercise can delay sleep (4+ hours post-exercise elevated metabolic rate still). Morning and afternoon exercise optimal for evening sleep. Gentle evening activities (stretching, yoga) support sleep. Avoid vigorous exercise 3-4 hours before bed. If only evening exercise option, keep intensity moderate, complete several hours before bed.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516928588374-20ae06bf1e41?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Bedtime routine"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Screen and Blue Light Avoidance</h2>
+<p>
+Blue light from smartphones, tablets, computers suppresses melatonin when exposed evening. Even dim screen use inhibits melatonin. Devices should be off or put away 30-60 minutes before bed. If screen use necessary before bed, blue-light blocking glasses (moderately effective) or apps reducing blue light (less effective than avoiding altogether) help. Reading physical books or relaxing activities preferred. Bedroom completely screen-free optimal. Morning/daytime screen use has no sleep impact; evening is problematic.
+</p>
+
+<h2>Bedtime Routine</h2>
+<p>
+Consistent wind-down routine (30-60 minutes before bed) signals sleep time to brain. Routine personal preference but typically includes: warm bath/shower, gentle stretching, reading, meditation, or journal writing. Consistency matters—same routine nightly trains body recognition. Dimmed lights, calming music, or aromatherapy enhance routine. Routine should involve little stimulation or work-related thought. Particularly important for people transitioning between work/high stress to sleep. Bed reserved for sleep not evening relaxation maximizes stimulus control.
+</p>
+
+<h2>Temperature Control</h2>
+<p>
+Cool bedroom (60-67°F) aligns with biological sleep need for lower core temperature during sleep. Hot bedrooms impair sleep. If room can't be cooled adequately, light bedding or fan helps. Conversely, cold extremities (cold hands/feet) are problematic for most—warm socks or mittens help. Comfortable thermal balance individually variable.
+</p>
+
+<h2>Limiting Naps</h2>
+<p>
+Brief naps (20-30 minutes) can refresh without impairing nighttime sleep. Longer naps or afternoon naps disrupt nighttime sleep particularly in people with insomnia. Sleep drive relevant—if nighttime sleep is good, brief nap OK; if fragmented nighttime sleep, eliminate naps. Naps after 3 PM impair evening sleep more than earlier naps.
+</p>
+
+<h2>Limit Liquids Evening</h2>
+<p>
+Excessive fluid intake evening leads to nighttime urination disrupting sleep. Limiting drinks 1-2 hours before bed reduces nighttime bathroom trips. Some urinary frequency occurs but excessive fluids worsen it. Particularly important for people with sleep maintenance insomnia or older adults.
+</p>
+
+<h2>Limiting Large Meals</h2>
+<p>
+Heavy, spicy, or acidic meals close to bed can cause discomfort, reflux, or delayed digestion interfering with sleep. Light snack 1-2 hours before bed if hungry. Bedroom hunger interferes with sleep but overfull stomach similarly problematic. Particularly important for GERD sufferers—lying flat with full stomach triggers reflux.
+</p>
+
+<h2>Creating Sleep-Conducive Bedroom</h2>
+<p>
+Dark, quiet, cool bedroom dedicated to sleep. Removing televisions, computers, work materials. Blackout curtains, eye mask if necessary. White noise if noisy environment. Quality mattress and pillows. Comfortable bedding. Pleasant but minimal décor. No bright clocks. Bedroom purely for sleep and intimacy.
+</p>
+
+<h2>Limiting Time in Bed Awake</h2>
+<p>
+If unable to fall asleep after 20-30 minutes, leave bed. Mental activity and worry build conditioning anxiety around bed. Breaking this pattern—getting up if can't sleep, returning when drowsy—is important stimulus control. Repeated sleep attempts create frustration and wakefulness. Removing this by leaving bed and relaxing elsewhere for a while, then returning when sleepy, prevents association between bed and wakefulness/frustration.
+</p>
+
+<p>
+Consistent sleep hygiene practices provide foundation enabling restorative sleep quality.
+</p>
+  `
+  },
+  {
+    id: "sleep-environment-optimization",
+    slug: "sleep-environment-optimization",
+    title: "Optimizing Your Sleep Environment for Better Rest",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Complete guide to designing an ideal bedroom for quality sleep.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516928588374-20ae06bf1e41?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Optimized sleep sanctuary"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep environment dramatically impacts sleep quality. Creating optimal bedroom environment removes barriers enabling restorative sleep. Even small environment changes often produce noticeable sleep improvements.
+</p>
+
+<h2>Darkness Assessment and Optimization</h2>
+<p>
+Complete darkness optimal. Visual assessment: can you see your hand in front of face at night? If yes, darkness insufficient. Darkness promotes melatonin secretion and deep sleep. Blackout curtains block outdoor light. Lined curtains add insulation benefit. Installing blackout at rental properties: removable backing makes installation and removal simple. Eye masks provide portable darkness; useful for travel or multiple occupancy situations. Clock displays, phone chargers, cable boxes all produce light—covering or removing prevents sleep disruption. Electronic devices should be invisible at night. Completely dark room improves sleep latency and depth measurably within 1-3 nights.
+</p>
+
+<h2>Temperature Optimization</h2>
+<p>
+Ideal sleep temperature 60-67°F (15-19°C)—slightly cooler than daytime living areas. Temperature sensing by skin drives circadian changes. Warm sleepy signals approaching. Excessively warm bedroom prevents melatonin changes and causes wakefulness. Thermostats allow precise control. Portable fans provide cooling and white noise simultaneously. In hot climates, cooling AC necessary. Bedding layers allow adjustment—warm duvet in cool room provides flexibility. Cold extremities problematic for many—warm socks or mittens help while maintaining cool core. Split-control beds (separate temperature zones) help couples with different preferences.
+</p>
+
+<h2>Sound Management</h2>
+<p>
+Quiet bedroom ideal. Traffic noise, neighbors, animals, household sounds disrupt sleep. White noise machines produce consistent neutral sound masking irregular noise. Fan provides white noise and cooling. Rain sounds or nature recordings available on speakers/apps. Sound machines (some apps, some dedicated machines) helpful alternatives. Earplugs—foam or custom molded—block many sounds though not all frequencies equally. Sound environment influences sleep maintenance particularly; early sleep onset may not require complete silence.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep quality and comfort"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Mattress Selection and Maintenance</h2>
+<p>
+Mattress quality significantly impacts comfort and sleep. Old, sagging, or uncomfortable mattresses impair sleep. Testing before purchase important—spending 10-15 minutes in store lying on potential mattress simulates real use. Firm versus soft personal preference varies. Most people benefit from medium-firm support. Mattress lifespan 7-10 years; older mattresses often degraded. Quality mattresses maintain support years; poor-quality mattresses sag quickly. Mattress covers and pads can extend life but can't fix fundamentally poor mattress. Mattress investment often results in sleep improvements justifying cost.
+</p>
+
+<h2>Pillow and Bedding Quality</h2>
+<p>
+Quality pillows supporting neck properly prevent neck pain and stiffness. Too-soft pillows don't support; too-firm pillows cause neck pain. Sleeping position influences pillow needs—side sleepers need higher pillows, back sleepers lower. Personal testing important. Pillows last 1-2 years before becoming flat and unsupportive. Soft, comfortable sheets improve perceived comfort. Thread count matters—higher quality sheets feeling smoother and more comfortable. Hypoallergenic materials if allergic (dust mite sensitivity common). Weighted blankets can help some people with anxiety; others find them uncomfortable. Personal preference determines bed linens—what feels comfortable to one person bothers another.
+</p>
+
+<h2>Air Quality and Ventilation</h2>
+<p>
+Fresh air supports better sleep. Cracked window or ventilation maintains CO2 levels normal. Stale bedroom air impairs sleep. Air quality—no cigarette smoke, pet dander minimized, mold avoided. Air filter useful if allergies present. Humidifier (35-50% humidity) in dry climates prevents dry airways, congestion. Dehumidifier useful if humidity excessive (>50%) reducing mildew risk. Air freshness important often overlooked factor.
+</p>
+
+<h2>Lighting and Ambiance</h2>
+<p>
+Ceiling lights off entirely (or not present). Bedside lighting should be dimmable for reading or non-intrusive (dim lamp). No bright overhead lights causing alertness. Soft ambient light earlier in wind-down helpful; complete darkness during sleep. Color psychology—blues, greens, grays support calm; bright colors stimulate. Calming visual environment reduces mental stimulation. Minimal visual clutter—organized, neat bedroom supports sleep psychologically.
+</p>
+
+<h2>Bedroom Purpose and Boundaries</h2>
+<p>
+Bedroom exclusively for sleep (and intimacy) maximizes stimulus control. Not workspace, not exercise space, not TV-watching space. Removing computers, work materials, televisions physically trains brain recognizing bedroom as sleep-dedicated. Roommate negotiation if shared space—privacy screens or separate sleeping areas if possible. For couples—some sleep better together, others separate (even separate rooms) improves both partners' sleep. Individual and couple needs vary; honest discussion supports optimization.
+</p>
+
+<h2>Creating Sanctuary Feeling</h2>
+<p>
+Bedroom should feel safe, comfortable, inviting for sleep. Personal touches—photos, calming art—can support this while avoiding overstimulation. Minimal clutter creates psychological calm. Bedtime routine making bedroom feel special. Some people benefit from smell/aromatherapy—lavender, chamomile essential oils diffused lightly. Personal preferences vary; optimization is individual.
+</p>
+
+<p>
+Optimized sleep environment removes barriers enabling consistent restorative sleep.
+</p>
+  `
+  }

@@ -1,10 +1,12 @@
-import { sampleArticles } from "@/data/articles";
+import { allArticles } from "@/data/allArticles";
 import { breastCancerSections } from "@/data/breastCancerSections";
 import { eyeHealthCategories, editorsPicks, correctiveEyeSurgery, managingVisionPrescriptions, homeRemedies, moreTopReads, navigatingEyeSymptoms } from "@/data/EyeHealth";
 import { chemoToc } from "@/data/chemotherapy";
 import { menopauseSections } from "@/data/menopauseSections";
 import { menopauseSectionsDetailed } from "@/data/menopauseSectionsDetailed";
 import { msSectionsDetailed } from "@/data/msSectionsDetailed";
+
+import { contentToString } from "@/lib/articleUtils";
 
 export interface SearchableItem {
   id: string;
@@ -22,15 +24,15 @@ export const getAllSearchableContent = (): SearchableItem[] => {
   const items: SearchableItem[] = [];
 
   // Articles
-  sampleArticles.forEach(article => {
+  allArticles.forEach(article => {
     items.push({
       id: article.id,
       title: article.title,
-      content: article.excerpt,
+      content: article.description || contentToString(article.content) || '',
       category: article.category,
       type: 'article',
-      url: `/article/${article.slug}`,
-      excerpt: article.excerpt,
+      url: (article.categorySlug ? `/${article.categorySlug}/article/${article.slug}` : `/article/${article.slug}`),
+      excerpt: article.description,
       imageUrl: article.imageUrl,
     });
   });
@@ -41,11 +43,11 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       items.push({
         id: article.id,
         title: article.title,
-        content: article.content,
+        content: contentToString(article.content),
         category: 'breast-cancer',
         type: 'article',
         url: `/breast-cancer/article/${article.id}`,
-        excerpt: article.content,
+        excerpt: contentToString(article.content),
       });
     });
   });

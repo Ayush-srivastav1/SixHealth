@@ -1,5 +1,7 @@
 
 import { useState, useRef } from "react";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 import { Link } from "react-router-dom";
 import { Layout } from "@/components/layout";
 
@@ -1213,6 +1215,7 @@ function Section({ section }: {
           >
             <img
               src="/placeholder.svg"
+onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
               alt={article.title}
               className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
               loading="lazy"
@@ -1227,3 +1230,6 @@ function Section({ section }: {
     </section>
   );
 }
+
+
+

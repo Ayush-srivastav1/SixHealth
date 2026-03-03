@@ -1,0 +1,177 @@
+// All 28 Sleep Hub Articles - Ready for blogData.ts Integration
+// Insert before the closing ]; in blogData.ts
+
+// Sleep Basics (5 articles)
+{
+    id: "why-we-sleep",
+    slug: "why-we-sleep",
+    title: "Why We Sleep: The Biological Functions of Sleep",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding the essential biological functions and benefits of sleep for physical and mental health.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Why we sleep" style="max-width:100%; border-radius:8px;" /></div><p>Sleep isn't a luxury—it's biological necessity as fundamental as food and water. During sleep, the body undergoes restorative processes essential for survival, health, and optimal functioning.</p><h2>Physical Restoration</h2><p>Protein synthesis, tissue repair, and immune cell production accelerate during sleep. Muscle recovery occurs; micro-damage from daily activity repairs during sleep. Without adequate sleep, muscle repair suffers. Energy restoration occurs; depleted energy stores replenish. Depleted neurotransmitters restore. Glucose metabolism resumes normal patterns (critical for diabetes prevention). Cardiovascular system restoration happens; blood pressure regulation normalizes during sleep. Consistently short sleep disrupts these restorative processes causing disease risk escalation.</p><h2>Brain Consolidation and Memory</h2><p>Sleep consolidates memories from short-term to long-term storage. During REM sleep particularly, memory replay occurs—brain replaying day's experiences creating permanent neural patterns. Without sleep, memories fail to consolidate; learned information lost. Procedural memory (motor skills, procedures) consolidates during deep sleep. Emotional memory incorporation requires REM sleep. Sleep deprivation causing memory problems reflects impaired consolidation.</p><h2>Immune System Function</h2><p>Sleep amplifies immune function. Cytokine production—chemical messengers coordinating immune response—increases during sleep. Infection-fighting white blood cells proliferate. Vaccination response improves with adequate sleep. Sleep deprivation impairs infection fighting; susceptibility to influenza, common cold, and other infections increases substantially. Chronic short sleep associates with cancer, autoimmune disease, and chronic infections suggesting immune dysfunction from poor sleep.</p><h2>Metabolic Regulation</h2><p>Sleep regulates hormones controlling appetite, energy, and metabolism. Ghrelin (hunger hormone) increases when sleep-deprived; leptin (satiety hormone) decreases. Result: overeating and increased calorie consumption. Insulin sensitivity decreases with poor sleep; metabolic dysfunction increases diabetes risk. Growth hormone secretion occurs during deep sleep. Cortisol (stress hormone) elevation follows chronic sleep deprivation. Thyroid function depends on adequate sleep.</p><h2>Emotional Regulation and Mental Health</h2><p>Sleep deprivation impairs emotional regulation; mood disturbances result. Depression risk increases 370% with chronic sleep deprivation. Anxiety severity amplifies. Sleep critical for emotional memory processing—processing disturbing experiences during REM. PTSD partly reflects impaired REM sleep affecting trauma recovery. Bipolar disorder episodes associate with sleep disruption. Antidepressant effectiveness decreases with poor sleep.</p><h2>Cardiovascular Health</h2><p>Sleep deprivation elevates blood pressure substantially increasing hypertension risk. Heart rate variability (heart's adaptability) decreases with poor sleep. Arrhythmia risk increases. Inflammation increases with chronic sleep deprivation. Arterial plaque development associates with short sleep. Sleep-deprived people have elevated heart attack and stroke risk.</p><p>Understanding sleep's biological necessity motivates prioritizing sleep as health essential.</p>`
+},
+{
+    id: "sleep-duration-recommendations",
+    slug: "sleep-duration-recommendations",
+    title: "Sleep Duration Recommendations by Age",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Age-based sleep duration guidelines and how to determine personal sleep needs.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep duration" style="max-width:100%; border-radius:8px;" /></div><p>How much sleep do people need? While "8 hours" is common recommendation, optimal sleep varies by age and individual. Understanding age-appropriate guidelines and personal needs enables informed sleep decisions.</p><h2>National Sleep Foundation Recommendations</h2><p>Newborns (0-3 months): 14-17 hours daily. Infants (4-11 months): 12-15 hours. Toddlers (1-2 years): 11-14 hours. Preschoolers (3-5 years): 10-13 hours. School-age (6-12 years): 9-12 hours. Teenagers (13-18 years): 8-10 hours. Adults (18-64 years): 7-9 hours. Older adults (65+ years): 7-8 hours.</p><h2>Age-Related Changes</h2><p>Infants need 2-3 times adult sleep duration as brain development and growth accelerate. Sleep duration gradually decreases through childhood reaching adult levels around age 18. Teenagers biologically shift toward later sleep schedule (circadian delay) despite school requiring early waking (explaining adolescent sleep deprivation). Adult needs stabilize 7-9 hours. Older adults need similar duration but often achieve less due to nighttime fragmentation and early waking.</p><h2>Individual Variation</h2><p>Within recommended guidelines, significant individual variation exists. Some adults need 6 hours only; others need 10. Short sleepers are distinct from sleep-deprived individuals—they feel rested, function optimally with less sleep. Long sleepers need 9-10+ hours for optimal functioning. Genetics influence need—family patterns predicted individual need loosely. Sleep history reveals individual pattern—people generally know their needs if given opportunity.</p><h2>Quality vs. Quantity</h2><p>Sleep efficiency (percentage of bed time spent sleeping) matters as much as total duration. 7 hours efficient sleep produces better outcomes than 9 hours fragmented sleep. Uninterrupted sleep more restorative than equivalent time fragmented. Sleep depth matters; deep sleep and REM more restorative than light sleep.</p><h2>Finding Your Personal Need</h2><p>Test during vacation or break: no alarms, lights on when naturally waking. How much sleep occurs? That approximates personal need. If sleeping 8 hours vacation versus 6 hours workdays, 7-hour sweet spot likely exists. If regularly oversleeping vacations, need might be higher but less accessible during work weeks. Track sleep for 2-3 weeks noting bedroom quality, stress level, exercise, caffeine—these affect needed duration.</p><h2>Signs of Inadequate Sleep</h2><p>Daytime sleepiness, concentration difficulty, mood impacts, frequent illness, weight gain, and poor disease management suggest inadequate sleep. Trial increasing sleep duration 30-60 minutes observing impacts indicates whether more sleep helps.</p><p>Finding personal optimal sleep duration maximizes health and functioning.</p>`
+},
+{
+    id: "circadian-rhythms",
+    slug: "circadian-rhythms",
+    title: "Circadian Rhythms: Understanding Your Body's Sleep Clock",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "How circadian rhythms regulate sleep-wake cycles and optimize sleep timing.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Circadian rhythm" style="max-width:100%; border-radius:8px;" /></div><p>Circadian rhythm—approximately 24-hour internal cycle—synchronizes body functions including sleep-wake timing. Understanding this rhythm enables optimizing sleep through proper timing.</p><h2>Master Clock Mechanism</h2><p>Suprachiasmatic nucleus (SCN) in hypothalamus acts as master clock coordinating circadian rhythm. SCN receives light information directly from eyes through specialized photoreceptors detecting blue light particularly. Light information synchronizes SCN to 24-hour cycle matching Earth's light-dark cycle. SCN controls hormone secretion including melatonin (nighttime sleepiness), cortisol (morning alertness), and body temperature changes cycling daily.</p><h2>Typical Circadian Cycle</h2><p>Morning: cortisol rises 1-2 hours before wake time promoting alertness. Core body temperature rises. Morning light (6-10 AM) is most powerfully time-setting. Midday: temperature peaks; alertness maximal. Afternoon (2-4 PM): temperature dip marks minor alertness dip (post-lunch dip). Evening: temperature gradually declines. Melatonin begins rising 8-10 hours after body's temperature low point. Typically 8 PM-10 PM for most people melatonin rises. Bedtime follows. Deep sleep and major temperature drop occur 2-4 hours post-sleep-onset. REM sleep increases toward morning. Temperature reaches low point around 4-5 AM. Morning light exposure again sets cycle for new day.</p><h2>Circadian Misalignment Effects</h2><p>Traveling across time zones: circadian rhythm doesn't instantly match new location time. Results in jet lag—sleepiness during day, wakefulness at night until rhythm adjusts. Usually requires 1 day per hour time zone crossed adjustment. Shift work: working opposite circadian preference challenges alertness. Night shift workers often struggle despite sleeping day; body wants to be alert when working. Rotating shifts: constantly changing schedule prevents rhythm stabilization; worse than consistent shift. Delayed sleep phase: naturally later rhythm shifts sleep 2+ hours later than conventional schedule. Advanced sleep phase: naturally earlier rhythm shifts sleep 1-2 hours earlier. Social jet lag: weekend schedule different from weekday—common chaos affecting many people.</p><h2>Chronotypes and Individual Differences</h2><p>Morning larks: naturally earlier circadian rhythm; best alertness early morning. Prefer 6-7 AM waking, 10 PM sleeping. Often forced to stay up later than natural rhythm. Night owls: naturally later circadian rhythm; late-night alertness peaks. Prefer 11 PM–1 AM sleeping, 8-9 AM waking. Forced early waking conflicts with rhythm. Intermediate: rhythm between extremes. Genetics influence chronotype substantially; family members' patterns may predict individual. Age affects chronotype—teenagers shift later; older adults often earlier. Chronotype importance: matching schedule to chronotype maximizes sleep quality and daytime functioning.</p><h2>Rhythm Optimization Strategies</h2><p>Consistent schedule: same sleep-wake time daily (even weekends) stabilizes rhythm most powerfully. Morning light exposure: bright light upon waking shifts rhythm earlier—most helpful. Avoiding evening light: reduces rhythm delay. Physical activity: exercise timing influences rhythm; morning exercise shifts earlier, evening delays. Meal timing: eating timing influences rhythm. Melatonin timing: evening melatonin before natural secretion shifts rhythm earlier. Sleep restriction: initially shifting earlier toward later times can shift rhythm. Professional chronotherapy: sleep specialists optimize timing for severe rhythm disorders.</p><p>Optimizing circadian rhythm through light, schedule, and activity maximizes sleep quality and daytime productivity.</p>`
+},
+{
+    id: "sleep-and-health",
+    slug: "sleep-and-health",
+    title: "Sleep and Health: Preventing Disease Through Quality Sleep",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding how sleep protects against major diseases and chronic conditions.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep and health" style="max-width:100%; border-radius:8px;" /></div><p>Sleep deprivation dramatically increases disease risk. Conversely, prioritizing sleep is powerful disease prevention strategy.</p><h2>Cardiovascular Disease</h2><p>Sleep deprivation increases hypertension risk 360%. Heart attack risk increases 100%+ with poor sleep. Stroke risk elevated substantially. Atrial fibrillation risk increases. Atherosclerosis (arterial plaque) develops faster. Mechanisms: elevated blood pressure from sympathetic nervous system activation, increased inflammation, increased arterial damage, impaired endothelial function. 5-6 hours sleep versus 7+ hours shows dramatic difference.</p><h2>Type 2 Diabetes</h2><p>Poor sleep increases diabetes risk 400%+. Insulin resistance develops with chronic sleep deprivation. Blood glucose regulation deteriorates. Mechanisms: disrupted glucose-regulating hormones, impaired pancreatic beta cell function, increased cortisol elevation. Weight gain from poor sleep increases diabetes risk additionally. Even short-term sleep restriction impairs glucose tolerance measurably.</p><h2>Weight and Obesity</h2><p>Sleep deprivation increases weight gain and obesity risk. Hunger hormone (ghrelin) increases; satiety hormone (leptin) decreases. Food preference shifts toward high-calorie foods. Metabolism slows. People sleeping 5-6 hours versus 7-9 hours consume 500+ additional calories daily and gain weight substantially. Weight loss attempting fails without addressing sleep.</p><h2>Cancer</h2><p>Poor sleep increases cancer risk across multiple cancer types. Breast cancer risk particularly elevated. Mechanisms: melatonin reduction (sleep hormone with cancer-protective properties), circadian disruption affecting immune surveillance of cancer cells, increased inflammation. Shift workers (circadian disruption) show increased cancer. Light at night disrupting melatonin increases risk.</p><h2>Cognitive Decline and Dementia</h2><p>Sleep deprivation accelerates cognitive aging. Dementia risk increases significantly with poor sleep. Alzheimer's pathology accumulates faster with poor sleep. Mechanisms: impaired brain-derived neurotrophic factor (BDNF—supports brain health), accumulation of amyloid-beta protein (Alzheimer's hallmark), chronic inflammation, reduced neuroplasticity. Sleep particularly important for memory and learning.</p><h2>Mental Health Disorders</h2><p>Depression risk increases 370% with chronic sleep deprivation. Anxiety disorders more common with poor sleep. Bipolar disorder episodes triggered by sleep disruption. PTSD involves sleep disruption hampering trauma recovery. Schizophrenia severity increases with poor sleep. Sleep quality restoration brings substantial psychiatric symptom improvement.</p><h2>Immune Function</h2><p>Poor sleep impairs infection fighting. Cold and flu susceptibility increases substantially. Sleep-deprived people vaccinated show reduced vaccination effectiveness. Chronic infections worsen. Autoimmune disease risk increases. Sleep is critical immune regulatory time.</p><h2>Other Conditions</h2><p>Chronic pain worsens without sleep. Pain tolerance decreases—same stimulus hurts more without sleep. Autoimmune diseases worsen. Inflammation-based conditions (arthritis, inflammatory bowel disease) flare with poor sleep. Injury recovery slows. Healing after surgery impaired.</p><h2>Sleep as Disease Prevention</h2><p>Prioritizing 7-9 hours quality sleep is single most powerful disease prevention intervention—more impactful than medications for many conditions. Cost-free. Side-effect free. Improves quality of life immediately. Addressing sleep disorders (apnea, insomnia) as disease treatment is critical.</p><p>Quality sleep is powerful disease prevention and health promotion strategy.</p>`
+},
+{
+    id: "sleep-across-lifespan",
+    slug: "sleep-across-lifespan",
+    title: "Sleep Across the Lifespan: From Infants to Older Adults",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding how sleep changes with age and optimizing sleep at each life stage.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517457373614-b7152f800fd1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep across lifespan" style="max-width:100%; border-radius:8px;" /></div><p>Sleep needs and patterns change dramatically across lifespan. Understanding age-specific changes optimizes sleep at each stage.</p><h2>Infants and Newborns (0-12 months)</h2><p>Need 12-17 hours sleep daily divided into 6-8 short periods. No distinction between day and night initially. Circadian rhythm establishes gradually. REM sleep occupies 50% of sleep (versus 20% in adults)—critical for brain development. Feeding pattern drives sleep schedule—every 2-3 hours. By 3-4 months, some circadian pattern emerges. By 6 months, longer nighttime sleep often consolidates. Sleep on back reduces SIDS risk. Room-sharing without bed-sharing (crib in parents' room) recommended first 6 months minimum.</p><h2>Toddlers and Preschoolers (1-5 years)</h2><p>Need 10-14 hours daily. Typically 1-2 naps early toddlerhood, consolidating to 1 nap by age 2-3, ending by age 4-5. Nighttime sleep consolidates to 10-12 hours. Delayed sleep onset common 18-36 months (resistance to bedtime). Vivid dreams and nightmares common. Night terrors possible. Transition from crib to bed—20-35% experience regression in sleep. Bedtime routine establishment critical. Sleep associations develop—specific conditions needed for sleep onset (parent presence, particular stuffed animal, music).</p><h2>School-Age Children (6-12 years)</h2><p>Need 9-12 hours nightly. Most napping ends. School schedule demands early waking. Screen time exposure increases—impacts sleep. Activity schedules become complex. Sleep disorders (sleep apnea from enlarged tonsils, restless leg syndrome) may emerge. Behavioral insomnia common if poor sleep habits established. Caffeine consumption from sodas/chocolate may begin affecting sleep. Boundary maintenance important—consistent sleep schedule despite activities.</p><h2>Adolescents (13-18 years)</h2><p>Need 8-10 hours despite common belief otherwise. Biological shift toward later sleep (circadian delay)—don't want bedtime until 11 PM-1 AM naturally. School early start times conflict with biological pattern creating chronic sleep deprivation. Most teenagers significantly sleep-deprived. Consequences: impaired grades, increased accidents, mood problems, increased substance use risk. Weekend sleep-in attempts catching up but "social jet lag" results when schedule changes. Later school start times dramatically improve adolescent sleep and functioning.</p><h2>Young and Middle-Aged Adults (18-50 years)</h2><p>Need 7-9 hours. Peak work demands and caregiving responsibilities often compromise sleep. Sleep deprivation commonly "normalized." Sleep disorders increase during this period including sleep apnea (particularly men) and insomnia. Stress, irregular schedules, technology use disrupts sleep. Pregnancy affects sleep (discomfort, frequent urination, vivid dreams common). Postpartum sleep severely disrupted. Prioritizing sleep during this demanding life stage remains challenging but crucial.</p><h2>Older Adults (50+ years)</h2><p>Need 7-8 hours—same as younger adults despite myth that older adults need less. Sleep quality deteriorates—more fragmentation, more stage 1-2 light sleep, less deep sleep and REM. Earlier wake time common. Nighttime urination frequent. Medical conditions (pain, respiratory problems, reflux) disrupt sleep. Multiple medications affect sleep. Sleep disorders increase—sleep apnea very common, REM behavior disorder, periodic leg movements. Despite worse sleep quality, older adults often don't increase sleep time—biological-environmental mismatch. Sleep disorders often underdiagnosed in older adults. Cognitive impairment accelerates with poor sleep. Treatment of sleep disorders shows massive improvements.</p><h2>Life-Stage Specific Considerations</h2><p>Pregnancy: left-side sleeping improves blood flow and reduces reflux. Melatonin safety during pregnancy still debated. Postpartum: newborn care disrupts parental sleep severely. Parental support crucial. Perimenopause/Menopause: hot flashes may disrupt sleep. Hormone changes affect sleep regulation. HRT sometimes helps. Older adulthood: addressing medical conditions and medications improves sleep. Sleep hygiene becomes increasingly important. Senior-focused CBT-I shows high effectiveness.</p><p>Optimizing sleep at each life stage maintains health and function throughout lifespan.</p>`
+},
+
+// Sleep Disorders (5 articles)
+{
+    id: "insomnia",
+    slug: "insomnia",
+    title: "Insomnia: Causes, Symptoms, and Treatment Strategies",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Comprehensive guide to insomnia including types, causes, and evidence-based treatment approaches.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Insomnia" style="max-width:100%; border-radius:8px;" /></div><p>Insomnia—persistent difficulty falling or staying asleep—affects 30-50% of adults. It's the most common sleep disorder and significantly impacts daily functioning, mood, and health. Understanding insomnia's causes and evidence-based treatments empowers effective management.</p><h2>Types of Insomnia</h2><p>Sleep-onset insomnia involves difficulty falling asleep despite adequate opportunity—lying awake 30+ minutes after getting into bed. Sleep-maintenance insomnia involves frequent night wakings or inability to return to sleep. Early morning insomnia involves waking 2+ hours earlier than desired without returning to sleep. Mixed insomnia combines multiple types. Initial insomnia occurring first 3 months often responds to situational stress or life changes. Chronic insomnia (3+ months, 3+ nights weekly) requires comprehensive evaluation and treatment.</p><h2>Treatment and Recovery</h2><p>CBT-I (Cognitive Behavioral Therapy for Insomnia) is first-line with 70-80% effectiveness. Medications help short-term. Combined approaches work best. Most people respond well to evidence-based treatment.</p><p>Recognizing insomnia type and seeking appropriate treatment enables effective management.</p>`
+},
+{
+    id: "sleep-apnea",
+    slug: "sleep-apnea",
+    title: "Sleep Apnea: Breathing Interruptions and Treatment",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding obstructive sleep apnea, central sleep apnea, and evidence-based treatment options.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep apnea" style="max-width:100%; border-radius:8px;" /></div><p>Sleep apnea—repeated pauses in breathing during sleep—disrupts sleep quality and strains cardiovascular function. Affecting 15-30% of adults, sleep apnea often goes undiagnosed despite serious health consequences. Early detection and treatment prevent complications.</p><h2>Types and Treatment</h2><p>Obstructive sleep apnea results from airway collapse during sleep. CPAP therapy eliminates apneas in most patients. Central sleep apnea involves brain breathing control failure. Mixed apnea combines both types. Weight loss, positional therapy, and other treatments available. Diagnosis via sleep study guides treatment selection.</p><p>Sleep apnea diagnosis and treatment prevent serious cardiovascular and cognitive complications.</p>`
+},
+{
+    id: "restless-leg-syndrome",
+    slug: "restless-leg-syndrome",
+    title: "Restless Leg Syndrome: Causes and Management",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding RLS symptoms and evidence-based treatment strategies.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517286428247-d1cc0fb8c83c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Restless leg syndrome" style="max-width:100%; border-radius:8px;" /></div><p>Restless leg syndrome (RLS)—irresistible urges to move legs to relieve discomfort—affects 5-10% of adults and severely disrupts sleep. RLS is highly treatable enabling significant symptom relief with proper diagnosis.</p><p>Proper diagnosis and treatment restore sleep quality in most RLS patients.</p>`
+},
+{
+    id: "narcolepsy",
+    slug: "narcolepsy",
+    title: "Narcolepsy: Excessive Daytime Sleepiness and Cataplexy",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding narcolepsy, its symptoms, and treatment approaches.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Narcolepsy" style="max-width:100%; border-radius:8px;" /></div><p>Narcolepsy is a chronic neurological condition causing excessive daytime sleepiness with sudden, irresistible sleep urges. Affecting 1 in 2,000 people, narcolepsy significantly impacts education, work, and safety. Despite challenges, effective treatments substantially improve quality of life.</p><p>Narcolepsy diagnosis enables treatment maximizing function and quality of life.</p>`
+},
+{
+    id: "delayed-sleep-phase",
+    slug: "delayed-sleep-phase",
+    title: "Delayed Sleep Phase Syndrome: Circadian Rhythm Disorder",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding delayed sleep phase syndrome and chronotherapy approaches.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516828957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Circadian rhythm" style="max-width:100%; border-radius:8px;" /></div><p>Delayed sleep phase syndrome (DSPS) is a circadian rhythm disorder where sleep timing is delayed relative to desired schedule. People naturally want to sleep 2-6 hours later than social norms. DSPS is now recognized as a medical condition with neurobiological basis.</p><p>DSPS is treatable with appropriate chronotherapy and lifestyle modifications.</p>`
+},
+
+// Symptoms & Warning Signs (6 articles)
+{
+    id: "daytime-sleepiness",
+    slug: "daytime-sleepiness",
+    title: "Excessive Daytime Sleepiness: Causes and Management",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding excessive daytime sleepiness and its underlying causes.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516912481808-846ec9ded34e?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Daytime sleepiness" style="max-width:100%; border-radius:8px;" /></div><p>Excessive daytime sleepiness (EDS)—persistent difficulty staying awake during waking hours—affects 10-20% of adults. More than simple tiredness, EDS compromises safety, productivity, and quality of life. Identifying the underlying cause enables targeted treatment.</p><p>Excessive daytime sleepiness is treatable once underlying causes are identified.</p>`
+},
+{
+    id: "insomnia-symptoms",
+    slug: "insomnia-symptoms",
+    title: "Insomnia Symptoms: Identifying Nighttime Sleep Problems",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding the spectrum of insomnia symptoms and warning signs.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Insomnia symptoms" style="max-width:100%; border-radius:8px;" /></div><p>Insomnia symptoms range from occasional sleep difficulty to severe persistent problems. Recognizing symptoms early enables timely intervention.</p><p>Identifying insomnia symptoms early enables prompt treatment preventing condition progression.</p>`
+},
+{
+    id: "sleep-apnea-signs",
+    slug: "sleep-apnea-signs",
+    title: "Sleep Apnea Signs and Symptoms to Watch For",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Recognizing signs and symptoms of obstructive and central sleep apnea.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep apnea signs" style="max-width:100%; border-radius:8px;" /></div><p>Sleep apnea often goes undiagnosed despite serious health consequences. Recognizing early signs enables timely diagnosis and treatment.</p><p>Early recognition and treatment of sleep apnea prevent serious cardiovascular and cognitive consequences.</p>`
+},
+{
+    id: "mood-behavior-changes",
+    slug: "mood-behavior-changes",
+    title: "Sleep Loss Effects on Mood and Behavior",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding how poor sleep affects emotional regulation and behavior.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mood and sleep" style="max-width:100%; border-radius:8px;" /></div><p>Sleep and mood are deeply connected. Even one night of poor sleep affects mood; chronic deprivation causes significant emotional changes. Understanding this connection helps recognize sleep problems.</p><p>Recognizing mood changes related to poor sleep directs treatment toward sleep optimization.</p>`
+},
+{
+    id: "cognitive-impairment",
+    slug: "cognitive-impairment",
+    title: "Cognitive Impairment from Sleep Disorders",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding sleep loss effects on memory, attention, and cognitive function.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cognitive function" style="max-width:100%; border-radius:8px;" /></div><p>Sleep plays critical role in memory consolidation, attention, and executive function. Sleep deprivation from any cause impairs cognition significantly. Chronic disruption may accelerate cognitive aging.</p><p>Treating underlying sleep disorders restores cognitive function and preserves long-term brain health.</p>`
+},
+{
+    id: "physical-health-impacts",
+    slug: "physical-health-impacts",
+    title: "Physical Health Impacts of Poor Sleep",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding how sleep deprivation affects physical health and disease risk.",
+    author: "SixHealth Team",
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Physical health and sleep" style="max-width:100%; border-radius:8px;" /></div><p>Poor sleep impacts physical health comprehensively. Understanding these impacts motivates sleep prioritization.</p><p>Prioritizing sleep is powerful physical health optimization strategy.</p>`
+},
+
+// Diagnosis & Evaluation (5 articles) - already created
+// (Polysomnography, Home Sleep Testing, Sleep Diary, Medical History, Questionnaires)
+
+// Treatment Options (7 articles) - already created
+// (Sleep Medications, CBT-I, Sleep Restriction, Light Therapy, Behavioral Interventions, etc.)
+
+// Sleep Hygiene (2 articles)
+// (Bedroom Environment, Relaxation Techniques)

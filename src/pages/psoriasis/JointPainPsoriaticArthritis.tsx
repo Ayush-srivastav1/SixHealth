@@ -1,17 +1,17 @@
 import { Layout } from "@/components/layout";
 import { Link } from "react-router-dom";
-import { sampleArticles } from "@/data/articles";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 import { ArticleCard } from "@/components/articles/ArticleCard";
 
 export default function JointPainPsoriaticArthritis() {
-  const article = sampleArticles.find((a) => a.slug === "psoriatic-arthritis");
+  const article = findArticleBySlug("psoriatic-arthritis");
 
-  const related = sampleArticles.filter((a) =>
-    a.slug.includes("psoriatic") || a.title.toLowerCase().includes("psoriatic")
+  const related = allArticles.filter((a) =>
+    (a.slug || "").includes("psoriatic") || (a.title || "").toLowerCase().includes("psoriatic")
   );
 
   // Fallback related articles from same category
-  const fallback = sampleArticles.filter((a) => a.category === (article?.category || "conditions")).slice(0, 3);
+  const fallback = allArticles.filter((a) => a.category === (article?.category || "conditions")).slice(0, 3);
 
   return (
     <Layout>

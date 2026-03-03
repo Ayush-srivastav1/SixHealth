@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import { sampleArticles } from "@/data/articles";
+import { allArticles } from "@/data/allArticles";
 
 
 export const HeroSection = () => {
-  const featuredArticle = sampleArticles[0];
+  const featuredArticle = allArticles[0];
 
   return (
     <section className="relative overflow-hidden bg-background py-12 lg:py-20">
@@ -19,7 +19,7 @@ export const HeroSection = () => {
               {featuredArticle.title}
             </h1>
             <p className="max-w-[600px] text-muted-foreground md:text-xl">
-              {featuredArticle.excerpt}
+              {featuredArticle.description}
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <Button asChild size="lg">

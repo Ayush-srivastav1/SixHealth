@@ -1,0 +1,103 @@
+const fs = require('fs');
+const path = require('path');
+
+const root = path.resolve(__dirname, '..');
+const blogDataPath = path.join(root, 'src', 'data', 'blogData.ts');
+const srcDir = path.join(root, 'src');
+
+function read(p){ try { return fs.readFileSync(p, 'utf8'); } catch(e){ return null } }
+const file = read(blogDataPath);
+if(!file){ console.error('Could not read', blogDataPath); process.exit(2); }
+
+// collect imports like: import name from './blog/asthma-article';
+const importRe = /^import\s+(?:\{\s*([^}]+)\s*\}|([\w$]+))\s+from\s+['"](.+)['"];?/gm;
+let m; const imports = {};
+while((m = importRe.exec(file))){ const named = m[1]; const def = m[2]; const p = m[3]; if(def){ imports[def]=p; } else if(named){ // named imports - map each
+  named.split(',').map(s=>s.trim()).forEach(k => { imports[k]=p; });
+}}
+
+// extract the blogData array content between "export const blogData" and the closing "]" of that array
+const arrRe = /export\s+const\s+blogData[\s\S]*?=\s*\[(?:[\s\S]*?)\n\];/m;
+const arrMatch = file.match(arrRe);
+const arrText = arrMatch ? arrMatch[0] : file;
+
+// find objects by matching 'slug:\s*"..."' and capture content expression nearby
+const slugRe = /slug\s*:\s*['"]([^'"]+)['"]/g;
+let slugs = [];
+while((m = slugRe.exec(arrText))){ const slug = m[1]; const idx = m.index;
+  // look ahead for content: expression within next 800 chars
+  const tail = arrText.slice(idx, idx+800);
+  const contentRe = /content\s*:\s*([\w$.]+|`[\s\S]*?`|\[\s*\])/;
+  const cr = tail.match(contentRe);
+  let contentExpr = cr ? cr[1] : null;
+  if(contentExpr && contentExpr.startsWith('`')){
+    contentExpr = contentExpr.slice(1, -1);
+  }
+  slugs.push({slug, contentExpr});
+}
+
+function resolveContent(expr){ if(!expr) return {present:false, reason:'no content field'};
+  expr = expr.trim();
+  if(expr.startsWith('`')){ const inner = expr.slice(1,-1).trim(); return {present: inner.length>0, reason: inner.length>0? 'inline' : 'empty template'}; }
+  if(expr === '[]') return {present:false, reason:'empty array'};
+  // member access like whatIsAsthma.content or identifier
+  const base = expr.split('.')[0];
+  const imp = imports[base];
+  if(!imp){ return {present:true, reason:'unknown identifier (assume present)'}; }
+  // resolve file path
+  let p = imp;
+  if(p.startsWith('.')) p = path.join(path.dirname(blogDataPath), p);
+  else p = path.join(srcDir, p);
+  // add extension
+  const candidates = [p, p + '.ts', p + '.tsx', p + '.js', p + '.jsx'];
+  let found = null; for(const c of candidates){ if(fs.existsSync(c)) { found = c; break; } }
+  if(!found) return {present:true, reason:'imported file not found (assume present)'};
+  const content = read(found);
+  if(!content) return {present:true, reason:'cannot read imported file (assume present)'};
+  // look for default export string or exported 'content' property
+  if(/export\s+default\s+`[\s\S]*?`/.test(content) || /export\s+default\s+['\"]/.test(content)){
+    // check template string non-empty
+    const m = content.match(/export\s+default\s+(`[\s\S]*?`|['\"][\s\S]*?['\"])/);
+    if(m){ const v = m[1]; const inner = v.startsWith('`') ? v.slice(1,-1).trim() : v.slice(1,-1).trim(); return {present: inner.length>0, reason:'default export'}; }
+  }
+  // if the file exports an object with content: property
+  if(/content\s*:\s*`[\s\S]*?`/.test(content) || /export\s+const\s+.*content\s*:/m.test(content)){
+    const mc = content.match(/content\s*:\s*(`[\s\S]*?`)/);
+    if(mc){ const inner = mc[1].slice(1,-1).trim(); return {present: inner.length>0, reason:'imported.content'}; }
+  }
+  return {present:true, reason:'assume present'};
+}
+
+const emptyArticles = [];
+const presentArticles = [];
+for(const s of slugs){ const res = resolveContent(s.contentExpr); if(!res.present) emptyArticles.push({slug:s.slug, reason:res.reason}); else presentArticles.push({slug:s.slug, reason:res.reason}); }
+
+// Now find links in src/data/** or src/pages/** that point to '/article/' and check if a page exists for slug
+const glob = require('glob');
+const linkRe = /href\s*[:=]\s*['\"]([^'\"]+)['\"]/g;
+const hrefs = new Set();
+const files = glob.sync('src/**/*.{ts,tsx,js,jsx}', {cwd: root});
+for(const f of files){ const c = read(path.join(root, f)); if(!c) continue; let mm; while((mm = linkRe.exec(c))){ const h = mm[1]; if(h.includes('/article/') || h.match(/\/article\//)) hrefs.add(h); } }
+
+const missingLinkPages = [];
+for(const h of Array.from(hrefs)){
+  // extract slug after last '/article/'
+  const m = h.match(/\/article\/(.+)$/);
+  if(!m) continue;
+  const slug = m[1].replace(/\?.*$/,'').replace(/\/#.*$/,'');
+  // check if any page file mentions this slug (slug in file content or filename)
+  const found = files.some(f => f.includes('/' + slug) || read(path.join(root,f)).includes("slug: \""+slug+"\""));
+  if(!found) missingLinkPages.push({href:h, slug});
+}
+
+console.log('totalBlogEntries:', slugs.length);
+console.log('emptyContentCount:', emptyArticles.length);
+console.log('emptyArticlesSample:', emptyArticles.slice(0,10));
+console.log('linksPointingToArticleCount:', hrefs.size);
+console.log('linksMissingPageCount:', missingLinkPages.length);
+console.log('missingLinkPagesSample:', missingLinkPages.slice(0,10));
+
+// write a small JSON output
+fs.writeFileSync(path.join(root, 'tmp_blog_article_report.json'), JSON.stringify({total:slugs.length, emptyCount:emptyArticles.length, empty:emptyArticles, linksCount: hrefs.size, linksMissing: missingLinkPages}, null, 2));
+
+process.exit(0);

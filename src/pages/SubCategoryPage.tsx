@@ -1,7 +1,7 @@
-import { useParams, Link, useLocation } from "react-router-dom";
+import { useParams, Link, useLocation, Navigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
 import { ArticleCard, NewsletterSignup } from "@/components/articles";
-import { sampleArticles } from "@/data/articles";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 // Import static psoriasis pages so topic routes can render their full content
@@ -68,6 +68,45 @@ const SubCategoryPage = () => {
   const title = subcategory ? formatTitle(subcategory) : "Topic";
   const parentCategory = category ? formatTitle(category) : "Category";
 
+  // If the URL's subcategory segment matches an article slug or an alias, redirect
+  // to the canonical article route so the Article page handles rendering.
+  if (subcategory) {
+    // Direct match via findArticleBySlug (checks aliases)
+    const direct = findArticleBySlug(subcategory);
+    if (direct) {
+      const cat = (direct.categorySlug || direct.category || "").toString().toLowerCase().replace(/\s+/g, "-");
+      const target = `/${cat}/article/${direct.slug}`;
+      return <Navigate to={target} replace />;
+    }
+
+    // Fallback: keep the earlier fuzzy matching (normalization) for edge cases
+    const normalize = (raw?: string) => {
+      if (!raw) return "";
+      return raw
+        .toString()
+        .toLowerCase()
+        .replace(/[^a-z0-9\- ]+/g, "")
+        .replace(/\b(with|the|and|a|an|for|of|in|on|to|my|experience)\b/g, "")
+        .replace(/\s+/g, "-")
+        .replace(/-+/g, "-")
+        .replace(/^-|-$/g, "");
+    };
+
+    const sNorm = normalize(subcategory);
+    const match = allArticles.find((a) => {
+      const slug = (a.slug || "").toString();
+      const slugNorm = normalize(slug);
+      if (!slugNorm) return false;
+      return slugNorm === sNorm || slugNorm.includes(sNorm) || sNorm.includes(slugNorm);
+    });
+
+    if (match) {
+      const cat = (match.categorySlug || match.category || "").toString().toLowerCase().replace(/\s+/g, "-");
+      const target = `/${cat}/article/${match.slug}`;
+      return <Navigate to={target} replace />;
+    }
+  }
+
   // If a static page component exists for this psoriasis topic, render it directly.
   // This preserves the existing static page content (many pages live under src/pages/psoriasis)
   if (category === "psoriasis" && subcategory) {
@@ -128,18 +167,22 @@ const SubCategoryPage = () => {
   // category isn't an exact path match (many psoriasis entries live under 'conditions').
   const subKey = subcategory ? subcategory.replace(/-/g, " ").toLowerCase() : "";
 
-  const relatedArticles = sampleArticles.filter((article) => {
-    const titleMatch = article.title.toLowerCase().includes(subKey);
-    const excerptMatch = article.excerpt.toLowerCase().includes(subKey);
+  const relatedArticles = allArticles.filter((article) => {
+    const titleMatch = (article.title || "").toLowerCase().includes(subKey);
+    const excerptMatch = (article.excerpt || "").toLowerCase().includes(subKey);
     const slugMatch = article.slug === subcategory;
 
-    // Primary match: same category and content match
-    if (article.category === category && (titleMatch || excerptMatch || slugMatch)) return true;
+    const artCatSlug = (article.categorySlug || article.category || "")
+      .toString()
+      .toLowerCase()
+      .replace(/\s+/g, "-");
 
-    // Secondary: allow matching by slug/title for known topic pages (e.g., /psoriasis/...) even when
-    // the article's category is different (for example, 'conditions'). This keeps categories intact
-    // while allowing topic pages to show relevant articles.
-    if ((titleMatch || excerptMatch || slugMatch)) return true;
+    // Primary match: same category (by slug) and content match
+    if (artCatSlug === category && (titleMatch || excerptMatch || slugMatch)) return true;
+
+    // Secondary: allow matching by slug/title for known topic pages even when the article's
+    // category is different. This keeps topic pages useful while preferring same-category matches.
+    if (titleMatch || excerptMatch || slugMatch) return true;
 
     return false;
   });
@@ -148,11 +191,17 @@ const SubCategoryPage = () => {
   const displayArticles = relatedArticles.length > 0
     ? // Deduplicate and limit to 8
       Array.from(new Map(relatedArticles.map(a => [a.id, a])).values()).slice(0, 8)
-    : sampleArticles.filter(a => a.category === category).slice(0, 4);
+    : allArticles.filter((a) => {
+        const artCatSlug = (a.categorySlug || a.category || "")
+          .toString()
+          .toLowerCase()
+          .replace(/\s+/g, "-");
+        return artCatSlug === category;
+      }).slice(0, 4);
 
   // Dev debug: log matching info to the browser console to help diagnose empty-results cases
   try {
-    // eslint-disable-next-line no-console
+     
     console.debug("SubCategoryPage match info", {
       category,
       subcategory,
@@ -168,7 +217,7 @@ const SubCategoryPage = () => {
     <Layout>
       {/* Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -196,7 +245,7 @@ const SubCategoryPage = () => {
 
       {/* Main Content */}
       <section className="py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content */}
             <div className="lg:col-span-2">
@@ -206,9 +255,11 @@ const SubCategoryPage = () => {
               
               <div className="grid gap-6 sm:grid-cols-2">
                 {displayArticles.length > 0 ? (
-                  displayArticles.map((article) => (
-                    <ArticleCard key={article.id} {...article} />
-                  ))
+                  displayArticles.map((article) => {
+                    const catSlug = (article.categorySlug || article.category || "").toString().toLowerCase().replace(/\s+/g, "-");
+                    const canonical = catSlug ? `/${catSlug}/article/${article.slug}` : undefined;
+                    return <ArticleCard key={article.id} {...article} forceUrl={canonical} />;
+                  })
                 ) : (
                   <div className="col-span-2 py-12 text-center text-muted-foreground bg-muted/20 rounded-lg">
                     <p>No articles found specifically for this topic yet.</p>

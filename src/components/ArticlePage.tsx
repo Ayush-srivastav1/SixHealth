@@ -1,6 +1,8 @@
 import React from "react";
 import ArticleLayout from "@/components/ArticleLayout";
 import { Article } from "@/data/articles";
+import { contentToString } from "@/lib/articleUtils";
+import { ArticleContent } from "@/components/ArticleRenderer";
 
 function wordCount(text: string) {
   return text.split(/\s+/).filter(Boolean).length;
@@ -82,7 +84,7 @@ export default function ArticlePage({
 
   // Prefer authored HTML content when available; otherwise generate placeholder sections
   const content = article?.content ? (
-    <div className="prose max-w-none text-slate-800" dangerouslySetInnerHTML={{ __html: article.content }} />
+    <ArticleContent content={article.content} />
   ) : (
     generateLongContent(usedTitle, usedExcerpt)
   );

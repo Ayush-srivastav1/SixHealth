@@ -1,8 +1,8 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { findArticleBySlug } from "@/data/allArticles";
 
-const adaptiveExercisesArticle = sampleArticles.find((a) => a.slug === "adaptive-exercises");
+const adaptiveExercisesArticle = findArticleBySlug("adaptive-exercises");
 
 export default function AdaptiveExercises() {
-  return <ArticlePage article={adaptiveExercisesArticle} />;
+  return <ArticlePage article={adaptiveExercisesArticle as any} />;
 }

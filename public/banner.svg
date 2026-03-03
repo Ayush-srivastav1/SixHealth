@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="300" viewBox="0 0 1920 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome to Six Health banner">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#2b6ef6" />
+      <stop offset="50%" stop-color="#1e40ff" />
+      <stop offset="100%" stop-color="#183a9d" />
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30" result="b" />
+      <feBlend in="SourceGraphic" in2="b" mode="screen" />
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="url(#grad)" />
+
+  <!-- subtle diagonal overlay -->
+  <g opacity="0.06" filter="url(#softGlow)">
+    <rect x="-200" y="-80" width="1400" height="480" transform="rotate(-12 0 0)" fill="#ffffff" />
+  </g>
+
+  <!-- main text -->
+  <g font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial">
+    <text x="50%" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="-1">Welcome to Six Health</text>
+    <text x="50%" y="170" text-anchor="middle" font-size="20" font-weight="500" fill="#dbeeff" opacity="0.95">Your trusted health information hub</text>
+  </g>
+
+  <!-- small accent circle on right -->
+  <circle cx="1760" cy="70" r="90" fill="#ffffff08" />
+
+</svg>

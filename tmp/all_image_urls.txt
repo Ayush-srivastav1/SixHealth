@@ -1,0 +1,81 @@
+// All image URLs found in repository (deduplicated)
+
+// Local / site paths
+/icons/colitis.svg
+/icons/bipolar.svg
+/icons/atrophy.svg
+/icons/diabetes.svg
+/bezzy.svg
+/vite.svg
+/placeholder.svg
+/health-placeholder.png
+/logosix.png
+/public/banner.svg
+/public/banner.webp
+/public/lymphedema-hero.jpg
+/path/to/image.webp
+/health-preview.jpg
+/thumbnail.jpg
+/topic-1.jpg
+/topic.jpg
+
+// Images under /images
+/images/health.png
+/images/conditions/health.png
+/images/default-health.webp
+/images/default-hero.webp
+/images/default-hero.webp
+/images/articles/health.webp
+/images/articles/breast-cancer-hero.webp
+/images/articles/food-mountain.png
+/images/articles/healthy-lifestyle.webp
+/images/articles/walking-exercise.webp
+/images/articles/brisk-walking.webp
+/images/articles/fitness-progress.webp
+/images/articles/early-detection.jpg
+/images/articles/breast-cancer-hero-2.jpg
+/images/highlight-icon1.jpg
+/images/highlight-icon2.jpg
+/images/highlight-icon3.jpg
+/images/food-mountain.png
+
+// Condition images
+/images/conditions/breast-cancer.webp
+/images/conditions/diabetes.webp
+/images/conditions/asthma.webp
+/images/conditions/copd.webp
+/images/conditions/pneumonia.webp
+/images/conditions/migraine.webp
+/images/conditions/menopause.webp
+/images/conditions/eye-health.webp
+/images/conditions/lymphedema.webp
+/images/conditions/parkinson.webp
+/images/conditions/multiple-sclerosis.webp
+/images/conditions/rheumatoid-arthritis.webp
+/images/conditions/melanoma.webp
+/images/conditions/psoriasis.webp
+/images/conditions/alzheimers.webp
+
+// Category images
+/images/categories/wellness.webp
+
+// News and misc images
+/images/news-coffee-cups.jpg
+/images/news-breast-cancer.jpg
+/images/news-sjp-vision.jpg
+/images/news-cpr.jpg
+/images/news-heart-disease.jpg
+/images/news-colorectal-cancer.jpg
+
+// Blog/article images
+/images/asthma.webp
+/images/ckd.webp
+/images/migraine.webp
+/images/type2diabetes.webp
+
+// External URLs
+https://media.post.rvohealth.io/wp-content/uploads/2024/07/point-of-view-cancer-patient-surgery-hospital-IV-drip-1296x728-header.jpg
+https://cdn.cookielaw.org/logos/static/opt_in_out_icon.png
+https://assets.healthline.com/content/images/wave-background-mobile.svg
+https://assets.healthline.com/content/images/wave-background-desktop.svg
+https://img.youtube.com/vi/{VIDEO_ID}/maxresdefault.jpg

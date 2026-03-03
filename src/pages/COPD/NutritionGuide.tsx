@@ -1,7 +1,7 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
-const nutritionGuideArticle = sampleArticles.find((a) => a.slug === "nutrition-guide");
+const nutritionGuideArticle = findArticleBySlug("nutrition-guide");
 
 export default function NutritionGuide() {
   return <ArticlePage article={nutritionGuideArticle} />;

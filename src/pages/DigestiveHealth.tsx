@@ -17,26 +17,39 @@ const tabs = [
 ];
 
 import { digestiveHealthData } from "@/data/DigestiveHealth";
+import { findArticleBySlug, allArticles } from "@/data/allArticles";
 
-function Section({ title, articles }: { title: string; articles: string[][] }) {
+function ArticleGrid() {
+  const categoryKey = "digestive-health";
+  const articles = (allArticles || []).filter((a) => {
+    const cat = (a.categorySlug || a.category || "").toString().toLowerCase();
+    return cat === categoryKey;
+  });
+
+  if (!articles.length) {
+    return (
+      <section className="mb-12">
+        <h2 className="text-2xl font-semibold mb-6">Digestive Health Articles</h2>
+        <p className="text-sm text-muted-foreground">No articles are available yet. Add items to `src/data/blogData.ts` with `categorySlug: "digestive-health"` to display them here.</p>
+      </section>
+    );
+  }
+
   return (
     <section className="mb-12">
-      <h2 className="text-2xl font-semibold mb-6">{title}</h2>
+      <h2 className="text-2xl font-semibold mb-6">Digestive Health Articles</h2>
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {articles.map(([heading, desc]) => {
-          const slug = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-          return (
-            <Link
-              key={heading}
-              to={`/conditions/digestive-health/${slug}`}
-              className="block bg-white border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 p-5 mb-4"
-            >
-              <h3 className="font-semibold mb-2 leading-snug">{heading}</h3>
-              <p className="text-sm text-muted-foreground leading-relaxed flex-1">{desc}</p>
-              <span className="text-primary text-sm font-semibold mt-3">Read more →</span>
-            </Link>
-          );
-        })}
+        {articles.map((article) => (
+          <Link
+            key={article.id || article.slug}
+            to={`/conditions/${article.categorySlug || article.category}/article/${article.slug}`}
+            className="block bg-white border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 p-5 mb-4"
+          >
+            <h3 className="font-semibold mb-2 leading-snug">{article.title}</h3>
+            <p className="text-sm text-muted-foreground leading-relaxed flex-1">{article.summary || article.excerpt || article.description}</p>
+            <span className="text-primary text-sm font-semibold mt-3">Read more →</span>
+          </Link>
+        ))}
       </div>
     </section>
   );
@@ -45,18 +58,12 @@ function Section({ title, articles }: { title: string; articles: string[][] }) {
 export default function DigestiveHealth() {
   const [subscribed, setSubscribed] = useState(false);
   const [email, setEmail] = useState("");
-  const sectionRefs = {
-    "Gut Health Basics": useRef(null),
-    "Living with Crohn's Disease": useRef(null),
-    "Living with Ulcerative Colitis": useRef(null),
-    "Managing IBS": useRef(null),
-    "Newsletter": useRef(null),
-  };
+  const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
 
   const scrollToSection = (category: string) => {
-    const ref = sectionRefs[category];
-    if (ref && ref.current) {
-      ref.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    const el = sectionRefs.current?.[category];
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
 
@@ -75,28 +82,18 @@ export default function DigestiveHealth() {
           <div className="flex-1">
             <div className="bg-white rounded-2xl shadow-md p-6 md:p-10">
               <section className="space-y-12">
-                {/* Gut Health Basics */}
-                <div ref={sectionRefs["Gut Health Basics"]}>
-                  <Section title="Gut Health Basics" articles={digestiveHealthData[0] || []} />
+                {/* Articles grid (sourced from blogData via allArticles) */}
+                <div ref={(el) => (sectionRefs.current["Gut Health Basics"] = el)}>
+                  <ArticleGrid />
                 </div>
 
-                {/* Living with Crohn's Disease */}
-                <div ref={sectionRefs["Living with Crohn's Disease"]}>
-                  <Section title="Living with Crohn's Disease" articles={digestiveHealthData[1] || []} />
-                </div>
-
-                {/* Living with Ulcerative Colitis */}
-                <div ref={sectionRefs["Living with Ulcerative Colitis"]}>
-                  <Section title="Living with Ulcerative Colitis" articles={digestiveHealthData[2] || []} />
-                </div>
-
-                {/* Managing IBS */}
-                <div ref={sectionRefs["Managing IBS"]}>
-                  <Section title="Managing IBS" articles={digestiveHealthData[3] || []} />
-                </div>
+                {/* Anchors for legacy tab scrolling (content driven by ArticleGrid above) */}
+                <div ref={(el) => (sectionRefs.current["Living with Crohn's Disease"] = el)} />
+                <div ref={(el) => (sectionRefs.current["Living with Ulcerative Colitis"] = el)} />
+                <div ref={(el) => (sectionRefs.current["Managing IBS"] = el)} />
 
                 {/* Newsletter */}
-                <div ref={sectionRefs["Newsletter"]}>
+                <div ref={(el) => (sectionRefs.current["Newsletter"] = el)}>
                   <section className="my-12 bg-purple-50 border border-purple-200 rounded-lg p-8 flex flex-col items-center text-center">
                     <h3 className="text-xl font-semibold mb-2 text-purple-700">Get Our Digestive Health Newsletter</h3>
                     <p className="mb-4 max-w-xl">Get twice weekly insights on ways to manage digestive conditions and boost your allover gut health.</p>

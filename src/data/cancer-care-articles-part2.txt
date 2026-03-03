@@ -1,0 +1,430 @@
+{
+  id: "managing-side-effects",
+  slug: "managing-side-effects",
+  title: "Managing Breast Cancer Treatment Side Effects",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn practical strategies for managing and minimizing common side effects from chemotherapy, radiation, and targeted therapies.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cancer treatment side effect management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Cancer treatments are powerful and effective, but they often cause side effects that impact quality of life. Modern supportive care medications and lifestyle strategies can minimize these effects significantly. Understanding what to expect and having practical tools to manage side effects helps patients tolerate treatment and maintain functioning during this challenging time.
+</p>
+
+<h2>Nausea and Vomiting</h2>
+<p>
+Nausea is one of the most feared side effects, though modern anti-nausea medications prevent it effectively in most patients. Preventive medications taken before chemotherapy are more effective than treating nausea after it develops. Eating small frequent meals, avoiding strong food odors, and staying hydrated help. Ginger, peppermint tea, and acupressure bands offer additional relief. Report severe nausea to your medical team so medications can be adjusted.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutrition counseling for treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Hair Loss</h2>
+<p>
+Hair loss (alopecia) occurs with many chemotherapy drugs and is temporary, with regrowth beginning 3-6 months after treatment ends. Scalp cooling systems constrict blood vessels in the scalp, reducing drug delivery and can prevent or minimize hair loss in up to 60% of patients. Wigs, scarves, hats, and head wraps provide coverage. Many cancer centers have wig programs and free resources. Hair loss is emotional; support from loved ones and support groups helps.
+</p>
+
+<h2>Fatigue</h2>
+<p>
+Cancer-related fatigue differs from normal tiredness and can be profound, affecting mood and function. Gentle exercise like walking for 20-30 minutes daily actually improves energy levels. Adequate sleep, limiting alcohol, and nutritious meals support energy. Identify times of day when energy is highest and schedule important activities then. Herbal supplements and meditation may help some patients. If fatigue becomes severe, discuss with your team as it may indicate other conditions requiring treatment.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Exercise during cancer treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Mouth Sores and Taste Changes</h2>
+<p>
+Chemotherapy can damage mucous membranes, causing mouth sores (mucositis) and altering taste perception. Rinse mouth with salt water or baking soda solution frequently. Use soft toothbrush and avoid harsh mouthwashes. Sucking on ice chips or popsicles before and during chemotherapy minimizes mouth sores. Eat cool, soft foods and avoid sharp, acidic, or extremely hot foods. Taste changes typically resolve after treatment; in the interim, experiment with different foods to find what tastes acceptable.
+</p>
+
+<h2>Skin Reactions</h2>
+<p>
+Radiodermatitis (skin irritation from radiation) resembles a sunburn and requires gentle care. Use unscented lotions, avoid perfumed products and tight clothing over treated areas. Do not use heat, ice, or adhesive tape on the affected skin. Expose the area to air when possible. Avoid sun exposure during treatment and use high SPF sunscreen afterward. For chemotherapy-related skin reactions, keep skin clean and moisturized. Report severe reactions as prescription creams may help.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical support during treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Low Blood Counts</h2>
+<p>
+Chemotherapy can lower white blood cells, red blood cells, and platelets. Low white counts increase infection risk; practice good hand hygiene and avoid crowded places during vulnerable periods. Red cell decline causes anemia and fatigue; nutritious diet with iron and B vitamins helps. Low platelets increase bleeding risk; avoid contact sports and report any unusual bruising or bleeding. Growth factors can boost white cell production. Your medical team monitors blood counts and manages complications.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "lymphedema-care",
+  slug: "lymphedema-care",
+  title: "Understanding and Managing Lymphedema After Breast Cancer",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn about lymphedema risk after cancer treatment, early signs to watch for, and evidence-based strategies to prevent and manage this condition.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Lymphatic system and lymphedema"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Lymphedema is swelling that occurs when lymph vessels are damaged by cancer surgery or radiation, impairing drainage from the arm, hand, or breast area. It can develop during treatment or years later. Early detection and intervention prevent progression and preserve function. Understanding risk factors and warning signs empowers you to take action promptly if symptoms develop.
+</p>
+
+<h2>Understanding Lymphedema Risk</h2>
+<p>
+Risk of lymphedema varies based on extent of lymph node removal and radiation exposure. Sentinel lymph node biopsy carries 5-10% risk, while extensive node dissection increases risk to 20-40%. Radiation to lymph nodes further elevates risk. Infection, obesity, immobility, and trauma also increase lymphedema development. Most people who undergo node procedures never develop lymphedema, but understanding your individual risk helps with early detection.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Physical therapy measurement"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Early Signs and Symptoms</h2>
+<p>
+Early lymphedema presents as subtle swelling in the affected arm, hand, or breast area. Heaviness or fullness in the limb lacking corresponding swelling may be an early sign. Rings, watches, or sleeves fit more tightly than usual. Recurrent infections in the affected arm suggest compromised lymphatic function. Addressing symptoms early when mild is easier than treating advanced lymphedema. Measure your arm circumference monthly to track changes and report increases to your medical team.
+</p>
+
+<h2>Prevention Strategies</h2>
+<p>
+Maintain healthy weight as obesity increases lymphedema risk. Physical activity strengthens muscle and improves lymph flow; arm and shoulder exercises are particularly beneficial. Protect the affected arm from injury, burns, and infection as these trigger lymphedema in susceptible individuals. Avoid blood pressure readings and injections in the affected arm if possible. Elevate the affected limb when resting. Compression sleeves during air travel and strenuous activity help prevent fluid accumulation in at-risk individuals.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Compression therapy garments"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Treatment and Management</h2>
+<p>
+Compression therapy is the mainstay of treatment, using compression sleeves and gloves to reduce swelling. Lymphedema therapists teach manual lymphatic drainage, specialized massage techniques that promote lymph flow. Complex decongestive therapy combines compression, manual drainage, exercise, and skin care for comprehensive management. Early intervention when lymphedema is mild achieves better outcomes than waiting for severe swelling to develop.
+</p>
+
+<h2>Living Well with Lymphedema</h2>
+<p>
+Most people manage lymphedema successfully with consistent self-care and professional support. Wearing compressions garments regularly prevents progression. Regular physical therapy appointments provide professional assessment and guidance. Support groups connect you with others managing lymphedema. Many women return to full activity including exercise with proper precautions. High-quality compression garments are covered by insurance in many cases; discuss with your therapist.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Supportive care in community"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "nutrition-during-treatment",
+  slug: "nutrition-during-treatment",
+  title: "Nutrition During Breast Cancer Treatment",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Learn how to maintain proper nutrition during cancer treatment, manage eating difficulties, and support your body through therapy.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutritious cancer treatment diet"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Adequate nutrition is crucial during cancer treatment to maintain strength, support healing, and help your body tolerate therapy. Cancer treatment can affect appetite and ability to eat well, yet getting proper nutrition is more important than ever. Working with a registered dietitian helps you navigate eating challenges while meeting your nutritional needs.
+</p>
+
+<h2>Nutritional Needs During Treatment</h2>
+<p>
+Protein requirements increase during cancer treatment to maintain muscle mass and support immune function. Aim for protein at each meal and snack. Whole grains provide fiber, B vitamins, and sustained energy. Fruits and vegetables provide antioxidants and protective phytonutrients. Healthy fats support hormone function and nutrient absorption. Adequate hydration becomes especially important if experiencing diarrhea, vomiting, or other losses. Consult a registered dietitian for personalized nutrition planning.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Meal preparation for nutrition"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Managing Common Eating Challenges</h2>
+<p>
+When nausea interferes with eating, consume small frequent meals rather than three large ones. Cold foods often appeal more than hot foods; try smoothies, yogurt, or popsicles. Identify safe foods that are tolerable and stock them. Ginger, peppermint, and acupressure help with nausea. Altered taste from chemotherapy improves with time; experiment with different seasonings and foods to find what tastes acceptable. Avoid favorite foods during treatment when nausea is likely to prevent developing aversions.
+</p>
+
+<h2>Specific Food Recommendations</h2>
+<p>
+Lean proteins like poultry, fish, eggs, and legumes are well-tolerated when protein needs are high. Soft foods like scrambled eggs, smoothies, soups, and oatmeal minimize digestive strain. Hydrating foods like fruits, vegetables, and broths contribute to fluid intake. Iron-rich foods like spinach and red meat support red blood cell production if anemia develops. Avoid high-fat foods that exacerbate nausea. Limit caffeine and alcohol which can worsen side effects and interfere with treatment recovery.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Supplements and cancer treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Supplements and Special Considerations</h2>
+<p>
+Discuss any supplements or herbal products with your oncology team before use, as some interfere with cancer treatment. High-dose antioxidants may protect cancer cells from chemotherapy. Standard multivitamins are generally considered safe but not necessary if you eat a balanced diet. Nutritional supplements may be beneficial if you cannot eat adequate food by mouth. Meal replacement drinks provide concentrated nutrition and are helpful when appetite is poor.
+</p>
+
+<h2>Practical Strategies</h2>
+<p>
+Prepare easy meals in advance when energy is sufficient. Ask family and friends to bring prepared dishes or help with meal planning. Use convenience foods like rotisserie chicken, pre-cut vegetables, and canned beans to reduce cooking burden. Eat with others when possible; social support improves appetite. Track what you eat and how you feel to identify patterns; share this information with your dietitian. Remember that "eating well" during cancer means nourishing yourself adequately, not following strict dietary rules.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutrition counselor support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "exercise-during-treatment",
+  slug: "exercise-during-treatment",
+  title: "Exercise During Breast Cancer Treatment",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Discover how exercise during cancer treatment reduces side effects, improves outcomes, and supports physical and mental wellbeing.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Gentle exercise during cancer treatment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Exercise during cancer treatment improves fatigue, mood, strength, and physical functioning while reducing side effects. Research shows that active patients tolerate treatment better, have fewer complications, and recover faster than sedentary patients. Even mild activity provides significant benefits. Tailoring exercise to your energy level ensures sustainability throughout your treatment journey.
+</p>
+
+<h2>Benefits of Exercise During Treatment</h2>
+<p>
+Regular activity combats cancer-related fatigue by improving cardiovascular fitness and muscle strength. Exercise releases endorphins that improve mood and reduce anxiety. Physical activity maintains lymphatic circulation, reducing lymphedema risk. Strength training preserves muscle mass that chemotherapy can diminish. Exercise improves sleep quality and appetite. Maintaining fitness makes recovery after treatment faster and easier. The psychological benefit of maintaining activity and control is equally valuable as physical benefits.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Physical therapy guidance"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Safe Exercise Guidelines</h2>
+<p>
+Start with activities you enjoyed before cancer and modify as needed. Walking is excellent for almost everyone and requires no equipment. Aim for 150 minutes of moderate activity weekly if possible, but even 10 minutes daily provides benefit. Strength training 2 days weekly maintains muscle. Avoid contact sports and activities risking injury or infection. Stop any activity causing pain. Check with your medical team before starting new activities, particularly if you have recent surgery or cardiac symptoms during chemotherapy.
+</p>
+
+<h2>Adapting Exercise to Energy Levels</h2>
+<p>
+On high energy days, tackle slightly more challenging activities. On low energy days, gentle stretching, short walks, or yoga are appropriate. Breaking activity into short bouts (3 x 10-minute walks) is as beneficial as continuous exercise. Exercise during times of day when energy is highest. Fatigue that worsens instead of improves with gentle activity signals need for rest. Listen to your body and adjust intensity and duration based on how you feel that day.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Group exercise support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Specific Exercise Recommendations</h2>
+<p>
+Walking is accessible and effective; start with short distances and gradually increase. Yoga and tai chi improve flexibility, balance, and mental wellbeing. Swimming or water aerobics provide low-impact cardiovascular activity. Arm exercises prevent stiffness after breast surgery. Light resistance training maintains muscle mass without excessive fatigue. Avoid heavy chest exercises after mastectomy until cleared by your surgeon. Pelvic floor exercises help with incontinence sometimes caused by cancer therapies.
+</p>
+
+<h2>Practical Tips for Success</h2>
+<p>
+Schedule exercise like a medical appointment to prioritize it. Find an exercise buddy for accountability and social support. Take advantage of cancer-specific exercise programs offered by many hospitals. Use online resources and DVDs designed for cancer patients if you prefer home exercise. Track activities in a journal to recognize improvements. Celebrate small achievements; maintaining your fitness routine during cancer treatment is a significant accomplishment. Be patient with yourself; recovery is a gradual process.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Active cancer survivor"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "emotional-health-support",
+  slug: "emotional-health-support",
+  title: "Emotional Health and Mental Health Support During Breast Cancer",
+  category: "Cancer Care",
+  categorySlug: "cancer-care",
+  description: "Address the emotional challenges of breast cancer diagnosis and treatment with practical coping strategies and professional mental health resources.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Emotional support and counseling"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+A breast cancer diagnosis triggers a profound emotional response that extends far beyond the physical aspects of treatment. Fear, anxiety, depression, and identity concerns are normal and common. Recognizing emotional struggles and accessing appropriate support is essential to overall wellbeing. Many survivors find that addressing mental health strengthens resilience and aids recovery.
+</p>
+
+<h2>Common Emotional Responses</h2>
+<p>
+Initial shock and disbelief often accompany diagnosis as the mind struggles to process the serious health crisis. Fear about treatment, prognosis, and mortality follows. Anxiety peaks during diagnosis, treatment decisions, and before scans. Depression affects many patients as emotional exhaustion accumulates. Some experience anger about the unfairness of illness. Grief over changes to body image, sexuality, and identity is significant, particularly with mastectomy. These reactions are normal responses to abnormal circumstances and typically improve with time and support.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cancer support group gathering"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Professional Mental Health Support</h2>
+<p>
+Oncology social workers provide counseling and connect you with resources specific to cancer. Psychologists or psychiatrists trained in cancer care help manage anxiety and depression. Many cancer centers have integrated mental health teams as part of standard care. Mindfulness-based stress reduction programs combine meditation, yoga, and psychoeducation. Therapy may include individual sessions, support groups, or family counseling depending on needs. Never hesitate to request mental health support; it's as important as medical treatment.
+</p>
+
+<h2>Coping Strategies</h2>
+<p>
+Maintain connections with supportive friends and family while setting boundaries with those who stress you. Express emotions through talking, writing, art, or physical activity rather than suppressing them. Meditation and mindfulness reduce anxiety while improving present-moment awareness. Limit information consumption; selectively reading about cancer topics reduces anxiety spiral. Maintain normal activities and routines when possible to provide stability and sense of control. Finding meaning through caregiving, advocacy, or spirituality helps many people process difficult experiences.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cancer survivor peer support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Support Groups and Community</h2>
+<p>
+Cancer support groups connect you with others who understand the disease experience in ways others cannot. Listening to others' journeys reduces isolation and provides hope. In-person groups and online communities offer different benefits; many find both valuable. Peer mentorship programs connect newly diagnosed patients with survivors who have completed treatment. Professional facilitators guide groups to remain supportive and focused. Regular participation provides ongoing connection through the treatment journey and beyond.
+</p>
+
+<h2>Body Image and Identity Concerns</h2>
+<p>
+Changes to breast appearance, hair loss, weight changes, and surgical scars challenge body image and sexuality. These are significant losses deserving acknowledgment and grief. Supportive partners often need guidance on maintaining intimacy through changes. Breast reconstruction offers options for some; others find empowerment in their scars. Clothing, prosthetics, and wigs allow expression of identity. Many women find that gradually reacquainting themselves with their changed bodies reduces distress. Professional support helps navigate these intimate challenges.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Hope and healing journey"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Building Resilience Through Healing</h2>
+<p>
+Resilience isn't about never feeling upset; it's about processing difficult emotions and moving forward. Celebrating small victories reinforces strength and capability. Connecting with others who exemplify resilience provides inspiration. Professional support, community, self-compassion, and meaning-making all build resilience. Many survivors report that while cancer remains their hardest experience, navigating it revealed inner strength they didn't know they possessed. Allow yourself time to heal emotionally as treatment progresses.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { Layout } from "@/components/layout";
 import { ArticleCard, CategoryCard, NewsletterSignup, CategoryType } from "@/components/articles";
-import { sampleArticles } from "@/data/articles";
+import { allArticles } from "@/data/allArticles";
 import { navigationCategories } from "@/data/categories";
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
@@ -12,16 +12,20 @@ const CategoryHub = () => {
   const validCategory = (category as CategoryType) || "conditions";
   
   const categoryInfo = navigationCategories.find(cat => cat.id === validCategory) || navigationCategories[0];
-  const categoryArticles = sampleArticles.filter(
-    (article) => article.category === validCategory
-  );
+  const categoryArticles = allArticles.filter((article) => {
+    const artCatSlug = (article.categorySlug || article.category || "")
+      .toString()
+      .toLowerCase()
+      .replace(/\s+/g, "-");
+    return artCatSlug === (validCategory as string);
+  });
   const otherCategories = navigationCategories.filter(cat => cat.id !== validCategory);
 
   return (
     <Layout>
       {/* Category Header */}
       <section className="border-b bg-card py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
             <Link to="/" className="hover:text-foreground">Home</Link>
             <span className="mx-2">/</span>
@@ -39,21 +43,21 @@ const CategoryHub = () => {
 
       {/* Articles Grid */}
       <section className="py-8 lg:py-12">
-        <div className="site-container">
+        <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
             {/* Main Content */}
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h2 className="text-xl font-semibold">All {categoryInfo.title} Articles</h2>
               </div>
-              <div className="grid gap-6 sm:grid-cols-2">
+              <div className="container grid">
                 {categoryArticles.length > 0 ? (
                   categoryArticles.map((article) => (
                     <ArticleCard key={article.id} {...article} />
                   ))
                 ) : (
                   // Show sample articles if none match
-                  sampleArticles.slice(0, 6).map((article) => (
+                  allArticles.slice(0, 6).map((article) => (
                     <ArticleCard key={article.id} {...article} />
                   ))
                 )}

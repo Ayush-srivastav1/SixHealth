@@ -1,10 +1,14 @@
-import ArticlePage from "@/components/ArticlePage";
+import ArticleRenderer, { ArticleLayout } from "@/components/ArticleRenderer";
+import type { Article } from "@/data/allArticles";
 
-const commonMythsArticle = {
+const commonMythsArticle: Article = {
+  id: "copd-myths-1",
   slug: "common-myths-about-copd",
   title: "Common Myths About COPD — Separating Fact from Fiction",
-  published: "Feb 9, 2026",
-  category: "COPD / Myths",
+  excerpt: "Dispelling common misconceptions about COPD and providing evidence-based guidance.",
+  author: "Educational Team",
+  date: "Feb 9, 2026",
+  category: "conditions",
   imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp",
   content: `
     <p><strong>Introduction</strong></p>
@@ -62,5 +66,5 @@ const commonMythsArticle = {
 };
 
 export default function CommonMythsAboutCOPD() {
-  return <ArticlePage article={commonMythsArticle} />;
+  return <ArticleLayout article={commonMythsArticle} />;
 }

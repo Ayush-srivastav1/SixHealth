@@ -1,7 +1,11 @@
 
 import { useState, useRef } from "react";
-import { useNavigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
+import { allArticles, findArticleBySlug } from "@/data/allArticles";
+import { useNavigate } from "react-router-dom";
+import type { Article } from "@/data/allArticles";
+import { contentToString } from "@/lib/articleUtils";
+import { ArticleContent } from "@/components/ArticleRenderer";
 
 const raTabs = [
   "Newly Diagnosed",
@@ -89,12 +93,28 @@ export default function RheumatoidArthritis() {
     acc[tab] = useRef(null);
     return acc;
   }, {});
+  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
   const navigate = useNavigate();
 
   const scrollToSection = (tab) => {
     const ref = sectionRefs[tab];
     if (ref && ref.current) {
       ref.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  };
+
+  const handleArticleClick = (href?: string) => {
+    if (!href) return;
+    const parts = href.split("/").filter(Boolean);
+    const slug = parts[parts.length - 1];
+    const found = findArticleBySlug(slug);
+    if (found) {
+      setSelectedArticle(found);
+    } else {
+      // If the article isn't present in the local dataset, navigate to the
+      // canonical article route so the router or server can attempt to resolve it.
+      console.warn("[RA] article not found for slug:", slug);
+      navigate(`/article/${slug}`);
     }
   };
 
@@ -124,37 +144,53 @@ export default function RheumatoidArthritis() {
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
         {/* Main Content */}
-        <main className="flex-1 space-y-12">
-          {raSections.map((section) => (
-            <section
-              key={section.id}
-              ref={sectionRefs[section.title]}
-              className={activeTab === section.title ? "" : "opacity-60 pointer-events-none select-none"}
-            >
-              <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
-              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-                {section.articles.map((article) => (
-                  <button
-                    key={article.id}
-                    className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none"
-                    onClick={() => article.href ? navigate(article.href) : null}
-                  >
-                    <img
-                      src="/health-placeholder.png"
-                      alt={article.title}
-                      className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
-                      loading="lazy"
-                    />
-                    <h3 className="font-semibold mb-2">{article.title}</h3>
-                    <p className="text-sm text-muted-foreground flex-1 mb-2">{article.content}</p>
-                    <span className="text-purple-700 text-sm font-semibold mt-auto">
-                      Read more →
-                    </span>
-                  </button>
-                ))}
-              </div>
-            </section>
-          ))}
+          <main className="flex-1 space-y-12">
+          {selectedArticle ? (
+            <article className="bg-white border rounded-md p-8">
+              <button
+                className="text-sm text-purple-700 mb-4"
+                onClick={() => setSelectedArticle(null)}
+              >
+                ← Back to articles
+              </button>
+              <h1 className="text-3xl font-bold mb-2">{selectedArticle.title}</h1>
+              <p className="text-sm text-gray-600 mb-4">By {selectedArticle.author} • {selectedArticle.readTime}</p>
+              <ArticleContent content={selectedArticle.content} />
+            </article>
+          ) : (
+            raSections.map((section) => (
+              <section
+                key={section.id}
+                ref={sectionRefs[section.title]}
+                className=""
+              >
+                <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+                  {section.articles.map((article) => (
+                    <button
+                      key={article.id}
+                      className="border rounded-md p-5 hover:shadow-lg transition bg-white flex flex-col text-left focus:outline-none"
+                      onClick={() => handleArticleClick(article.href)}
+                    >
+                      <img
+                        src="/placeholder.svg"
+                        loading="lazy"
+                        onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
+                        alt={article.title}
+                        className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
+
+                      />
+                      <h3 className="font-semibold mb-2">{article.title}</h3>
+                      <p className="text-sm text-muted-foreground flex-1 mb-2">{contentToString(article.content)}</p>
+                      <span className="text-purple-700 text-sm font-semibold mt-auto">
+                        Read more →
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              </section>
+            ))
+          )}
 
           {/* Newsletter Signup */}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
@@ -221,7 +257,7 @@ export default function RheumatoidArthritis() {
                 <li key={fa.title}>
                   <button
                     className="text-gray-800 hover:underline text-left"
-                    onClick={() => navigate(fa.href)}
+                    onClick={() => handleArticleClick(fa.href)}
                   >
                     {fa.title}
                   </button>

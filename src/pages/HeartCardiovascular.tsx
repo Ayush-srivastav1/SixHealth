@@ -1,6 +1,7 @@
 import { useState, useRef } from "react";
 import { Layout } from "@/components/layout";
 import { Link } from "react-router-dom";
+import { allArticles } from "@/data/allArticles";
 
 const tabs = [
   "Understanding Heart Health",
@@ -87,15 +88,12 @@ export default function HeartCardiovascular() {
   const [activeTab, setActiveTab] = useState(tabs[0]);
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  const sectionRefs = tabs.reduce((acc, tab) => {
-    acc[tab] = useRef(null);
-    return acc;
-  }, {});
+  const sectionRefs = useRef<Record<string, HTMLElement | null>>({});
 
-  const scrollToSection = (tab) => {
-    const ref = sectionRefs[tab];
-    if (ref && ref.current) {
-      ref.current.scrollIntoView({ behavior: "smooth", block: "start" });
+  const scrollToSection = (tab: string) => {
+    const el = sectionRefs.current?.[tab];
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
 
@@ -130,17 +128,43 @@ export default function HeartCardiovascular() {
           {tabSections.map((section) => (
             <section
               key={section.id}
-              ref={sectionRefs[section.title]}
-              className={activeTab === section.title ? "" : "opacity-60 pointer-events-none select-none"}
+              ref={(el) => (sectionRefs.current[section.title] = el)}
+              className=""
             >
               <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
                 {section.articles.map(([heading, desc]) => {
                   const slug = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+
+                  const normalizeSimple = (s?: string) => (s || "").toString().toLowerCase().replace(/[^a-z0-9\s]/g, "").trim();
+                  const hSimple = normalizeSimple(heading);
+
+                  const found = allArticles.find((a) => {
+                    const title = (a.title || "").toString().toLowerCase();
+                    const slugVal = (a.slug || "").toString().toLowerCase();
+                    const aliases = Array.isArray((a as any).aliases) ? (a as any).aliases.map((x: any) => String(x).toLowerCase()) : [];
+
+                    // Exact slug match
+                    if (slugVal === slug) return true;
+                    // Exact title or contains heading
+                    if (title === heading.toLowerCase()) return true;
+                    if (title.includes(hSimple)) return true;
+                    if (hSimple.includes(title.replace(/[^a-z0-9\s]/g, "").trim())) return true;
+                    // Aliases
+                    if (aliases.includes(heading.toLowerCase())) return true;
+                    return false;
+                  });
+
+                  let to = `/heart-cardiovascular/${slug}`;
+                  if (found) {
+                    const cat = (found.categorySlug || found.category || "").toString().toLowerCase().replace(/\s+/g, "-");
+                    to = `/${cat}/article/${found.slug}`;
+                  }
+
                   return (
                     <Link
                       key={heading}
-                      to={`/heart-cardiovascular/${slug}`}
+                      to={to}
                       className="bg-card border rounded-lg shadow-sm hover:shadow-md transition hover:-translate-y-0.5 no-underline flex flex-col"
                     >
                       <div className="p-5 flex flex-col h-full">

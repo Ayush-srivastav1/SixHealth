@@ -3,7 +3,7 @@ slug: asthma-in-children
 title: "Asthma in Children"
 excerpt: "Childhood asthma affects approximately 1 in 12 children. Early diagnosis and management are crucial for normal development."
 category: Basics
-author: "SixHealth Editorial Team"
+author: "Editorial Team"
 authorRole: ""
 reviewer: "Dr. James Wilson"
 reviewerRole: "MD, Respiratory Medicine"

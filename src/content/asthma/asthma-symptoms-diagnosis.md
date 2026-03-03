@@ -3,7 +3,7 @@ slug: asthma-symptoms-diagnosis
 title: "Recognizing Asthma: Early Signs and Diagnostic Tests"
 excerpt: "Early diagnosis is key to managing asthma. Discover the common and uncommon symptoms and the tests doctors use to confirm the condition."
 category: Diagnosis
-author: "SixHealth Editorial Team"
+author: "Editorial Team"
 authorRole: ""
 reviewer: "Dr. James Wilson"
 reviewerRole: "MD, Respiratory Medicine"

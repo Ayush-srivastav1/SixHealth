@@ -8,7 +8,7 @@ export default function LymphedemaCare() {
         <article className="prose lg:prose-lg lg:col-span-3">
           <header className="mb-6">
             <img
-              src="/public/lymphedema-hero.jpg"
+              src="/placeholder.svg"
               onError={(e: any) => { e.target.src = 'https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=1b3c9d2c0e9f0e5b8b3f0d7f3e2d8a4a' }}
               alt="Lymphedema care"
               className="w-full h-64 object-cover rounded-md shadow-sm mb-6"
@@ -17,7 +17,7 @@ export default function LymphedemaCare() {
             <p className="text-gray-600">Evidence-based guidance, practical self-care strategies, and treatment pathways for people living with lymphedema.</p>
 
             <div className="mt-4 text-sm text-gray-700">
-              <div><strong>Author:</strong> SixHealth Editorial Team • <strong>Medical review:</strong> Dr. Maya Patel, MSc (Physiotherapy)</div>
+              <div><strong>Author:</strong> Editorial Team • <strong>Medical review:</strong> Dr. Maya Patel, MSc (Physiotherapy)</div>
               <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
             </div>
 
@@ -500,7 +500,7 @@ export default function LymphedemaCare() {
               <li>Compression applied before activity (if recommended)</li>
               <li>Hydration and protein intake across the day</li>
               <li>Weekly self-measurement log entry</li>
-              <li>Immediate contact with clinician for >5% circumference increase or signs of infection</li>
+              <li>Immediate contact with clinician for &gt;5% circumference increase or signs of infection</li>
             </ul>
 
             <h4 className="mt-4">K. Research directions and emerging therapies</h4>
@@ -539,6 +539,7 @@ export default function LymphedemaCare() {
           </p>
         </footer>
       </article>
+      </div>
     </main>
   )
 }

@@ -1,4 +1,6 @@
-import { useState, useRef } from "react"
+import { useState, useRef } from "react";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary"
 import { useNavigate } from "react-router-dom"
 import { Layout } from "@/components/layout"
 import PageLayout from "@/components/layout/PageLayout"
@@ -91,7 +93,7 @@ function Section({
 }: {
   section: {
     title: string
-    articles: { id: string; title: string; preview: string; slug: string }[]
+    articles: { id: string; title: string; preview: string; slug: string; image: string }[]
   }
 }) {
   const navigate = useNavigate()
@@ -109,9 +111,11 @@ function Section({
             }
             className="border rounded p-5 bg-white hover:shadow transition text-left"
           >
-            <img
-              src="/health-placeholder.png"
+            <SafeImage
+              src={article.image}
               alt={article.title}
+              fallbackTopic="breastCancer"
+              componentName="BreastCancerCard"
               className="w-full h-36 object-cover rounded mb-3"
             />
             <h3 className="font-semibold mb-2">{article.title}</h3>

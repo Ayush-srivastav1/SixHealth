@@ -32,8 +32,7 @@ export const navigationCategories: NavigationCategory[] = [
       { title: "Sleep Health", href: "/conditions/sleep" },
       { title: "Type 2 Diabetes", href: "/conditions/type-2-diabetes" },
       { title: "Weight Management", href: "/conditions/weight-management" },
-      { title: "Radiation Therapy Guide", href: "/radiation-therapy-guide" },
-      { title: "Lymphedema Care", href: "/lymphedema-care" },
+      
 
    
       // Add more as needed
@@ -58,6 +57,7 @@ export const navigationCategories: NavigationCategory[] = [
       { title: "Sleep Health", href: "/wellness/sleep-health" },
       { title: "Vitamins and Supplements", href: "/wellness/vitamins-supplements" },
       { title: "Women's Wellness", href: "/wellness/womens-wellness" },
+      { title: "She's Good for Real", href: "/wellness/shes-good-for-real" },
     ],
   },
   {

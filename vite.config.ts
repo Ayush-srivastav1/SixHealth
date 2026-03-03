@@ -10,6 +10,10 @@ export default defineConfig({
     },
   },
   server: {
+    headers: {
+      "Content-Security-Policy":
+        "img-src * data: blob: https: http:;"
+    },
     port: 5173,
     host: true,
   },

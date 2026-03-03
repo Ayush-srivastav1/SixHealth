@@ -1,7 +1,9 @@
 import { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
-import { menopauseSectionsDetailed } from "@/data/menopauseSectionsDetailed";
+import { menopauseSectionsDetailed, menopauseTabs } from "@/data/menopauseSectionsDetailed";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 export default function Menopause() {
   const [email, setEmail] = useState("");
@@ -106,7 +108,8 @@ function MenopauseSection({ section }: {
               onClick={() => navigate(`/menopause/${slug}`)}
             >
               <img
-                src="/health-placeholder.png"
+                src="/placeholder.svg"
+onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
                 alt={article.title}
                 className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
                 loading="lazy"
@@ -122,3 +125,6 @@ function MenopauseSection({ section }: {
     </section>
   );
 }
+
+
+

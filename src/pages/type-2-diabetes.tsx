@@ -2,6 +2,9 @@
 import { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Layout } from "@/components/layout";
+import { contentToString } from "@/lib/articleUtils";
+import { SafeImage } from "@/components/common/SafeImage";
+import { imageLibrary } from "@/data/imageLibrary";
 
 const diabetesTabs = [
   "Featured",
@@ -175,13 +178,14 @@ export default function Type2Diabetes() {
                     onClick={() => article.href ? navigate(article.href) : null}
                   >
                     <img
-                      src="/health-placeholder.png"
+                      src="/placeholder.svg"
+onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
                       alt={article.title}
                       className="w-full h-36 object-cover rounded mb-3 bg-gray-100"
                       loading="lazy"
                     />
                     <h3 className="font-semibold mb-2">{article.title}</h3>
-                    <p className="text-sm text-muted-foreground flex-1 mb-2">{article.content}</p>
+                    <p className="text-sm text-muted-foreground flex-1 mb-2">{contentToString((article as any).content)}</p>
                     <span className="text-purple-700 text-sm font-semibold mt-auto">
                       Read more →
                     </span>
@@ -269,3 +273,6 @@ export default function Type2Diabetes() {
     </Layout>
   );
 }
+
+
+

@@ -1,8 +1,8 @@
-import ArticlePage from "@/components/ArticlePage";
-import { sampleArticles } from "@/data/articles";
+import ArticlePage from "@/components/ArticleRenderer";
+import { findArticleBySlug } from "@/data/allArticles";
 
-const progressAfterQuittingArticle = sampleArticles.find((a) => a.slug === "progress-after-quitting");
+const progressAfterQuittingArticle = findArticleBySlug("progress-after-quitting");
 
 export default function ProgressAfterQuitting() {
-  return <ArticlePage article={progressAfterQuittingArticle} />;
+  return <ArticlePage article={progressAfterQuittingArticle as any} />;
 }
