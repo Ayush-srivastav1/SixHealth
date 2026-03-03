@@ -66,7 +66,7 @@ export function VideoCategoryPage() {
   return (
     <Layout>
       <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
-        {/* Header */}
+        {}
         <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-12">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <button
@@ -84,7 +84,7 @@ export function VideoCategoryPage() {
           </div>
         </section>
 
-        {/* Videos Grid */}
+        {}
         <section className="py-16">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -101,7 +101,7 @@ export function VideoCategoryPage() {
           </div>
         </section>
 
-        {/* Related Categories */}
+        {}
         <section className="bg-gray-50 py-16 border-t border-gray-200">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-8">

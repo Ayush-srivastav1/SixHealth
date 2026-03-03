@@ -111,7 +111,7 @@ export default function Psoriasis() {
 
   return (
     <Layout>
-      {/* Hero/Header */}
+      {}
       <section className="bg-gradient-to-r from-purple-700 to-purple-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Psoriasis</h1>
@@ -135,7 +135,7 @@ export default function Psoriasis() {
         </div>
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
-        {/* Main Content */}
+        {}
         <main className="flex-1 space-y-12">
           {tabSections.map((section) => (
             <section
@@ -144,31 +144,24 @@ export default function Psoriasis() {
             >
               <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-                {section.articles.map(([heading, desc]) => {
-                  // Slug for static page route
+                {section.articles.map(([heading, desc]) => {
                   const slug = heading.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-                  let to = `/psoriasis/article/${slug}`;
-                  // For the first section (types), link to static pages
+                  let to = `/psoriasis/article/${slug}`;
                   if (section.id === 'understanding') {
                     to = `/psoriasis/${slug}`;
-                  }
-                  // For the second section (symptoms), link to static pages
+                  }
                   if (section.id === 'symptoms') {
                     to = `/psoriasis/${slug}`;
-                  }
-                  // For the third section (diagnosis), link to static pages
+                  }
                   if (section.id === 'diagnosis') {
                     to = `/psoriasis/${slug}`;
-                  }
-                  // For the fourth section (treatment), link to static pages
+                  }
                   if (section.id === 'treatment') {
                     to = `/psoriasis/${slug}`;
-                  }
-                  // For the fifth section (lifestyle), link to static pages
+                  }
                   if (section.id === 'lifestyle') {
                     to = `/psoriasis/${slug}`;
-                  }
-                  // For the sixth section (triggers), link to static pages
+                  }
                   if (section.id === 'triggers') {
                     to = `/psoriasis/${slug}`;
                   }
@@ -191,7 +184,7 @@ export default function Psoriasis() {
             </section>
           ))}
 
-          {/* Newsletter Signup */}
+          {}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
             <h2 className="text-xl font-bold text-purple-700 mb-2">
               Get our Psoriasis newsletter
@@ -229,7 +222,7 @@ export default function Psoriasis() {
             )}
           </div>
         </main>
-        {/* Sidebar */}
+        {}
         <aside className="w-full lg:w-80 flex-shrink-0 space-y-8">
           <div className="bg-white border border-gray-200 rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4 text-purple-700">Quick Links</h3>

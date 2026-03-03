@@ -9,13 +9,9 @@ const HearingHealth: React.FC = () => {
   useEffect(() => {
     if (!article?.content) return;
     const container = document.querySelector('.article-inner .article-content') as HTMLElement | null;
-    if (!container) return;
-
-    // Assign deterministic ids to H2s for anchors
+    if (!container) return;
     const h2s = Array.from(container.querySelectorAll('h2'));
-    h2s.forEach((h2, idx) => h2.setAttribute('id', `section-${idx}`));
-
-    // Process images: dedupe, enforce webp in query, alternate floats, limit floats to 3
+    h2s.forEach((h2, idx) => h2.setAttribute('id', `section-${idx}`));
     const imgs = Array.from(container.querySelectorAll('img')) as HTMLImageElement[];
     const seen = new Set<string>();
     let floatCount = 0;

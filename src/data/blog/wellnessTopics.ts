@@ -233,8 +233,6 @@ export const wellnessBlogPosts = [
 
 <p>Hearing is vital for communication and quality of life. Protecting your hearing and addressing hearing loss early improves outcomes. Understanding hearing health helps you maintain this precious sense throughout your life.</p>
 
-
-
 <h2>Understanding Hearing Loss</h2>
 <p>Hearing loss can result from noise exposure, aging, illness, injury, or medication side effects. Age-related hearing loss (presbycusis) typically begins around age 65 but can start earlier. Sudden hearing loss requires immediate medical attention. Most hearing loss develops gradually and goes unnoticed initially. Common causes include loud noise exposure, head injuries, infections, and genetic factors. Early detection allows for timely intervention and better outcomes.</p>
 
@@ -243,8 +241,6 @@ export const wellnessBlogPosts = [
 <h2>Recognizing Signs</h2>
 <p>Warning signs include difficulty understanding speech in noisy places, asking others to repeat, turning up music or TV volume, ringing in ears (tinnitus), and feeling isolated in social situations. You might notice yourself withdrawing from conversations or misinterpreting what people say. Don't ignore these signs. Visit an audiologist for a hearing test if you notice any changes in your hearing.</p>
 
-
-
 <h2>Hearing Protection</h2>
 <p>Protect your hearing from loud noise. Use earplugs or earmuffs when exposed to noise above 85 decibels—concerts, power tools, and traffic all qualify. Give your ears quiet time to recover from noise exposure. Listen to music at moderate volumes. Wear hearing protection when flying or scuba diving. Limit exposure to ototoxic medications when possible. Regular hearing care habits preserve hearing throughout life.</p>
 
@@ -252,8 +248,6 @@ export const wellnessBlogPosts = [
 
 <h2>Treatment Options</h2>
 <p>Modern hearing aids are discreet and highly effective. Different styles and technologies suit different needs and budgets. Cochlear implants help people with severe hearing loss. Communication strategies and assistive devices complement medical treatments. Hearing health insurance coverage and subsidies help make treatment affordable. Work with an audiologist to find solutions that improve your hearing and quality of life.</p>
-
-
 
 <img src="https://images.unsplash.com/photo-1576091160550-2173f7f869d4?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and community for hearing health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 

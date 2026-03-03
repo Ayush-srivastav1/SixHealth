@@ -411,34 +411,27 @@ export default function AlzheimersDisease() {
     "Treatment": useRef(null),
     "Behavioral Changes": useRef(null),
     "Early Onset": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
       ref.current.scrollIntoView({ behavior: "smooth", block: "start" });
     }
-  };
-
-  // Show detail view when care-guide is selected
+  };
   if (selectedArticle === "care-guide") {
     return (
       <Layout>
         <CareGuideDetail onClose={() => setSelectedArticle(null)} />
       </Layout>
     );
-  }
-
-  // Show detail view when memory-care is selected
+  }
   if (selectedArticle === "memory-care") {
     return (
       <Layout>
         <MemoryCareDetail onClose={() => setSelectedArticle(null)} />
       </Layout>
     );
-  }
-  // Show detail view when nursing-home is selected
+  }
   if (selectedArticle === "nursing-home") {
     return (
       <Layout>
@@ -489,7 +482,7 @@ export default function AlzheimersDisease() {
               </p>
             )}
           </div>
-          {/* FOOTER NOTE */}
+          {}
           <div className="mt-10 border-t pt-4 text-xs text-muted-foreground">
             This content is for informational purposes only and does not replace
             professional medical advice. Consult with a healthcare provider for diagnosis and treatment.
@@ -539,7 +532,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
   return (
     <div className="bg-gradient-to-br from-purple-50 via-white to-blue-50 min-h-screen">
       <div className="max-w-4xl mx-auto px-5 py-8">
-        {/* Back button */}
+        {}
         <button
           onClick={onClose}
           className="flex items-center gap-2 text-purple-700 font-semibold mb-8 hover:text-purple-900 transition"
@@ -548,7 +541,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           Back to Guide
         </button>
 
-        {/* Hero Header Section */}
+        {}
         <div className="mb-12 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-2xl p-10 shadow-lg">
           <h1 className="text-5xl font-bold mb-4">{careGuideContent.title}</h1>
           <div className="flex gap-4 text-purple-100 flex-wrap text-sm">
@@ -558,7 +551,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Key takeaways */}
+        {}
         <div className="bg-gradient-to-br from-purple-50 to-purple-100 border-2 border-purple-300 rounded-2xl p-8 mb-12 shadow-md">
           <div className="flex items-center gap-3 mb-6">
             <div className="bg-purple-600 text-white p-3 rounded-lg">
@@ -576,15 +569,15 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           </ul>
         </div>
 
-        {/* Intro */}
+        {}
         <div className="mb-12 bg-blue-50 border-l-4 border-blue-500 p-6 rounded-lg text-gray-800 leading-relaxed text-lg italic">
           "{careGuideContent.intro}"
         </div>
 
-        {/* Sections */}
+        {}
         {careGuideContent.sections.map((section, idx) => (
           <div key={idx} className="mb-14">
-            {/* Section Title with number */}
+            {}
             <div className="flex items-center gap-4 mb-6">
               <div className="bg-gradient-to-r from-purple-600 to-purple-700 text-white w-12 h-12 rounded-full flex items-center justify-center font-bold text-lg">
                 {idx + 1}
@@ -620,7 +613,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           </div>
         ))}
 
-        {/* Takeaway */}
+        {}
         <div className="bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-2xl p-8 mb-12 shadow-lg">
           <div className="flex gap-4 items-start">
             <div className="bg-white/20 p-3 rounded-lg flex-shrink-0">
@@ -633,7 +626,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Resources */}
+        {}
         <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-2xl p-8 mb-12 border-2 border-green-300 shadow-md">
           <div className="flex items-center gap-3 mb-6">
             <div className="bg-green-600 text-white p-3 rounded-lg">
@@ -660,7 +653,7 @@ function CareGuideDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Disclaimer */}
+        {}
         <div className="bg-yellow-50 border-l-4 border-yellow-500 rounded-lg p-6 text-sm text-gray-700">
           <p className="font-semibold text-yellow-900 mb-2">⚠️ Medical Disclaimer</p>
           <p>
@@ -677,7 +670,7 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
   return (
     <div className="bg-gradient-to-br from-blue-50 via-white to-teal-50 min-h-screen">
       <div className="max-w-4xl mx-auto px-5 py-8">
-        {/* Back button */}
+        {}
         <button
           onClick={onClose}
           className="flex items-center gap-2 text-blue-700 font-semibold mb-8 hover:text-blue-900 transition"
@@ -686,7 +679,7 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           Back to Guide
         </button>
 
-        {/* Hero Header Section */}
+        {}
         <div className="mb-12 bg-gradient-to-r from-blue-600 to-teal-600 text-white rounded-2xl p-10 shadow-lg">
           <h1 className="text-5xl font-bold mb-4">{memoryCareContent.title}</h1>
           <div className="flex gap-4 text-blue-100 flex-wrap text-sm">
@@ -696,12 +689,12 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Intro Section */}
+        {}
         <div className="mb-12 bg-teal-50 border-l-4 border-teal-500 p-6 rounded-lg text-gray-800 leading-relaxed text-lg italic">
           "{memoryCareContent.intro}"
         </div>
 
-        {/* Key takeaways */}
+        {}
         <div className="bg-gradient-to-br from-blue-50 to-blue-100 border-2 border-blue-300 rounded-2xl p-8 mb-12 shadow-md">
           <div className="flex items-center gap-3 mb-6">
             <div className="bg-blue-600 text-white p-3 rounded-lg">
@@ -719,10 +712,10 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           </ul>
         </div>
 
-        {/* Sections */}
+        {}
         {memoryCareContent.sections.map((section, idx) => (
           <div key={idx} className="mb-14">
-            {/* Section Title with number */}
+            {}
             <div className="flex items-center gap-4 mb-6">
               <div className="bg-gradient-to-r from-blue-600 to-teal-600 text-white w-12 h-12 rounded-full flex items-center justify-center font-bold text-lg">
                 {idx + 1}
@@ -758,7 +751,7 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           </div>
         ))}
 
-        {/* Takeaway */}
+        {}
         <div className="bg-gradient-to-r from-teal-500 to-teal-600 text-white rounded-2xl p-8 mb-12 shadow-lg">
           <div className="flex gap-4 items-start">
             <div className="bg-white/20 p-3 rounded-lg flex-shrink-0">
@@ -771,7 +764,7 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Resources */}
+        {}
         <div className="bg-gradient-to-br from-indigo-50 to-indigo-100 rounded-2xl p-8 mb-12 border-2 border-indigo-300 shadow-md">
           <div className="flex items-center gap-3 mb-6">
             <div className="bg-indigo-600 text-white p-3 rounded-lg">
@@ -797,7 +790,7 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
           </div>
         </div>
 
-        {/* Disclaimer */}
+        {}
         <div className="bg-yellow-50 border-l-4 border-yellow-500 rounded-lg p-6 text-sm text-gray-700">
           <p className="font-semibold text-yellow-900 mb-2">⚠️ Medical Disclaimer</p>
           <p>
@@ -809,11 +802,6 @@ function MemoryCareDetail({ onClose }: { onClose: () => void }) {
     </div>
   );
 }
-
-
-
-
-
 
 function NursingHomeDetail({ onClose }: { onClose: () => void }) {
   return (
@@ -909,6 +897,4 @@ function NursingHomeDetail({ onClose }: { onClose: () => void }) {
     </div>
   );
 }
-
-
 

@@ -1,4 +1,4 @@
-// Wellness Page Content - Category Hubs and Signature Programs
+
 export const categoryHubs = [
   { name: "Abortion Care", description: "Understanding your options.", href: "/wellness/abortion" },
   { name: "Black Health", description: "A space for our community's unique health needs.", href: "/wellness/black-health" },

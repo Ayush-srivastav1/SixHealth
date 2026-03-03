@@ -50,7 +50,7 @@ export default function BreastCancer() {
             </div>
           ))}
 
-          {/* NEWSLETTER */}
+          {}
           <div className="bg-purple-50 border rounded-lg p-8 max-w-xl mx-auto">
             <h2 className="text-xl font-bold mb-3">Get weekly updates</h2>
             {!subscribed ? (
@@ -84,8 +84,6 @@ export default function BreastCancer() {
     </Layout>
   )
 }
-
-/* ---------- SECTION COMPONENT ---------- */
 
 function Section({
   section,

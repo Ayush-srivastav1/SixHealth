@@ -3,17 +3,14 @@ import { Layout } from "@/components/layout";
 import { ArticleCard, NewsletterSignup } from "@/components/articles";
 import { allArticles, findArticleBySlug } from "@/data/allArticles";
 import { ArrowLeft, ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
-// Import static psoriasis pages so topic routes can render their full content
+import { Button } from "@/components/ui/button";
 import PlaquePsoriasis from "./psoriasis/PlaquePsoriasis";
 import GuttatePsoriasis from "./psoriasis/GuttatePsoriasis";
 import InversePsoriasis from "./psoriasis/InversePsoriasis";
 import PustularPsoriasis from "./psoriasis/PustularPsoriasis";
 import ErythrodermicPsoriasis from "./psoriasis/ErythrodermicPsoriasis";
 import NailPsoriasis from "./psoriasis/NailPsoriasis";
-import JointPainPsoriaticArthritis from "./psoriasis/JointPainPsoriaticArthritis";
-
-// COPD static pages
+import JointPainPsoriaticArthritis from "./psoriasis/JointPainPsoriaticArthritis";
 import AdaptiveExercises from "./COPD/AdaptiveExercises";
 import AntiInflammatoryDiet from "./COPD/AntiInflammatoryDiet";
 import AsthmaAttack from "./COPD/AsthmaAttack";
@@ -37,9 +34,7 @@ import Progression from "./COPD/Progression";
 import ProtectLungs from "./COPD/ProtectLungs";
 import QuittingSmoking from "./COPD/QuittingSmoking";
 import QuitTobacco from "./COPD/QuitTobacco";
-import Travel from "./COPD/Travel";
-
-// Helper to format title from slug
+import Travel from "./COPD/Travel";
 const formatTitle = (slug: string) => {
   if (!slug) return "";
   return slug
@@ -53,33 +48,23 @@ const SubCategoryPage = () => {
   const location = useLocation();
   
   let category = paramCategory;
-  let subcategory = paramSubcategory;
-
-  // Fallback to parsing pathname if params are missing (e.g. static routes)
+  let subcategory = paramSubcategory;
   if (!category || !subcategory) {
     const segments = location.pathname.split("/").filter(Boolean);
     if (segments.length >= 2) {
       category = segments[0];
       subcategory = segments[1];
     }
-  }
-
-  // Format the title
+  }
   const title = subcategory ? formatTitle(subcategory) : "Topic";
-  const parentCategory = category ? formatTitle(category) : "Category";
-
-  // If the URL's subcategory segment matches an article slug or an alias, redirect
-  // to the canonical article route so the Article page handles rendering.
-  if (subcategory) {
-    // Direct match via findArticleBySlug (checks aliases)
+  const parentCategory = category ? formatTitle(category) : "Category";
+  if (subcategory) {
     const direct = findArticleBySlug(subcategory);
     if (direct) {
       const cat = (direct.categorySlug || direct.category || "").toString().toLowerCase().replace(/\s+/g, "-");
       const target = `/${cat}/article/${direct.slug}`;
       return <Navigate to={target} replace />;
-    }
-
-    // Fallback: keep the earlier fuzzy matching (normalization) for edge cases
+    }
     const normalize = (raw?: string) => {
       if (!raw) return "";
       return raw
@@ -105,10 +90,7 @@ const SubCategoryPage = () => {
       const target = `/${cat}/article/${match.slug}`;
       return <Navigate to={target} replace />;
     }
-  }
-
-  // If a static page component exists for this psoriasis topic, render it directly.
-  // This preserves the existing static page content (many pages live under src/pages/psoriasis)
+  }
   if (category === "psoriasis" && subcategory) {
     const staticMap: Record<string, any> = {
       "plaque-psoriasis": PlaquePsoriasis,
@@ -124,9 +106,7 @@ const SubCategoryPage = () => {
     if (PageComponent) {
       return <PageComponent />;
     }
-  }
-
-  // If a static page exists for COPD topics, render it directly.
+  }
   if (category && category.toLowerCase() === "copd" && subcategory) {
     const staticMap: Record<string, any> = {
       "adaptive-exercises": AdaptiveExercises,
@@ -159,12 +139,7 @@ const SubCategoryPage = () => {
     if (PageComponent) {
       return <PageComponent />;
     }
-  }
-
-  // Filter articles that might match this subcategory (simple keyword matching for now)
-  // In a real app, articles would have a 'subcategory' field. To support topic pages
-  // like `/psoriasis/plaque-psoriasis` we also match by slug/title when the article
-  // category isn't an exact path match (many psoriasis entries live under 'conditions').
+  }
   const subKey = subcategory ? subcategory.replace(/-/g, " ").toLowerCase() : "";
 
   const relatedArticles = allArticles.filter((article) => {
@@ -175,19 +150,12 @@ const SubCategoryPage = () => {
     const artCatSlug = (article.categorySlug || article.category || "")
       .toString()
       .toLowerCase()
-      .replace(/\s+/g, "-");
-
-    // Primary match: same category (by slug) and content match
-    if (artCatSlug === category && (titleMatch || excerptMatch || slugMatch)) return true;
-
-    // Secondary: allow matching by slug/title for known topic pages even when the article's
-    // category is different. This keeps topic pages useful while preferring same-category matches.
+      .replace(/\s+/g, "-");
+    if (artCatSlug === category && (titleMatch || excerptMatch || slugMatch)) return true;
     if (titleMatch || excerptMatch || slugMatch) return true;
 
     return false;
-  });
-
-  // If related articles exist, show them. Otherwise, show up to 4 articles from the same category.
+  });
   const displayArticles = relatedArticles.length > 0
     ? // Deduplicate and limit to 8
       Array.from(new Map(relatedArticles.map(a => [a.id, a])).values()).slice(0, 8)
@@ -197,9 +165,7 @@ const SubCategoryPage = () => {
           .toLowerCase()
           .replace(/\s+/g, "-");
         return artCatSlug === category;
-      }).slice(0, 4);
-
-  // Dev debug: log matching info to the browser console to help diagnose empty-results cases
+      }).slice(0, 4);
   try {
      
     console.debug("SubCategoryPage match info", {
@@ -209,13 +175,12 @@ const SubCategoryPage = () => {
       displayCount: displayArticles.length,
       relatedSlugs: relatedArticles.map((a) => a.slug),
     });
-  } catch (e) {
-    // ignore
+  } catch (e) {
   }
 
   return (
     <Layout>
-      {/* Header */}
+      {}
       <section className="border-b bg-card py-8 lg:py-12">
         <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
@@ -243,11 +208,11 @@ const SubCategoryPage = () => {
         </div>
       </section>
 
-      {/* Main Content */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
-            {/* Main Content */}
+            {}
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h2 className="text-xl font-semibold">Latest in {title}</h2>
@@ -269,7 +234,7 @@ const SubCategoryPage = () => {
               </div>
             </div>
 
-            {/* Sidebar */}
+            {}
             <aside className="space-y-6">
               <NewsletterSignup />
               

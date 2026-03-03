@@ -79,12 +79,10 @@ export default function ChronicKidneyDisease() {
   const [activeTab, setActiveTab] = useState(tabs[0]);
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  
-  
 
   return (
     <Layout>
-      {/* Hero/Header */}
+      {}
       <section className="bg-gradient-to-r from-purple-700 to-purple-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Chronic Kidney Disease</h1>
@@ -105,7 +103,7 @@ export default function ChronicKidneyDisease() {
         </div>
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
-        {/* Main Content */}
+        {}
         <main className="flex-1 space-y-12">
           {tabSections.map((section) => (
             <section
@@ -115,8 +113,7 @@ export default function ChronicKidneyDisease() {
               <h2 className="text-2xl font-semibold mb-6">{section.title}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
                 {section.articles.map(([heading, desc]) => {
-                  const generated = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-                  // Try to find a matching article in blogData by title, slug or aliases
+                  const generated = heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
                   const match = allArticles.find((a) => {
                     if (!a) return false;
                     if ((a.title || "").toString().trim() === heading) return true;
@@ -142,7 +139,7 @@ export default function ChronicKidneyDisease() {
             </section>
           ))}
 
-          {/* Newsletter Signup */}
+          {}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
             <h2 className="text-xl font-bold text-purple-700 mb-2">
               Get our Chronic Kidney Disease newsletter
@@ -180,7 +177,7 @@ export default function ChronicKidneyDisease() {
             )}
           </div>
         </main>
-        {/* Sidebar */}
+        {}
         <aside className="w-full lg:w-80 flex-shrink-0 space-y-8">
           <div className="bg-white border border-gray-200 rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4 text-purple-700">Featured Articles</h3>
@@ -199,7 +196,7 @@ export default function ChronicKidneyDisease() {
         </aside>
       </div>
       
-      {/* Footer */}
+      {}
       <footer className="mt-10 border-t pt-4 text-xs text-muted-foreground text-center">
         <div className="mb-2">
           This content is for informational purposes only and does not replace professional medical advice. Consult with a healthcare provider for diagnosis and treatment.

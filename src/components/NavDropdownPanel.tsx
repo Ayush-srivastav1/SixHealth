@@ -25,19 +25,15 @@ export default function NavDropdownPanel({
 		<div
 			role="menu"
 			aria-label="Navigation dropdown"
-			className={cn(
-				// Fade + slide down transition (hidden by default)
-				"absolute left-0 top-full w-full z-50 transform opacity-0 translate-y-2 pointer-events-none",
-				// Visible on parent hover
-				"group-hover:opacity-100 group-hover:translate-y-0 group-hover:pointer-events-auto",
-				// Transition timing
+			className={cn(
+				"absolute left-0 top-full w-full z-50 transform opacity-0 translate-y-2 pointer-events-none",
+				"group-hover:opacity-100 group-hover:translate-y-0 group-hover:pointer-events-auto",
 				"transition-all duration-200 ease-out",
 				className
 			)}
 		>
 			<div
-				className={cn(
-					// centered inner panel matching site max width
+				className={cn(
 					"mx-auto max-w-[1280px] px-12 py-8 bg-[#f4efe9] shadow-xl rounded-md",
 					panelClassName
 				)}

@@ -4,38 +4,33 @@
    ======================================== */
 
 :root {
-  /* Color Palette */
+  
   --primary: #0f6cff;
   --primary-dark: #0052cc;
   --accent: #02838d;
   --accent-dark: #08565c;
-  
-  /* Text Colors */
+
   --text-primary: #1a1a1a;
   --text-secondary: #333333;
   --text-muted: #666666;
   --text-light: #999999;
-  
-  /* Backgrounds */
+
   --bg-primary: #ffffff;
   --bg-secondary: #f5f5f5;
   --bg-light: #fbfdff;
-  
-  /* Borders & UI */
+
   --border-color: #e0e0e0;
   --border-light: #e6e9ef;
   --border-lighter: #eef2ff;
   --surface: #ffffff;
   --card: #f8fafc;
-  
-  /* Layout */
+
   --site-max-width: 1200px;
   --content-max-width: 720px;
   --sidebar-width: 320px;
   --gutter: 1rem;
   --gutter-lg: 24px;
-  
-  /* Spacing scale */
+
   --space-xs: 8px;
   --space-sm: 12px;
   --space-md: 16px;
@@ -43,37 +38,28 @@
   --space-xl: 24px;
   --space-xxl: 40px;
   --space-xxxl: 64px;
-  
-  /* Radius */
+
   --radius: 10px;
   --radius-sm: 6px;
   --radius-md: 8px;
   --radius-lg: 14px;
-  
-  /* Z-index scale */
+
   --z-header: 100;
   --z-dropdown: 200;
   --z-modal: 300;
-  
-  /* Typography */
+
   --font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   --font-family-serif: 'Merriweather', Georgia, 'Times New Roman', serif;
-  
-  /* Shadows */
+
   --shadow-sm: 0 1px 4px rgba(16, 24, 40, 0.04);
   --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 4px 18px rgba(11, 15, 26, 0.04);
   --shadow-xl: 0 12px 24px rgba(0, 0, 0, 0.15);
-  
-  /* Transitions */
+
   --transition-fast: 150ms ease-out;
   --transition-normal: 200ms ease-out;
   --transition-slow: 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
-
-/* ========================================
-   BASE STYLES
-   ======================================== */
 
 html, body {
   margin: 0;
@@ -95,10 +81,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* ========================================
-   LINKS
-   ======================================== */
-
 a {
   color: var(--primary);
   text-decoration: none;
@@ -114,24 +96,18 @@ a:focus {
   outline-offset: 2px;
 }
 
-/* ========================================
-   HEADINGS
-   ======================================== */
-
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: 700;
   color: var(--text-primary);
 }
 
-/* Article-specific headings */
 article h1, article h2, article h3, article h4 {
   font-family: var(--font-family-serif);
   color: #1a1a1a;
   font-weight: 700;
 }
 
-/* Wrapper-specific typography */
 .article-wrapper article h1 {
   font-size: 40px;
   font-weight: 700;
@@ -172,10 +148,6 @@ article h1, article h2, article h3, article h4 {
   font-family: var(--font-family-serif);
 }
 
-/* ========================================
-   BUTTONS
-   ======================================== */
-
 button {
   border-radius: var(--radius-md);
   border: 1px solid transparent;
@@ -198,10 +170,6 @@ button:focus {
   outline-offset: 2px;
 }
 
-/* ========================================
-   UTILITY CLASSES
-   ======================================== */
-
 .muted {
   color: var(--text-muted);
 }
@@ -217,10 +185,6 @@ button:focus {
   font-size: 0.95rem;
 }
 
-/* ========================================
-   PROSE & CODE
-   ======================================== */
-
 .prose img,
 .prose pre {
   max-width: 100%;
@@ -231,10 +195,6 @@ button:focus {
   margin: 24px auto;
   border-radius: var(--radius);
 }
-
-/* ========================================
-   PRINT STYLES
-   ======================================== */
 
 @media print {
   .toc,

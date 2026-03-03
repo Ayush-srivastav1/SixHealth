@@ -110,9 +110,7 @@ export default function RheumatoidArthritis() {
     const found = findArticleBySlug(slug);
     if (found) {
       setSelectedArticle(found);
-    } else {
-      // If the article isn't present in the local dataset, navigate to the
-      // canonical article route so the router or server can attempt to resolve it.
+    } else {
       console.warn("[RA] article not found for slug:", slug);
       navigate(`/article/${slug}`);
     }
@@ -143,7 +141,7 @@ export default function RheumatoidArthritis() {
         </div>
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
-        {/* Main Content */}
+        {}
           <main className="flex-1 space-y-12">
           {selectedArticle ? (
             <article className="bg-white border rounded-md p-8">
@@ -192,7 +190,7 @@ export default function RheumatoidArthritis() {
             ))
           )}
 
-          {/* Newsletter Signup */}
+          {}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
             <h2 className="text-xl font-bold text-purple-700 mb-2">
               Living with RA? Our newsletter can help.
@@ -230,7 +228,7 @@ export default function RheumatoidArthritis() {
             )}
           </div>
         </main>
-        {/* Sidebar */}
+        {}
         <aside className="w-full lg:w-80 flex-shrink-0 space-y-8">
           <div className="bg-white border border-gray-200 rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4 text-purple-700">Quick Links</h3>

@@ -3,8 +3,7 @@ import { Link } from "react-router-dom";
 import { Layout } from "@/components/layout/Layout";
 import blogData from "@/data/blogData";
 
-const Lgbtqia: React.FC = () => {
-  // Find the LGBTQIA+ health overview article
+const Lgbtqia: React.FC = () => {
   const lgbtqiaArticle = blogData.find((p) => p.slug === "lgbtqia-health-overview");
 
   if (lgbtqiaArticle) {
@@ -12,7 +11,7 @@ const Lgbtqia: React.FC = () => {
       <Layout>
         <article className="bg-white">
           <div className="max-w-4xl mx-auto px-4 py-12">
-            {/* Header */}
+            {}
             <header className="mb-8">
               <div className="mb-4">
                 <span className="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">
@@ -22,7 +21,7 @@ const Lgbtqia: React.FC = () => {
               <h1 className="text-4xl font-bold mb-4 text-gray-900">{lgbtqiaArticle.title}</h1>
               <p className="text-lg text-gray-600 mb-6">{lgbtqiaArticle.description}</p>
 
-              {/* Meta Information */}
+              {}
               <div className="flex flex-wrap gap-6 text-sm text-gray-600 border-t border-b border-gray-200 py-4">
                 <div>
                   <span className="font-semibold text-gray-900">Author:</span> {lgbtqiaArticle.author}
@@ -38,13 +37,13 @@ const Lgbtqia: React.FC = () => {
               </div>
             </header>
 
-            {/* Content */}
+            {}
             <div
               className="prose prose-lg max-w-none text-gray-700 leading-relaxed"
               dangerouslySetInnerHTML={{ __html: lgbtqiaArticle.content }}
             />
 
-            {/* Related Articles Section */}
+            {}
             <section className="mt-16 pt-8 border-t border-gray-200">
               <h2 className="text-2xl font-bold mb-6">Explore Other Topics</h2>
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
@@ -66,9 +65,7 @@ const Lgbtqia: React.FC = () => {
         </article>
       </Layout>
     );
-  }
-
-  // Fallback if no article found
+  }
   return (
     <Layout>
       <div className="bg-white min-h-screen text-gray-900">

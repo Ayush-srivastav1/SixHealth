@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button";
 const ArticlesHub = () => {
   return (
     <Layout>
-      {/* Header */}
+      {}
       <section className="border-b bg-card py-8 lg:py-12">
         <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
@@ -32,11 +32,11 @@ const ArticlesHub = () => {
         </div>
       </section>
 
-      {/* Main Content */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
-            {/* Main Content */}
+            {}
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h2 className="text-xl font-semibold">
@@ -51,7 +51,7 @@ const ArticlesHub = () => {
               </div>
             </div>
 
-            {/* Sidebar */}
+            {}
             <div className="space-y-6">
               <NewsletterSignup />
             </div>

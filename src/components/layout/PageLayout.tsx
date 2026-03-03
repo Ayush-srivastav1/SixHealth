@@ -11,7 +11,7 @@ export default function PageLayout({
 }) {
   return (
     <div>
-      {/* Hero Section */}
+      {}
       <section style={{ background: heroColor, paddingTop: '9rem', paddingBottom: '9rem' }} className="text-white text-center">
         <h1 className="text-4xl font-bold mb-2">{title}</h1>
         {subtitle && <p className="text-lg mb-6">{subtitle}</p>}
@@ -33,7 +33,7 @@ export default function PageLayout({
           </nav>
         )}
       </section>
-      {/* Main Content */}
+      {}
       <div className="site-container py-10">
         {children}
       </div>

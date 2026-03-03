@@ -3,7 +3,6 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import { allArticles } from "@/data/allArticles";
 
-
 export const HeroSection = () => {
   const featuredArticle = allArticles[0];
 

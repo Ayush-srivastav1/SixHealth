@@ -17,8 +17,7 @@ export interface VideoItem {
   featured?: boolean;
 }
 
-export const videoData: VideoItem[] = [
-  // Sleep Videos
+export const videoData: VideoItem[] = [
   {
     id: "sleep-001",
     slug: "sleep-hygiene-guide",
@@ -41,9 +40,7 @@ export const videoData: VideoItem[] = [
     series: "Sleep Mastery",
     youtubeId: "xMsNjW-0xXg",
     duration: "11:15",
-  },
-
-  // Mental Health Videos
+  },
   {
     id: "mental-health-001",
     slug: "stress-management-techniques",
@@ -66,9 +63,7 @@ export const videoData: VideoItem[] = [
     series: "Mental Wellness",
     youtubeId: "tYzMGQUUY6U",
     duration: "7:53",
-  },
-
-  // Nutrition Video
+  },
   {
     id: "nutrition-001",
     slug: "balanced-nutrition-basics",
@@ -79,9 +74,7 @@ export const videoData: VideoItem[] = [
     youtubeId: "e7vCU2W8h_M",
     duration: "10:22",
     featured: true,
-  },
-
-  // Heart Health Video
+  },
   {
     id: "heart-health-001",
     slug: "cardiovascular-exercise-guide",

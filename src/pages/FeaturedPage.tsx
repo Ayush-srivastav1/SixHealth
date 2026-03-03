@@ -14,8 +14,7 @@ const FeaturedPage: React.FC = () => {
   const { slug } = useParams();
   const article = findArticleBySlug(slug);
 
-  if (article) {
-    // Let the existing ArticlePage handle rendering the article (it reads useParams internally)
+  if (article) {
     return (
       <ArticlePage />
     );

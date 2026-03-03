@@ -1,4 +1,4 @@
-// Sections and links for the Menopause page, modeled after Healthline
+
 
 export const menopauseSections = [
   {

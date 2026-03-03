@@ -32,7 +32,5 @@ declare module 'input-otp';
 declare module 'react-resizable-panels';
 declare module 'next-themes';
 declare module 'sonner';
-declare module 'react-datepicker';
-
-// Generic fallback
+declare module 'react-datepicker';
 declare module '*';

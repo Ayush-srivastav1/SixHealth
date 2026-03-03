@@ -17,13 +17,9 @@ export interface SearchableItem {
   url: string;
   excerpt?: string;
   imageUrl?: string;
-}
-
-// Aggregate all searchable content
+}
 export const getAllSearchableContent = (): SearchableItem[] => {
-  const items: SearchableItem[] = [];
-
-  // Articles
+  const items: SearchableItem[] = [];
   allArticles.forEach(article => {
     items.push({
       id: article.id,
@@ -35,9 +31,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: article.description,
       imageUrl: article.imageUrl,
     });
-  });
-
-  // Breast Cancer Sections (map to existing article route)
+  });
   breastCancerSections.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -50,9 +44,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: contentToString(article.content),
       });
     });
-  });
-
-  // Eye Health Categories
+  });
   eyeHealthCategories.forEach(category => {
     items.push({
       id: category.id,
@@ -64,9 +56,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: category.description,
       imageUrl: category.image,
     });
-  });
-
-  // Eye Health Articles (no dedicated article route exists; link to search results as fallback)
+  });
   [...editorsPicks, ...correctiveEyeSurgery, ...managingVisionPrescriptions, ...homeRemedies, ...moreTopReads, ...navigatingEyeSymptoms].forEach(article => {
     items.push({
       id: article.id,
@@ -78,9 +68,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: article.excerpt,
       imageUrl: article.image,
     });
-  });
-
-  // Chemotherapy TOC
+  });
   chemoToc.forEach(item => {
     items.push({
       id: item.id,
@@ -91,12 +79,9 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       url: `/chemotherapy#${item.id}`,
       excerpt: item.label,
     });
-  });
-
-  // Menopause Sections
+  });
   menopauseSections.forEach(section => {
-    section.links.forEach(link => {
-      // Normalize menopause links: convert `/articles/slug` -> `/article/slug` to match routes
+    section.links.forEach(link => {
       const normalizedUrl = link.href.startsWith('/articles/')
         ? link.href.replace('/articles/', '/article/')
         : link.href;
@@ -111,9 +96,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: link.label,
       });
     });
-  });
-
-  // Menopause Detailed Sections (link to search results as fallback)
+  });
   menopauseSectionsDetailed.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -126,9 +109,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
-
-  // MS Sections Detailed (link to search results as fallback)
+  });
   msSectionsDetailed.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -141,9 +122,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
-
-  // Alzheimer's Disease Sections
+  });
   const alzheimersSections = [
     {
       id: "editors-picks",
@@ -210,9 +189,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         { id: "questions", title: "Questions to Ask Your Doctor After an Early Alzheimer’s Diagnosis", content: "Important questions for your healthcare provider." },
       ],
     },
-  ];
-
-  // Alzheimer's sections (link to search results as fallback to avoid broken routes)
+  ];
   alzheimersSections.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -225,9 +202,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
-
-  // Add page titles and descriptions (static pages)
+  });
   const pages = [
     { title: 'Home', content: 'Welcome to Six Health - Your comprehensive health resource', url: '/', category: 'page' },
     { title: 'Articles Hub', content: 'Browse all health articles and medical information', url: '/articles', category: 'page' },
@@ -259,9 +234,7 @@ export const getAllSearchableContent = (): SearchableItem[] => {
   });
 
   return items;
-};
-
-// Search function
+};
 export const searchContent = (query: string): SearchableItem[] => {
   if (!query.trim()) return [];
 

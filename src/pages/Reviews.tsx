@@ -153,7 +153,7 @@ const ReviewsPage: React.FC = () => {
     <div className="bg-white min-h-screen text-gray-900">
       <div className="max-w-5xl mx-auto px-4 py-10">
         <h1 className="text-4xl font-bold mb-8">Healthline Reviews</h1>
-        {/* LATEST */}
+        {}
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">LATEST</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
@@ -164,7 +164,7 @@ const ReviewsPage: React.FC = () => {
             ))}
           </div>
         </section>
-        {/* EXPLORE BY */}
+        {}
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">EXPLORE BY</h2>
           <div className="flex flex-wrap gap-3">
@@ -175,7 +175,7 @@ const ReviewsPage: React.FC = () => {
             ))}
           </div>
         </section>
-        {/* MOST POPULAR */}
+        {}
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">MOST POPULAR</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
@@ -186,7 +186,7 @@ const ReviewsPage: React.FC = () => {
             ))}
           </div>
         </section>
-        {/* EDITORS' PICKS */}
+        {}
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-4">EDITORS' PICKS</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
@@ -197,7 +197,7 @@ const ReviewsPage: React.FC = () => {
             ))}
           </div>
         </section>
-        {/* Section Data */}
+        {}
         {sectionData.map((section) => (
           <section className="mb-10" key={section.title}>
             <h2 className="text-2xl font-semibold mb-4">{section.title}</h2>
@@ -210,7 +210,7 @@ const ReviewsPage: React.FC = () => {
             </div>
           </section>
         ))}
-        {/* Newsletter Signup */}
+        {}
         <section className="bg-blue-50 rounded-lg p-6 text-center mb-12">
           <h2 className="text-xl font-semibold mb-2">Get our wellness newsletter</h2>
           <p className="mb-4">Filter out the noise and nurture your inbox with health and wellness advice that’s inclusive and rooted in medical expertise.</p>

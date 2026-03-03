@@ -35,7 +35,6 @@ const moreFeaturedContent = [
   { name: "Balancing Life with Alopecia Areata", href: "/program/balancing-life-with-alopecia-areata" },
 ];
 
-
 const SponsoredTopicsPage: React.FC = () => {
   return (
     <Layout>
@@ -43,7 +42,7 @@ const SponsoredTopicsPage: React.FC = () => {
         <div className="max-w-5xl mx-auto px-4 py-10">
           <h1 className="text-4xl font-bold mb-8">Sponsored Topics</h1>
           <p className="mb-8 text-lg">Check out the latest health and medical topics we’ve developed with our sponsors.</p>
-          {/* FEATURED CONTENT */}
+          {}
           <section className="mb-10">
             <h2 className="text-2xl font-semibold mb-4">FEATURED CONTENT</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
@@ -54,7 +53,7 @@ const SponsoredTopicsPage: React.FC = () => {
               ))}
             </div>
           </section>
-          {/* MORE FEATURED CONTENT */}
+          {}
           <section className="mb-10">
             <h2 className="text-2xl font-semibold mb-4">MORE FEATURED CONTENT</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
@@ -65,7 +64,7 @@ const SponsoredTopicsPage: React.FC = () => {
               ))}
             </div>
           </section>
-          {/* Newsletter Signup */}
+          {}
           <section className="bg-blue-50 rounded-lg p-6 text-center mb-12">
             <h2 className="text-xl font-semibold mb-2">Get our wellness newsletter</h2>
             <p className="mb-4">Filter out the noise and nurture your inbox with health and wellness advice that’s inclusive and rooted in medical expertise.</p>

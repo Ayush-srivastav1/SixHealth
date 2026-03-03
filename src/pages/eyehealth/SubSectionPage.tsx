@@ -13,7 +13,7 @@ export default function EyeHealthSubSectionPage() {
       </button>
       <h1 className="text-2xl font-bold mb-4">Subsection: {sectionId} / {subSectionId}</h1>
       <section className="prose">
-        {/* Content section - to be filled later */}
+        {}
       </section>
     </div>
   );

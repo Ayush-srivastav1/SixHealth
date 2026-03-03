@@ -40,8 +40,7 @@ export const SafeImage: React.FC<SafeImageProps> = ({
   const [attemptedFallback, setAttemptedFallback] = useState(false);
   const imgRef = useRef<HTMLImageElement>(null);
 
-  const handleError = () => {
-    // Prevent infinite loop - only try fallback once
+  const handleError = () => {
     if (attemptedFallback) {
       console.warn(
         `[SafeImage] Image loading failed for component: ${componentName}`,
@@ -55,9 +54,7 @@ export const SafeImage: React.FC<SafeImageProps> = ({
       );
       setHasError(true);
       return;
-    }
-
-    // Try fallback
+    }
     const fallbackUrl = getImageUrl(fallbackTopic);
     console.debug(
       `[SafeImage] Image failed, using fallback: ${componentName}`,
@@ -70,12 +67,9 @@ export const SafeImage: React.FC<SafeImageProps> = ({
 
     setImageSrc(fallbackUrl);
     setAttemptedFallback(true);
-  };
-
-  // Ensure URL uses WebP format
+  };
   const ensureWebP = (url: string): string => {
-    if (!url.includes('unsplash.com')) {
-      // Non-Unsplash URLs - add WebP param if not present
+    if (!url.includes('unsplash.com')) {
       if (!url.includes('fm=webp')) {
         return url.includes('?') ? `${url}&fm=webp` : `${url}?fm=webp`;
       }

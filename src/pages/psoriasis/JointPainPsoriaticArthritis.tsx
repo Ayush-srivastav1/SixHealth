@@ -8,15 +8,13 @@ export default function JointPainPsoriaticArthritis() {
 
   const related = allArticles.filter((a) =>
     (a.slug || "").includes("psoriatic") || (a.title || "").toLowerCase().includes("psoriatic")
-  );
-
-  // Fallback related articles from same category
+  );
   const fallback = allArticles.filter((a) => a.category === (article?.category || "conditions")).slice(0, 3);
 
   return (
     <Layout>
       <div className="max-w-4xl mx-auto px-4 py-10">
-        {/* Hero / Card */}
+        {}
         <div className="grid gap-6 md:grid-cols-3 items-start mb-8">
           <div className="md:col-span-2">
             <h1 className="text-3xl font-bold mb-3">{article?.title ?? "Joint Pain (Psoriatic Arthritis)"}</h1>
@@ -40,7 +38,7 @@ export default function JointPainPsoriaticArthritis() {
               </div>
             </div>
 
-            {/* Table of contents / Additional Links */}
+            {}
             <div className="border rounded-lg bg-card p-4 mb-6">
               <h3 className="font-semibold mb-2">Table of contents</h3>
               <ul className="space-y-2 text-sm">
@@ -73,7 +71,7 @@ export default function JointPainPsoriaticArthritis() {
           </div>
         </div>
 
-        {/* Article body */}
+        {}
         <article className="prose max-w-none prose-lg">
           <h2 id="what-is">What is psoriatic arthritis?</h2>
           <p>

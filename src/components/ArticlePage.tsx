@@ -40,9 +40,7 @@ function generateLongContent(title: string, excerpt?: string) {
   sections.push({ id: "author-review", heading: "Author & review information", body: makeParagraph(baseAuthor, 3) });
 
   const baseRelated = `Related articles and further reading to continue learning and find specific programs, tools, and community support.`;
-  sections.push({ id: "related", heading: "Related articles", body: makeParagraph(baseRelated, 3) });
-
-  // Ensure total word count > 2000 by appending repeated supporting paragraphs
+  sections.push({ id: "related", heading: "Related articles", body: makeParagraph(baseRelated, 3) });
   let totalWords = sections.reduce((s, sec) => s + wordCount(sec.body), 0);
   const filler = `Further discussion: research summaries, patient stories, practical examples, and clinical context that help translate advice into daily practice.`;
   while (totalWords < 2200) {
@@ -80,9 +78,7 @@ export default function ArticlePage({
   const usedHero = article?.imageUrl || heroImage;
   const usedAuthorName = article?.author || authorName;
   const usedAuthorRole = article?.authorRole || authorRole;
-  const usedPublished = article?.date || published;
-
-  // Prefer authored HTML content when available; otherwise generate placeholder sections
+  const usedPublished = article?.date || published;
   const content = article?.content ? (
     <ArticleContent content={article.content} />
   ) : (

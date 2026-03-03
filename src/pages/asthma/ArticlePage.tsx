@@ -15,7 +15,7 @@ export default function ArticlePage() {
       </button>
       <h1 className="text-2xl font-bold mb-4">{title}</h1>
       <section className="prose">
-        {/* Content section - to be filled later */}
+        {}
       </section>
     </div>
   );

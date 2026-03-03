@@ -28,7 +28,7 @@ const footerLinks = {
 export function Footer() {
   return (
     <footer className="border-t bg-card">
-      {/* Newsletter Section */}
+      {}
       <div className="border-b bg-primary/5">
         <div className="container py-8">
           <div className="mx-auto max-w-xl text-center">
@@ -54,10 +54,10 @@ export function Footer() {
         </div>
       </div>
 
-      {/* Main Footer Content */}
+      {}
       <div className="container py-12">
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-5">
-          {/* Brand Section */}
+          {}
           <div className="lg:col-span-2">
             <Link to="/" className="mb-4 flex items-center gap-2">
               <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
@@ -93,7 +93,7 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Categories */}
+          {}
           <div>
             <h4 className="mb-4 font-semibold">Categories</h4>
             <ul className="space-y-2">
@@ -110,7 +110,7 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* About */}
+          {}
           <div>
             <h4 className="mb-4 font-semibold">About</h4>
             <ul className="space-y-2">
@@ -127,7 +127,7 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
+          {}
           <div>
             <h4 className="mb-4 font-semibold">Legal</h4>
             <ul className="space-y-2">
@@ -146,7 +146,7 @@ export function Footer() {
         </div>
       </div>
 
-      {/* Bottom Bar */}
+      {}
       <div className="border-t">
         <div className="container flex flex-col items-center justify-between gap-4 py-6 md:flex-row">
           <p className="text-center text-sm text-muted-foreground">

@@ -84,7 +84,7 @@ const AuthorPage = ({ name = "Author Name", role = "Medical Writer", bio = "Bio 
       
       <div className="container max-w-4xl py-12">
         <h2 className="text-2xl font-bold mb-6">Recent Articles by {name}</h2>
-        {/* Article list would go here */}
+        {}
         <div className="p-12 text-center border rounded-lg bg-muted/10 text-muted-foreground">
           Articles list component will be integrated here
         </div>

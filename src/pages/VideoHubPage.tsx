@@ -25,7 +25,7 @@ export function VideoHubPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
-      {/* Hero Section */}
+      {}
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-16">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
@@ -39,7 +39,7 @@ export function VideoHubPage() {
         </div>
       </section>
 
-      {/* Featured Videos */}
+      {}
       {featured.length > 0 && (
         <section className="py-16">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -61,7 +61,7 @@ export function VideoHubPage() {
         </section>
       )}
 
-      {/* Categories Grid */}
+      {}
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold mb-12 text-gray-900">
@@ -96,7 +96,7 @@ export function VideoHubPage() {
         </div>
       </section>
 
-      {/* All Videos Preview */}
+      {}
       <section className="py-16">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold mb-12 text-gray-900">
@@ -116,7 +116,7 @@ export function VideoHubPage() {
         </div>
       </section>
 
-      {/* CTA Section */}
+      {}
       <section className="bg-blue-50 py-16 border-t border-blue-100">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">

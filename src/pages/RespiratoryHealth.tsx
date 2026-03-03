@@ -65,9 +65,7 @@ export default function RespiratoryHealth() {
     "Conditions": useRef(null),
     "Prevention": useRef(null),
     "Management": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
@@ -77,7 +75,7 @@ export default function RespiratoryHealth() {
 
   return (
     <Layout>
-      {/* HERO */}
+      {}
       <section className="bg-gradient-to-r from-green-700 to-green-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Respiratory Health</h1>
@@ -102,7 +100,7 @@ export default function RespiratoryHealth() {
         </div>
       </section>
 
-      {/* CONTENT: Show all sections */}
+      {}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {sections.map((section) => (
           <div key={section.id} ref={sectionRefs[section.category]}>
@@ -110,7 +108,7 @@ export default function RespiratoryHealth() {
           </div>
         ))}
 
-        {/* NEWSLETTER */}
+        {}
         <div className="bg-green-50 border border-green-200 rounded-lg p-8 max-w-xl mx-auto">
           <h2 className="text-xl font-bold text-green-700 mb-2">
             Get weekly Respiratory Health updates
@@ -147,8 +145,6 @@ export default function RespiratoryHealth() {
   );
 }
 
-/* ---------------- SECTION ---------------- */
-
 function Section({ section }: {
   section: {
     title: string;
@@ -183,6 +179,4 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
     </section>
   );
 }
-
-
 

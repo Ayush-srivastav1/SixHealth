@@ -12,9 +12,7 @@ export const findArticleBySlug = (slug?: string, categorySlug?: string) => {
     const slugVal = (article.slug || "").toString();
     const idVal = (article.id || "").toString();
     const aliases = (article as unknown as { aliases?: unknown }).aliases;
-    const aliasVals = Array.isArray(aliases) ? (aliases as unknown[]).map((a) => String(a)) : [];
-
-    // Compare both raw lowercased and normalized forms to be permissive.
+    const aliasVals = Array.isArray(aliases) ? (aliases as unknown[]).map((a) => String(a)) : [];
     const rawMatch = (slugVal || "").toString().toLowerCase() === sRaw.toLowerCase()
       || (idVal || "").toString().toLowerCase() === sRaw.toLowerCase()
       || aliasVals.map(a => a.toString().toLowerCase()).includes(sRaw.toLowerCase());
@@ -32,7 +30,5 @@ export const findArticleBySlug = (slug?: string, categorySlug?: string) => {
   });
 };
 
-export default allArticles;
-
-// Re-export the Article type for compatibility with files that import it from data modules
+export default allArticles;
 export type Article = import("./blogData").BlogArticle;

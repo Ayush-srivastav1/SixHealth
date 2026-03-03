@@ -37,14 +37,14 @@ const BlogPostDetail: React.FC = () => {
               </div>
             </div>
           ) : null}
-          {/* Navigation */}
+          {}
           <div className="mb-8">
             <Link to="/wellness" className="text-blue-600 hover:underline text-sm">
               ← Back to Wellness Topics
             </Link>
           </div>
 
-          {/* Header */}
+          {}
           <header className="mb-8">
             <div className="mb-4">
               <span className="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">
@@ -54,7 +54,7 @@ const BlogPostDetail: React.FC = () => {
             <h1 className="text-4xl font-bold mb-4 text-gray-900">{post.title}</h1>
             <p className="text-lg text-gray-600 mb-6">{post.description}</p>
 
-            {/* Meta Information */}
+            {}
             <div className="flex flex-wrap gap-6 text-sm text-gray-600 border-t border-b border-gray-200 py-4">
               <div>
                 <span className="font-semibold text-gray-900">Author:</span> {post.author}
@@ -68,13 +68,13 @@ const BlogPostDetail: React.FC = () => {
             </div>
           </header>
 
-          {/* Content */}
+          {}
           <div
             className="prose prose-lg max-w-none text-gray-700 leading-relaxed"
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
 
-          {/* Related Posts */}
+          {}
           <section className="mt-16 pt-8 border-t border-gray-200">
             <h2 className="text-2xl font-bold mb-6">Explore Other Topics</h2>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">

@@ -51,8 +51,7 @@ const NewslettersPage: React.FC = () => {
   };
 
   const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Simulate submit
+    e.preventDefault();
     alert(`Subscribed ${email} to: ${selected.join(", ")}`);
   };
 

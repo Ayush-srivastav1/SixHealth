@@ -54,8 +54,6 @@ export default function useHoverIntent(openDelay = 150, closeDelay = 200) {
       },
     }),
     [openDelay, closeDelay]
-  );
-
-  // expose for consumers
+  );
   return { hoverKey, getHandlers, clearTimers } as const;
 }

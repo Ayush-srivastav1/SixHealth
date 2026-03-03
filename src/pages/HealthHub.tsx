@@ -13,9 +13,7 @@ const ARTICLES_PER_PAGE = 12;
 export default function HealthHub() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-
-  // Derive legacy `healthlineArticles` from the consolidated `allArticles`.
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const healthlineArticles = allArticles.filter(a => a.source === "healthline" || (a.slug || "").toString().toLowerCase().startsWith("healthline-"));
 
   const categories = Array.from(new Set(healthlineArticles.map(a => a.category)));
@@ -43,7 +41,7 @@ export default function HealthHub() {
   return (
     <Layout>
       <div className="bg-gray-50 min-h-screen pb-12">
-        {/* Hero Section */}
+        {}
         <section className="bg-white border-b">
           <div className="container py-12 lg:py-16">
             <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6 tracking-tight">
@@ -53,7 +51,7 @@ export default function HealthHub() {
               Explore our comprehensive database of medically reviewed articles, guides, and resources.
             </p>
             
-            {/* Search and Filter */}
+            {}
             <div className="flex flex-col md:flex-row gap-4 max-w-3xl">
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 w-5 h-5" />
@@ -69,7 +67,7 @@ export default function HealthHub() {
               </div>
             </div>
 
-            {/* Categories */}
+            {}
             <div className="flex flex-wrap gap-2 mt-6">
               <Button 
                 variant={selectedCategory === null ? "default" : "outline"}
@@ -94,7 +92,7 @@ export default function HealthHub() {
           </div>
         </section>
 
-        {/* Articles Grid */}
+        {}
         <section className="container py-12">
           <div className="mb-6 flex justify-between items-center">
             <h2 className="text-2xl font-bold text-gray-900">
@@ -112,7 +110,7 @@ export default function HealthHub() {
                 >
                   <div className="aspect-video bg-gray-200 relative overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
-                     {/* Placeholder Image */}
+                     {}
                      <img 
                         src="/placeholder.svg"
                         loading="lazy"
@@ -157,7 +155,7 @@ export default function HealthHub() {
             </div>
           )}
 
-          {/* Pagination */}
+          {}
           {totalPages > 1 && (
             <div className="flex justify-center items-center gap-4 mt-12">
               <Button

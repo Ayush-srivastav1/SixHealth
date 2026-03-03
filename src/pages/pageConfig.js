@@ -1,7 +1,4 @@
-
-// Central configuration for dynamic pages
-// Add new pages here with their content.
-// To access a page, use /page/<key> (e.g., /page/about or /page/contact)
+
 
 const pageConfig = {
   home: {

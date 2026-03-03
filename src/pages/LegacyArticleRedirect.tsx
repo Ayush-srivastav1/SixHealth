@@ -20,9 +20,7 @@ export default function LegacyArticleRedirect() {
         <p className="text-gray-600">The article you're looking for doesn't exist.</p>
       </div>
     );
-  }
-
-  // Find article by ID in blogData
+  }
   const article = allArticles.find((a) => a.id === id);
 
   if (!article) {
@@ -32,9 +30,7 @@ export default function LegacyArticleRedirect() {
         <p className="text-gray-600">Sorry, we couldn't find the article you're looking for.</p>
       </div>
     );
-  }
-
-  // Redirect to new slug-based URL
+  }
   const category = (article.categorySlug || article.category || "")
     .toString()
     .toLowerCase()

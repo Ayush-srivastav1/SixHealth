@@ -3,9 +3,7 @@ import { Layout } from "@/components/layout";
 import { useNavigate } from "react-router-dom";
 import { allArticles } from "@/data/allArticles";
 import { SafeImage } from "@/components/common/SafeImage";
-import { imageLibrary } from "@/data/imageLibrary";
-
-// Compatibility shim: derive the previous `sleepArticles` export from `allArticles`.
+import { imageLibrary } from "@/data/imageLibrary";
 const sleepArticles = allArticles.filter((a) => (a.slug || "").toString().toLowerCase().startsWith("sleep-") || a.source === "sleep");
 
 function Section({ section }: {
@@ -123,7 +121,7 @@ export default function Sleep() {
 
   return (
     <Layout>
-      {/* HERO */}
+      {}
       <section className="bg-gradient-to-r from-purple-700 to-purple-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Sleep Health</h1>
@@ -143,7 +141,7 @@ export default function Sleep() {
           </div>
         </div>
       </section>
-      {/* CONTENT: Show all sections */}
+      {}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {sections.map((section) => (
           <Section key={section.id} section={section} />

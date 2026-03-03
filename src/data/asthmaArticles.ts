@@ -70,7 +70,6 @@ export const asthmaSections = [
   *   **Tobacco Smoke:** Exposure to secondhand smoke in childhood is a major risk factor. Maternal smoking during pregnancy is also strongly linked to impaired lung function in infants.
   *   **Occupational Irritants:** Exposure to chemical fumes, gases, or dusts at work can cause "occupational asthma."
 
-
       ### Children under 5
 
       Spirometry is often impractical in very young children. Clinicians diagnose based on recurrent wheeze, response to bronchodilators, symptom patterns, and therapeutic trials of controller medication. Observe and reassess as the child grows.

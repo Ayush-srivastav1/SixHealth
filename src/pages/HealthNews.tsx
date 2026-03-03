@@ -42,8 +42,7 @@ const newsArticles = [
     href: "/health-news/colorectal-cancer-leading-cause-cancer-related-death-young-adults",
     img: "/images/news-colorectal-cancer.jpg",
     desc: "Colorectal cancer is now the leading cause of death due to cancer for Americans under 50, according to a new report from the American Cancer Society…",
-  },
-  // Add more articles as needed
+  },
 ];
 
 const HealthNewsPage: React.FC = () => {
@@ -65,7 +64,7 @@ const HealthNewsPage: React.FC = () => {
             </a>
           ))}
         </div>
-        {/* Newsletter Signup */}
+        {}
         <section className="bg-blue-50 rounded-lg p-6 text-center mb-12">
           <h2 className="text-xl font-semibold mb-2">Get our wellness newsletter</h2>
           <p className="mb-4">Filter out the noise and nurture your inbox with health and wellness advice that’s inclusive and rooted in medical expertise.</p>

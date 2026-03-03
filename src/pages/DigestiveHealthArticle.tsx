@@ -14,9 +14,7 @@ import {
 import { contentToString } from "@/lib/articleUtils";
 
 export default function DigestiveHealthArticle() {
-  const { slug } = useParams<{ slug: string }>();
-
-  // Find article from all sections
+  const { slug } = useParams<{ slug: string }>();
   let article: { title?: string; content?: string | unknown[] } | null = null;
   let sectionTitle = "";
 
@@ -69,10 +67,10 @@ export default function DigestiveHealthArticle() {
   return (
     <Layout>
       <article>
-        {/* Article Header */}
+        {}
         <header className="border-b bg-white">
           <div className="article-content py-8">
-            {/* Breadcrumb */}
+            {}
             <nav className="mb-4 flex items-center gap-2 text-sm text-gray-600">
               <Link to="/" className="hover:text-green-600">
                 Home
@@ -87,19 +85,19 @@ export default function DigestiveHealthArticle() {
               </span>
             </nav>
 
-            {/* Category Badge */}
+            {}
             <div className="mb-4 inline-block">
               <span className="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm font-semibold">
                 {sectionTitle}
               </span>
             </div>
 
-            {/* Title */}
+            {}
             <h1 className="mb-4 text-3xl font-bold leading-tight lg:text-4xl text-gray-900">
               {article.title}
             </h1>
 
-            {/* Meta Information */}
+            {}
             <div className="flex flex-wrap items-center gap-6 text-sm text-gray-600">
               <span className="flex items-center gap-2">
                 <User className="h-4 w-4" />
@@ -117,9 +115,9 @@ export default function DigestiveHealthArticle() {
           </div>
         </header>
 
-        {/* Article Content */}
+        {}
         <div className="article-content py-12">
-          {/* Featured Image */}
+          {}
           <img
             src="/placeholder.svg"
             loading="lazy"
@@ -128,14 +126,14 @@ export default function DigestiveHealthArticle() {
             className="w-full h-96 object-cover rounded-lg mb-8 bg-gray-200"
           />
 
-          {/* Main Content */}
+          {}
           <div className="prose prose-lg max-w-none mb-8">
               <p className="text-gray-700 leading-relaxed text-lg mb-6">
               {contentToString(article.content)}
             </p>
           </div>
 
-          {/* Share Section */}
+          {}
           <div className="border-t border-b py-6 mb-8 flex flex-wrap items-center gap-4">
             <span className="font-semibold text-gray-900">Share this article:</span>
             <div className="flex gap-3">
@@ -158,7 +156,7 @@ export default function DigestiveHealthArticle() {
             </div>
           </div>
 
-          {/* CTA Section */}
+          {}
           <div className="bg-green-50 border border-green-200 rounded-lg p-8 text-center">
             <h3 className="text-xl font-bold text-green-900 mb-2">
               Need more information about Digestive Health?

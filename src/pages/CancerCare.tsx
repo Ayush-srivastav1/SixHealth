@@ -12,10 +12,7 @@ const tabs = [
   "What to Eat",
   "Well-Being",
   "Tests & Screenings",
-];
-
-// Build sections dynamically from blogData articles with cancer-care categorySlug
-// This eliminates hardcoded duplication and ensures consistency with blogData.ts
+];
 const buildSections = () => {
   const cancerArticles = allArticles.filter(
     (a) => (a.categorySlug || a.category || "").toString().toLowerCase() === "cancer-care"
@@ -28,9 +25,7 @@ const buildSections = () => {
     nutrition: { title: "Nutrition & Well-Being", articles: [] },
     eating: { title: "What to Eat During Cancer Treatment", articles: [] },
     tests: { title: "Tests & Screenings", articles: [] },
-  };
-
-  // Categorize articles by title patterns (matching hub structure)
+  };
   cancerArticles.forEach((article) => {
     const title = (article.title || "").toLowerCase();
 
@@ -72,9 +67,7 @@ const buildSections = () => {
     ) {
       sectionMap.tests.articles.push(article);
     }
-  });
-
-  // Convert to array format for CardHub
+  });
   return Object.entries(sectionMap).map(([id, section]) => ({
     id,
     title: section.title,
@@ -101,9 +94,7 @@ export default function CancerCare() {
     "What to Eat": useRef(null),
     "Well-Being": useRef(null),
     "Tests & Screenings": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category as keyof typeof sectionRefs];
     if (ref && ref.current) {
@@ -124,8 +115,7 @@ export default function CancerCare() {
         <section className="space-y-12">
           <CardHub
             sections={sections}
-            onArticleClick={(id: string, title: string) => {
-              // Find the article by slug (id is the slug from buildSections)
+            onArticleClick={(id: string, title: string) => {
               const article = allArticles.find((a) => a.slug === id);
               if (article) {
                 const category = (article.categorySlug || article.category || "cancer-care")
@@ -137,7 +127,7 @@ export default function CancerCare() {
             }}
           />
 
-          {/* NEWSLETTER */}
+          {}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto">
             <h2 className="text-xl font-bold text-purple-700 mb-2">
               Get weekly Cancer Care updates

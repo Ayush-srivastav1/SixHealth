@@ -18,7 +18,7 @@ export default function SubSectionPage() {
         </button>
         <h1 className="text-3xl font-bold mb-4">{title}</h1>
         <div className="text-gray-700 text-lg">
-          {/* Subsection content goes here */}
+          {}
         </div>
       </div>
     </Layout>

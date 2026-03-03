@@ -99,7 +99,7 @@ export default function HeartCardiovascular() {
 
   return (
     <Layout>
-      {/* Hero/Header */}
+      {}
       <section className="bg-gradient-to-r from-pink-600 to-red-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Heart & Cardiovascular Health</h1>
@@ -123,7 +123,7 @@ export default function HeartCardiovascular() {
         </div>
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
-        {/* Main Content */}
+        {}
         <main className="flex-1 space-y-12">
           {tabSections.map((section) => (
             <section
@@ -142,15 +142,11 @@ export default function HeartCardiovascular() {
                   const found = allArticles.find((a) => {
                     const title = (a.title || "").toString().toLowerCase();
                     const slugVal = (a.slug || "").toString().toLowerCase();
-                    const aliases = Array.isArray((a as any).aliases) ? (a as any).aliases.map((x: any) => String(x).toLowerCase()) : [];
-
-                    // Exact slug match
-                    if (slugVal === slug) return true;
-                    // Exact title or contains heading
+                    const aliases = Array.isArray((a as any).aliases) ? (a as any).aliases.map((x: any) => String(x).toLowerCase()) : [];
+                    if (slugVal === slug) return true;
                     if (title === heading.toLowerCase()) return true;
                     if (title.includes(hSimple)) return true;
-                    if (hSimple.includes(title.replace(/[^a-z0-9\s]/g, "").trim())) return true;
-                    // Aliases
+                    if (hSimple.includes(title.replace(/[^a-z0-9\s]/g, "").trim())) return true;
                     if (aliases.includes(heading.toLowerCase())) return true;
                     return false;
                   });
@@ -179,7 +175,7 @@ export default function HeartCardiovascular() {
             </section>
           ))}
 
-          {/* Newsletter Signup */}
+          {}
           <div className="bg-red-50 border border-red-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
             <h2 className="text-xl font-bold text-red-700 mb-2">
               Get our Heart Health newsletter
@@ -217,7 +213,7 @@ export default function HeartCardiovascular() {
             )}
           </div>
         </main>
-        {/* Sidebar */}
+        {}
         <aside className="w-full lg:w-80 flex-shrink-0 space-y-8">
           <div className="bg-white border border-gray-200 rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4 text-red-700">Featured Articles</h3>

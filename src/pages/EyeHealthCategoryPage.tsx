@@ -153,7 +153,7 @@ export default function EyeHealthCategoryPage() {
 
   return (
     <Layout>
-      {/* Header */}
+      {}
       <section className="border-b bg-card py-8 lg:py-12">
         <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
@@ -180,7 +180,7 @@ export default function EyeHealthCategoryPage() {
         </div>
       </section>
 
-      {/* Featured Image */}
+      {}
       <section className="border-b">
         <div className="site-container max-w-3xl">
           <div className="my-8 rounded-xl overflow-hidden">
@@ -193,14 +193,14 @@ export default function EyeHealthCategoryPage() {
         </div>
       </section>
 
-      {/* Overview */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="container max-w-3xl">
           <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
             {content.overview}
           </p>
 
-          {/* Content Sections */}
+          {}
           <div className="space-y-12">
             {content.sections.map((section, idx) => (
               <div key={idx}>
@@ -212,7 +212,7 @@ export default function EyeHealthCategoryPage() {
             ))}
           </div>
 
-          {/* Key Takeaways */}
+          {}
           <div className="bg-muted/50 rounded-lg p-6 mt-12">
             <h3 className="text-xl font-semibold mb-4">Key Takeaways</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
@@ -237,7 +237,7 @@ export default function EyeHealthCategoryPage() {
         </div>
       </section>
 
-      {/* Newsletter */}
+      {}
       <section className="bg-muted/50 py-12 border-t mt-12">
         <div className="site-container max-w-2xl">
           <div className="text-center mb-6">

@@ -5,8 +5,7 @@
  * WebP Parameters: ?auto=format&fit=crop&w=1200&q=80&fm=webp
  */
 
-export const imageLibrary = {
-  // Major Medical Conditions - All UNIQUE Healthcare/Medical Images
+export const imageLibrary = {
   asthma: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp", // Respiratory care - patient using inhaler
   diabetes: "https://images.unsplash.com/photo-1576169265665-a2b5c6b50f3c?auto=format&fit=crop&w=1200&q=80&fm=webp", // Glucose testing - blood sugar monitoring
   breastCancer: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp", // Medical/oncology examination
@@ -14,9 +13,7 @@ export const imageLibrary = {
   mentalHealth: "https://images.unsplash.com/photo-1576091160399-1122a606b8d3?auto=format&fit=crop&w=1200&q=80&fm=webp", // Therapy/counseling - mental wellness
   hypertension: "https://images.unsplash.com/photo-1631217b1e6dbe8a3f2c2e4d13c51f8f?auto=format&fit=crop&w=1200&q=80&fm=webp", // Blood pressure monitoring
   arthritis: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp", // Joint pain/inflammation
-  copd: "https://images.unsplash.com/photo-1606811841689-23ace3c904b2?auto=format&fit=crop&w=1200&q=80&fm=webp", // Respiratory therapy device
-
-  // Specific Neurological/Condition Diseases - UNIQUE
+  copd: "https://images.unsplash.com/photo-1606811841689-23ace3c904b2?auto=format&fit=crop&w=1200&q=80&fm=webp", // Respiratory therapy device
   pneumonia: "https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp", // Lung disease/infection
   migraine: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp", // Headache relief/pain
   rheumatoidArthritis: "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp", // Inflammatory/rheumatology
@@ -29,13 +26,9 @@ export const imageLibrary = {
   eyeHealth: "https://images.unsplash.com/photo-1576091160550-112173f7f869?auto=format&fit=crop&w=1200&q=80&fm=webp", // Vision/eye care
   digestiveHealth: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp", // Nutrition/digestive wellness
   respiratoryHealth: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=80&fm=webp", // Lung/respiratory care
-  lymphedema: "https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp", // Lymphatic health/therapy
-
-  // Weight & Metabolic Health - UNIQUE
+  lymphedema: "https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp", // Lymphatic health/therapy
   weightManagement: "https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp", // Fitness/weight management
-  obesity: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp", // Fitness/health lifestyle
-
-  // Wellness Categories - All UNIQUE
+  obesity: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp", // Fitness/health lifestyle
   nutrition: "https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp", // Healthy eating/nutrition
   fitness: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=80&fm=webp", // Exercise/physical fitness
   mindfulness: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp", // Meditation/relaxation
@@ -43,9 +36,7 @@ export const imageLibrary = {
   stressManagement: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp", // Stress relief/yoga
   pregnancy: "https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp", // Prenatal/maternity care
   skinCare: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp", // Skincare/dermatology
-  dentalHealth: "https://images.unsplash.com/photo-1606811841689-23ace3c904b2?auto=format&fit=crop&w=1200&q=80&fm=webp", // Dental/oral healthcare
-
-  // General Fallbacks (healthcare context)
+  dentalHealth: "https://images.unsplash.com/photo-1606811841689-23ace3c904b2?auto=format&fit=crop&w=1200&q=80&fm=webp", // Dental/oral healthcare
   generalHealth: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp", // General health/medical
   default: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp", // Default healthcare image
 };

@@ -12,8 +12,7 @@ type Props = {
   related?: RelatedArticle[];
 };
 
-function renderMarkdownLite(md: string) {
-  // Very small markdown -> JSX converter for headings, lists, and paragraphs
+function renderMarkdownLite(md: string) {
   const lines = md.split(/\n/);
   const elems: React.ReactNode[] = [];
   let listBuffer: React.ReactNode[] = [];
@@ -44,8 +43,7 @@ function renderMarkdownLite(md: string) {
     if (line.startsWith("- ")) {
       listBuffer.push(line.replace(/^-\s+/, ""));
       continue;
-    }
-    // links like - [Name](/path) -> render as anchor
+    }
     const linkMatch = line.match(/\[(.*?)\]\((.*?)\)/);
     if (linkMatch) {
       const text = linkMatch[1];

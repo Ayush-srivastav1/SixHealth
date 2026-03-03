@@ -24,20 +24,11 @@ const NavLink = forwardRef<HTMLAnchorElement, NavLinkCompatProps>(
         ref={ref}
         to={to}
         className={({ isActive, isPending }) =>
-          cn(
-            // Base header link style
-            "flex items-center h-full transition-colors duration-200",
-            
-            // Default color
-            "text-white hover:text-[#f4b400]",
-            
-            // Custom classes if provided
-            className,
-            
-            // Active state
-            isActive && activeClassName,
-            
-            // Pending (optional)
+          cn(
+            "flex items-center h-full transition-colors duration-200",
+            "text-white hover:text-[#f4b400]",
+            className,
+            isActive && activeClassName,
             isPending && pendingClassName
           )
         }

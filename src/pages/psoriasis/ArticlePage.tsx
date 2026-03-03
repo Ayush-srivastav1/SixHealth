@@ -6,11 +6,8 @@ import { sampleArticles } from "@/data/articles";
 export default function ArticlePage() {
   const { articleId } = useParams();
   const location = useLocation();
-  const navigate = useNavigate();
-  // First try to find the article in the central data source by slug
-  const dataArticle = sampleArticles.find((a) => a.slug === articleId);
-
-  // If not found, fall back to tabSections (legacy static mapping)
+  const navigate = useNavigate();
+  const dataArticle = sampleArticles.find((a) => a.slug === articleId);
   let foundArticle = null;
   let foundSection = null;
   if (!dataArticle) {

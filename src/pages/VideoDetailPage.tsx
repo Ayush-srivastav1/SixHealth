@@ -65,7 +65,7 @@ export function VideoDetailPage() {
   return (
     <Layout>
       <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
-        {/* Header Navigation */}
+        {}
         <section className="bg-white border-b border-gray-200">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <button
@@ -77,10 +77,10 @@ export function VideoDetailPage() {
           </div>
         </section>
 
-        {/* Video Player Section */}
+        {}
         <section className="py-12">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            {/* Breadcrumb */}
+            {}
             <div className="flex items-center gap-2 text-sm text-gray-600 mb-6">
               <button
                 onClick={() => navigate("/videos")}
@@ -99,7 +99,7 @@ export function VideoDetailPage() {
               <span className="text-gray-900 font-medium">{video.title}</span>
             </div>
 
-            {/* Video Player */}
+            {}
             <div className="mb-8">
               <EmbeddedVideo
                 youtubeId={video.youtubeId}
@@ -107,7 +107,7 @@ export function VideoDetailPage() {
               />
             </div>
 
-            {/* Video Details */}
+            {}
             <div className="bg-white rounded-lg shadow-sm p-8 mb-8">
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-6">
                 <div className="flex-1">
@@ -132,7 +132,7 @@ export function VideoDetailPage() {
                 </div>
               </div>
 
-              {/* Description */}
+              {}
               <div className="mb-8">
                 <h2 className="text-xl font-semibold text-gray-900 mb-4">
                   About This Video
@@ -142,7 +142,7 @@ export function VideoDetailPage() {
                 </p>
               </div>
 
-              {/* Video Metadata */}
+              {}
               <div className="border-t border-gray-200 pt-6">
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
                   <div>
@@ -185,7 +185,7 @@ export function VideoDetailPage() {
               </div>
             </div>
 
-            {/* Share Section */}
+            {}
             <div className="bg-blue-50 rounded-lg p-6 mb-12 border border-blue-100">
               <h3 className="font-semibold text-gray-900 mb-4">Share This Video</h3>
               <div className="flex gap-4">
@@ -204,7 +204,7 @@ export function VideoDetailPage() {
           </div>
         </section>
 
-        {/* Related Videos */}
+        {}
         {relatedVideos.length > 0 && (
           <section className="bg-gray-50 py-16 border-t border-gray-200">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -228,7 +228,7 @@ export function VideoDetailPage() {
           </section>
         )}
 
-        {/* CTA Section */}
+        {}
         <section className="py-16">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">

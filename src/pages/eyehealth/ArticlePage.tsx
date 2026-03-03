@@ -20,9 +20,7 @@ export default function EyeHealthArticlePage() {
     } as any;
 
     return <ArticleLayout article={article} />;
-  }
-
-  // If the incoming legacy slug/id doesn't match the canonical slug, redirect
+  }
   if (slug && found.slug && slug !== found.slug) {
     const cat = (found.categorySlug || found.category || "").toString().toLowerCase().replace(/\s+/g, "-");
     return <Navigate to={`/conditions/${cat}/article/${found.slug}`} replace />;

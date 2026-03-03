@@ -17,15 +17,13 @@ const Index = () => {
   const latestArticles = allArticles.slice(5, 11);
   const popularArticles = allArticles.slice(0, 6);
 
-  const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];
-
-  // Debug: Log articles
+  const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];
   console.log("allArticles count:", allArticles.length);
   console.log("latestArticles:", latestArticles);
 
   return (
     <Layout>
-      {/* Hero Banner — real photo from Unsplash with WebP source and text overlay */}
+      {}
       <section className="relative">
         <picture>
           <source srcSet="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1920&q=80&fm=webp" type="image/webp" />
@@ -40,14 +38,14 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Newsletter Banner */}
+      {}
       <NewsletterSignup variant="banner" />
 
-      {/* Latest Articles Grid */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
-            {/* Main Content - Latest Articles */}
+            {}
             <div className="lg:col-span-2">
               <div className="mb-6 flex items-center justify-between">
                 <h2 className="text-2xl font-semibold">Latest Articles</h2>
@@ -65,12 +63,12 @@ const Index = () => {
               </div>
             </div>
 
-            {/* Sidebar */}
+            {}
             <aside className="space-y-6">
-              {/* Newsletter Card */}
+              {}
               <NewsletterSignup />
 
-              {/* Popular Articles */}
+              {}
               <div className="rounded-xl border bg-card p-6">
                 <h3 className="mb-4 font-semibold">Popular This Week</h3>
                 <div className="space-y-4">
@@ -80,7 +78,7 @@ const Index = () => {
                 </div>
               </div>
 
-              {/* Video Content Promo */}
+              {}
               <div className="relative overflow-hidden rounded-xl bg-gradient-to-br from-primary to-primary/80 p-6 text-primary-foreground">
                 <div className="relative z-10">
                   <div className="mb-3 flex h-10 w-10 items-center justify-center rounded-full bg-primary-foreground/20">
@@ -100,12 +98,12 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Quick Links by Topic */}
+      {}
       <section className="border-t bg-muted/50 py-8 lg:py-12">
         <div className="container">
           <h2 className="mb-6 text-2xl font-bold">Quick Links</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-            {/* Conditions Quick Links */}
+            {}
             <div>
               <h3 className="mb-3 font-semibold text-category-conditions">Common Conditions</h3>
               <ul className="space-y-2">
@@ -119,7 +117,7 @@ const Index = () => {
               </ul>
             </div>
 
-            {/* Wellness Quick Links */}
+            {}
             <div>
               <h3 className="mb-3 font-semibold text-primary">Wellness Topics</h3>
               <ul className="space-y-2">
@@ -133,7 +131,7 @@ const Index = () => {
               </ul>
             </div>
 
-            {/* Nutrition Quick Links */}
+            {}
             <div>
               <h3 className="mb-3 font-semibold text-category-nutrition">Nutrition Guides</h3>
               <ul className="space-y-2">
@@ -147,7 +145,7 @@ const Index = () => {
               </ul>
             </div>
 
-            {/* Fitness Quick Links */}
+            {}
             <div>
               <h3 className="mb-3 font-semibold text-category-fitness">Fitness Programs</h3>
               <ul className="space-y-2">

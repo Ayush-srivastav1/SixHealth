@@ -1,8 +1,6 @@
 import { CategoryType } from "@/components/articles";
 
-export type Article = import("@/types/article").Article;
-
-// Sample articles for demonstration - replace with your content
+export type Article = import("@/types/article").Article;
 export const sampleArticles: Article[] = [
   {
     id: "1",
@@ -193,8 +191,7 @@ export const sampleArticles: Article[] = [
         readTime: "9 min read",
         date: "Feb 1, 2026",
         updatedDate: "Feb 1, 2026",
-      },
-      // COPD topic entries
+      },
       {
         id: "copd-1",
         title: "What Is COPD?",

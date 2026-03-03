@@ -39,9 +39,7 @@ export function Header() {
   const navigate = useNavigate();
   const location = useLocation();
 
-  const isSubPage = location.pathname !== "/";
-
-  // Use immediate hover state to match older Healthline behavior
+  const isSubPage = location.pathname !== "/";
   const [hovered, setHovered] = useState<string | null>(null);
   const closeTimer = useRef<number | null>(null);
 
@@ -74,9 +72,7 @@ export function Header() {
     const q = query.trim().toLowerCase();
     if (q.length < 2) return [];
     return searchContent(q).slice(0, 10).map((item) => ({ title: item.title, href: item.url, type: item.type, category: item.category }));
-  }, [query]);
-
-  // Hide mega-dropdown when footer enters the viewport (so it doesn't cover the footer)
+  }, [query]);
   useEffect(() => {
     const footer = document.querySelector('footer');
     if (!footer) return;
@@ -100,7 +96,7 @@ export function Header() {
 
   return (
     <>
-      {/* TOP BAR */}
+      {}
       <div className="bg-white border-b border-gray-200">
         <div className="site-container">
           <div className="flex items-center h-12">
@@ -156,7 +152,7 @@ export function Header() {
         </div>
       </div>
 
-      {/* MAIN HEADER */}
+      {}
       <header className="bg-black sticky top-0 z-50" style={{overflow: 'visible'}}>
         <div className="relative max-w-[1280px] mx-auto px-6 h-[72px] flex items-stretch justify-between" style={{overflow: 'visible'}}>
           <div className="flex items-center text-white text-2xl font-bold">SixHealth</div>
@@ -164,9 +160,7 @@ export function Header() {
           <nav className="absolute inset-x-0 top-0 h-full flex items-center justify-center" style={{overflow: 'visible'}}>
             <ul className="flex items-center gap-6 text-sm font-semibold text-white h-full" style={{overflow: 'visible'}}>
               {categories.map((category) => {
-                const isHub = ["health-conditions","wellness","tools","featured","connect"].includes(category.id);
-
-                // build flat links
+                const isHub = ["health-conditions","wellness","tools","featured","connect"].includes(category.id);
                 const allLinks: { title: string; href: string }[] = [];
                 for (const link of category.extraLinks || []) {
                   const l = link as unknown as { title: string; href?: string; subLinks?: Array<{ title: string; href: string }> };
@@ -199,21 +193,18 @@ export function Header() {
             </ul>
           </nav>
 
-          {/* Centralized mega menu panel (renders for hovered hub categories) */}
+          {}
           {hovered && !dropdownHiddenByFooter && !suppressDropdown && (
             (() => {
               const active = categories.find((c) => c.id === hovered);
-              if (!active) return null;
-
-              // If this is the featured hub, render featuredList items split into 4 columns
+              if (!active) return null;
               let columns: Array<Array<{ title: string; href: string }>> = [];
               if (active.id === 'featured') {
                 const entries = Object.entries(featuredList).map(([slug, title]) => ({ title, href: `/featured/${slug}` }));
                 const colCount = 4;
                 const perCol = Math.max(1, Math.ceil(entries.length / colCount));
                 columns = Array.from({ length: colCount }, (_, i) => entries.slice(i * perCol, (i + 1) * perCol));
-              } else {
-                // build flat links for normal hubs
+              } else {
                 const allLinks: { title: string; href: string }[] = [];
                 for (const link of active.extraLinks || []) {
                   const l = link as unknown as { title: string; href?: string; subLinks?: Array<{ title: string; href: string }> };
@@ -244,8 +235,7 @@ export function Header() {
                     panelClassName="mx-auto max-w-[1280px] px-20 py-10 bg-[#f5efe6] shadow-[0_8px_20px_rgba(0,0,0,0.08)] rounded-md"
                   >
                     <div className={cn("grid gap-10", gridColsClass)}>
-                      {active.id === 'featured' ? (
-                        // Featured: render 4 equal columns of featuredList
+                      {active.id === 'featured' ? (
                         columns.map((col, i) => (
                           <div key={i}>
                             <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">{["Health News", "This Just In", "Top Reads", "Video Series"][i] || `Column ${i+1}`}</h5>
@@ -294,7 +284,7 @@ export function Header() {
         </div>
       </header>
 
-      {/* BREADCRUMB NAV - For sub-pages */}
+      {}
       {isSubPage && (
         <div className="bg-gray-50 border-b border-gray-200">
           <div className="site-container">
@@ -310,7 +300,6 @@ export function Header() {
   );
 }
 
-/* MOBILE CATEGORY */
 function MobileNavCategory({
   category,
 }: {

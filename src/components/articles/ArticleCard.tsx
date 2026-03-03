@@ -43,8 +43,7 @@ export function ArticleCard({
   try {
      
     console.debug("ArticleCard path", { id: title, slug, category, categorySlug: catSlug, articlePath });
-  } catch (e) {
-    // ignore
+  } catch (e) {
   }
   const handleClick = () => navigate(articlePath);
   if (compact) {

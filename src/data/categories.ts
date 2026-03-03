@@ -31,11 +31,7 @@ export const navigationCategories: NavigationCategory[] = [
       { title: "Rheumatoid Arthritis (RA)", href: "/conditions/rheumatoid-arthritis" },
       { title: "Sleep Health", href: "/conditions/sleep" },
       { title: "Type 2 Diabetes", href: "/conditions/type-2-diabetes" },
-      { title: "Weight Management", href: "/conditions/weight-management" },
-      
-
-   
-      // Add more as needed
+      { title: "Weight Management", href: "/conditions/weight-management" },
     ],
   },
   {
@@ -65,28 +61,24 @@ export const navigationCategories: NavigationCategory[] = [
     title: "Tools",
     description: "Health tools and calculators",
     href: "/tools",
-    extraLinks: [
-      // Featured
+    extraLinks: [
       { title: "Video Series", href: "/tools/video-series" },
       { title: "Pill Identifier", href: "/tools/pill-identifier" },
       { title: "FindCare", href: "/tools/findcare" },
       { title: "Drugs A-Z", href: "/tools/drugs-a-z" },
-      { title: "Medicare Plans by State", href: "/tools/medicare-plans" },
-      // Lessons
+      { title: "Medicare Plans by State", href: "/tools/medicare-plans" },
       { title: "Crohn’s and Ulcerative Colitis Essentials", href: "/tools/colitis-essentials" },
       { title: "Diabetes Nutrition", href: "/tools/diabetes-nutrition" },
       { title: "High Cholesterol", href: "/tools/high-cholesterol" },
       { title: "Taming Inflammation in Psoriasis", href: "/tools/psoriasis-inflammation" },
-      { title: "Taming Inflammation in Psoriatic Arthritis", href: "/tools/psoriatic-arthritis-inflammation" },
-      // Newsletters
+      { title: "Taming Inflammation in Psoriatic Arthritis", href: "/tools/psoriatic-arthritis-inflammation" },
       { title: "Anxiety and Depression", href: "/tools/newsletter-anxiety" },
       { title: "Digestive Health", href: "/tools/newsletter-digestive" },
       { title: "Heart Health", href: "/tools/newsletter-heart" },
       { title: "Migraine", href: "/tools/newsletter-migraine" },
       { title: "Nutrition Edition", href: "/tools/newsletter-nutrition" },
       { title: "Type 2 Diabetes", href: "/tools/newsletter-diabetes" },
-      { title: "Wellness Wire", href: "/tools/newsletter-wellness" },
-      // Lifestyle Quizzes
+      { title: "Wellness Wire", href: "/tools/newsletter-wellness" },
       { title: "Find a Diet", href: "/tools/quiz-find-diet" },
       { title: "Find Healthy Snacks", href: "/tools/quiz-healthy-snacks" },
       { title: "Weight Management", href: "/tools/quiz-weight-management" },

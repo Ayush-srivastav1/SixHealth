@@ -24,7 +24,7 @@ export default function Chemotherapy() {
 
   return (
     <Layout>
-      {/* Header */}
+      {}
       <section className="border-b bg-card py-8 lg:py-12">
         <div className="site-container">
           <nav className="mb-4 text-sm text-muted-foreground">
@@ -55,10 +55,10 @@ export default function Chemotherapy() {
         </div>
       </section>
 
-      {/* Main Content */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="site-container">
-          {/* TABS */}
+          {}
           <div className="flex flex-wrap gap-4 border-b pb-3 mb-10">
             {tabs.map((tab) => (
               <button
@@ -75,7 +75,7 @@ export default function Chemotherapy() {
             ))}
           </div>
 
-          {/* SECTIONS */}
+          {}
           <Section
             title="Understanding Chemotherapy"
             articles={[
@@ -148,7 +148,7 @@ export default function Chemotherapy() {
             ]}
           />
 
-          {/* FOOTER NOTE */}
+          {}
           <div className="mt-10 border-t pt-4 text-xs text-muted-foreground">
             This content is for informational purposes only and does not replace
             professional medical advice. Consult with a healthcare provider for diagnosis and treatment.
@@ -158,8 +158,6 @@ export default function Chemotherapy() {
     </Layout>
   );
 }
-
-/* ----------------SECTION COMPONENT ---------------- */
 
 function Section({
   title,

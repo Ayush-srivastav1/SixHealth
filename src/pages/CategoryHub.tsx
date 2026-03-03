@@ -23,7 +23,7 @@ const CategoryHub = () => {
 
   return (
     <Layout>
-      {/* Category Header */}
+      {}
       <section className="border-b bg-card py-8 lg:py-12">
         <div className="container">
           <nav className="mb-4 text-sm text-muted-foreground">
@@ -35,17 +35,15 @@ const CategoryHub = () => {
           <p className="max-w-2xl text-lg text-muted-foreground">
             {categoryInfo.description}
           </p>
-          {/* <p className="mt-2 text-sm text-muted-foreground">
-            {categoryInfo.articleCount} articles
-          </p> */}
+          {}
         </div>
       </section>
 
-      {/* Articles Grid */}
+      {}
       <section className="py-8 lg:py-12">
         <div className="container">
           <div className="grid gap-8 lg:grid-cols-3">
-            {/* Main Content */}
+            {}
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h2 className="text-xl font-semibold">All {categoryInfo.title} Articles</h2>
@@ -55,8 +53,7 @@ const CategoryHub = () => {
                   categoryArticles.map((article) => (
                     <ArticleCard key={article.id} {...article} />
                   ))
-                ) : (
-                  // Show sample articles if none match
+                ) : (
                   allArticles.slice(0, 6).map((article) => (
                     <ArticleCard key={article.id} {...article} />
                   ))
@@ -64,11 +61,11 @@ const CategoryHub = () => {
               </div>
             </div>
 
-            {/* Sidebar */}
+            {}
             <aside className="space-y-6">
               <NewsletterSignup />
               
-              {/* Other Categories */}
+              {}
               <div className="rounded-xl border bg-card p-6">
                 <h3 className="mb-4 font-semibold">Explore Other Topics</h3>
                 <div className="space-y-3">

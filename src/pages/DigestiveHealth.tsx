@@ -78,21 +78,21 @@ export default function DigestiveHealth() {
         heroColor="#16a34a"
       >
         <div className="flex flex-col lg:flex-row gap-8">
-          {/* Main Content Card */}
+          {}
           <div className="flex-1">
             <div className="bg-white rounded-2xl shadow-md p-6 md:p-10">
               <section className="space-y-12">
-                {/* Articles grid (sourced from blogData via allArticles) */}
+                {}
                 <div ref={(el) => (sectionRefs.current["Gut Health Basics"] = el)}>
                   <ArticleGrid />
                 </div>
 
-                {/* Anchors for legacy tab scrolling (content driven by ArticleGrid above) */}
+                {}
                 <div ref={(el) => (sectionRefs.current["Living with Crohn's Disease"] = el)} />
                 <div ref={(el) => (sectionRefs.current["Living with Ulcerative Colitis"] = el)} />
                 <div ref={(el) => (sectionRefs.current["Managing IBS"] = el)} />
 
-                {/* Newsletter */}
+                {}
                 <div ref={(el) => (sectionRefs.current["Newsletter"] = el)}>
                   <section className="my-12 bg-purple-50 border border-purple-200 rounded-lg p-8 flex flex-col items-center text-center">
                     <h3 className="text-xl font-semibold mb-2 text-purple-700">Get Our Digestive Health Newsletter</h3>
@@ -106,7 +106,7 @@ export default function DigestiveHealth() {
                   </section>
                 </div>
 
-                {/* Social Links & Footer */}
+                {}
                 <div className="mt-10 border-t pt-4 text-xs text-muted-foreground text-center">
                   <div className="mb-2">
                     This content is for informational purposes only and does not replace professional medical advice. Consult with a healthcare provider for diagnosis and treatment.

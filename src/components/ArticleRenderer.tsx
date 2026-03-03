@@ -26,14 +26,10 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { contentToString } from "@/lib/articleUtils";
-import { extractH2HeadingsFromHTML } from "@/lib/articleUtils";
-
-// Content-only renderer: handles raw-HTML strings and section arrays
+import { extractH2HeadingsFromHTML } from "@/lib/articleUtils";
 export const ArticleContent: React.FC<{ content?: string | ArticleSection[] }> = ({ content }) => {
-	if (typeof content === "string") {
-		// Strip any hard-coded author/reviewer/last-updated footer blocks
-		const cleaned = content.replace(/<hr\/?>([\s\S]*?)<div[^>]*>\s*\n?\s*<p><strong>Author:[\s\S]*?<\/div>\s*$/i, '');
-		// Fallback: also remove generic trailing footer blocks that start with <hr/>
+	if (typeof content === "string") {
+		const cleaned = content.replace(/<hr\/?>([\s\S]*?)<div[^>]*>\s*\n?\s*<p><strong>Author:[\s\S]*?<\/div>\s*$/i, '');
 		const finalContent = cleaned.replace(/<hr\/?>[\s\S]*$/i, '');
 		return <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: finalContent }} />;
 	}
@@ -54,13 +50,9 @@ export const ArticleContent: React.FC<{ content?: string | ArticleSection[] }> =
 				})}
 			</div>
 		);
-	}
-
-	// Fallback: render as plain string
+	}
 	return <div className="prose max-w-none">{String(content)}</div>;
-};
-
-// Helper to get H2 headings from mixed content
+};
 export function getHeadingsFromContent(content?: string | ArticleSection[]): string[] {
 	if (Array.isArray(content)) {
 		return content.filter((s) => !!s?.heading).map((s) => s.heading as string);
@@ -74,9 +66,7 @@ export function getHeadingsFromContent(content?: string | ArticleSection[]): str
 interface ArticleRendererProps {
 	article: ArticleType;
 	related?: ArticleType[];
-}
-
-// Preserve the existing rich layout as a named export
+}
 export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related }) => {
 	const relatedArticles =
 		related ?? allArticles.filter((a) => a.category === article.category && a.id !== article.id).slice(0, 3);
@@ -129,7 +119,6 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 								</div>
 							);
 						})()}
- 
 
 						{(article.reviewer || article.reviewer === '') && (
 							<div className="mt-4">
@@ -216,9 +205,7 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 			</article>
 		</Layout>
 	);
-};
-
-// Simple centralized HTML renderer (default export) — accepts raw HTML string
+};
 export default function ArticleRenderer(props: { content?: string; article?: ArticleType }) {
 	if (props.article) {
 		return <ArticleLayout article={props.article} />;
@@ -229,6 +216,4 @@ export default function ArticleRenderer(props: { content?: string; article?: Art
 	}
 
 	return <div className="prose max-w-none">{String(props.content ?? "")}</div>;
-}
-
-// ArticleContent and getHeadingsFromContent are exported where declared above
+}

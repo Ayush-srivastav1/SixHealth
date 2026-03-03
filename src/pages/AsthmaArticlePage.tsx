@@ -18,15 +18,10 @@ import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRend
 import type { Article as ArticleType } from "@/types/article";
 
 export default function AsthmaArticlePage() {
-  const { slug } = useParams<{ slug: string }>();
-
-  // Resolve article by slug using centralized finder
+  const { slug } = useParams<{ slug: string }>();
   const article = findArticleBySlug(slug) as ArticleType | undefined;
-  const sectionTitle = article?.category || "Asthma";
-  // Use the restored per-topic sections for related links and lists
-  const sections = asthmaSections;
-
-  // If article not found, show error
+  const sectionTitle = article?.category || "Asthma";
+  const sections = asthmaSections;
   if (!article) {
     return (
       <Layout>
@@ -57,10 +52,10 @@ export default function AsthmaArticlePage() {
   return (
     <Layout>
       <article>
-        {/* Article Header */}
+        {}
         <header className="border-b bg-white">
           <div className="site-container py-8">
-            {/* Breadcrumb */}
+            {}
             <nav className="mb-4 flex items-center gap-2 text-sm text-gray-600">
               <Link to="/" className="hover:text-blue-600">
                 Home
@@ -75,19 +70,19 @@ export default function AsthmaArticlePage() {
               </span>
             </nav>
 
-            {/* Category Badge */}
+            {}
             <div className="mb-4 inline-block">
               <span className="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm font-semibold">
                 {sectionTitle}
               </span>
             </div>
 
-            {/* Title */}
+            {}
             <h1 className="mb-4 text-3xl font-bold leading-tight lg:text-4xl text-gray-900">
               {article.title}
             </h1>
 
-            {/* Meta Information */}
+            {}
             <div className="flex flex-wrap items-center gap-6 article-meta">
               <span className="flex items-center gap-2">
                 <User className="h-4 w-4" />
@@ -105,31 +100,31 @@ export default function AsthmaArticlePage() {
           </div>
         </header>
 
-        {/* Article Content */}
+        {}
         <div className="article-content py-12">
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-            {/* Main Content - 3 columns */}
+            {}
             <div className="lg:col-span-3">
-              {/* Featured Image */}
+              {}
               <img
                 src={article.imageUrl || "/placeholder.svg"}
                 alt={article.title}
                 className="article-hero mb-8"
               />
 
-              {/* Author & Review Info */}
+              {}
               <div className="mb-8 article-meta border-b pb-6">
                 <p>
                   Medically reviewed by <span className="font-semibold">Dr. Emily Stone, MD, FAASM</span> — Written by <span className="font-semibold">Editorial Team</span>
                 </p>
               </div>
 
-              {/* Article Content */}
+              {}
               <div className="prose prose-lg max-w-none mb-12">
                 <ArticleContent content={article.content} />
               </div>
 
-              {/* Share Section */}
+              {}
               <div className="border-t border-b py-6 mb-8 flex flex-wrap items-center gap-4">
                 <span className="font-semibold text-gray-900">Share this article:</span>
                 <div className="flex gap-3 flex-wrap">
@@ -153,7 +148,7 @@ export default function AsthmaArticlePage() {
               </div>
             </div>
 
-            {/* Sidebar - Table of Contents */}
+            {}
             <div className="lg:col-span-1">
               <div className="sticky top-4">
                 <div className="bg-gray-50 border rounded-lg p-6">
@@ -180,7 +175,7 @@ export default function AsthmaArticlePage() {
             </div>
           </div>
 
-          {/* Related Articles Section */}
+          {}
           <div className="mt-16 pt-8 border-t">
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Read this next</h3>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">

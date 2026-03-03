@@ -7,8 +7,6 @@ import { findArticleBySlug, allArticles } from "@/data/allArticles";
 import { SafeImage } from "@/components/common/SafeImage";
 import { imageLibrary } from "@/data/imageLibrary";
 
-
-
 const tabs = [
   "Eye Conditions",
   "Vision Problems",
@@ -73,7 +71,6 @@ const sections = [
   },
 ];
 
-
 function Section({ section }: {
   section: {
     title: string;
@@ -130,9 +127,7 @@ export default function EyeHealth() {
     "Treatment": useRef(null),
     "Prevention": useRef(null),
     "Healthy Vision": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
@@ -157,7 +152,7 @@ export default function EyeHealth() {
             </div>
           ))}
 
-          {/* NEWSLETTER REMOVED */}
+          {}
         </section>
       </PageLayout>
     </Layout>

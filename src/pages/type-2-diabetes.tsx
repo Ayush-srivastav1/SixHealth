@@ -161,7 +161,7 @@ export default function Type2Diabetes() {
         </div>
       </section>
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col lg:flex-row gap-10">
-        {/* Main Content */}
+        {}
         <main className="flex-1 space-y-12">
           {diabetesSections.map((section) => (
             <section
@@ -195,7 +195,7 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
             </section>
           ))}
 
-          {/* Newsletter Signup */}
+          {}
           <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto mt-12">
             <h2 className="text-xl font-bold text-purple-700 mb-2">
               Get Our Twice-Weekly Type 2 Diabetes Newsletter
@@ -233,7 +233,7 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
             )}
           </div>
         </main>
-        {/* Sidebar */}
+        {}
         <aside className="w-full lg:w-80 flex-shrink-0 space-y-8">
           <div className="bg-white border border-gray-200 rounded-lg p-6">
             <h3 className="text-lg font-bold mb-4 text-purple-700">Quick Links</h3>
@@ -273,6 +273,4 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
     </Layout>
   );
 }
-
-
 

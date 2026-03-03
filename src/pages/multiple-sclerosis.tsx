@@ -110,7 +110,6 @@ export default function MultipleSclerosis() {
 
   const navigate = useNavigate();
 
-
   const scrollToSection = (category) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
@@ -182,7 +181,4 @@ export default function MultipleSclerosis() {
     </Layout>
   );
 }
-
-
-
 

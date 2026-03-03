@@ -23,7 +23,7 @@ export default function MyExperienceMelanoma() {
   return (
     <Layout>
       <article className="min-h-screen bg-background">
-        {/* Eye-catching hero with overlay title */}
+        {}
         <div className="relative h-[480px] w-full overflow-hidden bg-muted shadow-sm">
           <img
             src="https://media.post.rvohealth.io/wp-content/uploads/2024/07/point-of-view-cancer-patient-surgery-hospital-IV-drip-1296x728-header.jpg"
@@ -51,9 +51,9 @@ export default function MyExperienceMelanoma() {
 
         <div className="container mx-auto max-w-6xl px-6 py-10">
           <div className="grid gap-8 lg:grid-cols-3">
-            {/* Main Content */}
+            {}
             <main className="lg:col-span-2">
-              {/* Compact header metadata (no duplicate title) */}
+              {}
               <div className="mb-6 flex items-center justify-between">
                 <div className="text-sm text-muted-foreground">
                   <span className="font-medium">By The Healthline Editorial Team</span>
@@ -67,7 +67,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </div>
 
-              {/* Table of Contents */}
+              {}
               <nav className="mb-8 w-full max-w-md rounded-lg bg-white p-4 shadow">
                 <h2 className="mb-3 font-semibold">On this page</h2>
                 <ul className="space-y-2 text-sm text-muted-foreground">
@@ -99,7 +99,7 @@ export default function MyExperienceMelanoma() {
                 </ul>
               </nav>
 
-              {/* Introduction */}
+              {}
               <section className="mb-8">
                 <div className="rounded-lg bg-white p-6 shadow-sm border border-gray-100">
                   <p className="text-lg leading-relaxed text-muted-foreground">
@@ -108,7 +108,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </section>
 
-              {/* Diagnosis Section */}
+              {}
               <section id="diagnosis" className="mb-8 scroll-mt-20">
                 <div className="flex items-center gap-4 mb-4">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-r from-primary to-primary/80 text-white font-bold">1</div>
@@ -140,7 +140,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </section>
 
-              {/* Cancer Care Experience */}
+              {}
               <section id="cancer-care" className="mb-8 scroll-mt-20">
                 <div className="flex items-center gap-4 mb-4">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-r from-primary to-primary/80 text-white font-bold">2</div>
@@ -187,7 +187,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </section>
 
-              {/* Aftercare Section */}
+              {}
               <section id="aftercare" className="mb-8 scroll-mt-20">
                 <div className="flex items-center gap-4 mb-4">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-r from-primary to-primary/80 text-white font-bold">3</div>
@@ -224,7 +224,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </section>
 
-              {/* Takeaways Section */}
+              {}
               <section id="takeaways" className="mb-8 scroll-mt-20">
                 <h2 className="mb-4 text-2xl font-bold">What I want others to know</h2>
                 <div className="space-y-4 text-base leading-relaxed">
@@ -244,7 +244,7 @@ export default function MyExperienceMelanoma() {
                     me and ensure that I fully understood the implications of my diagnosis and treatment.
                   </p>
 
-                  {/* Key Takeaways */}
+                  {}
                   <div className="my-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
                     <div className="rounded-lg border-l-4 border-primary/60 bg-white p-4 shadow-sm">
                       <h3 className="font-semibold text-primary">Key points to remember</h3>
@@ -267,7 +267,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </section>
 
-              {/* Bottom Line */}
+              {}
               <section id="bottom-line" className="mb-8 scroll-mt-20">
                 <h2 className="mb-4 text-2xl font-bold">Bottom line</h2>
                 <p className="text-base leading-relaxed">
@@ -277,7 +277,7 @@ export default function MyExperienceMelanoma() {
                 </p>
               </section>
 
-              {/* Author Bio */}
+              {}
               <Card className="mb-8 p-6">
                 <h3 className="mb-2 font-semibold">About the author</h3>
                 <p className="text-sm text-muted-foreground">
@@ -286,7 +286,7 @@ export default function MyExperienceMelanoma() {
                 </p>
               </Card>
 
-              {/* Share Section */}
+              {}
               <div className="mb-8 border-t border-b py-6">
                 <h3 className="mb-4 font-semibold">Share this article</h3>
                 <div className="flex items-center gap-3">
@@ -323,9 +323,9 @@ export default function MyExperienceMelanoma() {
               </div>
             </main>
 
-            {/* Sidebar */}
+            {}
             <aside className="space-y-6 lg:sticky lg:top-28">
-              {/* Quick Facts */}
+              {}
               <Card className="p-6">
                 <h3 className="mb-4 font-semibold">At a glance</h3>
                 <dl className="space-y-4 text-sm">
@@ -352,7 +352,7 @@ export default function MyExperienceMelanoma() {
                 </dl>
               </Card>
 
-              {/* Related Articles */}
+              {}
               <Card className="p-6">
                 <h3 className="mb-4 font-semibold">Read this next</h3>
                 <ul className="space-y-3 text-sm">
@@ -379,7 +379,7 @@ export default function MyExperienceMelanoma() {
                 </ul>
               </Card>
 
-              {/* Newsletter Signup */}
+              {}
               <NewsletterSignup variant="card" />
             </aside>
           </div>

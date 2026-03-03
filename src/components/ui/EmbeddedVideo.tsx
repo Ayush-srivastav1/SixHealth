@@ -20,8 +20,7 @@ export function EmbeddedVideo({
 }: EmbeddedVideoProps) {
   const [isLoaded, setIsLoaded] = useState(false);
 
-  useEffect(() => {
-    // Simulate lazy loading - in real scenario, load on intersection observer
+  useEffect(() => {
     setIsLoaded(true);
   }, []);
 

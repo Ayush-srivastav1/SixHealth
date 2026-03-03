@@ -21,10 +21,6 @@
   box-sizing: border-box;
 }
 
-/* ========================================
-   ARTICLE HERO IMAGE
-   ======================================== */
-
 .article-hero {
   width: 100%;
   max-width: none;
@@ -45,10 +41,6 @@
   display: block;
   transition: transform var(--transition-normal);
 }
-
-/* ========================================
-   FLOAT IMAGES
-   ======================================== */
 
 .article-content img.float-left {
   float: left;
@@ -76,11 +68,6 @@
   }
 }
 
-/* ========================================
-   GRID LAYOUTS
-   ======================================== */
-
-/* 2-Column Page Grid */
 .page-grid {
   display: grid;
   grid-template-columns: 1fr var(--sidebar-width);
@@ -101,7 +88,6 @@
   margin: 0 auto;
 }
 
-/* 3-Column Article Layout */
 .article-layout {
   display: grid;
   grid-template-columns: 240px 1fr 300px;
@@ -145,10 +131,6 @@
   }
 }
 
-/* ========================================
-   CARD COMPONENT
-   ======================================== */
-
 .card {
   background: var(--card);
   border: 1px solid var(--border-color);
@@ -187,10 +169,6 @@
   padding: 1rem;
 }
 
-/* ========================================
-   GRID UTILITIES
-   ======================================== */
-
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -202,10 +180,6 @@
     grid-template-columns: 1fr;
   }
 }
-
-/* ========================================
-   SEARCH BAR
-   ======================================== */
 
 .search-bar {
   display: flex;
@@ -250,10 +224,6 @@
   }
 }
 
-/* ========================================
-   ICON BUTTON
-   ======================================== */
-
 .icon-btn {
   display: inline-flex;
   align-items: center;
@@ -274,10 +244,6 @@
   outline: 3px solid rgba(15, 108, 255, 0.18);
   outline-offset: 2px;
 }
-
-/* ========================================
-   BUTTON VARIANTS
-   ======================================== */
 
 .btn {
   display: inline-flex;
@@ -320,10 +286,6 @@
   outline-offset: 2px;
 }
 
-/* ========================================
-   RESPONSIVE ADJUSTMENTS
-   ======================================== */
-
 @media (max-width: 1024px) {
   :root {
     --site-max-width: 920px;
@@ -355,10 +317,6 @@
     padding: 0 var(--space-md);
   }
 }
-
-/* ========================================
-   HEADER & MEGA DROPDOWN (Healthline-style)
-   ======================================== */
 
 header {
   position: relative;
@@ -400,7 +358,6 @@ nav li {
   overflow: visible !important;
 }
 
-/* Mega dropdown overlay styling */
 .hl-nav-content {
   position: absolute;
   width: 100vw;
@@ -415,7 +372,6 @@ nav li {
   transition: opacity 200ms ease-in-out;
 }
 
-/* Dropdown arrow triangle */
 .hl-nav-content .absolute {
   pointer-events: none;
 }

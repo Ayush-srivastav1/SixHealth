@@ -23,18 +23,14 @@ import {
 import { Button } from "@/components/ui/button";
 import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRenderer";
 import { cn } from "@/lib/utils";
-import { useEffect, useState } from "react";
-
-// Helper to generate slug from text
+import { useEffect, useState } from "react";
 const slugify = (text: string) => {
   return text
     .toLowerCase()
     .replace(/[^\w\s-]/g, "")
     .replace(/[\s_-]+/g, "-")
     .replace(/^-+|-+$/g, "");
-};
-
-// Markdown parsing helpers
+};
 interface Section {
   id: string;
   level: number;
@@ -67,8 +63,7 @@ const parseContent = (content: string) => {
       blocks.push({ type: 'h3', content: text, id: slugify(text) });
     } else if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
       currentList.push(trimmed.substring(2));
-    } else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
-        // Simple bold header handling if standalone
+    } else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
          flushList();
          blocks.push({ type: 'strong_p', content: trimmed.replace(/\*\*/g, '') });
     } else {
@@ -81,9 +76,7 @@ const parseContent = (content: string) => {
 };
 
 export default function AsthmaArticlePage() {
-  const { articleId } = useParams();
-  
-  // Find article using centralized data
+  const { articleId } = useParams();
   const article: any = findArticleBySlug(articleId);
   const relatedArticles: any[] = article
     ? allArticles.filter(a => a.category === article.category && a.id !== article.id).slice(0, 3)
@@ -101,18 +94,16 @@ export default function AsthmaArticlePage() {
         </div>
       </Layout>
     );
-  }
-
-  // Generate TOC items from centralized helper
+  }
   const tocItems = getHeadingsFromContent(article.content).map(h => ({ id: slugify(h), label: h }));
 
   return (
     <Layout>
       <article>
-        {/* Header */}
+        {}
         <header className="border-b bg-card">
           <div className="article-content py-8 px-4 lg:px-8">
-            {/* Breadcrumb */}
+            {}
             <nav className="mb-4 flex items-center gap-2 text-sm text-muted-foreground overflow-x-auto whitespace-nowrap">
               <Link to="/" className="hover:text-foreground">Home</Link>
               <ChevronRight className="h-3 w-3 flex-shrink-0" />
@@ -140,7 +131,7 @@ export default function AsthmaArticlePage() {
               {article.excerpt}
             </p>
 
-            {/* Meta Information */}
+            {}
             <div className="flex flex-wrap items-center gap-6 text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
                 <div className="h-8 w-8 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold">
@@ -165,14 +156,14 @@ export default function AsthmaArticlePage() {
               </span>
             </div>
 
-            {/* Medical Review Badge */}
+            {}
             <div className="mt-6">
               <MedicalBadge reviewer={article.reviewer} date={article.date} />
             </div>
           </div>
         </header>
 
-        {/* Featured Image */}
+        {}
         <div className="article-content py-8 px-4 lg:px-8">
           <div className="aspect-[21/9] w-full overflow-hidden rounded-xl bg-muted">
             <img
@@ -183,12 +174,12 @@ export default function AsthmaArticlePage() {
           </div>
         </div>
 
-        {/* Main Content Area */}
+        {}
         <div className="article-content pb-16 px-4 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-[1fr_300px] xl:gap-16">
-            {/* Left Column: Content */}
+            {}
             <div className="min-w-0">
-              {/* Mobile TOC */}
+              {}
               <div className="lg:hidden mb-8 rounded-lg border bg-muted/30 p-4">
                 <h3 className="font-semibold mb-2">In This Article</h3>
                 <ul className="space-y-2 text-sm">
@@ -202,12 +193,12 @@ export default function AsthmaArticlePage() {
                 </ul>
               </div>
 
-              {/* Article Body */}
+              {}
               <div className="prose prose-slate max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-headings:font-bold prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-6 prose-p:text-lg prose-p:leading-relaxed prose-li:text-lg">
                 <ArticleContent content={article.content} />
               </div>
 
-              {/* Social Sharing */}
+              {}
               <div className="mt-12 border-t pt-8">
                 <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 justify-between">
                   <span className="font-medium text-lg">Share this article</span>
@@ -228,7 +219,7 @@ export default function AsthmaArticlePage() {
                 </div>
               </div>
 
-              {/* Author Box */}
+              {}
               <div className="mt-12 rounded-xl border bg-card p-6 sm:p-8 shadow-sm">
                 <div className="flex flex-col sm:flex-row items-start gap-6">
                   <div className="h-16 w-16 shrink-0 rounded-full bg-primary/10 flex items-center justify-center text-primary text-xl font-bold">
@@ -247,9 +238,9 @@ export default function AsthmaArticlePage() {
               </div>
             </div>
 
-            {/* Right Column: Sidebar */}
+            {}
             <aside className="space-y-8 hidden lg:block">
-              {/* Desktop TOC */}
+              {}
               <div className="sticky top-24">
                 <div className="mb-8">
                     <h3 className="font-bold text-lg mb-4 px-2">Table of Contents</h3>
@@ -278,7 +269,7 @@ export default function AsthmaArticlePage() {
           </div>
         </div>
 
-        {/* Related Articles Section */}
+        {}
         {relatedArticles.length > 0 && (
           <section className="bg-muted/30 py-16 border-t">
             <div className="container max-w-7xl mx-auto px-4 lg:px-8">

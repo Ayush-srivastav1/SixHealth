@@ -20,8 +20,7 @@ export const imageUtils = {
   ensureAbsolutePath: (path?: string, fallback = "/placeholder.svg"): string => {
     if (!path) return fallback;
     if (path.startsWith("/")) return path;
-    if (path.startsWith("http")) return path;
-    // Incorrect relative path - convert to absolute
+    if (path.startsWith("http")) return path;
     return `/images/${path.replace(/^\.\/|^\.\.\//g, "")}`;
   },
 

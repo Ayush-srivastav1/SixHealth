@@ -93,9 +93,7 @@ import { VideoCategoryPage } from "@/pages/VideoCategoryPage";
 import { VideoDetailPage } from "@/pages/VideoDetailPage";
 
 import PageTemplate from "./pages/PageTemplate";
-import pageConfig from "./pages/pageConfig";
-
-// Dynamic page component
+import pageConfig from "./pages/pageConfig";
 const DynamicPage = () => {
   const { pageName } = useParams();
   const page = pageConfig[pageName as keyof typeof pageConfig];
@@ -110,29 +108,22 @@ const DynamicPage = () => {
   return <PageTemplate {...page} />;
 };
 
-function App() {
-  // Intercept clicks on legacy article links like '/cancer-care/some-slug'
-  // and redirect to '/cancer-care/article/some-slug' when an article match exists.
+function App() {
   const LinkInterceptor: React.FC = () => {
     const navigate = useNavigate();
     useEffect(() => {
-      const onClick = (e: MouseEvent) => {
-        // Only handle left-clicks without modifier keys
+      const onClick = (e: MouseEvent) => {
         if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
         let target = e.target as HTMLElement | null;
         while (target && target.tagName !== "A") target = target.parentElement;
         if (!target) return;
         const a = target as HTMLAnchorElement;
         const href = a.getAttribute("href") || a.getAttribute("to") || a.getAttribute("data-href") || a.href;
-        if (!href || !href.startsWith("/")) return;
-
-        // Match /category/slug (two segments) but not /category/article/...
+        if (!href || !href.startsWith("/")) return;
         const parts = href.split("/").filter(Boolean);
         if (parts.length === 2) {
-          const [category, slug] = parts;
-          // First try a category-scoped lookup (preserves behavior for /category/slug)
-          let found = findArticleBySlug(slug, category);
-          // If not found, try a slug-only lookup to catch legacy links like /blog/:slug
+          const [category, slug] = parts;
+          let found = findArticleBySlug(slug, category);
           if (!found) {
             found = findArticleBySlug(slug);
           }
@@ -154,41 +145,41 @@ function App() {
       <LinkInterceptor />
       <ScrollToTop />
       <Routes>
-        {/* Core Pages */}
+        {}
         <Route path="/" element={<Index />} />
         <Route path="/articles" element={<ArticlesHub />} />
         <Route path="/article/:slug" element={<ArticlePage />} />
-        {/* Support featured dropdown direct links like /featured/:slug */}
+        {}
         <Route path="/featured/:slug" element={<FeaturedPage />} />
-        {/* Support sponsored topic links like /program/:slug */}
+        {}
         <Route path="/program/:slug" element={<ProgramPage />} />
-        {/* Support canonical per-category article URLs, e.g. /cancer-care/article/:slug */}
+        {}
         <Route path="/:category/article/:slug" element={<ArticlePage />} />
-        {/* Support two-segment category paths like /conditions/chronic-kidney-disease/article/:slug */}
+        {}
         <Route path="/:category/:subcategory/article/:slug" element={<ArticlePage />} />
         
-        {/* BACKWARD COMPATIBILITY: Legacy ID-based routes redirect to new slug-based routes */}
-        {/* Old route from CancerCare hub: /article/:id */}
+        {}
+        {}
         <Route path="/article/:id" element={<LegacyArticleRedirect />} />
-        {/* Old route for cancer care: /conditions/cancer-care/article/:id */}
+        {}
         <Route path="/conditions/cancer-care/article/:id" element={<LegacyArticleRedirect />} />
         
-        {/* legacy handling for specific categories is removed to restore default behavior */}
+        {}
         <Route path="/search" element={<SearchPage />} />
         <Route path="/author/:authorId" element={<AuthorPage />} />
         <Route path="/tool/:toolId" element={<ToolPage />} />
 
-        {/* Condition Pages */}
+        {}
         <Route path="/asthma" element={<Asthma />} />
         <Route path="/conditions/asthma" element={<Asthma />} />
 
-        {/* Asthma Subpages */}
+        {}
         <Route path="/asthma/article/:slug" element={<AsthmaArticlePage />} />
         <Route path="/asthma/section/:sectionId" element={<AsthmaSectionPage />} />
         <Route path="/asthma/section/:sectionId/:subSectionId" element={<AsthmaSubSectionPage />} />
         <Route path="/asthma-hub" element={<AsthmaIndexPage />} />
 
-        {/* Eye Health Subpages */}
+        {}
         <Route path="/eye-health/article/:articleId" element={<EyeHealthArticlePage />} />
         <Route path="/eye-health/section/:sectionId" element={<EyeHealthSectionPage />} />
         <Route path="/eye-health/section/:sectionId/:subSectionId" element={<EyeHealthSubSectionPage />} />
@@ -250,7 +241,7 @@ function App() {
         <Route path="/conditions/stress-management" element={<StressManagement />} />
         <Route path="/stress-management" element={<Navigate to="/conditions/stress-management" replace />} />
 
-        {/* Other Sections */}
+        {}
         <Route path="/wellness" element={<WellnessPage />} />
         <Route path="/blog" element={<BlogHub />} />
         <Route path="/blog/:slug" element={<BlogPostDetail />} />
@@ -289,24 +280,24 @@ function App() {
         <Route path="/tools/lessons" element={<LessonsPage />} />
         <Route path="/tools/newsletters" element={<NewslettersPage />} />
 
-        {/* Tools Pages */}
+        {}
         <Route path="/tools" element={<ToolsIndex />} />
         <Route path="/tools/bmi-calculator" element={<BmiCalculator />} />
 
-        {/* Video Hub Routes */}
+        {}
         <Route path="/videos" element={<VideoHubPage />} />
         <Route path="/videos/:categorySlug" element={<VideoCategoryPage />} />
         <Route path="/videos/:categorySlug/:slug" element={<VideoDetailPage />} />
         <Route path="/tools/video-series" element={<VideoHubPage />} />
 
-        {/* Dynamic Categories (must stay at bottom) */}
+        {}
         <Route path="/:category" element={<CategoryHub />} />
         <Route path="/:category/:subcategory" element={<SubCategoryPage />} />
 
-        {/* Dynamic config-driven pages (must be after all specific routes) */}
+        {}
         <Route path="/page/:pageName" element={<DynamicPage />} />
 
-        {/* 404 */}
+        {}
         <Route path="/not-found" element={<NotFound />} />
         <Route path="*" element={<Navigate to="/not-found" replace />} />
       </Routes>

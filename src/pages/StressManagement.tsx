@@ -68,9 +68,7 @@ export default function StressManagement() {
     "Techniques": useRef(null),
     "Lifestyle": useRef(null),
     "Professional": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
@@ -80,7 +78,7 @@ export default function StressManagement() {
 
   return (
     <Layout>
-      {/* HERO */}
+      {}
       <section className="bg-gradient-to-r from-orange-700 to-orange-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Stress Management</h1>
@@ -105,7 +103,7 @@ export default function StressManagement() {
         </div>
       </section>
 
-      {/* CONTENT: Show all sections */}
+      {}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {sections.map((section) => (
           <div key={section.id} ref={sectionRefs[section.category]}>
@@ -113,7 +111,7 @@ export default function StressManagement() {
           </div>
         ))}
 
-        {/* NEWSLETTER */}
+        {}
         <div className="bg-orange-50 border border-orange-200 rounded-lg p-8 max-w-xl mx-auto">
           <h2 className="text-xl font-bold text-orange-700 mb-2">
             Get weekly Stress Management updates
@@ -150,8 +148,6 @@ export default function StressManagement() {
   );
 }
 
-/* ---------------- SECTION ---------------- */
-
 function Section({ section }: {
   section: {
     title: string;
@@ -186,6 +182,4 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
     </section>
   );
 }
-
-
 

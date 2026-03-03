@@ -41,8 +41,6 @@ export interface BlogArticle {
   content: string;
 }
 
-
-
 export const blogData_healthConditions_backup = [
 {
     id: "cold-flu-season",

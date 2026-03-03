@@ -5,7 +5,6 @@ import { Link } from "react-router-dom";
 import { SafeImage } from "@/components/common/SafeImage";
 import { imageLibrary } from "@/data/imageLibrary";
 
-
 const tabs = [
   "Conditions",
   "Symptoms",
@@ -96,7 +95,6 @@ const sections = [
   },
 ];
 
-
 export default function MentalHealth() {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
@@ -107,9 +105,7 @@ export default function MentalHealth() {
     "Treatment": useRef(null),
     "Self-Care": useRef(null),
     "Resources": useRef(null),
-  };
-
-  // Helper to scroll to section
+  };
   const scrollToSection = (category: string) => {
     const ref = sectionRefs[category];
     if (ref && ref.current) {
@@ -119,7 +115,7 @@ export default function MentalHealth() {
 
   return (
     <Layout>
-      {/* HERO */}
+      {}
       <section className="bg-gradient-to-r from-purple-700 to-purple-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Mental Health</h1>
@@ -142,7 +138,7 @@ export default function MentalHealth() {
         </div>
       </section>
 
-      {/* CONTENT: Show all sections */}
+      {}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {sections.map((section) => (
           <div key={section.id} ref={sectionRefs[section.category]}>
@@ -150,7 +146,7 @@ export default function MentalHealth() {
           </div>
         ))}
 
-        {/* NEWSLETTER */}
+        {}
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto">
           <h2 className="text-xl font-bold text-purple-700 mb-2">
             Get weekly Mental Health updates
@@ -183,7 +179,7 @@ export default function MentalHealth() {
           )}
         </div>
 
-        {/* FOOTER NOTE */}
+        {}
         <div className="mt-10 border-t pt-4 text-xs text-muted-foreground">
           This content is for informational purposes only and does not replace
           professional medical advice. Consult with a healthcare provider for diagnosis and treatment.
@@ -192,7 +188,6 @@ export default function MentalHealth() {
     </Layout>
   );
 }
-
 
 function Section({ section }: {
   section: {
@@ -230,6 +225,4 @@ onError={(e: any) => { e.currentTarget.src = '/placeholder.svg'; }}
     </section>
   );
 }
-
-
 

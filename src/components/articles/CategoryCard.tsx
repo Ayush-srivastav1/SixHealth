@@ -66,8 +66,7 @@ export function CategoryCard({
   imageSrc,
   imageAlt,
   className,
-}: CategoryCardProps) {
-  // Safe lookup: fall back to `Newspaper` if category icon is missing
+}: CategoryCardProps) {
   const Icon = categoryIcons[category] ?? Newspaper;
   const bgClass = imageSrc ? "bg-cover bg-center" : `bg-gradient-to-br ${categoryGradients[category]}`;
   const style = imageSrc ? { backgroundImage: `url(${imageSrc})` } : undefined;
@@ -82,22 +81,22 @@ export function CategoryCard({
         className
       )}
     >
-      {/* subtle overlay when using an image for contrast */}
+      {}
       {imageSrc && <div className="absolute inset-0 bg-black/25" />}
 
-      {/* top-left icon overlay (uniform for image and non-image cards) */}
+      {}
       <div className="absolute top-4 left-4 z-20 inline-flex items-center rounded-full bg-white/20 p-2 backdrop-blur">
         {Icon && <Icon className="h-6 w-6 text-white" />}
       </div>
 
-      {/* content */}
+      {}
       <div className="relative z-10 px-2 text-center">
         <h3 className="mb-2 text-2xl font-extrabold">{title}</h3>
         <p className="mb-4 text-sm md:text-base text-white/80">{description}</p>
         <span className="text-sm font-semibold text-white/70">{articleCount} articles</span>
       </div>
 
-      {/* Decorative background icon */}
+      {}
       {Icon && (
         <Icon className="absolute -bottom-4 -right-4 h-32 w-32 rotate-12 text-white/10 transition-transform group-hover:scale-110" />
       )}

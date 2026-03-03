@@ -11,7 +11,7 @@ const WellnessPage: React.FC = () => {
           <h1 className='text-4xl font-bold mb-2'>Wellness Topics</h1>
           <p className='text-gray-600 mb-12'>Explore our comprehensive collection of health and wellness resources.</p>
 
-          {/* Category Hubs Section */}
+          {}
           <section className='mb-16'>
             <h2 className='text-2xl font-bold mb-6'>Category Hubs</h2>
             <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4'>
@@ -28,7 +28,7 @@ const WellnessPage: React.FC = () => {
             </div>
           </section>
 
-          {/* Signature Programs Section */}
+          {}
           <section>
             <h2 className='text-2xl font-bold mb-6'>Signature Programs</h2>
             <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>
@@ -45,7 +45,7 @@ const WellnessPage: React.FC = () => {
             </div>
           </section>
 
-          {/* Blog Section */}
+          {}
           <section className='mt-16 pt-12 border-t border-gray-200'>
             <div className='text-center mb-12'>
               <h2 className='text-3xl font-bold mb-4'>Health & Wellness Blog</h2>

@@ -109,7 +109,7 @@ export default function Migraine() {
 
   return (
     <Layout>
-      {/* HERO */}
+      {}
       <section className="bg-gradient-to-r from-purple-700 to-purple-500 text-white py-12">
         <div className="max-w-7xl mx-auto px-5">
           <h1 className="text-4xl font-bold mb-2">Migraine</h1>
@@ -130,7 +130,7 @@ export default function Migraine() {
         </div>
       </section>
 
-      {/* CONTENT: Show all sections */}
+      {}
       <section className="max-w-7xl mx-auto px-5 py-10 space-y-12">
         {migraineSectionsDetailed.map((section) => (
           <div key={section.id} ref={(el) => (sectionRefs.current[section.category] = el)}>
@@ -138,7 +138,7 @@ export default function Migraine() {
           </div>
         ))}
 
-        {/* NEWSLETTER */}
+        {}
         <div className="bg-purple-50 border border-purple-200 rounded-lg p-8 max-w-xl mx-auto">
           <h2 className="text-xl font-bold text-purple-700 mb-2">
             Get weekly Migraine updates

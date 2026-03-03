@@ -6,9 +6,7 @@ export interface Article {
   categorySlug?: string; // URL value (e.g. "heart-cardiovascular")
   description?: string;
   author?: string;
-  content?: string; // Full HTML content (string HTML preferred in blogData)
-
-  // Optional metadata kept for compatibility
+  content?: string; // Full HTML content (string HTML preferred in blogData)
   imageUrl?: string;
   images?: string[];
   readTime?: string;
@@ -17,8 +15,7 @@ export interface Article {
   updatedDate?: string;
   source?: string;
   keyTakeaways?: string[];
-  sourceLabel?: string;
-  // Compatibility optional fields
+  sourceLabel?: string;
   excerpt?: string;
   authorRole?: string;
   reviewer?: string;

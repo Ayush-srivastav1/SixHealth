@@ -4,7 +4,7 @@ export default function InflammatoryBowelDisease() {
   return (
     <Layout>
       <div className="max-w-4xl mx-auto px-5 py-10">
-        {/* Hero Image */}
+        {}
         <div className="mb-8">
           <img
             src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
@@ -24,7 +24,7 @@ export default function InflammatoryBowelDisease() {
             </p>
           </header>
 
-          {/* Table of Contents */}
+          {}
           <div className="bg-gray-50 p-6 rounded-lg mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Table of Contents</h2>
             <nav>
@@ -526,7 +526,7 @@ export default function InflammatoryBowelDisease() {
             </ul>
           </section>
 
-          {/* Related Articles Section */}
+          {}
           <section className="bg-gray-50 p-6 rounded-lg mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Related Articles</h2>
             <div className="grid md:grid-cols-2 gap-4">

@@ -4,7 +4,7 @@ import { AlertCircle, Info } from "lucide-react";
 export const ArticleSidebar = () => {
   return (
     <div className="hidden xl:block space-y-6">
-      {/* Related Info */}
+      {}
       <Card className="bg-blue-50 border-blue-200">
         <CardHeader>
           <CardTitle className="flex items-center gap-2 text-base">
@@ -17,7 +17,7 @@ export const ArticleSidebar = () => {
         </CardContent>
       </Card>
 
-      {/* Disclaimer */}
+      {}
       <Card className="bg-amber-50 border-amber-200">
         <CardHeader>
           <CardTitle className="flex items-center gap-2 text-base">

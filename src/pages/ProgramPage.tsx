@@ -15,9 +15,7 @@ const ProgramPage: React.FC = () => {
         </div>
       </Layout>
     );
-  }
-
-  // Search for article in blogData by slug or ID
+  }
   const article = findArticleBySlug(slug);
 
   if (!article) {
@@ -28,9 +26,7 @@ const ProgramPage: React.FC = () => {
         </div>
       </Layout>
     );
-  }
-
-  // Use ArticlePage to render the article with proper layout
+  }
   return <ArticlePage />;
 };
 

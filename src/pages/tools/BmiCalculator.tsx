@@ -18,12 +18,10 @@ const BmiCalculator = () => {
     if (!w || !h) return;
 
     let result = 0;
-    if (unit === "metric") {
-      // Weight (kg) / Height (m)^2
+    if (unit === "metric") {
       const hM = h / 100; // cm to m
       result = w / (hM * hM);
-    } else {
-      // 703 * Weight (lbs) / Height (in)^2
+    } else {
       result = 703 * w / (h * h);
     }
 

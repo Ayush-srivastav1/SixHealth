@@ -31,9 +31,7 @@ const ArticlePage: React.FC = () => {
   }, [found?.title]);
 
   const [toc, setToc] = useState<TocItem[]>([]);
-  const [contentNodes, setContentNodes] = useState<React.ReactNode | null>(null);
-
-  // Parse HTML into React elements and build a deterministic TOC during parsing.
+  const [contentNodes, setContentNodes] = useState<React.ReactNode | null>(null);
   useEffect(() => {
     if (!found?.content) {
       setContentNodes(null);
@@ -51,14 +49,10 @@ const ArticlePage: React.FC = () => {
     const options: HTMLReactParserOptions = {
       replace: (node) => {
         if ((node as Element).type === "tag") {
-          const el = node as Element;
-
-          // Remove any H1 coming from the content (we render the page H1 separately)
+          const el = node as Element;
           if (el.name === 'h1') {
             return React.createElement(React.Fragment, null);
-          }
-
-          // Normalize H2s: add deterministic id and capture TOC text
+          }
           if (el.name === 'h2') {
             const id = `section-${headingIndex++}`;
             let text = '';
@@ -72,13 +66,10 @@ const ArticlePage: React.FC = () => {
               { id, className: el.attribs?.class },
               domToReact(kids, options)
             );
-          }
-
-          // Clean paragraphs that contain an inline "Image:" label followed by an <img>
+          }
           if (el.name === 'p') {
             const kids = (el.children ?? []) as Element[];
-            if (kids.length >= 2 && kids[0].type === 'tag' && kids[0].name === 'strong' && kids[1].type === 'tag' && kids[1].name === 'img') {
-              // remove the first strong node (commonly 'Image:' in our content files)
+            if (kids.length >= 2 && kids[0].type === 'tag' && kids[0].name === 'strong' && kids[1].type === 'tag' && kids[1].name === 'img') {
               const filtered = kids.slice(1);
               return React.createElement('p', {}, domToReact(filtered, options));
             }
@@ -91,16 +82,11 @@ const ArticlePage: React.FC = () => {
     const parsed = parse(found.content, options);
     setToc(items);
     setContentNodes(parsed);
-  }, [found?.content]);
-
-  // If the requested slug was an alias (not the canonical slug), redirect
-  // to the canonical per-category article URL.
+  }, [found?.content]);
   if (slug && found.slug && slug !== found.slug) {
     const cat = (found.categorySlug || found.category || "").toString().toLowerCase().replace(/\s+/g, "-");
     return <Navigate to={`/${cat}/article/${found.slug}`} replace />;
-  }
-
-  // Related articles (same category)
+  }
   const relatedArticles = allArticles
     .filter((a) => (a.categorySlug || a.category || "") === (found.categorySlug || found.category || ""))
     .filter((a) => a.slug !== found.slug)
@@ -148,7 +134,7 @@ const ArticlePage: React.FC = () => {
             </div>
           </section>
 
-          {/* Watch Related Videos Section */}
+          {}
           {found.categorySlug && (() => {
             const relatedVideos = getVideosByCategory(found.categorySlug).slice(0, 3);
             return relatedVideos.length > 0 ? (

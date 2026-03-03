@@ -407,7 +407,6 @@ export default function LymphedemaCare() {
               Travel and daily-life precautions: avoid extreme temperatures that can damage skin; use protective gloves for gardening or manual tasks; avoid blood pressure measurements and venipuncture on the affected limb when alternatives exist. When flying, wear compression and hydrate; move regularly to reduce venous stasis.</p>
           </article>
 
-          
           <article className="mt-6">
             <h3>6. Comprehensive Patient Guide: Prevention, Daily Management, and Long-Term Strategies</h3>
             <p>

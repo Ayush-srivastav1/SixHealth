@@ -86,8 +86,7 @@ export default function COPD() {
       <div className="max-w-7xl mx-auto px-4 py-10">
         <CardHub
           sections={sections}
-          onArticleClick={(id) => {
-            // navigate to the correct page
+          onArticleClick={(id) => {
             window.location.href = `/COPD/${id}`;
           }}
         />
