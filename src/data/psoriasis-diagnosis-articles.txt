@@ -1,0 +1,364 @@
+{
+  id: "psoriasis-clinical-diagnosis",
+  slug: "clinical-diagnosis",
+  title: "Clinical Diagnosis of Psoriasis: How Dermatologists Identify Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn how dermatologists diagnose psoriasis through clinical examination and evaluation.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160641-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical examination and diagnosis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Most psoriasis cases are diagnosed through clinical examination alone, based on characteristic appearance and location of skin lesions. Dermatologists develop expertise recognizing psoriasis's distinctive features, enabling accurate diagnosis in most cases without additional testing. Understanding how diagnosis occurs helps patients recognize when to seek evaluation and what to expect.
+</p>
+
+<h2>Clinical Examination</h2>
+<p>
+Dermatologists visually examine affected skin, evaluating lesion appearance, distribution, and characteristics. They look for well-demarcated red plaques with silvery-white scales, the hallmark psoriasis features. The Auspitz sign—pinpoint bleeding when scales are scraped away—is characteristic of psoriasis though not specific. The Koebner phenomenon—development of new lesions at sites of skin trauma—suggests psoriasis when present.
+</p>
+
+<h2>Medical History Importance</h2>
+<p>
+A thorough medical history helps establish diagnosis. Dermatologists inquire about symptom onset, flare patterns, triggering factors, family history of psoriasis, and impact on daily life. Previous treatments and their effectiveness guide current management. Systemic symptoms suggest possible psoriatic arthritis or other complications. Emotional distress from psoriasis affects treatment planning.
+</p>
+
+<h2>Key Diagnostic Considerations</h2>
+<p>
+Lesion distribution—elbows, knees, scalp, lower back—favors psoriasis diagnosis. Symmetrical involvement of both sides of the body is characteristic. Nail involvement (pitting, discoloration) supports psoriasis diagnosis. Associated itching or burning but lack of primary vesicles distinguishes psoriasis from conditions like epidermolysis bullosa. Long disease duration—often years—indicates chronic inflammatory disease consistent with psoriasis rather than acute dermatitis.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160650-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Specialized dermatological assessment"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>When Biopsy is Needed</h2>
+<p>
+Skin biopsy for histopathology confirms diagnosis when clinical features are atypical or uncertain. Biopsy is also performed if diagnosis changes management decisions or when multiple conditions are considered. Biopsy is usually unnecessary when clinical diagnosis is clear.
+</p>
+
+<h2>Differential Diagnosis</h2>
+<p>
+Conditions resembling psoriasis include seborrheic dermatitis, contact dermatitis, pityriasis rubra pilaris, and lymphomas. Systemic sclerosis and other connective tissue diseases occasionally mimic psoriasis. Fungal infections, particularly on palms and soles, may resemble psoriasis. Distinguishing features help dermatologists differentiate these conditions.
+</p>
+
+<h2>What to Tell Your Dermatologist</h2>
+<p>
+Provide detailed descriptions of symptom onset, changes over time, and triggering factors. Describe location and appearance of initial lesions and how disease has progressed. Discuss family history and personal medical conditions. Mention all medications and supplements taken. Describe impact on daily life, emotional effects, and previous treatments.
+</p>
+
+<p>
+Open communication and thorough examination help dermatologists confidently diagnose psoriasis and develop effective treatment plans.
+</p>
+  `
+},
+{
+  id: "psoriasis-skin-biopsy",
+  slug: "skin-biopsy",
+  title: "Skin Biopsy for Psoriasis: Procedure and What to Expect",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding skin biopsies for confirming psoriasis diagnosis, including procedure details and results.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160660-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Skin biopsy procedure"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Skin biopsy—a small tissue sample examination under microscope—confirms psoriasis diagnosis when clinical features are uncertain. While most psoriasis cases are diagnosed clinically, biopsy provides definitive confirmation and helps distinguish psoriasis from similar conditions.
+</p>
+
+<h2>When Biopsy is Recommended</h2>
+<p>
+Biopsy is performed when clinical diagnosis is unclear or atypical presentations raise diagnostic uncertainty. Biopsy helps differentiate psoriasis from conditions like seborrheic dermatitis, pityriasis rubra pilaris, or mycosis fungoides. If diagnosis changes treatment or affects patient counseling, confirmation through biopsy is appropriate. Patients with extensive disease or systemic involvement may have biopsies to confirm diagnosis before starting systemic medications.
+</p>
+
+<h2>Biopsy Procedure</h2>
+<p>
+The dermatologist selects a representative lesion for biopsy. Local anesthetic is injected to numb the area. A small circular biopsy punch (typically 3-4mm) removes a skin sample. The wound is closed with a stitch or left to heal naturally. The procedure takes only minutes and causes minimal discomfort. Different biopsy methods (punch biopsy being most common) may be used depending on clinical circumstances.
+</p>
+
+<h2>Histopathological Findings</h2>
+<p>
+Under microscopy, psoriasis shows characteristic changes including thickened outer skin layer (acanthosis) with elongated dermal papillae nearly reaching the surface. Thinning of the layer above dermal papillae (suprapapillary epidermis) is distinctive. Inflammatory cell infiltration, particularly neutrophils, appears in affected areas. These findings, taken together, are highly specific for psoriasis.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160675-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Laboratory examination and analysis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Results and Next Steps</h2>
+<p>
+Pathology results typically return within 1-2 weeks. Results confirming psoriasis support clinical diagnosis and treatment decisions. Atypical or unexpected findings prompt further evaluation. Results may help explain treatment responses or failure to respond to prior therapies. Definitive confirmation often reassures patients and improves treatment adherence.
+</p>
+
+<h2>Recovery and Scarring</h2>
+<p>
+The biopsy site heals within 1-2 weeks. Mild scarring is possible but usually minimal. Keeping the site clean and dry promotes healing. Stitches are removed within 5-7 days. Most patients experience minimal discomfort after anesthetic wears off.
+</p>
+
+<p>
+Skin biopsy provides definitive confirmation when diagnostic certainty affects treatment decisions or patient management.
+</p>
+  `
+},
+{
+  id: "psoriasis-family-history-genetics",
+  slug: "family-history-and-genetics",
+  title: "Family History and Genetics in Psoriasis: Understanding Your Risk",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn how genetics and family history influence psoriasis risk and severity.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160685-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Genetic factors and inheritance"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis has strong genetic components with approximately 30-40% of patients having a family history. If one parent has psoriasis, children have roughly 10-15% risk of developing the condition. When both parents have psoriasis, risk increases to 50-60%. Genetic susceptibility combined with environmental triggers determines whether psoriasis develops.
+</p>
+
+<h2>HLA Genetic Association</h2>
+<p>
+Psoriasis is strongly associated with specific human leukocyte antigen (HLA) genes, particularly HLA-Cw6. HLA genes control immune system function, and specific variants predispose to psoriasis development. However, HLA testing is not routinely performed as presence doesn't guarantee disease development—approximately 10% of the general population carries HLA-Cw6 without developing psoriasis.
+</p>
+
+<h2>Multiple Gene Involvement</h2>
+<p>
+Psoriasis is a polygenic disease involving numerous genes, each contributing small effects. Over 60 genetic risk loci have been identified. Genes involved in immune regulation, particularly T cell function, are most relevant. Genes affecting skin barrier function, keratinocyte differentiation, and inflammatory pathways also contribute. The interaction of multiple genetic variants combined with environmental triggers determines disease development.
+</p>
+
+<h2>Environmental Triggers and Gene-Environment Interaction</h2>
+<p>
+Genetic predisposition alone doesn't guarantee psoriasis development. Environmental factors including infections (particularly streptococcal pharyngitis), stress, smoking, excessive alcohol, skin trauma, and certain medications trigger psoriasis in genetically susceptible individuals. The same genetic profile may manifest as psoriasis in one individual experiencing triggers while remaining dormant in another without trigger exposure.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160692-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Screening and prevention strategies"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Family Screening and Prevention</h2>
+<p>
+Family members of psoriasis patients should be alert for early signs. Avoiding known triggers including infections, excessive stress, smoking, and excessive alcohol reduces risk. Maintaining skin health and treating skin injuries promptly help prevent trigger-induced disease onset. Genetic counseling helps families understand inheritance patterns and risk.
+</p>
+
+<h2>Disease Severity and Genetics</h2>
+<p>
+Genetic factors also influence disease severity and type. Family members may develop similar or different psoriasis manifestations. Early-onset psoriasis (before age 40) has stronger genetic influence than late-onset disease. Some genetic profiles predispose to aggressive disease while others tend toward milder manifestations.
+</p>
+
+<p>
+Understanding genetic and familial factors empowers family members to recognize early signs and take preventive measures.
+</p>
+  `
+},
+{
+  id: "psoriasis-arthritis-screening",
+  slug: "psoriatic-arthritis-screening",
+  title: "Screening for Psoriatic Arthritis: Joint Involvement Evaluation",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn how to identify and screen for psoriatic arthritis in psoriasis patients.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160705-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Joint pain and arthritis evaluation"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriatic arthritis develops in 10-30% of psoriasis patients, causing joint pain, stiffness, and disability. Screening for joint involvement during psoriasis treatment helps detect arthritis early when intervention is most effective. Careful assessment distinguishes joint pain from simple stiffness and identifies specific joint patterns.
+</p>
+
+<h2>Screening Methods</h2>
+<p>
+Doctors ask specific questions about joint symptoms: Do you have joint pain, morning stiffness lasting over 30 minutes, or swelling in small joints of hands or feet? Physical examination performs point tenderness assessment of key joints and evaluates for swelling, heat, and reduced range of motion. Specific screening tools like PASE (Psoriatic Arthritis Screening and Expert tool) systematically evaluate for arthritis features.
+</p>
+
+<h2>Early Signs to Recognize</h2>
+<p>
+Morning stiffness lasting over 30 minutes is characteristic of inflammatory arthritis. Symmetrical joint involvement (both hands, both knees) suggests systemic inflammatory disease. Swelling of entire fingers or toes ("sausage digits") is relatively specific for psoriatic arthritis. Pain with gripping or writing indicates hand involvement. Nail involvement frequently accompanies arthritic disease.
+</p>
+
+<h2>Diagnostic Testing</h2>
+<p>
+Rheumatoid factor and anti-CCP antibody testing are typically negative in psoriatic arthritis, distinguishing it from rheumatoid arthritis. Elevated inflammatory markers (ESR, CRP) support inflammatory arthritis diagnosis. X-rays may show characteristic changes including asymmetric involvement and pencil-in-cup deformities in severe disease. Ultrasound and MRI provide detailed joint and inflammation assessment.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160718-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Rheumatology consultation"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>When to See a Rheumatologist</h2>
+<p>
+Any psoriasis patient experiencing joint pain, morning stiffness, or swelling should be referred for rheumatology evaluation. Early detection enables disease-modifying therapy initiation, preventing joint damage and disability. Some psoriasis medications target both skin and joint disease.
+</p>
+
+<h2>Regular Monitoring</h2>
+<p>
+Dermatologists should systematically screen all psoriasis patients for arthritis during regular visits. Patients should report any new joint symptoms promptly. Once arthritis is confirmed, regular rheumatology follow-up monitors disease activity and treatment effectiveness.
+</p>
+
+<p>
+Early detection and treatment of psoriatic arthritis prevents progressive joint damage and disability.
+</p>
+  `
+},
+{
+  id: "psoriasis-severity-assessment",
+  slug: "severity-assessment",
+  title: "Assessing Psoriasis Severity: Understanding Your Disease",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn how psoriasis severity is measured and how it affects treatment decisions.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160728-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Disease assessment and evaluation"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis severity varies dramatically among patients from minimal localized plaques to extensive disease covering most of the body. Accurate severity assessment guides treatment decisions—mild psoriasis responds to topical treatments while moderate to severe disease often requires systemic therapy. Measuring severity helps track disease progression and treatment effectiveness.
+</p>
+
+<h2>Area of Involvement</h2>
+<p>
+Body Surface Area (BSA) measurement quantifies percentage of body affected by psoriasis. Mild psoriasis affects less than 10% BSA. Moderate disease involves 10-30% BSA. Severe disease covers more than 30% BSA. BSA calculation uses the "rule of nines"—palm equals approximately 1% BSA, enabling clinicians to estimate affected area. Extensive scalp or face involvement counts as more severe even if widespread body involvement is absent.
+</p>
+
+<h2>PASI Score</h2>
+<p>
+The Psoriasis Area and Severity Index (PASI) combines extent of involvement with severity of plaques, resulting in a numerical score from 0 to 72. PASI 0-7 indicates mild disease. PASI 7-12 represents moderate disease. PASI above 12 indicates severe disease. PASI scores guide treatment choices—different medications are approved for different severity levels. Regular PASI scoring monitors treatment effectiveness.
+</p>
+
+<h2>PGA Scale</h2>
+<p>
+The Physician's Global Assessment (PGA) provides overall disease severity rating on a 0-5 scale (clear to severe). PGA 0-1 indicates minimal disease. PGA 2-3 represents moderate disease. PGA 4-5 indicates severe disease. PGA is rapid assessment often used in routine practice.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160735-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Quality of life assessment"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Quality of Life Impact</h2>
+<p>
+Disease severity includes quality of life impact beyond skin involvement. The Dermatology Life Quality Index (DLQI) measures psychological distress from skin disease. Extensive psoriasis affecting visible areas (face, hands, genitals) has greater quality of life impact than covered areas. Joint involvement significantly increases severity. Work impairment or social limitation indicates more severe impact.
+</p>
+
+<h2>Treatment Implications</h2>
+<p>
+Mild psoriasis typically responds to topical corticosteroids, vitamin D analogs, and retinoids. Moderate disease may require phototherapy or targeted topical therapies. Severe psoriasis or significant quality of life impact indicates systemic therapy—oral medications or biologic therapies targeting immune system. Rapid assessment at each visit helps optimize management.
+</p>
+
+<p>
+Accurate severity assessment ensures appropriate treatment intensity matching disease burden.
+</p>
+  `
+},
+{
+  id: "psoriasis-comorbidity-screening",
+  slug: "comorbidity-screening",
+  title: "Comorbidity Screening in Psoriasis: Associated Health Conditions",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding and screening for health conditions associated with psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160742-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Comprehensive health screening"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis patients have substantially elevated rates of multiple medical conditions. Systematic screening for associated health problems enables early detection and prevention of serious complications. Understanding psoriasis's systemic nature guides comprehensive health management beyond skin treatment.
+</p>
+
+<h2>Cardiovascular Disease</h2>
+<p>
+Psoriasis patients have 1.5-3 times higher cardiovascular disease risk. Inflammation characteristic of psoriasis accelerates atherosclerosis. Dyslipidemia, hypertension, and diabetes are more common. All psoriasis patients should have baseline blood pressure, lipid panel, and glucose assessment. Regular cardiovascular screening identifies risks before heart attack or stroke occurrence.
+</p>
+
+<h2>Metabolic Syndrome</h2>
+<p>
+Metabolic syndrome—combination of obesity, hypertension, dyslipidemia, and glucose intolerance—occurs in 30-50% of psoriasis patients. Regular weight assessment, waist circumference measurement, and metabolic screening help detect metabolic syndrome. Early intervention through lifestyle modification and medications prevents complications.
+</p>
+
+<h2>Mental Health Conditions</h2>
+<p>
+Depression affects 10-20% of psoriasis patients, significantly elevated versus general population. Anxiety disorders are similarly increased. Suicidal ideation has been documented in severe cases. Mental health screening at psoriasis visits helps identify depression and anxiety requiring treatment. Asking direct questions about mood and anxiety should be part of routine evaluation.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160750-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Preventive health measures"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Other Associated Conditions</h2>
+<p>
+Psoriatic arthritis develops in up to 30%, discussed separately. Inflammatory bowel disease (Crohn's disease, ulcerative colitis) co-occurs in some patients. Celiac disease may be more common in psoriasis patients. Uveitis (eye inflammation) occurs in some with systemic psoriasis. Hepatitis B and C carriers may experience psoriasis activation.
+</p>
+
+<h2>Screening Recommendations</h2>
+<p>
+At diagnosis, obtain baseline blood pressure, fasting glucose, lipid panel, and weight. Screen for depression and anxiety. Ask about joint symptoms. Ask about gastrointestinal symptoms. If on systemic medications, monitor liver and kidney function regularly. Annual metabolic screening helps detect emergence of new conditions. Mental health reassessment at each visit supports early detection of depression.
+</p>
+
+<h2>Lifestyle Intervention</h2>
+<p>
+Weight loss improves both psoriasis and associated metabolic conditions. Regular exercise benefits psoriasis, cardiovascular health, mental health, and weight. Smoking cessation is particularly important—smoking worsens both psoriasis and cardiovascular disease. Alcohol moderation helps prevent flare-ups and supports metabolic health.
+</p>
+
+<p>
+Comprehensive health screening detects and prevents serious complications of systemic inflammation associated with psoriasis.
+</p>
+  `
+}

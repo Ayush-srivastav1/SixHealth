@@ -1,0 +1,394 @@
+{
+  id: "psoriasis-topical-treatments",
+  slug: "topical-treatments",
+  title: "Topical Treatments for Psoriasis: Creams, Ointments, and Foams",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Guide to topical psoriasis treatments including corticosteroids, vitamin D analogs, and retinoids.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160760-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Topical cream treatment application"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Topical treatments form the foundation of psoriasis management, particularly for mild to moderate disease. These medications applied directly to skin are effective, relatively safe, and accessible. Understanding different topical agents, their mechanisms, and appropriate application helps maximize treatment benefit.
+</p>
+
+<h2>Topical Corticosteroids</h2>
+<p>
+Topical corticosteroids remain first-line therapy for most psoriasis patients. They reduce inflammation and slow plaques effectively. Potency ranges from low to very high, matching disease severity and anatomical location. Low-potency steroids suit sensitive areas like face and skin folds. High-potency steroids treat thick plaques on palms and soles. Duration of continuous use should be limited—extended use causes skin atrophy. Steroid sparing agents combined with steroids reduce long-term complications.
+</p>
+
+<h2>Vitamin D Analogs</h2>
+<p>
+Calcipotriol and calcitriol (vitamin D3 analogs) slow skin cell proliferation and reduce inflammation. They work well combined with topical corticosteroids. Vitamin D analogs can be used longer-term. They may cause irritation or vitamin D absorption if applied too extensively. Fingernail staining occasionally occurs. Effectiveness is comparable to mid-potency corticosteroids when used appropriately.
+</p>
+
+<h2>Topical Retinoids</h2>
+<p>
+Tazarotene, a topical retinoid, reduces inflammation and skin cell turnover. It suits patients unable to tolerate corticosteroids. Retinoids commonly cause initial irritation—start low concentration and increase gradually. Avoid sun exposure during use. Effectiveness rivals mid-potency corticosteroids. Retinoids may be particularly helpful for scalp and folded area psoriasis.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160772-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis management routine"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Coal Tar and Salicylic Acid</h2>
+<p>
+Coal tar has decades of safe use, though less popular nowadays. It reduces inflammation and scaling, though smells unpleasant and stains clothing. Salicylic acid shampoos help remove scales and improve topical medication penetration. These agents often work best combined with other topicals.
+</p>
+
+<h2>Combination Strategies</h2>
+<p>
+Alternating different topical agents reduces steroid tolerance (tachyphylaxis). Combining corticosteroid with vitamin D analog often works better than either alone. Using lower-potency steroids combined with steroid-sparing agents reduces side effects. Rotation between different potencies or drug classes optimizes long-term control.
+</p>
+
+<h2>Application Techniques</h2>
+<p>
+Apply topicals after bathing to damp skin for better absorption. Use sufficient quantity—typically a "fingertip unit" (amount covering fingertip to first knuckle) per hand-sized area. Rub in gently. Occlusion (covering with plastic wrap) enhances penetration for thick plaques. Avoid excessive potency topicals on thin-skin areas. Stop once plaques clear rather than continuing indefinitely to prevent side effects.
+</p>
+
+<p>
+Effective topical treatment requires knowledge of available options and their proper application.
+</p>
+  `
+},
+{
+  id: "psoriasis-phototherapy",
+  slug: "phototherapy",
+  title: "Phototherapy for Psoriasis: Light Therapy Benefits and Options",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding UVB and PUVA phototherapy for psoriasis treatment.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160780-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Light therapy treatment session"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Light therapy (phototherapy) harnesses ultraviolet radiation to control psoriasis inflammation. Carefully controlled UV exposure reduces skin cell proliferation and suppresses immune activation. Phototherapy suits moderate psoriasis or extensive disease resistant to topical treatments and works particularly well when combined with other therapies.
+</p>
+
+<h2>UVB Phototherapy</h2>
+<p>
+Narrowband UVB (NB-UVB) is most commonly used. It penetrates skin, activating immunosuppressive pathways and slowing skin cell turnover. Patients typically receive 2-3 treatments weekly for 8-12 weeks, though duration varies. Each session lasts 15-20 minutes. Cumulative improvement occurs over weeks. Response rates are 75-80% in appropriate candidates.
+</p>
+
+<h2>PUVA Therapy</h2>
+<p>
+Psoralen plus UVA (PUVA) involves taking psoralen (light-sensitive medication) orally or topically, then receiving UVA radiation. PUVA is particularly effective for thick plaques and severe disease. Treatments occur 2-3 times weekly. PUVA requires more monitoring than UVB. Long-term PUVA increases skin cancer risk, limiting long-term use.
+</p>
+
+<h2>Targeted/Excimer Laser</h2>
+<p>
+Excimer laser delivers high-intensity UVB to localized lesions. It suits limited disease or specific problematic areas. Sessions are quick (minutes). Response is often rapid—plaques improve within weeks. Excimer suits patients who cannot access whole-body phototherapy or prefer targeted approach.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160788-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Dermatology clinic treatment"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Side Effects and Monitoring</h2>
+<p>
+Common side effects include sunburn-like reaction, itching, and temporary redness. Eye damage is prevented through eye protection. Skin cancer risk is elevated with very high cumulative doses, particularly with PUVA. Regular skin cancer screening is recommended for long-term phototherapy patients. Cataracts may develop with inadequate eye protection during PUVA.
+</p>
+
+<h2>Phototherapy Maintenance</h2>
+<p>
+After achieving remission, maintenance therapy—reduced frequency—often continues. Some patients alternate phototherapy with other treatments to minimize long-term side effects while maintaining control. Starting phototherapy during winter takes advantage of lower natural UV exposure and seasonal improvement.
+</p>
+
+<h2>Combination Approaches</h2>
+<p>
+Phototherapy combined with topical medications often works better than either alone. Some systemic medications can be combined with phototherapy. Adding retinoids may enhance response.
+</p>
+
+<p>
+Phototherapy provides effective control for moderate to severe psoriasis with good long-term safety profile when properly monitored.
+</p>
+  `
+},
+{
+  id: "psoriasis-systemic-medications",
+  slug: "systemic-medications",
+  title: "Systemic Medications for Psoriasis: Oral and Injectable Drugs",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Overview of oral and injectable systemic medications for moderate to severe psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160795-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Systemic medication therapy"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Systemic medications address moderate to severe psoriasis affecting quality of life or when topical treatments and phototherapy prove insufficient. These medications suppress immune system function to reduce systemic inflammation characteristic of psoriasis. Careful monitoring ensures safety while achieving adequate disease control.
+</p>
+
+<h2>Methotrexate</h2>
+<p>
+Methotrexate is a conventional systemic option with decades of safe use in psoriasis. It suppresses T cells and reduces inflammatory cytokines. Dosing is weekly, typically oral or injectable. Response takes 6-12 weeks. Regular blood work monitoring checks liver function, kidney function, and blood cell counts. Methotrexate interacts with alcohol—alcohol use should be minimized. It is teratogenic—pregnancy must be avoided. Cost is moderate.
+</p>
+
+<h2>Cyclosporine</h2>
+<p>
+Cyclosporine is a powerful immunosuppressant providing rapid response—many patients improve within weeks. Dosing varies based on response. It requires frequent blood pressure and kidney function monitoring. Long-term use risks kidney damage. Interactions with many medications occur. Cyclosporine suits severe flare-ups or when rapid response is essential. It's less commonly used for long-term maintenance due to monitoring burden.
+</p>
+
+<h2>Acitretin</h2>
+<p>
+Acitretin, an oral retinoid, works particularly well for pustular psoriasis. Dosing is 25-50mg daily. Response takes weeks to months. Teratogenic—strict pregnancy prevention required. Causes dry skin and mucous membranes. May increase cholesterol and triglycerides requiring monitoring. It's less commonly used as biologic therapies have become available.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160800-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical monitoring and treatment"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Selection Criteria</h2>
+<p>
+Choice depends on disease severity, patient age and sex, comorbidities, previous medication reactions, and patient preference. Baseline kidney and liver function, blood counts, and blood pressure guide selection. Previous medication responses inform choices. Cost and insurance coverage affect practical options.
+</p>
+
+<h2>Monitoring Requirements</h2>
+<p>
+Different medications require different monitoring frequencies. Methotrexate requires baseline and regular liver function tests and blood counts. Cyclosporine requires frequent blood pressure and kidney function monitoring. Baseline assessment is essential before starting any systemic therapy. Regular follow-up appointments ensure safety and assess efficacy.
+</p>
+
+<h2>Treatment Response Timeline</h2>
+<p>
+Systemic medications typically require 6-12 weeks for full benefit. Premature discontinuation before adequate trial prevents recognition of potential benefit. Some patients respond within weeks while others require months. Dose adjustments may improve response.
+</p>
+
+<p>
+Systemic medications provide effective control of moderate to severe psoriasis when introduced and monitored appropriately.
+</p>
+  `
+},
+{
+  id: "psoriasis-biologic-therapies",
+  slug: "biologic-therapies",
+  title: "Biologic Therapies for Psoriasis: Targeted Immune Treatments",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding biologic drugs that target specific immune pathways in psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160808-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Biologic treatment administration"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Biologic therapies represent major advances in psoriasis treatment. These medications target specific immune system components driving psoriasis inflammation. Biologic drugs provide highly effective disease control often achieving complete or near-complete skin clearance. Multiple options allow individualization based on disease type and patient factors.
+</p>
+
+<h2>TNF Inhibitors</h2>
+<p>
+TNF (tumor necrosis factor) inhibitors including etanercept, infliximab, and adalimumab suppress a key inflammatory cytokine. These were the first biologics approved for psoriasis. Effectiveness is 70-80%. THey can cause psoriasiform rashes paradoxically. Monthly to every-other-month administration. Multiple formulations allow varied dosing schedules. Cost is high but insurance often covers for appropriate candidates. They're contraindicated in active infections and tuberculosis.
+</p>
+
+<h2>IL-12/23 Inhibitors</h2>
+<p>
+Ustekinumab targets IL-12 and IL-23, cytokines driving psoriatic inflammation. Efficacy is 75-85%. Every-12-weeks dosing provides convenient treatment schedule. Particularly effective for moderate to severe plaque psoriasis. Also effective for psoriatic arthritis. Side effect profile is favorable.
+</p>
+
+<h2>IL-17 Inhibitors</h2>
+<p>
+IL-17 is critical in psoriasis pathogenesis. IL-17 inhibitors including secukinumab and ixekizumab provide rapid response—many patients improve within weeks. Efficacy approaches 90% with potential for complete clearance. Slightly increased infection risk. Monthly to every-other-month dosing. They're particularly effective for generalized pustular psoriasis and erythrodermic psoriasis.
+</p>
+
+<h2>IL-23 Inhibitors</h2>
+<p>
+Newer IL-23-specific inhibitors including guselkumab and risankizumab provide excellent efficacy without IL-12 blockade. They may have better safety profiles than combination IL-12/23 inhibitors. Every-8-weeks maintenance dosing.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160815-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Patient counseling and education"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Advantages and Considerations</h2>
+<p>
+Biologic advantages include rapid response, complete clearance potential, and treatment of both skin and joint psoriasis. Disadvantages include cost (often $1000+ monthly), need for parenteral administration, and potential immunosuppression increasing infection risk. Tuberculosis screening is required before biologic initiation. Patient monitoring ensures continued efficacy and safety.
+</p>
+
+<h2>Treatment Selection</h2>
+<p>
+Multiple effective biologics allow choice based on disease type, patient preference, injection vs infusion, and dosing frequency. Some patients prefer rapid-acting IL-17 inhibitors. Others prefer biweekly-dosing TNF inhibitors. Combination therapy (biologic plus phototherapy or topical) maximizes response.
+</p>
+
+<h2>Pregnancy Considerations</h2>
+<p>
+Many biologics can be continued during pregnancy, making them excellent choices for woman of childbearing age. This differs from conventional systemic medications which often require discontinuation.
+</p>
+
+<p>
+Biologic therapies have transformed psoriasis management, enabling disease control unimaginable two decades ago.
+</p>
+  `
+},
+{
+  id: "psoriasis-combination-therapy",
+  slug: "combination-therapy",
+  title: "Combination Therapy Approaches for Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Using multiple treatment modalities together for enhanced psoriasis control.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160822-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Multiple treatment strategy"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Combining multiple treatment modalities often produces superior results compared to any single treatment. Synergistic effects of different mechanisms create better disease control, faster response, and ability to use lower doses of individual medications. Strategic combination reduces side effects and resistance.
+</p>
+
+<h2>Systemic plus Topical</h2>
+<p>
+Adding topical corticosteroids or vitamin D analogs to systemic therapy accelerates response and may allow lower systemic medication doses. Topical agents treat local problematic areas while systemic therapy addresses widespread disease. This combination reduces systemic medication side effects while improving overall control. Cost is reasonable as topical agents are inexpensive.
+</p>
+
+<h2>Systemic plus Phototherapy</h2>
+<p>
+Combining phototherapy with systemic medications provides enhanced response. Systemic therapy plus biweekly phototherapy may work better than either alone. Phototherapy allows lower systemic medication doses, reducing side effects. Particularly useful during winter when natural sunlight is minimal.
+</p>
+
+<h2>Biologic plus Topical</h2>
+<p>
+Adding topical treatments to biologic therapy helps achieve complete clearance especially for residual plaques. Scalp and facial involvement particularly benefit from topical supplements to systemic therapy. This combination is cost-effective as topicals are relatively inexpensive.
+</p>
+
+<h2>Different Systemic Agents</h2>
+<p>
+Combining two systemic medications with different mechanisms is sometimes necessary for severe disease. Phototherapy plus systemic medication is more common. Combining two biologic agents is rarely done but occasionally considered for refractory disease after failure of multiple individual agents.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160828-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Comprehensive treatment planning"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Timing and Sequencing</h2>
+<p>
+Start combination therapy with all components simultaneously when rapid response is needed. Alternatively, start strongest single therapy and add second component if incomplete response after 8-12 weeks. This approach helps identify which medication contributes to response. Rotating therapies prevents tachyphylaxis (tolerance).
+</p>
+
+<h2>Patient Adherence</h2>
+<p>
+Combination therapy requires greater patient commitment—multiple medications and frequent appointments burden patients. Ensure realistic expectations and discuss commitment needed. Support groups help maintain adherence. Simplifying regimens when possible aids adherence. Telehealth appointments reduce travel burden.
+</p>
+
+<h2>Monitoring Combined Therapy</h2>
+<p>
+Monitor efficacy and safety more frequently when using combinations. Some drug interactions require attention. Blood work monitoring may be more frequent. Regular follow-up ensures safety while achieving optimal control.
+</p>
+
+<p>
+Thoughtfully designed combination therapy provides superior psoriasis control while minimizing individual medication doses and side effects.
+</p>
+  `
+},
+{
+  id: "psoriasis-managing-side-effects",
+  slug: "managing-side-effects",
+  title: "Managing Side Effects of Psoriasis Treatments",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Strategies for minimizing and managing side effects from psoriasis medications.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160835-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Side effect monitoring and management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+While psoriasis treatments provide significant benefit, they can cause side effects requiring management. Understanding potential adverse effects, early recognition, and appropriate intervention strategies minimize impact. Side effect tolerability often determines treatment success and adherence.
+</p>
+
+<h2>Common Topical Side Effects</h2>
+<p>
+Topical corticosteroid side effects include skin atrophy (thinning), striae, and telangiectasia (visible blood vessels) with prolonged use. Long-term high-potency steroid use increases systemic absorption. Vitamin D analog side effects include local irritation and potential hypercalcemia with excessive application. Retinoid side effects include irritation, photosensitivity, and teratogenicity. These are minimized through appropriate potency selection and application duration.
+</p>
+
+<h2>Systemic Medication Side Effects</h2>
+<p>
+Methotrexate causes liver and bone marrow toxicity detected through regular blood work. Nausea, fatigue, and mouth sores occur. Folic acid supplementation reduces side effects. Cyclosporine causes hypertension and kidney damage—blood pressure and kidney function monitoring prevents serious complications. Acitretin causes dry skin and mucous membranes. Cholesterol elevation requires monitoring.
+</p>
+
+<h2>Biologic Side Effects</h2>
+<p>
+Biologic therapies increase infection risk including tuberculosis. TB screening before starting biologics is mandatory. Paradoxical psoriasiform rashes occur with TNF inhibitors. IL-17 inhibitors may increase genital candidiasis. Headaches, elevated lipids, or elevated liver enzymes can occur. Most side effects are manageable with dose adjustment or supportive care.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Regular monitoring and follow-up"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Prevention and minimization Strategies</h2>
+<p>
+Start medications at lowest effective doses. Gradual dose escalation helps identify tolerability issues early. Combination therapy with lower individual doses reduces side effects. Regular monitoring detects problems before they become serious. Lifestyle modifications (avoiding alcohol, maintaining health) reduce medication risks. Patient education about warning signs ensures early reporting.
+</p>
+
+<h2>Management When Side Effects Occur</h2>
+<p>
+Mild side effects often resolve with continued treatment but require monitoring. Moderate side effects may necessitate dose reduction or schedule adjustment. Severe or serious side effects requiring medication discontinuation warrant rapid discussion with provider. Alternative medications often provide similar benefit without problematic side effects.
+</p>
+
+<h2>Communication with Your Provider</h2>
+<p>
+Report all side effects including mild ones. Early communication enables intervention before serious complications. Some patients unnecessarily discontinue effective medications without discussing side effect management options. Most side effects can be minimized through strategic adjustments.
+</p>
+
+<p>
+Effective side effect management enables continuation of beneficial psoriasis treatments while maintaining tolerability.
+</p>
+  `
+}

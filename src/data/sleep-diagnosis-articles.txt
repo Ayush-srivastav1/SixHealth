@@ -1,0 +1,315 @@
+{
+    id: "polysomnography",
+    slug: "polysomnography",
+    title: "Polysomnography: The Gold Standard Sleep Study",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding polysomnography testing and what to expect during a sleep study.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516920591595-6f40d6f82d87?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Polysomnography sleep study"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Polysomnography (PSG)—comprehensive sleep study—is the gold standard for diagnosing sleep disorders. This overnight test records multiple body functions during sleep, providing detailed assessment of sleep architecture and identifying disorders.
+</p>
+
+<h2>What PSG Measures</h2>
+<p>
+Electroencephalography (EEG) measures brain waves, determining sleep stages (light, deep, REM). Electrooculography (EOG) tracks eye movements distinguishing REM sleep. Electromyography (EMG) records muscle activity detecting REM atonia (normal muscle paralysis) or abnormal movements. Respiratory effort sensors detect breathing movement. Airflow measurements use nasal/oral sensors detecting actual breathing. Pulse oximetry continuously monitors blood oxygen levels. Electrocardiography (ECG) monitors heart rhythm. Leg movement sensors detect restless leg syndrome or periodic leg movements. Body position sensor identifies whether sleep apnea occurs only in supine position.
+</p>
+
+<h2>Preparation and Setup</h2>
+<p>
+Patients attend lab evening to setup—arriving 1-2 hours before sleep time. Technicians apply many sensors and electrodes—typically 30+ sensors secured to head, face, chest, legs. Leads run to recording device. Cameras monitor sleep. Patient accustoms to equipment then attempts to sleep. Some people sleep poorly first night from unfamiliar environment ("first-night effect")—influencing results. Technicians monitor from separate room, can communicate through intercom, can see patient on camera.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep testing data analysis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>During the Study</h2>
+<p>
+Patient lies in comfortable bed attempting to sleep naturally. Technicians monitor all parameters continuously throughout night. Equipment records data; no pain or discomfort from sensors. Bathroom breaks possible (technician assists with equipment). Morning after study, equipment removed and patient goes home. Study typically 6-8 hours duration.
+</p>
+
+<h2>Data Analysis</h2>
+<p>
+Sleep specialist reviews entire night's data—hours of continuous recording. Sleep stages scored in 30-second intervals determining sleep architecture: percentage time in light sleep, deep sleep, REM sleep, wake. Apnea-hypopnea index (AHI) quantifies sleep apnea severity—number of breathing events per hour. Normal is fewer than 5 per hour; 5-15 is mild, 15-30 is moderate, over 30 is severe. Oxygen saturation patterns analyzed. Limb movement index quantifies periodic leg movements. Arrhythmias documented. Report generated with findings and recommendations.
+</p>
+
+<h2>What PSG Diagnoses</h2>
+<p>
+Sleep apnea definitively diagnosed—severity quantified with AHI. Periodic leg movement disorder identified if excessive movements occur. REM sleep behavior disorder identified when muscle paralysis fails during REM. Narcolepsy diagnosis supported by early REM sleep entry. Parasomnias (sleepwalking, night terrors) sometimes captured. Sleep-related seizures identified. Insomnia diagnosis typically doesn't require PSG but study confirms sleep architecture. Circadian rhythm disorders shown by timing abnormalities.
+</p>
+
+<h2>Split-Night Study</h2>
+<p>
+If severe apnea diagnosed first half of night, second half used for CPAP titration—determining optimal pressure treating apnea. Separate titration night sometimes scheduled instead. This efficiency helps speed treatment start.
+</p>
+
+<p>
+Polysomnography precisely diagnoses sleep disorders guiding appropriate treatment.
+</p>
+  `
+  },
+  {
+    id: "home-sleep-testing",
+    slug: "home-sleep-testing",
+    title: "Home Sleep Testing: Convenient Sleep Apnea Screening",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding portable sleep apnea testing in home environment.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Home sleep testing device"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Home sleep testing (HST)—portable sleep apnea testing in home environment—offers convenient screening alternative to lab-based polysomnography. Appropriate for moderate-to-high pretest probability of obstructive sleep apnea, HST is accessible and reduces barriers to testing.
+</p>
+
+<h2>How Home Sleep Testing Works</h2>
+<p>
+Portable recording device provided by sleep clinic—smaller than PSG systems. Patient wears device at home during normal sleep. Nasal airflow sensor, chest/abdominal effort bands, oxygen saturation monitor, and usually heart rate monitor are key components. Some devices include body position sensor and leg movement sensor. Patient sleeps normally at home with device recording data. Next morning, patient returns device to clinic. Data transfers to computer for analysis. Sleep specialist reviews and generates report.
+</p>
+
+<h2>Advantages of Home Sleep Testing</h2>
+<p>
+Convenience—sleep in own bed, own environment, normal routine. Eliminates first-night effect—lab environment isn't limiting factor. Faster access—often scheduling within days rather than weeks. Cost-effective—typically lower cost than lab-based study. More comfortable for many people. Larger sample size possible—can repeat testing if first test inconclusive. Reduces anxiety for people anxious about clinical settings.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep apnea diagnosis and treatment"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Limitations</h2>
+<p>
+Doesn't record sleep stages—can't measure REM vs. deep sleep percentage. Can't diagnose other sleep disorders. Limited channel count—less comprehensive than PSG. Sometimes inconclusive on first attempt—inadequate wear time or data quality. Positive result still requires clinical correlation—lab-based PSG sometimes needed to confirm or evaluate further. Fails in patients with complex conditions requiring comprehensive evaluation.
+</p>
+
+<h2>When HST is Appropriate</h2>
+<p>
+Moderate-to-high pretest probability for obstructive sleep apnea. No other sleep disorders suspected. Simple sleep apnea screening desired. Patient preference for home testing. Scheduling convenience critical. Initial screening before potential CPAP therapy. Monitoring treatment response when diagnosis already established.
+</p>
+
+<h2>Interpretation</h2>
+<p>
+Results analyzed similarly to lab PSG—apnea-hypopnea index determines severity. Positive HST (AHI≥5 with symptoms) supports sleep apnea diagnosis often sufficient for treatment initiation. Negative HST with high clinical suspicion may warrant lab-based PSG for confirmation. Borderline results may require lab-based study or repeated home testing.
+</p>
+
+<p>
+Home sleep testing provides accessible initial screening for obstructive sleep apnea enabling early diagnosis and treatment.
+</p>
+  `
+  },
+  {
+    id: "sleep-diary",
+    slug: "sleep-diary",
+    title: "Sleep Diary: Tracking Sleep Patterns and Quality",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Using sleep diaries to identify patterns and guide sleep improvement.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517457373614-b7152f800fd1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep diary tracking"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep diary—daily record of sleep-wake times, quality, symptoms, and daytime consequences—provides objective documentation of sleep patterns. Simple yet powerful tool, sleep diary guides both diagnosis and treatment monitoring.
+</p>
+
+<h2>What to Record</h2>
+<p>
+Bedtime and actual sleep onset time. Total sleep duration. Number and timing of nighttime awakenings. Total awake time during night. Wake time and getting-out-of-bed time. Overall sleep quality rating (1-10 scale or good/fair/poor). Any symptoms during night (snoring, choking/gasping, sweating, leg movements). Caffeine intake timing and amount. Alcohol intake. Exercise timing. Medication timing. Daytime sleepiness rated (1-10 scale). Any naps and duration. Mood, anxiety, stress level rating (1-10 scale). Any factors affecting sleep that night.
+</p>
+
+<h2>Using Sleep Diary for Diagnosis</h2>
+<p>
+Sleep diary documents sleep pattern for sleep specialist review. Consistent timing shows circadian rhythm. Early morning awakenings suggest depression-associated insomnia. Frequent arousals suggest sleep fragmentation from apnea or movements. Unrealistic sleep duration perception versus objective diary time reveals anxiety or misconception. Pattern of poor sleep on specific nights (only weekends, or only work nights) suggests environmental or schedule factors. Correlation between symptoms and activities—poor sleep after late caffeine, worse snoring after alcohol—guides management.
+</p>
+
+<h2>Types of Sleep Diaries</h2>
+<p>
+Paper diary—patient fills out each morning and evening. Wearable trackers automatically record movement patterns, estimate sleep. Actigraphy—wristwatch device detects movement objectively for 1-2 weeks. Apps on phone or tablet streamline recording. Most effective combines patient-reported information with objective tracking data.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep pattern analysis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Duration and Timing</h2>
+<p>
+Minimum 1-2 weeks of diary often sufficient to identify patterns. Longer (3-4 weeks) captures week-to-week variation. Ongoing diary during treatment tracks response to interventions. Diary from pre- and post-intervention periods shows intervention impact. Some people keep longer-term diaries identifying seasonal patterns.
+</p>
+
+<h2>Benefits of Sleep Diary</h2>
+<p>
+Non-invasive, no cost, simple documentation. Identifies patterns not immediately obvious. Reveals effects of lifestyle factors (caffeine, alcohol, exercise timing). Documents response to treatment changes. Provides baseline for comparing improvement. Helps distinguish insomnia from other sleep disorders (severity, pattern). Increases awareness and engagement in treatment. Often improves sleep simply through attention—people sleep better when tracking and being intentional about sleep. Reveals whether patient's perception of sleep matches objective reality.
+</p>
+
+<h2>Key Insights</h2>
+<p>
+Average sleep duration, not just total night time, matters. Hours in bed often exceed hours sleeping. Inconsistent schedule (weekend sleep very different from weekday sleep) disrupts circadian rhythm. Regular patterns in sleep quality (always poor after certain events) suggest modifiable factors. Daytime sleepiness correlation with previous night's sleep (or several nights' sleep) helps distinguish sleep disorders from other causes.
+</p>
+
+<p>
+Sleep diary guides diagnosis and treatment while increasing awareness enabling self-directed improvements.
+</p>
+  `
+  },
+  {
+    id: "medical-history-assessment",
+    slug: "medical-history-assessment",
+    title: "Medical History and Sleep Disorder Evaluation",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "How medical history helps identify sleep disorders and underlying causes.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical history evaluation"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Comprehensive medical history provides context crucial for sleep disorder diagnosis. Sleep problems often link to underlying medical or psychiatric conditions; understanding connections guides treatment.
+</p>
+
+<h2>Key Historical Elements</h2>
+<p>
+Sleep problem onset—sudden versus gradual, relationship to life events or medical changes. Duration and progression—worsening over time or stable. Sleep history—family members with sleep disorders (genetic tendency), whether sleep problems lifelong or recent. Medical conditions—chronic conditions affecting sleep directly or through symptoms. Neurological conditions (Parkinson's, seizures, stroke), cardiovascular conditions (heart failure, hypertension), pulmonary conditions (COPD, asthma), gastrointestinal (GERD), endocrine (diabetes, thyroid), pain conditions all have sleep implications. Psychiatric history—depression, anxiety, PTSD, bipolar disorder frequently cause insomnia. Medication review—medications causing insomnia, sedating side effects, timing taken. Caffeine and alcohol use patterns. Nicotine use. Substance history—past or present use of stimulants or sedatives. Sleep apnea risk factors—snoring history, witnessed breathing pauses, morning headaches, daytime sleepiness.
+</p>
+
+<h2>Symptoms Pattern History</h2>
+<p>
+Timing of daytime sleepiness—always there versus specific times/situations. Pattern of insomnia—trouble falling asleep, maintaining sleep, or early morning awakening. Consistency versus variability. Relationship to life stressors. Response to previous treatments—what's been tried, what helped or didn't. Previous sleep studies or evaluations. Occupational and educational impact—job performance, work absences, academic difficulties. Relationship impact—conflicts with partner over sleep-related issues.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516921318423-f06a590b4e3b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep disorder treatment planning"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Lifestyle History</h2>
+<p>
+Work schedule—shift work, night shifts, frequent schedule changes affecting circadian rhythm. Travel pattern—frequent jet lag exposure. Exercise routine—timing, duration, intensity. Bedroom environment—temperature, noise, light, comfort. Bed partner situation—partner snoring, sleeping conflicts. Screen use patterns before bed. Bedtime routine. Daytime stress level and stress management. Mood and anxiety. Life satisfaction. Recent life changes—job change, relationship changes, moving, losses.
+</p>
+
+<h2>Family History</h2>
+<p>
+Sleep disorders in family—sleep apnea, narcolepsy, insomnia run in families. Other neurological or psychiatric conditions—Parkinson's, depression, ADHD. Sleep disorders sometimes indicate genetic predisposition. Family members' responses to treatments helpful—some genetic basis to medication response.
+</p>
+
+<h2>Diagnostic Clues from History</h2>
+<p>
+Snoring plus daytime sleepiness plus witnessed apneas suggests obstructive sleep apnea strongly. Sleep-onset difficulty plus racing thoughts suggests anxiety-related insomnia. Early morning awakening plus depression symptoms suggests depression-related insomnia. Legs' uncomfortable sensations when resting suggests RLS. Strong family history of narcolepsy plus excessive sleepiness plus sleep paralysis suggests narcolepsy. Sleep difficulty starting with life stressor suggests stress-related insomnia versus primary disorder. Chronic pain plus frequent awakenings suggests pain disrupting sleep. Recent medication change correlating with sleep problem suggests medication cause.
+</p>
+
+<p>
+Detailed medical history guides diagnosis and treatment selection for sleep disorders.
+</p>
+  `
+  },
+  {
+    id: "sleep-questionnaires",
+    slug: "sleep-questionnaires",
+    title: "Sleep Assessment Questionnaires and Screening Tools",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding standardized sleep questionnaires for diagnosis and monitoring.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516828957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep assessment tools"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Standardized sleep questionnaires quantify symptoms objectively, guide diagnosis, and track treatment response. These tools improve diagnostic accuracy and treatment monitoring.
+</p>
+
+<h2>Epworth Sleepiness Scale (ESS)</h2>
+<p>
+Most commonly used daytime sleepiness questionnaire. Eight-item scale rating likelihood of dozing in eight common situations (quietly sitting, watching TV, sitting in car stopped, lying down in afternoon, talking with someone, sitting quietly after lunch, in car stopped in traffic, sitting while talking). Scoring 0-24; scores above 10 suggest abnormal daytime sleepiness. Used for sleep apnea screening, narcolepsy diagnosis, and treatment response monitoring. Simple, quick, useful for identifying impactful daytime sleepiness. Doesn't diagnose specific disorder but quantifies severity.
+</p>
+
+<h2>Pittsburgh Sleep Quality Index (PSQI)</h2>
+<p>
+Comprehensive assessment of sleep quality over past month. Nineteen items assessing sleep duration, latency (time to fall asleep), disturbances, medication use, daytime dysfunction. Generates composite score where higher scores indicate worse sleep quality. Used for insomnia assessment, progression monitoring, and treatment effects assessment. Takes 5-10 minutes. Widely used in research and clinical practice.
+</p>
+
+<h2>STOP-BANG Questionnaire</h2>
+<p>
+Targeted sleep apnea screening tool. Eight yes/no questions: Snoring, Tiredness during day, Observed apneas, blood Pressure (high) history, BMI (over 35), Age (over 50), Neck circumference (large), Gender (male). Scoring 0-8; higher scores increase obstructive sleep apnea likelihood. Simple, fast, good preliminary screening. Score 3-4 warrants sleep study consideration. Higher scores strongly suggest sleep apnea.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517288286528-025cac48a501?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep testing and diagnosis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Insomnia Severity Index (ISI)</h2>
+<p>
+Seven-item questionnaire assessing insomnia severity. Questions address sleep difficulty (onset, maintenance, early morning), sleep satisfaction, daytime impairment, worry about sleep. Total score 0-28; interpretation: 0-7 (no insomnia), 8-14 (mild), 15-21 (moderate), 22-28 (severe). Useful for insomnia diagnosis, severity assessment, and treatment response monitoring. Brief, practical, appropriate for routine clinical use. Tracks improvement as treatment progresses.
+</p>
+
+<h2>International Restless Legs Syndrome Severity Scale (IRLS)</h2>
+<p>
+Ten-item scale specific to restless leg syndrome. Assesses symptom severity, sleep disturbance, daytime consequence. Widely used for RLS diagnosis confirmation and treatment response monitoring. Scores 0-100 with higher scores indicating worse RLS.
+</p>
+
+<h2>Other Useful Questionnaires</h2>
+<p>
+Neck Circumference and Physical Exam findings informally assess sleep apnea risk. Patient Health Questionnaire-9 (PHQ-9) and Generalized Anxiety Disorder-7 (GAD-7) assess depression and anxiety often accompanying sleep disorders. Fatigue Severity Scale differentiates fatigue from actual sleepiness. Circadian rhythm questionnaires assess chronotype (morning vs. evening person). Multiple questionnaires used together provide comprehensive assessment.
+</p>
+
+<h2>Using Questionnaires Effectively</h2>
+<p>
+Questionnaires supplement rather than replace clinical judgment. Baseline questionnaire scores track improvement quantitatively. Repeated measurement during treatment validates efficacy. Questionnaires identify severity guiding treatment decisions. Different questionnaires assess different aspects—multiple tools often needed for comprehensive evaluation. Patient understanding of improvement validated by instrument scores.
+</p>
+
+<p>
+Standardized questionnaires enhance sleep disorder diagnosis accuracy and treatment efficacy monitoring.
+</p>
+  `
+  }

@@ -1,0 +1,200 @@
+{
+  id: "heart-disease-overview",
+  slug: "overview",
+  title: "Heart Disease: Understanding Your Cardiovascular Health",
+  category: "Heart & Cardiovascular",
+  categorySlug: "heart-cardiovascular",
+  description: "Learn about heart disease types, risk factors, and how to protect your cardiovascular health with evidence-based prevention strategies.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Heart health and cardiovascular system"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Heart disease remains the leading cause of death globally, yet many cases are preventable through lifestyle modifications and early intervention. Understanding your cardiovascular health, recognizing risk factors, and taking proactive steps can significantly reduce your disease risk. Modern treatments and prevention strategies offer hope and better outcomes for millions of people.
+</p>
+
+<h2>Overview of Heart Disease</h2>
+<p>
+Cardiovascular disease encompasses multiple conditions affecting the heart and blood vessels, including coronary artery disease, heart failure, arrhythmias, and valvular disease. The most common type, coronary artery disease, develops when plaque accumulates in arteries supplying the heart, reducing blood flow. Other conditions may affect heart muscle function, electrical systems, or valve integrity. Each type requires specific assessment and treatment approaches tailored to individual circumstances.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160699-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Blood pressure monitoring for heart health"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Major Risk Factors</h2>
+<p>
+Key risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, and family history. Age and sex also influence risk, with men having higher risk at younger ages. Chronic stress and poor sleep increase cardiovascular strain. Understanding which risk factors apply to you enables targeted prevention efforts. Many risk factors are modifiable, meaning you can reduce them through lifestyle changes or medical treatment.
+</p>
+
+<h2>Prevention Through Lifestyle</h2>
+<p>
+Regular physical activity strengthens the heart and improves circulation. Aim for 150 minutes of moderate aerobic exercise weekly. A heart-healthy diet emphasizing vegetables, fruits, whole grains, fish, and limiting saturated fat reduces disease risk significantly. Maintaining healthy weight, limiting sodium and alcohol, and managing stress all protect cardiovascular health. Smoking cessation provides immediate benefits, with heart attack risk decreasing within hours of quitting and continuing to improve over years.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Healthy heart lifestyle and exercise"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>When to Seek Medical Care</h2>
+<p>
+Seek emergency care immediately for chest pain, shortness of breath, severe sweating, or arm/jaw pain, as these may indicate heart attack. Don't delay—call emergency services rather than driving yourself. For non-emergency concerns like fatigue, palpitations, or persistent shortness of breath, schedule evaluation with your healthcare provider. Regular checkups starting in your 40s (or earlier if risk factors present) enable early detection and treatment of cardiovascular disease, improving long-term outcomes significantly.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "menopause-transition",
+  slug: "overview",
+  title: "Menopause: Understanding Life's Significant Transition",
+  category: "Menopause",
+  categorySlug: "menopause",
+  description: "Navigate menopause symptoms, hormonal changes, and effective management strategies to maintain wellness through this natural life transition.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160675-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Menopause transition and women's health"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Menopause marks a significant life transition when menstrual periods cease permanently, typically in the early 50s. This natural biological process involves declining estrogen and progesterone, triggering various symptoms that affect quality of life. Understanding what to expect, recognizing available treatments, and accessing support helps women navigate this transition confidently and maintain optimal health and wellness.
+</p>
+
+<h2>Understanding Menopause</h2>
+<p>
+Menopause is confirmed after 12 consecutive months without menstruation. The transition typically takes 4-10 years and includes perimenopause (variable periods with symptoms) and postmenopause (after the final period). Hormonal fluctuations during this time affect the brain, bones, heart, and metabolism. Not all women experience symptoms similarly; individual experiences vary widely based on genetics, lifestyle, and overall health. Understanding this natural process reduces anxiety and enables informed decision-making about management.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314698-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Hot flashes and menopause symptoms management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Common Symptoms</h2>
+<p>
+Hot flashes and night sweats affect 80% of menopausal women, causing sudden heat sensation and sweating. Vaginal dryness reduces moisture and can cause discomfort during intercourse. Sleep disturbance affects mood and daily function. Mood changes, anxiety, and cognitive changes occur in some women. Weight gain, joint aches, and reduced bone density also manifest. Symptoms vary in severity and duration; some resolve quickly while others persist for years. Tracking symptoms helps identify patterns and effective management strategies for your specific experience.
+</p>
+
+<h2>Management Options</h2>
+<p>
+Lifestyle modifications including regular exercise, adequate sleep, stress management, and dietary adjustments help many women. Hormone therapy (HT) effectively reduces symptoms in women with moderate to severe symptoms but carries individual risks and benefits requiring discussion with healthcare providers. Non-hormonal medications and botanical supplements offer alternatives for some. Vaginal health treatments address dryness specifically. Regular healthcare visits ensure bone health monitoring and cardiovascular risk assessment, as menopause increases certain health risks requiring attention.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160580-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Wellness and healthy aging through menopause"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "parkinsons-disease",
+  slug: "overview",
+  title: "Parkinson's Disease: Understanding Symptoms and Management",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Learn about Parkinson's disease symptoms, progression, treatment options, and strategies for maintaining quality of life with this neurological condition.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160685-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Parkinson's disease neurological health"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Parkinson's disease is a progressive neurological disorder affecting movement, caused by declining dopamine levels in specific brain regions. Most commonly diagnosed in people over 60, it can occur at younger ages. While incurable, modern treatments effectively manage symptoms and maintain quality of life for many years. Early diagnosis and comprehensive care combined with lifestyle modifications significantly impact long-term outcomes and well-being.
+</p>
+
+<h2>Overview of Parkinson's Disease</h2>
+<p>
+Parkinson's develops when nerve cells in the substantia nigra region of the brain gradually deteriorate, reducing dopamine production. Dopamine regulates smooth, coordinated muscle movement. Without adequate dopamine, voluntary movement becomes difficult. The disease progresses at different rates for different people; some experience slow progression over decades while others progress more rapidly. Genetic and environmental factors likely contribute to disease development, though the exact causes remain incompletely understood.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Movement and physical therapy for Parkinson's"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Early Symptoms and Diagnosis</h2>
+<p>
+Tremor at rest, particularly in hands, is the classic early symptom affecting many patients. Rigidity (muscle stiffness) and bradykinesia (slow movement) develop, making daily activities challenging. Postural instability and balance problems increase fall risk. Non-motor symptoms including fatigue, sleep disturbance, depression, and cognitive changes occur in many patients. Diagnosis relies on clinical evaluation by neurologists; no specific blood test confirms Parkinson's. Early recognition enables prompt treatment initiation, optimizing symptom management and quality of life.
+</p>
+
+<h2>Treatment and Long-Term Management</h2>
+<p>
+Levodopa remains the gold standard medication, converting to dopamine in the brain and effectively reducing motor symptoms. Other medications including dopamine agonists, MAO-B inhibitors, and COMT inhibitors offer additional options. Physical therapy, occupational therapy, and speech therapy address specific functional challenges. Deep brain stimulation surgically implanted in advanced cases provides significant symptom relief for selected patients. Regular neurologist follow-up, physical activity, cognitive engagement, and strong support systems all contribute to optimal outcomes.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160705-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Quality of life and ongoing support for Parkinson's patients"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

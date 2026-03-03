@@ -1,0 +1,295 @@
+{
+  id: "psoriasis-plaques-scaling",
+  slug: "plaques-and-scaling",
+  title: "Psoriasis Plaques and Scaling: Understanding Skin Manifestations",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn about psoriasis plaques and scaling, their appearance, causes, and management strategies.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160639-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis plaques and scaling manifestations"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis plaques and scaling are the hallmark features of psoriasis, the most visible and recognizable symptoms of this chronic skin condition. Understanding what these manifestations are, why they occur, and how to manage them is essential for anyone living with psoriasis.
+</p>
+
+<h2>What Are Psoriasis Plaques?</h2>
+<p>
+Psoriasis plaques are well-defined, raised patches of skin that appear red or pink with thick, silvery-white scales on the surface. These plaques can range from small lesions (less than 1 cm) to large areas covering several inches. They typically appear on the elbows, knees, scalp, lower back, and other areas of the body, though any skin surface can be affected.
+</p>
+
+<h2>The Scaling Process</h2>
+<p>
+The silvery-white scales result from rapid skin cell turnover. In psoriasis, skin cells mature and move to the skin surface seven times faster than normal, causing an accumulation of dead skin cells. When these cells reach the surface and shed, they create the characteristic dry, flaky scales. Scratching or attempting to remove scales can worsen lesions, leading to bleeding or secondary infection.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160549-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Skin care and plaque management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Common Characteristics</h2>
+<p>
+Psoriasis plaques have distinct features that differentiate them from other skin conditions. The borders are sharply demarcated, meaning there is a clear distinction between affected and unaffected skin. Plaques are typically dry and may be itchy or painful. The appearance can fluctuate based on season, stress levels, medications, and other triggers. Plaques may partially clear during warmer months (when sun exposure increases) and worsen during winter.
+</p>
+
+<h2>Managing Plaques and Scaling</h2>
+<p>
+Gentle care of affected skin helps minimize scaling and discomfort. Moisturizing regularly with thick creams or ointments helps reduce dryness and scaling. Avoid harsh soaps and hot water, which can further irritate skin. Topical treatments including corticosteroids, vitamin D analogs, and retinoids help reduce inflammation and scaling. Phototherapy using UVB or PUVA light slows skin cell turnover and may significantly improve plaques. In more severe cases, systemic medications or biologic therapies may be necessary.
+</p>
+
+<h2>When to Seek Professional Help</h2>
+<p>
+If plaques become increasingly extensive, painful, or resistant to treatment, consultation with a dermatologist is important. Signs of infection including increased warmth, pus, or fever warrant immediate medical attention. Plaques affecting joints combined with pain may indicate psoriatic arthritis, requiring rheumatology evaluation.
+</p>
+
+<p>
+Understanding psoriasis plaques and scaling empowers you to work effectively with healthcare providers and manage your condition more successfully.
+</p>
+  `
+},
+{
+  id: "psoriasis-itching-burning",
+  slug: "itching-and-burning",
+  title: "Managing Itching and Burning Sensations in Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Strategies for managing persistent itching and burning in psoriasis, including symptom relief techniques.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160559-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Skin irritation and itch management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Itching and burning are among the most distressing symptoms of psoriasis, often affecting quality of life and sleep. These sensations can be intense and unpredictable, ranging from mild discomfort to severe pain. Understanding what causes these symptoms and exploring effective management strategies provides much-needed relief.
+</p>
+
+<h2>Causes of Itching and Burning</h2>
+<p>
+Itching and burning result from inflammatory changes in psoriatic skin. Immune system overactivity releases inflammatory chemicals that stimulate nerve endings, triggering itch sensations. Scratching provides temporary relief but damages skin further, escalating inflammation and prolonging symptoms—creating a vicious cycle. Burning sensations vary in intensity and may be worse during flare-ups or with stress.
+</p>
+
+<h2>Topical Relief Options</h2>
+<p>
+Moisturizing is fundamental—regular application of thick creams, ointments, or body oils immediately after bathing helps soothe irritated skin and reduce itching. Topical corticosteroids reduce inflammation and itch. Menthol and camphor-based creams provide cooling sensations offering temporary itch relief. Calamine lotion soothes irritated areas. Application of cool compresses or brief ice pack application numbs affected areas, reducing itch and burning sensations temporarily.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f5?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medical treatment and relief options"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Medical Treatments</h2>
+<p>
+Prescription therapies target underlying inflammation. Topical vitamin D analogs, retinoids, and coal tar preparations reduce both plaques and associated itching. Systemic antihistamines may provide relief, though effectiveness varies. Light therapy (phototherapy) reduces inflammation and itching. Systemic medications or biologic therapies provide significant relief for moderate to severe psoriasis-related itching.
+</p>
+
+<h2>Lifestyle and Self-Care Measures</h2>
+<p>
+Avoid triggers including harsh soaps, extreme temperatures, and irritating fabrics. Take lukewarm rather than hot baths; hot water increases itching. Use gentle, fragrance-free skincare products. Wear soft, breathable clothing that doesn't irritate skin. Reduce stress through relaxation techniques. Maintain adequate sleep, as sleep deprivation worsens itch sensation. Apply moisturizer to damp skin immediately after bathing to maximize hydration. Avoid scratching—keep nails short, wear soft gloves if needed, and apply pressure or gentle massage rather than scratching.
+</p>
+
+<h2>When to Seek Help</h2>
+<p>
+If itching is severe, persistent, or affecting sleep and daily function, discuss enhanced treatment options with your dermatologist. Signs of skin infection warrant medical evaluation.
+</p>
+
+<p>
+Combining medical treatments with consistent self-care strategies provides comprehensive management of itching and burning sensations.
+</p>
+  `
+},
+{
+  id: "psoriasis-nail-changes",
+  slug: "nail-changes",
+  title: "Understanding Nail Changes in Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Comprehensive guide to nail involvement in psoriasis, including pitting, discoloration, and management.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nail health and psoriasis manifestations"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis can affect the nails of both hands and feet, causing distinctive changes that impact appearance and function. Nail psoriasis occurs in approximately 50% of patients with plaque psoriasis and even more frequently in those with psoriatic arthritis. Understanding these changes helps differentiate psoriasis from other nail conditions and guides appropriate treatment.
+</p>
+
+<h2>Types of Nail Changes</h2>
+<p>
+Nail pitting—small, punctate depressions in the nail surface—is the most characteristic finding. Pits range from subtle pinpoint depressions to larger, more visible holes. Discoloration often accompanies pitting, with yellow, brown, or red discoloration appearing under nails or on nail beds. Oil-drop staining—bright yellow or orange patches under the nail—is highly specific for psoriasis. Onycholysis (nail separation from the nail bed) causes nails to lift and separate. Nail thickening and subungual hyperkeratosis (accumulation of debris under nails) occur in more severe cases.
+</p>
+
+<h2>Impact on Daily Function</h2>
+<p>
+Nail changes can cause significant functional difficulties. Separated or friable nails tear easily, affecting typing, writing, and other fine motor tasks. Pain and tenderness can develop under affected nails. The cosmetic impact—visible pitting and discoloration—causes distress and embarrassment for many patients. Nail changes may persist even when skin manifestations improve.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160559-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Treatment and management strategies"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Management Strategies</h2>
+<p>
+Topical treatments applied directly to nails and surrounding skin help reduce inflammation. Intralesional corticosteroid injections under the nail are effective for localized psoriasis. Keeping nails short and filing smooth prevents further damage and contamination. Protective nail polish or hardeners may help. Avoiding trauma to nails, wearing gloves during household tasks, and using gentle nail care techniques minimize damage.
+</p>
+
+<h2>Medical Treatments</h2>
+<p>
+Systemic medications and biologic therapies often improve nail psoriasis significantly. Phototherapy specifically targeting nails has shown benefit. For severe cases unresponsive to other treatments, more aggressive systemic therapies may be necessary. Response is typically slower for nail involvement compared to skin psoriasis, often requiring months of consistent treatment.
+</p>
+
+<h2>Differentiation from Other Conditions</h2>
+<p>
+Nail pitting and discoloration can resemble fungal infections or onychomycosis. Accurate diagnosis through dermatologic evaluation is important before starting treatment, as fungal infections require different management approaches.
+</p>
+
+<p>
+While nail psoriasis can be persistent, consistent treatment and nail care help minimize impact on function and appearance.
+</p>
+  `
+},
+{
+  id: "psoriasis-systemic-symptoms",
+  slug: "systemic-symptoms",
+  title: "Systemic Symptoms in Psoriasis: Beyond Skin Involvement",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding fever, malaise, fatigue, and other whole-body effects in moderate to severe psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160589-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Systemic health and wellness"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+While psoriasis is primarily a skin condition, moderate to severe cases can cause systemic symptoms affecting the entire body. These whole-body manifestations result from widespread inflammation associated with psoriasis and significantly impact overall health and quality of life.
+</p>
+
+<h2>Fever and Malaise</h2>
+<p>
+Acute pustular psoriasis or erythrodermic psoriasis can cause fever, sometimes reaching 104°F or higher. Fever indicates significant systemic inflammation requiring immediate medical attention. Malaise—a general feeling of discomfort and illness—commonly accompanies fever. Accompanying symptoms may include chills, body aches, and feeling generally unwell despite lack of infection.
+</p>
+
+<h2>Fatigue and Energy Loss</h2>
+<p>
+Chronic inflammation characteristic of psoriasis causes persistent fatigue that affects daily functioning. Sleep disruption from itching and discomfort contributes to fatigue. Mental and emotional stress related to chronic disease increases exhaustion. Nutritional deficiencies from poor diet or malabsorption add to fatigue. Some patients describe feeling exhausted despite adequate sleep.
+</p>
+
+<h2>Associated Systemic Conditions</h2>
+<p>
+Psoriasis patients have elevated rates of cardiovascular disease, type 2 diabetes, obesity, and metabolic syndrome. Depression and anxiety occur in approximately 30% of psoriasis patients. Psoriatic arthritis affects joints in up to 30% of patients, causing pain, stiffness, and reduced mobility. Inflammatory bowel disease (Crohn's disease or ulcerative colitis) co-occurs in some patients.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160628-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Comprehensive health management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Management of Systemic Symptoms</h2>
+<p>
+Treating underlying psoriasis with systemic medications or biologics often improves systemic symptoms significantly. Adequate sleep quality is essential—address sleep disturbances through medical or behavioral interventions. Nutritional support including balanced diet and supplements (if deficient) supports energy and immune function. Regular gentle exercise improves fatigue and mood despite limitations from skin symptoms. Mental health support including therapy addresses emotional aspects contributing to malaise.
+</p>
+
+<h2>When to Seek Urgent Care</h2>
+<p>
+Fever in psoriasis patients requires evaluation. High fever, confusion, difficulty breathing, or severe skin involvement warrant emergency evaluation. Systematic screening for cardiovascular risk factors, diabetes, and mental health should be part of comprehensive psoriasis management.
+</p>
+
+<p>
+Recognizing and addressing systemic symptoms improves overall health outcomes beyond skin involvement.
+</p>
+  `
+},
+{
+  id: "psoriasis-emotional-impact",
+  slug: "emotional-impact",
+  title: "The Emotional and Psychological Impact of Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Understanding and managing depression, anxiety, and appearance-related distress in psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160577-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mental health and emotional wellbeing"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis's psychological impact often equals or exceeds its physical effects. Living with visible skin lesions, chronic itching, and social stigma takes significant emotional toll. Depression and anxiety are substantially elevated in psoriasis patients, affecting quality of life, treatment adherence, and disease outcomes.
+</p>
+
+<h2>Appearance-Related Distress</h2>
+<p>
+Visible psoriasis lesions can cause shame, embarrassment, and reduced self-esteem. Many patients avoid social situations, wear concealing clothing regardless of weather, and withdraw from activities they previously enjoyed. Summer presents unique challenges as covering affected areas becomes more difficult. Dating and intimate relationships may feel complicated by appearance concerns. Body image disturbance affects self-perception independent of actual disease severity.
+</p>
+
+<h2>Depression and Anxiety</h2>
+<p>
+Clinical depression occurs in 10-20% of psoriasis patients, roughly triple the general population rate. Anxiety disorders are similarly elevated. Chronic pain, itching, and sleep disruption from psoriasis directly contribute to depression. The unpredictable nature of flare-ups creates anticipatory anxiety. Social isolation and relationship strain perpetuate mental health difficulties. In severe cases, suicidal ideation has been documented.
+</p>
+
+<h2>Impact on Daily Functioning</h2>
+<p>
+Work productivity decreases from both symptoms and emotional distress. Frequent medical appointments and treatments consume time and energy. Relationship strain occurs from reduced intimacy, social activities, and shared burden of managing chronic disease. Sleep disruption from itching and stress creates a vicious cycle of worsening mood and symptoms.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160588-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Support and coping strategies"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Mental Health Support and Coping Strategies</h2>
+<p>
+Professional mental health treatment including therapy (especially cognitive-behavioral therapy) helps process appearance concerns and develop healthy coping strategies. Antidepressants or anti-anxiety medications may benefit those with clinical depression or anxiety disorders. Support groups—both in-person and online—reduce isolation and normalize experiences. Talking openly with family and close friends reduces secrecy and shame. Mindfulness and stress reduction techniques improve emotional resilience. Treating skin symptoms effectively often improves mood significantly.
+</p>
+
+<h2>Dermatology-Psychiatry Collaboration</h2>
+<p>
+Integrated care where dermatologists and mental health professionals collaborate produces superior outcomes. Discussing emotional impacts with dermatologists helps address psychological factors affecting treatment adherence. Psychiatrists knowledgeable about dermatologic conditions provide more targeted mental health care.
+</p>
+
+<p>
+Acknowledging and addressing psychological impacts of psoriasis leads to comprehensive, effective disease management and improved overall wellbeing.
+</p>
+  `
+}

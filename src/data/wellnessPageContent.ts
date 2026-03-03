@@ -1,0 +1,37 @@
+// Wellness Page Content - Category Hubs and Signature Programs
+export const categoryHubs = [
+  { name: "Abortion Care", description: "Understanding your options.", href: "/wellness/abortion" },
+  { name: "Black Health", description: "A space for our community's unique health needs.", href: "/wellness/black-health" },
+  { name: "CBD", description: "A breakdown of CBD basics.", href: "/wellness/cbd" },
+  { name: "Fitness", description: "Fitness that fits you.", href: "/wellness/fitness" },
+  { name: "Healthy Beauty", description: "A holistic approach to hair, skin, nails, and other cosmetic care.", href: "/wellness/healthy-beauty" },
+  { name: "Hearing", description: "Explore a wide range of innovative hearing solutions.", href: "/wellness/hearing-health" },
+  { name: "LGBTQIA+ Health", description: "Embracing your authentic self.", href: "/wellness/lgbtqia" },
+  { name: "Mental Well-Being", description: "A holistic guide for your mental wellness.", href: "/mental-health" },
+  { name: "Nutrition", description: "Your essential guide to healthy eating.", href: "/wellness/nutrition" },
+  { name: "Parenthood", description: "Supporting you from baby bump to baby steps.", href: "/wellness/parenthood" },
+  { name: "Product Reviews", description: "Simplify your search for health products with expert reviews and brand comparisons.", href: "/wellness/reviews" },
+  { name: "Sexual Health", description: "Sexual health for every body.", href: "/wellness/sexual-health" },
+  { name: "Skin Care", description: "Skin care simplified, for everyone.", href: "/wellness/skin-care" },
+  { name: "Sleep", description: "Routines and tips for healthier sleep.", href: "/conditions/sleep" },
+  { name: "Vitamins, Minerals, & Supplements", description: "Explore content covering everything you need to know about vitamins, minerals, and supplements.", href: "/wellness/vitamins-supplements" },
+];
+
+export const signaturePrograms = [
+  { name: "Allergies", description: "Understanding your allergies and how to relieve them.", href: "/program/allergy-survival-guide" },
+  { name: "Cold & Flu Season", description: "A survival guide for you to beat the cold and flu.", href: "/program/cold-flu-survival-guide" },
+  { name: "Destination: Wellness", description: "A traveler's guide to holistic well-being.", href: "/program/destination-wellness" },
+  { name: "Financial Check Up", description: "Your money-meets-health care guide.", href: "/program/financial-check-up" },
+  { name: "Healthy Aging", description: "Wellness at every age.", href: "/program/healthy-aging" },
+  { name: "Let's Eat", description: "Affordable, easy, and inclusive strategies for healthy eating.", href: "/program/lets-eat" },
+  { name: "Managing Type 2 Diabetes", description: "Resources for managing T2D with food and fitness.", href: "/program/managing-type-2-diabetes-with-food-and-fitness" },
+  { name: "Men's Wellness", description: "Your ultimate guide for proactive well-being.", href: "/program/mens-wellness" },
+  { name: "Resolution Revolution", description: "Your fresh start for a new year.", href: "/program/resolution-revolution" },
+  { name: "Roadmap for Menopause", description: "Your complete guide for a healthy, empowered journey.", href: "/program/menopause" },
+  { name: "Season of Self Care", description: "Self care gifting for you and yours.", href: "/program/gift-guides" },
+  { name: "Self Care for Caregivers", description: "A full life in an empty nest.", href: "/program/self-care-for-caregivers" },
+  { name: "The New Rules for Back to School", description: "Learn what you need for the best school year yet.", href: "/program/back-to-school" },
+  { name: "Sustainable Living", description: "Eating and living with the earth in mind.", href: "/program/sustainable-living" },
+  { name: "Veterans Care", description: "Whole health resources for Veterans and their caregivers.", href: "/program/veterans-care" },
+  { name: "Women's Wellness", description: "Because your well-being matters.", href: "/program/womens-wellness" },
+];

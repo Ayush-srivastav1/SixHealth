@@ -1,0 +1,394 @@
+{
+  id: "psoriasis-skincare-routine",
+  slug: "skincare-routine",
+  title: "Gentle Skincare Routine for Psoriasis: Daily Care Essentials",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Best practices for cleansing, moisturizing, and caring for psoriatic skin.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160850-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Gentle skin care for psoriasis"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+A careful skincare routine forms the foundation of psoriasis management. While specific medications treat inflammation, daily skincare minimizes irritation, reduces symptoms, and supports healing. Gentle cleansing, appropriate moisturizing, and mindful practices prevent flare-ups and improve quality of life.
+</p>
+
+<h2>Gentle Cleansing</h2>
+<p>
+Avoid harsh soaps and cleansers that disrupt skin barrier and worsen psoriasis. Use fragrance-free, gentle cleansers specifically formulated for sensitive skin. Lukewarm water is better than hot water—heat increases itching and irritation. Bathe rather than shower when possible to allow skin soaking. Pat skin dry gently rather than rubbing. Avoid abrasive washcloths or loofahs that can injure psoriatic skin.
+</p>
+
+<h2>Moisturizing Strategy</h2>
+<p>
+Moisturizing is critical—psoriatic skin is inherently dry. Apply moisturizers immediately after bathing while skin is damp to maximize hydration. Ointments (thicker, greasy formulations) penetrate better than lotions. Fragrance-free options prevent irritation. Thicker creams suit dry areas while lighter lotions suit face. Reapply throughout day as needed, especially to affected areas. Heavy nightly applications support overnight healing.
+</p>
+
+<h2>Medication Application</h2>
+<p>
+Apply topical medications to damp skin after cleansing for better absorption. Use two minutes between different medications for optimal penetration. Don't mix medications unless specifically instructed. Allow medications to dry before dressing to prevent staining. Occlusion (wrapping) enhance absorption for thick plaques. Rotate between affected areas to prevent tolerance.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160858-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis skincare tips"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Avoiding Triggers</h2>
+<p>
+Identify personal triggers through careful observation. Common irritants include fragrances, dyes, sulfites, and preservatives. Wool and synthetic fabrics often irritate more than cotton. Perfumed products (shampoos, soaps, lotions) frequently worsen symptoms. Label reading helps identify and avoid problematic products. Hypoallergenic, fragrance-free products are usually safer choices.
+</p>
+
+<h2>Special Considerations for Body Areas</h2>
+<p>
+Scalp psoriasis requires medicated shampoos combined with topical treatments. Gentle brushing and picking avoidance prevents worsening. Facial psoriasis needs particularly gentle care—use lowest-potency corticosteroids and non-irritating cleansers. Genital involvement requires extra gentleness and appropriate medical treatment. Nail care includes keeping nails short and avoiding harsh manicure techniques.
+</p>
+
+<h2>Bathing Recommendations</h2>
+<p>
+Lukewarm baths with limited time (10-15 minutes) prevent excessive skin drying. Oatmeal baths (colloidal oatmeal) soothe irritated skin. Bath oils may help but can make tub slippery. Adding table salt to baths may help though evidence is mixed. Avoid baths after strenuous exercise when skin is already irritated.
+</p>
+
+<p>
+A consistent, gentle skincare routine prevents many psoriasis flare-ups and supports medical treatment effectiveness.
+</p>
+  `
+},
+{
+  id: "psoriasis-clothing-comfort",
+  slug: "clothing-and-comfort",
+  title: "Clothing and Comfort: Dressing with Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Strategies for choosing clothing that reduces irritation and improves comfort.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160865-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Comfortable clothing for sensitive skin"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Clothing choices significantly impact psoriasis symptoms. Fabrics and fit directly influence skin irritation and comfort. Thoughtful clothing selection reduces friction, irritation, and flare-ups while supporting comfort and confidence.
+</p>
+
+<h2>Fabric Selection</h2>
+<p>
+Cotton is the best fabric choice—breathable, soft, and non-irritating. Linen also works well. Avoid wool despite warmth—wool irritates psoriatic skin in most people. Synthetic fabrics including polyester and acrylic often trap heat and moisture, worsening symptoms. Blend fabrics with high cotton content work reasonably. Look for soft, smooth textures rather than rough weaves that irritate skin.
+</p>
+
+<h2>Fit and Comfort</h2>
+<p>
+Loose-fitting clothing prevents friction and improves air circulation. Avoid tight waistbands, elastic cuffs, or tight seams that create constant friction. Seams should sit away from affected skin when possible. Multiple layers allow temperature adjustment. Loose undergarments prevent irritation. Footwear should be non-restrictive with soft linings.
+</p>
+
+<h2>Seasonal Considerations</h2>
+<p>
+Summer presents challenges—covering affected areas becomes difficult while sun protection is beneficial. Light, breathable cotton clothing allows both coverage and comfort. Winter requires clothing that maintains warmth without overheating, which worsens itching. Indoor heating during winter increases skin dryness—humidifiers help. Multiple lightweight layers provide flexibility.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160872-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Fashion and confidence"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Managing Appearance Concerns</h2>
+<p>
+Many psoriasis patients choose clothing to conceal lesions. While this may support emotional wellbeing, prioritize comfort. Strategic layering can cover affected areas while maintaining temperature regulation. Accessories can draw attention upward (scarves, hats, jewelry). Finding flattering styles that both cover and feel comfortable improves confidence.
+</p>
+
+<h2>Laundry Considerations</h2>
+<p>
+Use fragrance-free laundry detergents—fragrances often irritate skin. Avoid fabric softener and dryer sheets which leave irritating residues. Double rinse if skin is particularly sensitive. Wash new clothing before wearing to remove starch and dyes. Avoid chlorine if possible—wash with dechlorinated water if severe sensitivity exists.
+</p>
+
+<h2>Avoiding Irritants</h2>
+<p>
+Tags and seams can irritate—cut out tags or choose tagless clothing. Rough textures rub constantly—test fabrics before purchasing. Avoid clothing with rubber or plastic components in seams. Choose zippers and closures that don't catch or rub skin.
+</p>
+
+<p>
+Thoughtful clothing selection reduces physical irritation and improves daily comfort and confidence.
+</p>
+  `
+},
+{
+  id: "psoriasis-stress-reduction",
+  slug: "stress-reduction-techniques",
+  title: "Stress Reduction Techniques for Psoriasis Management",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Evidence-based stress management and relaxation techniques to reduce psoriasis flares.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160888-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Stress relief and relaxation"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Stress is one of the most significant psoriasis triggers. 37-88% of psoriasis patients report stress-induced flare-ups. The relationship is bidirectional—psoriasis causes stress which worsens psoriasis in a vicious cycle. Learning effective stress management dramatically improves disease control and quality of life.
+</p>
+
+<h2>Mindfulness and Meditation</h2>
+<p>
+Mindfulness practice—focused attention on present moment without judgment—reduces stress and improves psychological wellbeing. Regular meditation decreases flare frequency and severity. Even 10 minutes daily provides significant benefit. Guided meditation apps and classes help beginners. Consistency matters more than duration. Combined with other therapies, mindfulness amplifies overall improvement.
+</p>
+
+<h2>Progressive Muscle Relaxation</h2>
+<p>
+Systematically tensing and relaxing muscle groups reduces physical tension. Tension reduction directly decreases stress responses. Sessions take 15-20 minutes. Regular practice trains body to recognize and release tension. This technique combines psychological and physical stress relief.
+</p>
+
+<h2>Cognitive Behavioral Therapy (CBT)</h2>
+<p>
+CBT helps identify stress patterns and develop coping strategies. Therapists guide patients to challenge unhelpful thoughts and develop healthier responses. CBT specifically addressing appearance-related stress improves outcomes. Professional CBT provides more structured intervention than self-help approaches.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160895-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Physical activity and wellbeing"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Physical Activity and Exercise</h2>
+<p>
+Exercise reduces stress hormones and improves mood through endorphin release. Regular physical activity decreases depression and anxiety. Moderate exercise 30 minutes most days provides significant benefit. Activities combining physical and mental benefits (yoga, tai chi) are particularly helpful for psoriasis. Swimming combines gentle exercise with water therapy benefit.
+</p>
+
+<h2>Sleep Optimization</h2>
+<p>
+Poor sleep worsens stress and psoriasis. Consistent sleep schedule, dark and cool bedroom, and pre-sleep relaxation improve sleep quality. Limiting screen time before bed helps. If sleep remains disrupted, sleep medicine consultation may be appropriate. Adequate sleep directly improves psoriasis outcomes.
+</p>
+
+<h2>Social Support and Connections</h2>
+<p>
+Social isolation increases stress. Close relationships improve stress management. Support groups—in-person or online—reduce feeling alone. Talking with others managing psoriasis provides practical strategies and emotional support. Avoiding isolation when psoriasis affects appearance particularly matters.
+</p>
+
+<h2>Creative and Enjoyable Activities</h2>
+<p>
+Engaging in activities you enjoy reduces stress naturally. Creative pursuits, hobbies, music, art, or other enjoyable activities provide stress relief. Time in nature has documented stress-reducing effects. Prioritizing pleasure improves overall wellbeing.
+</p>
+
+<p>
+Consistent stress management is as important as medical treatment for optimizing psoriasis control.
+</p>
+  `
+},
+{
+  id: "psoriasis-diet-nutrition",
+  slug: "diet-and-nutrition",
+  title: "Diet and Nutrition for Psoriasis: Foods That Help and Trigger",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Nutritional strategies and dietary approaches for managing psoriasis.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160902-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Healthy nutrition for skin health"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+While no specific diet cures psoriasis, certain nutritional approaches support disease management. Inflammation reduction through diet complements medical treatment. Individual responses vary—tracking personal triggers identifies optimal dietary approaches for each person.
+</p>
+
+<h2>Anti-inflammatory Foods</h2>
+<p>
+Foods rich in omega-3 fatty acids (fatty fish, walnuts, flaxseed) reduce inflammation. Mediterranean diet patterns emphasizing vegetables, fruits, legumes, olive oil, and modest fish intake show promise. Antioxidant-rich foods (berries, dark leafy greens) support immune function. Limiting inflammatory foods (processed foods, refined sugars) helps control systemic inflammation.
+</p>
+
+<h2>Foods That May Trigger Flares</h2>
+<p>
+Red meat consumption is associated with increased psoriasis flares in some patients. Alcohol—particularly heavy consumption—commonly triggers flares. Some patients observe flare-ups after nightshade plants (tomatoes, peppers, potatoes, eggplant) though evidence is mixed. Dairy exacerbates some patients. Gluten sensitivity may worsen symptoms in gluten-sensitive individuals. Identifying personal triggers through careful observation helps tailor diet.
+</p>
+
+<h2>Weight Management</h2>
+<p>
+Obesity is associated with more severe psoriasis and higher TNF-alpha levels. Achieving healthy weight through balanced diet and exercise improves disease control. Weight loss often improves psoriasis even before reaching ideal weight. Avoiding rapid weight loss maintains skin health.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160909-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutritional supplements"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Vitamin and Mineral Supplementation</h2>
+<p>
+Vitamin D levels are often reduced in psoriasis—supplementation may help though research is ongoing. Nutritionists can test levels and recommend appropriate supplementation. Selenium and zinc support immune function and may help. Vitamin B complex supports skin health. Omega-3 supplements provide anti-inflammatory benefits. Consult healthcare providers before starting supplements, particularly if on medications.
+</p>
+
+<h2>Elimination Diet Approach</h2>
+<p>
+For patients with unclear triggers, elimination diets systematically remove potentially problematic foods, then reintroduce them one at a time to identify triggers. This requires commitment and careful tracking. Nutritionist guidance ensures balanced nutrition during elimination phases.
+</p>
+
+<h2>Hydration</h2>
+<p>
+Adequate water intake supports skin hydration from within. Dehydration worsens skin dryness and may trigger flares. Daily water intake recommendations depend on activity and climate but 8-10 cups daily is typical. Limiting caffeine and alcohol which promote dehydration helps.
+</p>
+
+<p>
+Thoughtful dietary modifications support medical treatment and improve psoriasis outcomes.
+</p>
+  `
+},
+{
+  id: "psoriasis-exercise-activity",
+  slug: "exercise-and-physical-activity",
+  title: "Exercise and Physical Activity for Psoriasis Management",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Safe and beneficial physical activity strategies for psoriasis patients.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160916-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Exercise and physical wellness"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Physical activity provides multiple benefits for psoriasis patients including stress reduction, immune function support, weight management, and improved mood. Exercise reduces inflammatory mediators and may slow disease progression. Regular activity improves quality of life and treatment outcomes.
+</p>
+
+<h2>Types of Beneficial Exercise</h2>
+<p>
+Aerobic exercise (brisk walking, jogging, cycling, swimming) improves cardiovascular health and reduces stress. Strength training maintains muscle mass and bone density. Flexibility exercises (yoga, stretching) improve mobility. Mind-body activities (tai chi, yoga) combine stress reduction with physical benefit. Swimming offers low-impact exercise in water that may soothe skin. Choosing enjoyable activities improves consistency.
+</p>
+
+<h2>Frequency and Duration</h2>
+<p>
+Most guidelines recommend 150 minutes moderate-intensity aerobic activity weekly. Strength training 2-3 times weekly maintains muscle. More is beneficial but consistency matters more than intensity. Even short activity periods (15-30 minutes) provide benefit. Starting gradually prevents overexertion and injury.
+</p>
+
+<h2>Exercise-Related Skin Considerations</h2>
+<p>
+Sweating during exercise can irritate psoriatic skin but shouldn't prevent activity. Shower promptly after exercise and apply moisturizer. Wear soft, breathable cotton clothing. Avoid friction from equipment (exercise bike seats). Protect skin from sun—UV exposure while exercising provides additional benefit. Exercise during cooler times of day if heat-related sweating is problematic.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160923-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Active lifestyle and wellbeing"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Overtraining and Disease Flares</h2>
+<p>
+Excessive exercise causing extreme fatigue may trigger flares through immune system stress. Balanced activity without overexertion provides optimal benefit. Rest days allow recovery. Listening to your body and modifying activity on high-symptom days prevents flare escalation.
+</p>
+
+<h2>Motivation and Adherence</h2>
+<p>
+Exercise buddies and group classes improve adherence. Setting realistic goals builds success experiences. Variety prevents boredom. Tracking progress motivates continued activity. Starting small prevents discouragement. Recognizing non-scale victories (improved energy, mood, strength) maintains motivation beyond weight change.
+</p>
+
+<h2>Timing and Medication Interactions</h2>
+<p>
+Most exercise can occur anytime. Phototherapy patients should avoid intense exercise within 2 hours of treatment. Those on certain systemic medications should discuss exercise timing with providers.
+</p>
+
+<p>
+Regular physical activity represents one of most powerful interventions for psoriasis management and overall health.
+</p>
+  `
+},
+{
+  id: "psoriasis-social-mental-health",
+  slug: "social-and-mental-health",
+  title: "Social Connection and Mental Health with Psoriasis",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Maintaining relationships, managing psychological impact, and building resilience.",
+  author: "SixHealth Team",
+  content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160930-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Social support and community"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Psoriasis's psychological impact is profound. Visible lesions cause appearance-related distress, and chronic disease creates emotional burden. Social connection and mental health support are as important as medical treatment for overall wellbeing.
+</p>
+
+<h2>Managing Social Anxiety</h2>
+<p>
+Visible psoriasis may trigger social anxiety and avoidance. Gradual exposure to feared social situations reduces anxiety. Cognitive behavioral therapy helps manage appearance-related thoughts. Reminding yourself that others relate to struggles, not fixate on appearance, helps. Starting with less demanding social situations builds confidence for more challenging interactions.
+</p>
+
+<h2>Intimate Relationships</h2>
+<p>
+Psoriasis can affect intimate and sexual relationships through appearance concerns and physical symptoms. Open communication with partners about concerns and needs improves understanding. Many partners are supportive once they understand disease impact. Maintaining non-affected intimacy (emotional connection, touching unaffected areas) supports relationships. Sexual difficulty warrants discussion with healthcare providers—solutions often exist.
+</p>
+
+<h2>Work and Productivity</h2>
+<p>
+Frequent medical appointments impact work. Workplace visibility of lesions may cause anxiety. Discussing accommodations with employers enables continued productivity while managing symptoms. Working with HR about flexible scheduling supports treatment adherence. Productivity often improves dramatically with effective treatment—temporary accommodation investments pay off.
+</p>
+
+<h2>Support Groups and Community</h2>
+<p>
+Support groups—in-person or online—reduce isolation and provide practical strategies. Connecting with others managing successful psoriasis control motivates and educates. Learning how others cope increases resilience. Giving peer support helps perspective and self-esteem. Major psoriasis organizations offer group resources.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160937-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Mental health support and therapy"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Professional Mental Health Support</h2>
+<p>
+Therapists and counselors knowledgeable about chronic illness help process appearance-related concerns. Dermatology-specific mental health services understand unique challenges. Antidepressants or anti-anxiety medications may benefit those with clinical depression or anxiety. Regular mental health care alongside dermatology creates comprehensive treatment.
+</p>
+
+<h2>Building Resilience</h2>
+<p>
+Defining self beyond appearance reduces distress. Focusing on capabilities and strengths complements appearance concerns. Practicing self-compassion—treating yourself with kindness rather than criticism—improves psychological outcomes. Developing coping strategies for difficult moments builds resilience. Celebrating improvements and achievements maintains hope and motivation.
+</p>
+
+<h2>Family Education</h2>
+<p>
+Educating family about psoriasis improves understanding and support. Explaining non-contagious nature reduces stigma. Discussing how stress affects disease management helps loved ones recognize impact. Involving family in treatment promotes teamwork and shared understanding.
+</p>
+
+<p>
+Prioritizing mental health and social connection alongside medical treatment creates comprehensive psoriasis management.
+</p>
+  `
+}

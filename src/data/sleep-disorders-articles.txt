@@ -1,0 +1,310 @@
+{
+    id: "insomnia",
+    slug: "insomnia",
+    title: "Insomnia: Causes, Symptoms, and Treatment Strategies",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Comprehensive guide to insomnia including types, causes, and evidence-based treatment approaches.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517994712202-5fc54e7129cc?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Insomnia and sleep difficulty"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Insomnia—persistent difficulty falling or staying asleep—affects 30-50% of adults at some point. It's the most common sleep disorder and significantly impacts daily functioning, mood, and health. Understanding insomnia's causes and evidence-based treatments empowers effective management.
+</p>
+
+<h2>Types of Insomnia</h2>
+<p>
+Sleep-onset insomnia involves difficulty falling asleep despite adequate opportunity. People lie awake 30+ minutes after getting into bed. Sleep-maintenance insomnia involves frequent night wakings or inability to return to sleep. Early morning insomnia involves waking 2+ hours earlier than desired and inability to return to sleep. Mixed insomnia combines multiple types. Initial insomnia (in first 3 months) is often acute response to stress or life changes. Chronic insomnia (3+ months, 3+ nights weekly) requires comprehensive evaluation and treatment.
+</p>
+
+<h2>Causes of Insomnia</h2>
+<p>
+Psychological factors—anxiety, depression, stress, racing thoughts—account for most insomnia. Environmental factors—noise, light, uncomfortable temperature, bed partner disturbance—contribute significantly. Medical conditions—chronic pain, GERD, respiratory disease, neurological conditions—interfere with sleep. Medications—stimulating antidepressants, stimulant ADHD medications, some blood pressure medications—cause insomnia. Substances—caffeine, alcohol (which fragments sleep despite initial sedation), nicotine—disrupt sleep. Age-related changes in sleep architecture occur naturally but exacerbate other causes. Irregular sleep schedule confuses circadian rhythm. Poor sleep habits—mental activity in bed, device use in bedroom—perpetuate insomnia.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1526118613799-112421434ada?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cognitive behavioral therapy for sleep"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Cognitive Behavioral Therapy for Insomnia (CBT-I)</h2>
+<p>
+CBT-I is first-line insomnia treatment with 70-80% effectiveness. This structured therapy addresses sleep-related thoughts, emotions, and behaviors maintaining insomnia. Stimulus control eliminates conditioned anxiety—using bed only for sleep, going to bed only when drowsy. Sleep restriction initially limits bed time to actual sleep time, then gradually increases as sleep efficiency improves. Cognitive restructuring addresses catastrophic thoughts about sleep and consequences of insomnia. Relaxation techniques reduce physical tension and racing thoughts. Sleep hygiene optimization supports behavioral changes.
+</p>
+
+<h2>Sleep Medications</h2>
+<p>
+Benzodiazepines and nonbenzodiazepine hypnotics (Z-drugs) are effective for short-term use but carry dependence risk and cognitive side effects. Long-term use is generally avoided. Melatonin supplements help some people with sleep-onset insomnia or circadian misalignment but effects are variable. Antidepressants—particularly sedating types like trazodone—are frequently prescribed though evidence for chronic insomnia is limited. Medications are typically most effective when combined with behavioral interventions.
+</p>
+
+<h2>Lifestyle Modifications</h2>
+<p>
+Consistent sleep schedule (same bedtime/wake time daily even weekends) regularizes circadian rhythm. Morning bright light exposure advances sleep timing; works particularly for early morning insomnia. Eliminating caffeine completely or limiting to before 2 PM removes sleep interference. Moderate exercise improves sleep but late-day strenuous activity can delay sleep. Relaxing bedtime routine signals sleep time. Bedroom optimization—dark, cool (60-67°F), quiet environment—supports sleep. Eliminating bedroom screens removes evening light exposure and mental stimulation.
+</p>
+
+<h2>When to Seek Professional Help</h2>
+<p>
+Insomnia persisting 3+ months warrants professional evaluation. Underlying sleep disorders (sleep apnea, restless leg syndrome, REM behavior disorder) must be excluded. Persistent insomnia despite lifestyle modifications requires specialist assessment. CBT-I effectiveness increases with professional guidance. Sleep medicine specialists can identify and treat underlying causes.
+</p>
+
+<p>
+Insomnia is highly treatable with proper assessment and evidence-based interventions.
+</p>
+  `
+  },
+  {
+    id: "sleep-apnea",
+    slug: "sleep-apnea",
+    title: "Sleep Apnea: Breathing Interruptions and Treatment",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding obstructive sleep apnea, central sleep apnea, and evidence-based treatment options.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1631217314830-e41d5ff5138f?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep apnea and breathing patterns"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Sleep apnea—repeated pauses in breathing during sleep—disrupts sleep quality and strains cardiovascular function. Affecting 15-30% of adults, sleep apnea often goes undiagnosed despite serious health consequences. Early detection and treatment prevent complications.
+</p>
+
+<h2>Obstructive Sleep Apnea (OSA)</h2>
+<p>
+The most common type, OSA results from airway collapse during sleep. Upper airway muscles relax and collapse, blocking airflow. The brain detects oxygen drop and carbon dioxide rise, triggering arousal—partial or full waking ending the apnea. The person may not remember these events. Apneas repeat hundreds of times per night in severe cases, fragmenting sleep severely. Risk factors include obesity (strong association), male gender, middle age, large neck circumference, nasal obstruction, and low-lying soft palate. Sleeping supine (on back) worsens OSA; side-sleeping improves it.
+</p>
+
+<h2>Central Sleep Apnea (CSA)</h2>
+<p>
+Less common, CSA results from the brain's breathing control center failing to signal breathing. No airway obstruction occurs; breathing simply doesn't happen for 10-60 seconds. Occurs particularly in heart failure, after stroke, or with certain medications. Often requires professional sleep medicine evaluation and specialized treatment.
+</p>
+
+<h2>Mixed Sleep Apnea</h2>
+<p>
+Combines features of both obstructive and central sleep apnea. Requires comprehensive evaluation to determine predominant type and guide treatment.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="CPAP therapy for sleep apnea"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Continuous Positive Airway Pressure (CPAP)</h2>
+<p>
+CPAP—delivering continuous gentle air pressure through a mask—splints airway open preventing collapse. This gold-standard treatment eliminates apneas in most patients. Machine pressure is individualized during sleep study. Adjusting to CPAP initially challenges some patients but tolerance improves significantly within 1-2 weeks for most people. Modern machines feature quieter operation, smaller designs, and gradual pressure ramp-up facilitating tolerance. Consistent nightly use is essential—benefits disappear without adherence.
+</p>
+
+<h2>Alternative Treatments</h2>
+<p>
+Mandibular advancement devices (MAD) mechanically advance lower jaw, opening airway. Effective for mild-moderate OSA but less powerful than CPAP. Weight loss of 10% often reduces apnea severity significantly; significant weight loss may eliminate sleep apnea. Positional therapy—encouraging side-sleeping through various devices—helps in positional apnea (sleeping supine only). Upper airway surgery addresses specific anatomic obstructions (enlarged tonsils, deviated septum blocking airway). Increased oxygen delivery supplements. Treating underlying conditions (heart failure) addresses central apnea.
+</p>
+
+<h2>Health Consequences of Untreated Sleep Apnea</h2>
+<p>
+Repeated oxygen drops strain cardiovascular system causing hypertension, arrhythmias, heart attacks, strokes. Fragmented sleep causes daytime sleepiness, cognitive impairment, accident risk (particularly driving). Metabolic disruption increases diabetes risk. Inflammation and oxidative stress promote general disease. Mortality risk increases significantly with untreated severe apnea.
+</p>
+
+<p>
+Sleep apnea diagnosis and treatment prevent serious complications and dramatically improve quality of life.
+</p>
+  `
+  },
+  {
+    id: "restless-leg-syndrome",
+    slug: "restless-leg-syndrome",
+    title: "Restless Leg Syndrome: Causes and Management",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding RLS symptoms and evidence-based treatment strategies.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517286428247-d1cc0fb8c83c?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Restless leg syndrome management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Restless leg syndrome (RLS)—irresistible urges to move legs to relieve discomfort—affects 5-10% of adults. Symptoms occur primarily at night, severely disrupting sleep. RLS is highly treatable; diagnosis enables significant symptom relief.
+</p>
+
+<h2>RLS Symptoms</h2>
+<p>
+Uncomfortable sensations in legs—described as creeping, crawling, tingling, aching, or burning—occur typically when sitting or lying down, worse in evening and night. Irresistible urge to move legs follows; moving or stretching legs temporarily relieves discomfort. Symptoms recur once movement stops. RLS can severely disrupt sleep—patients toss and turn, get out of bed frequently, struggle to stay asleep. Daytime somnolence results from fragmented sleep. Periodic limb movements during sleep (PLMS)—involuntary leg jerks—often accompany RLS, further fragmenting sleep.
+</p>
+
+<h2>Causes of RLS</h2>
+<p>
+Primary RLS has genetic basis with strong family history in 40-50% of cases. Brain dopamine system dysfunction appears central to RLS pathophysiology. Secondary RLS occurs with iron deficiency (even without anemia), kidney disease and uremia, pregnancy especially third trimester, Parkinson's disease, and certain medications—particularly dopamine antagonists and some antidepressants. Caffeine and alcohol can exacerbate symptoms in susceptible individuals.
+</p>
+
+<h2>Diagnosis</h2>
+<p>
+Clinical diagnosis based on characteristic symptoms and pattern. Sleep study may show PLMS confirming diagnosis. Iron studies including ferritin and iron saturation help identify iron deficiency. Testing for kidney disease, diabetes, and other secondary causes guides treatment. Family history supports primary RLS diagnosis.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516826957519-5a7c2b32a8c6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep improvement strategies"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Treatment Options</h2>
+<p>
+Iron supplementation corrects iron-deficiency RLS and may improve primary RLS. Dopamine agonists (pramipexole, ropinirole, rotigotine patch) are first-line medications, highly effective in most patients. Alpha-2-delta ligands (gabapentin, pregabalin) help many patients. Avoiding triggers—caffeine, alcohol, late-time exercise—reduces symptom severity. Evening massage or leg movement during sitting helps. Hot baths or heating pads soothe symptoms. Maintaining regular sleep schedule supports neurological regulation.
+</p>
+
+<h2>Lifestyle Measures</h2>
+<p>
+Walking, stretching, or other leg movement provides temporary relief—some patients walk at night rather than attempting bed rest. Cognitive tasks—reading, problem-solving—distract from sensations in milder cases. Hot baths provide temporary relief. Mental relaxation and anxiety reduction help—stress exacerbates RLS. Limiting caffeine entirely often helps significantly; alcohol, despite initially seeming to help, worsens RLS long-term.
+</p>
+
+<p>
+Proper diagnosis and treatment restore sleep quality and dramatically reduce symptoms in most RLS patients.
+</p>
+  `
+  },
+  {
+    id: "narcolepsy",
+    slug: "narcolepsy",
+    title: "Narcolepsy: Excessive Daytime Sleepiness and Cataplexy",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding narcolepsy, its symptoms, and treatment approaches.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1514897575878-ccd0b43cfc94?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Narcolepsy management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Narcolepsy is a chronic neurological condition of excessive daytime sleepiness with sudden, irresistible urges to sleep. Affecting 1 in 2,000 people, narcolepsy significantly impacts education, work, and safety. Despite challenges, effective treatments substantially improve quality of life.
+</p>
+
+<h2>Type 1 Narcolepsy (with Cataplexy)</h2>
+<p>
+Type 1 narcolepsy results from hypocretin/orexin neurotransmitter deficiency in the brain. Hypocretin normally promotes wakefulness; deficiency causes excessive daytime sleepiness. Cataplexy—sudden loss of muscle tone triggered by strong emotions (laughter, anger, surprise)—characterizes Type 1. Episodes range from slight jaw drop or head nod to complete collapse lasting seconds to minutes. Consciousness remains intact. Cataplexy is unique to narcolepsy and distinguishes Type 1 from Type 2.
+</p>
+
+<h2>Type 2 Narcolepsy (without Cataplexy)</h2>
+<p>
+Type 2 narcolepsy presents with excessive daytime sleepiness without cataplexy. Hypocretin levels are normal. The cause is less clear than Type 1. Type 2 is more common than Type 1, affecting roughly 80% of narcoleptic patients.
+</p>
+
+<h2>Symptoms and Consequences</h2>
+<p>
+Irresistible sleep attacks occur multiple times daily—patients fall asleep for seconds to minutes during inappropriate times (conversations, meetings, while eating). Naps provide brief refreshment; usually 10-30 minutes later patient feels temporarily alert. Sleep paralysis—temporary inability to move or speak while falling asleep or waking—frightens many patients though it's harmless. Hypnagogic hallucinations—vivid dreams during sleep-wake transitions—occur frequently. Nighttime sleep fragmentation paradoxically accompanies excessive daytime sleepiness. Neurobehavioral consequences include accident risk, employment challenges, academic difficulty, and social isolation.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516969394944-6f03a7c26faf?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Treatment and lifestyle management"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Diagnosis</h2>
+<p>
+Clinical diagnosis based on typical symptoms. Multiple sleep latency test (MSLT) confirms excessive daytime sleepiness. Sleep-onset REM entry (entering REM sleep abnormally quickly) is characteristic. Hypocretin level testing distinguishes Type 1 (hypocretin deficient) from Type 2. Genetic testing available as HLA-DQB1*06:02 association exists.
+</p>
+
+<h2>Medications</h2>
+<p>
+Amphetamines and methylphenidate promote wakefulness, helping daytime sleepiness. Modafinil and armodafinil improve alertness with less abuse potential. Sodium oxybate improves nighttime sleep quality and reduces daytime sleepiness. Selective hypocretin antagonists (orexin antagonists) help some patients. Antidepressants (SSRIs, clomipramine) reduce cataplexy. New medications targeting glycine and glutamate pathways show promise.
+</p>
+
+<h2>Lifestyle and Accommodations</h2>
+<p>
+Scheduled daytime naps—usually 10-20 minutes—help maximize alertness. Consistent sleep schedule supports nighttime sleep improvement. Avoiding triggers (emotional situations for cataplexy) helps when possible. Workplace accommodations—flexible scheduling, understanding employers, safety considerations (no heavy machinery, driving restrictions for severe daytime sleepiness)—enable employment. Disclosure aids adaptation for students and employees. Support groups provide emotional and practical support.
+</p>
+
+<p>
+Narcolepsy diagnosis enables treatment maximizing function and quality of life.
+</p>
+  `
+  },
+  {
+    id: "delayed-sleep-phase",
+    slug: "delayed-sleep-phase",
+    title: "Delayed Sleep Phase Syndrome: Circadian Rhythm Disorder",
+    category: "Sleep",
+    categorySlug: "sleep",
+    description: "Understanding delayed sleep phase syndrome and chronotherapy approaches.",
+    author: "SixHealth Team",
+    content: `
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1516928588374-20ae06bf1e41?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Circadian rhythm correction"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<p>
+Delayed sleep phase syndrome (DSPS) is a circadian rhythm disorder where sleep timing is delayed relative to desired schedule. People with DSPS naturally want to sleep 2-6 hours later than socially acceptable times. Until recently considered simply "being a night owl," DSPS is now recognized as a medical condition with neurobiological basis.
+</p>
+
+<h2>Clinical Features</h2>
+<p>
+Inability to fall asleep until 2 AM or later despite exhaustion. Cannot wake early even with effort or alarms; getting up causes severe daytime sleepiness. Can sleep 7-10 hours when schedule permits uninterrupted sleep. Quality sleep occurs; problem is timing, not sleep quality itself. Daytime sleepiness, concentration difficulties, and mood issues result from chronic sleep deprivation caused by fighting natural rhythm. Most common in adolescents and young adults; often improves partially with age. Strong familial clustering suggests genetic component.
+</p>
+
+<h2>Diagnosis</h2>
+<p>
+Clinical history and sleep diary showing consistent delayed bedtime and wake time confirm diagnosis. Actigraphy—wrist device monitoring activity-rest cycles—documents delayed sleep-wake times objectively. Dim light melatonin onset (DLMO) testing—measuring when melatonin naturally rises—confirms delayed circadian phase. Poly somnography typically normal aside from timing; sleep quality itself is often good.
+</p>
+
+<h2>Chronotherapy Approaches</h2>
+<p>
+Light therapy—bright light exposure at desired wake time—advances circadian rhythm toward earlier times. Requires consistent early-morning light exposure, preferably 30-90 minutes at 10,000 lux intensity. Melatonin timing—taking melatonin 8-10 hours before desired sleep time—promotes earlier sleep onset. Gradual bedtime advances—moving earlier 15-30 minutes every 1-2 weeks—can shift timing without extreme shock. Combined approaches work best. Consistency is essential—weekend schedule deviations reset progress substantially.
+</p>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img 
+    src="https://images.unsplash.com/photo-1517457373614-b7152f800fd1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep schedule adherence"
+    style="max-width:100%; border-radius:8px;"
+  />
+</div>
+
+<h2>Lifestyle Measures</h2>
+<p>
+Consistent daily schedule maintained even on weekends anchors circadian rhythm. Avoiding bright light and blue-light screens in evening prevents further phase delay. Evening exercise at appropriate times helps. Understanding chronotype helps—forcing someone to work early regularly against natural rhythm causes chronic sleep deprivation with serious health and safety consequences. Some people with DSPS have naturally longer circadian periods (longer than 24 hours) requiring chronotherapy rather than simple behavioral approaches. Career choices (evening work, flexible schedules) accommodating natural rhythm may be necessary.
+</p>
+
+<h2>When to Seek Help</h2>
+<p>
+DSPS causing significant life disruption warrants sleep specialist evaluation. Testing confirms delayed circadian phase. Tailored chronotherapy based on individual response optimizes outcomes. Untreated DSPS often causes chronic sleep deprivation leading to health consequences—addressing it improves overall wellbeing.
+</p>
+
+<p>
+DSPS is treatable with appropriate chronotherapy and lifestyle modifications.
+</p>
+  `
+  }

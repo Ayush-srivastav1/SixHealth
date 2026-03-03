@@ -1,0 +1,195 @@
+{
+  id: "psoriasis-overview",
+  slug: "overview",
+  title: "Psoriasis: Understanding This Chronic Skin Condition",
+  category: "Psoriasis",
+  categorySlug: "psoriasis",
+  description: "Learn about psoriasis types, triggers, symptoms, and effective treatment options to manage this autoimmune skin condition.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160715-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Psoriasis skin condition management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Psoriasis is a chronic autoimmune condition causing red, scaly, thickened skin patches that can appear anywhere on the body. Affecting 2-3% of the population, it develops when the immune system misfires and speeds up skin cell growth. While incurable, modern treatments effectively manage symptoms and improve quality of life. Understanding triggers and treatment options empowers individuals to minimize flares and maintain healthy skin.
+</p>
+
+<h2>Understanding Psoriasis</h2>
+<p>
+Psoriasis develops when T cells mistake skin cells as foreign invaders, triggering inflammation and accelerated skin cell production. Normally skin cells replace over weeks; in psoriasis this occurs in days, causing buildup of thick, scaly plaques. Genetics and immune system dysfunction contribute to development. Stress, infections, certain medications, skin injuries, and weather changes commonly trigger or worsen flares. Extent varies from localized patches to extensive body coverage. Early intervention at first signs helps prevent progression and reduces impact on quality of life.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160725-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Dermatological treatment for psoriasis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Types and Symptoms</h2>
+<p>
+Plaque psoriasis (affecting 80-90% of patients) presents as raised, red patches with silvery-white scales, commonly on elbows, knees, and scalp. Guttate psoriasis features small droplet-like lesions following streptococcal infection. Pustular psoriasis manifests as pus-filled bumps. Inverse psoriasis affects skin folds. Erythrodermic psoriasis causes severe widespread redness and scaling requiring medical attention. Associated joint inflammation (psoriatic arthritis) affects 10-30% of patients, requiring additional management. Symptoms can cause significant physical and emotional distress requiring comprehensive treatment approaches.
+</p>
+
+<h2>Treatment Approaches</h2>
+<p>
+Topical treatments including corticosteroids, vitamin D analogs, and retinoids reduce inflammation and scaling. Phototherapy using controlled light exposure helps many patients. Systemic medications address moderate to severe disease, including methotrexate, cyclosporine, and biologic drugs targeting specific immune pathways. Biologic therapies have revolutionized psoriasis treatment, offering significant relief with fewer side effects than older systemic drugs. Lifestyle management including stress reduction, adequate sleep, avoiding triggers, and skin care maintains treatment effectiveness and prevents flares.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160735-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Skin health and wellness with psoriasis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "rheumatoid-arthritis",
+  slug: "overview",
+  title: "Rheumatoid Arthritis: Managing This Autoimmune Disease",
+  category: "Rheumatoid Arthritis",
+  categorySlug: "rheumatoid-arthritis",
+  description: "Understand rheumatoid arthritis symptoms, disease progression, and modern treatment strategies that reduce inflammation and preserve joint function.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160745-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Rheumatoid arthritis joint health"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Rheumatoid arthritis (RA) is an autoimmune disease causing chronic inflammation of the joints. The immune system mistakenly attacks the synovial lining of joints, causing pain, swelling, and progressive joint damage. Early diagnosis and aggressive treatment with disease-modifying drugs have revolutionized outcomes, enabling many patients to achieve remission or low disease activity. Understanding RA empowers patients to work effectively with healthcare providers and maintain quality of life and function.
+</p>
+
+<h2>Overview of Rheumatoid Arthritis</h2>
+<p>
+RA develops when immune cells attack joint linings, causing inflammation, pain, and swelling. Unlike osteoarthritis from wear-and-tear, RA symmetrically affects multiple joints and can cause systemic inflammation. The disease typically begins in hand and foot joints but can progress to knees, hips, and other joints. RA affects women three times more than men, often beginning in the 40s-60s. Genetic factors and environmental triggers contribute to disease development. Early recognition and treatment prevent joint damage and improve long-term outcomes significantly.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160752-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Physical therapy and mobility management for RA"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Symptoms and Diagnosis</h2>
+<p>
+Morning joint stiffness lasting over one hour is characteristic, gradually improving throughout the day. Symmetric joint pain and swelling, fatigue, and low-grade fever develop. Progressive joint damage occurs without treatment, causing deformity and disability. Blood tests showing rheumatoid factor or anti-CCP antibodies, plus imaging findings, confirm diagnosis. Early diagnosis within the first months of symptom onset enables initiation of disease-modifying therapy before irreversible joint damage occurs. This "window of opportunity" makes early recognition and treatment critical.
+</p>
+
+<h2>Modern Treatment Approaches</h2>
+<p>
+Disease-modifying antirheumatic drugs (DMARDs) form the cornerstone of treatment, slowing disease progression significantly. Biologic medications targeting specific immune pathways have transformed outcomes, enabling remission in many patients. Nonsteroidal anti-inflammatory drugs (NSAIDs) and low-dose corticosteroids provide symptomatic relief. Physical therapy maintains and improves joint function. Regular monitoring with blood tests and imaging assesses disease activity and guides treatment adjustments. Achieving and maintaining low disease activity prevents joint damage and complications, emphasizing the importance of treat-to-target strategies in modern RA management.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160762-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Quality of life and remission in rheumatoid arthritis"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "sleep-health",
+  slug: "overview",
+  title: "Sleep Health: Achieving Restorative Rest and Better Wellbeing",
+  category: "Sleep Health",
+  categorySlug: "sleep-health",
+  description: "Learn about sleep stages, sleep disorders, and science-based strategies to improve sleep quality and support overall health and daytime function.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "7 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160772-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep health and better rest"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Sleep is fundamental to health, supporting immune function, metabolism, cognitive performance, and emotional regulation. Yet millions struggle with inadequate sleep or sleep disorders. Understanding sleep physiology, recognizing sleep problems, and implementing evidence-based strategies improves sleep quality and daytime function. Better sleep enhances work performance, relationships, mood, and long-term health outcomes significantly.
+</p>
+
+<h2>Understanding Sleep Physiology</h2>
+<p>
+Sleep cycles through NREM (non-rapid eye movement) stages 1-3 and REM (rapid eye movement) sleep, each serving important functions. Light NREM sleep (stages 1-2) comprises most sleep and supports memory consolidation. Deep NREM sleep (stage 3) restores physical energy and supports immune function. REM sleep facilitates emotional processing and memory consolidation, increasing during the night as sleep progresses. A typical night includes 4-6 complete cycles lasting about 90 minutes each. Most adults need 7-9 hours nightly; requirements vary by individual and age. Understanding sleep architecture helps explain why sleep fragmentation impairs health even if total hours seem adequate.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160782-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Sleep disorders and sleep apnea"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Common Sleep Disorders</h2>
+<p>
+Insomnia (difficulty falling or staying asleep) affects 30% of adults, particularly older adults and those with stress or medical conditions. Sleep apnea causes repeated breathing pauses during sleep, fragmenting sleep and reducing oxygen levels. Restless leg syndrome causes uncomfortable leg sensations and movement urges at night. Narcolepsy causes excessive daytime sleepiness and sudden muscle weakness. Nightmare disorder disrupts sleep quality. Many sleep disorders are underdiagnosed and undertreated. Consulting sleep specialists enables proper diagnosis and reveals effective treatments transforming sleep and daytime function.
+</p>
+
+<h2>Improving Sleep Quality</h2>
+<p>
+Establishing consistent sleep schedules anchors the body's circadian rhythm. Creating a cool, dark, quiet sleep environment optimizes conditions for sleep. Limiting screen exposure 1-2 hours before bed reduces blue light that suppresses melatonin. Regular exercise and daylight exposure support sleep-wake cycles. Limiting caffeine after 2 PM and alcohol near bedtime prevents sleep interference. Cognitive behavioral therapy for insomnia (CBT-I) provides proven strategies for persistent sleep problems. Medical treatment addresses underlying sleep disorders and conditions disrupting sleep. Prioritizing sleep as essential self-care rather than expendable luxury transforms health and quality of life.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160792-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Healthy sleep habits and relaxation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

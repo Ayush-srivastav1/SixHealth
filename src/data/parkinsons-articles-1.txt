@@ -1,0 +1,134 @@
+{
+  id: "parkinsons-diagnosis-stages",
+  slug: "diagnosis-stages-parkinsons",
+  title: "Parkinson's Disease Diagnosis and Disease Stages",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Understanding Parkinson's diagnosis process, disease staging, and progression expectations to plan treatment and lifestyle accordingly.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160685-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Neurological diagnosis and Parkinson's assessment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Parkinson's disease diagnosis requires clinical evaluation by neurology specialists, as no definitive blood test exists. Understanding disease staging helps patients anticipate progression patterns and plan appropriately for care needs. Individual variation in progression rates means some patients maintain function for decades while others decline more rapidly. Early diagnosis enables prompt treatment initiation, potentially slowing progression through neuroprotective approaches.
+</p>
+
+<h2>Diagnostic Process</h2>
+<p>
+Neurologists diagnose Parkinson's based on clinical features including resting tremor, rigidity, and bradykinesia (slow movement). Postural instability and autonomic symptoms support diagnosis. Neurological examination assesses strength, coordination, reflexes, and gait. MRI rules out other neurodegenerative diseases causing similar symptoms. No specific biomarkers definitively confirm Parkinson's during life. DaTscan (dopamine imaging) may assist in equivocal cases. Trials of dopaminergic medications support diagnosis when dramatic symptom response occurs. Some patients receive preliminary "probable" diagnosis with more definitive confirmation as disease progresses and additional features emerge.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160695-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Neurological examination and movement assessment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Hoehn and Yahr Staging System</h2>
+<p>
+Stage 1: Unilateral symptoms (one side only) with minimal functional impact. Tremor or rigidity affects one limb. Daily activities remain normal.
+Stage 2: Bilateral symptoms affecting both sides, though asymmetrically often. Mild postural instability may emerge. Functional impairment remains minimal.
+Stage 3: Moderate bilateral symptoms with noticeable postural instability. Gait slowing occurs but postural reflexes remain. Patients become noticeably slower but independent.
+Stage 4: Severe symptoms with marked postural instability. Patients may fall easily. Daily activities become difficult though some independence remains.
+Stage 5: Advanced disease with complete postural instability and gait dysfunction. Patients typically require wheelchair or bed. Significant assistance needed for all activities.
+</p>
+
+<h2>UPDRS Rating Scale</h2>
+<p>
+The Unified Parkinson's Disease Rating Scale (UPDRS) provides more detailed symptom quantification than staging alone, measuring motor function, activities of daily living, behavior, and mood. Scores range from 0-176 with higher scores indicating greater impairment. Clinicians use UPDRS to track disease progression, assess treatment response, and guide management adjustments. Serial UPDRS assessments over months to years reveal individual progression rates. Some patients show minimal decline over years while others progress rapidly, enabling personalized prognostication and planning.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160705-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Parkinson's disease monitoring and disease progression"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "parkinsons-treatment-medications",
+  slug: "treatment-medications-parkinsons",
+  title: "Parkinson's Disease Treatment: Medications and Therapies",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Comprehensive guide to medical treatments for Parkinson's including dopaminergic medications, adjunctive therapies, and surgical options.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "9 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160715-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Parkinson's medication treatment options"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Modern Parkinson's treatments effectively manage motor symptoms, enabling many patients to maintain functional independence for years. Treatment goals include symptom reduction, maintaining quality of life, and delaying complications. Medication choices depend on disease stage, symptom severity, age, and comorbidities. Individualized treatment plans optimize benefit while minimizing side effects. Regular adjustment as disease progresses maintains effectiveness over decades.
+</p>
+
+<h2>Dopaminergic Medications</h2>
+<p>
+Levodopa (L-dopa), converted to dopamine in the brain, remains the gold standard medication producing rapid, dramatic symptom relief. Combined with carbidopa (reducing peripheral dopamine conversion), levodopa provides maximum central nervous system effect. Initial doses produce marked improvement; sustained response may require dosage increases. Long-term therapy (years) can cause dyskinesias (involuntary movements) and motor fluctuations (on/off periods). Dopamine agonists (bromocriptine, pramipexole, ropinirole) directly stimulate dopamine receptors, producing more sustained effects than levodopa. Often used early-stage to delay levodopa initiation, they have fewer long-term complications but may cause impulsive behaviors. Combination therapy optimizes symptom control while minimizing side effects.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160725-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Medication management for Parkinson's disease"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Adjunctive Medications</h2>
+<p>
+MAO-B inhibitors (selegiline, rasagiline) reduce dopamine degradation, modestly extending levodopa duration. May have neuroprotective properties slowing disease progression, though controversy persists. Tolcapone and entacapone (COMT inhibitors) extend levodopa duration by inhibiting dopamine breakdown peripherally. Amantadine provides independent anti-Parkinsonian effects and helps dyskinesias. Anticholinergics (trihexyphenidyl) help tremor but few patients tolerate them due to cognitive and urinary effects. Each medication targets specific symptoms; combination therapy addressed multiple symptoms simultaneously optimizes outcomes.
+</p>
+
+<h2>Deep Brain Stimulation</h2>
+<p>
+Deep brain stimulation (DBS) involves surgically implanting electrodes in targeted brain regions (subthalamic nucleus or globus pallidus), connected to external pulse generators. Electrical stimulation reduces motor symptoms, dyskinesias, and motor fluctuations substantially. DBS enables reduction of dopaminergic medications, reducing dyskinesias and other medication side effects. Ideal candidates have advanced disease with medication complications, preserved cognitive function, and good surgical health status. Risks include infection, bleeding, and cognitive effects in some patients. DBS effects persist indefinitely with device replacement every 5-7 years. While not for everyone, DBS dramatically improves function and quality of life in appropriately selected candidates.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160735-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Advanced Parkinson's disease treatment and management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

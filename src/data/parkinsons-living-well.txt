@@ -1,0 +1,280 @@
+{
+  id: "parkinsons-exercise-physical-activity",
+  slug: "parkinsons-exercise-physical-activity",
+  title: "Exercise and Physical Activity with Parkinson's Disease",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Learn how exercise improves Parkinson's symptoms, prevents complications, and enhances quality of life with tailored activity strategies.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Exercise and physical activity for Parkinson's disease"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Regular physical activity provides substantial benefits in Parkinson's disease, improving motor function, slowing disease progression, and enhancing overall quality of life. Exercise addresses motor symptoms including rigidity, balance problems, and slowness while strengthening muscles supporting movement. Beyond motor benefits, exercise improves mood, cognitive function, sleep quality, and cardiovascular health. Evidence suggests consistent physical activity may slow Parkinson's progression more effectively than any single medication.
+</p>
+
+<h2>Benefits of Exercise in Parkinson's Disease</h2>
+<p>
+Regular exercise improves bradykinesia (slow movement), increases stride length, and enhances gait stability reducing fall risk. Strength training maintains muscle mass and improves posture, addressing stooped posture common in Parkinson's. Balance training particularly benefits falling risk prevention. Aerobic exercise improves cardiovascular fitness and mood while supporting dopamine system function. Flexibility and stretching exercises maintain joint mobility and prevent contractures from prolonged rigidity. Exercise particularly benefits non-motor symptoms including depression, anxiety, sleep disturbance, and cognitive changes. The cumulative effect of consistent physical activity can produce symptom improvements comparable to medication dose increases. Exercise also provides psychological benefits including improved confidence, independence, and sense of control over symptom management.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160560-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Types of exercise for Parkinson's disease management"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Types of Beneficial Exercise</h2>
+<p>
+Walking—particularly brisk walking—provides accessible aerobic and lower limb strengthening benefit. Walking groups provide social connection and motivation. Tai chi improves balance, coordination, and flexibility with movements emphasizing smooth, controlled transitions beneficial for Parkinson's. Dancing combines aerobic exercise with coordination and balance benefits while providing enjoyment. Boxing therapy combines rhythmic punching movements with cardiovascular benefit and psychological empowerment. Water aerobics provides low-impact exercise with buoyancy reducing joint stress. Resistance training maintains muscle strength, bone density, and supports mobility. Yoga improves flexibility, balance, and body awareness. Stationary cycling provides cardiovascular benefit with lower injury risk than outdoor cycling. Swimming provides full-body low-impact exercise. Specialized Parkinson's exercise programs adapt traditional activities for disease-specific needs including difficulty initiating movement and balance problems.
+</p>
+
+<h2>Exercise Safety and Getting Started</h2>
+<p>
+Consult your neurologist before starting new exercise programs ensuring safety. Physical therapists can assess individual capabilities and design personalized programs. Warm up gradually—10-15 minutes of gentle movement prepares muscles for exercise. Start with moderate intensity, gradually increasing duration and intensity. Exercise consistency matters more than intensity—regular moderate activity provides better long-term benefits than sporadic vigorous activity. Maintain flexibility in your routine; some days symptoms worsen despite medication, warranting activity modification. Fall prevention is crucial—exercise in areas with support nearby, use assistive devices if balance is impaired, wear appropriate footwear. Stay hydrated, particularly if exercise occurs when medications are wearing off. Joint pain or severe symptoms warrant exercise modification or medical consultation. Group exercise classes provide structure, motivation, and social connection enhancing adherence. Exercising during medication peak effect (30 minutes to 2 hours after levodopa dose) optimizes symptom control and exercise tolerance.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160570-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Staying active and maintaining quality of life"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Maintaining Long-Term Exercise Adherence</h2>
+<p>
+Long-term consistency provides optimal benefits; irregular exercise provides minimal benefit. Choose activities you enjoy—adherence improves dramatically when exercise feels rewarding rather than obligatory. Set realistic, achievable goals increasing gradually. Track progress—improved endurance, better balance, or stronger muscles provide motivation. Join exercise groups or classes providing social accountability and support. Schedule exercise as routine appointments rather than optional activities. Involve family or friends in activities creating shared commitment. Adjust activities as disease progresses; maintaining some physical activity remains beneficial even with disease advancement. Expect some variability—low-symptom days enable more vigorous activity while high-symptom days warrant modified, maintained-activity approaches. Combining various exercise types provides comprehensive benefits and prevents boredom. Regular physical activity represents one of most powerful interventions for Parkinson's symptom management and quality of life improvement.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "parkinsons-nutrition-diet",
+  slug: "parkinsons-nutrition-diet",
+  title: "Nutrition, Diet, and Eating Well with Parkinson's Disease",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Understand dietary considerations in Parkinson's including nutrition, swallowing safety, constipation management, and meal strategies.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160580-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Nutrition and diet strategies for Parkinson's disease"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Proper nutrition supports overall health and Parkinson's symptom management. Dietary approaches address medication timing interactions, swallowing difficulties, constipation, and maintain healthy weight and energy. Personalized nutrition strategies optimized with registered dietitians familiar with Parkinson's optimize quality of life and disease management.
+</p>
+
+<h2>Protein and Medication Timing</h2>
+<p>
+Dietary protein competes with levodopa for intestinal absorption and blood-brain barrier crossing, potentially reducing medication effectiveness. High-protein meals consumed near medication times significantly reduce levodopa benefit. Separate protein intake from levodopa doses—protein with breakfast and dinner, levodopa doses between meals—preserves medication effectiveness. Some people take levodopa 30 minutes before meals, then eat protein foods. Eating smaller protein portions at medication times (rather than avoiding protein entirely) provides necessary nutrition while minimizing interactions. Distribute daily protein across multiple meals rather than concentrating at single meal, as this approach reduces absorption competition. Fish, poultry, beans, and nuts provide protein but coordination with levodopa timing optimizes symptom control while maintaining nutrition.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160590-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Managing constipation and gastrointestinal issues"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Addressing Constipation and Swallowing Difficulties</h2>
+<p>
+Constipation affects 60-80% of Parkinson's patients from reduced gut motility, reduced movement, and medication effects. Adequate hydration—6-8 glasses daily—supports bowel function. Dietary fiber from vegetables, fruits, and whole grains prevents constipation while supporting overall health. Natural laxatives including prune juice or prune snacks provide gentle constipation relief. Regular physical activity improves bowel motility. Scheduled toilet times capitalize on natural gastrocolic reflex after meals. Stool softeners or fiber supplements help if dietary modifications prove insufficient. Swallowing difficulties occur in 15-20% of Parkinson's patients, necessitating dietary modification. Thin liquids pose particular aspiration risk—thickened liquids, smoothies, and soups reduce aspiration probability. Soft foods requiring minimal chewing reduce swallowing difficulty. Moist foods like casseroles or stews slide easier than dry foods. Small frequent meals maintain nutrition when swallowing is difficult. Speech therapists providing swallowing assessment recommend specific texture modifications. Eating slowly, taking small bites, and taking time between bites prevent choking and aspiration.
+</p>
+
+<h2>Nutritional Considerations and Brain Health</h2>
+<p>
+Maintain balanced nutrition providing adequate calories, proteins, fats, and carbohydrates supporting overall health. Vitamin B vitamins support nerve health; deficiency particularly affects Parkinson's patients on certain medications. Vitamin D maintains bone strength and supports mood; deficiency is common in Parkinson's and supplementation may help. Folate supports neurological health and homocysteine metabolism; high homocysteine increases Parkinson's progression risk. Omega-3 fatty acids from fish support brain health and reduce inflammation. Antioxidant-rich foods including berries, leafy greens, and nuts show promise for neuroprotection though specific Parkinson's benefit remains unproven. Avoid excessive caffeine which can slightly worsen tremor in some patients. Adequate zinc and iron support brain function; deficiency may worsen symptoms. Mediterranean diet patterns emphasizing vegetables, fruits, legumes, whole grains, and healthy fats show promise for supporting brain health in Parkinson's. Consult registered dietitians with Parkinson's expertise for personalized nutrition optimization addressing your specific symptoms and medication interactions.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160600-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Adaptive eating strategies and mealtime support"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Adaptive Eating Strategies</h2>
+<p>
+Difficulty using utensils from tremor or rigidity improves with adaptive equipment—weighted utensils reduce tremor effect, adaptive handle utensils accommodate reduced grip strength, and utensils with guides prevent spillage. Non-slip placemats stabilize dishes. Raise plate height using plate stands reducing reach distance. Use bowls rather than flat plates reducing spill risk from difficulty controlling utensil movement. Straws help fluid intake when arm tremor affects cup control. Eating with family or friends provides support and motivation. Take adequate time without rushing; rushing increases swallowing difficulty and choking risk. Maintain safe food temperature—very hot foods increase swallowing risk. Oral hygiene after meals prevents food trapping in mouth. Consider speech therapist referral if eating becomes increasingly difficult—swallowing assessment identifies specific recommendations. Registered dietitian consultation addresses nutrition maintenance as swallowing or motor function changes. Nutritional supplements can help maintain calories when regular food intake decreases. Maintaining adequate nutrition supports strength, immune function, and overall health supporting quality of life despite Parkinson's challenges.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "parkinsons-cognitive-health-brain",
+  slug: "parkinsons-cognitive-health-brain",
+  title: "Cognitive Health and Brain Wellness in Parkinson's Disease",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Strategies for maintaining cognitive function, preventing dementia, and supporting brain health in Parkinson's disease.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160610-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cognitive health and brain wellness in Parkinson's"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Cognitive changes including slowness of thinking, memory problems, difficulty concentrating, and emotional changes affect quality of life in Parkinson's disease. While some cognitive decline is inherent to disease progression, lifestyle strategies, cognitive exercises, and medical management can slow cognitive decline and maintain function. Understanding cognitive changes and employing supportive strategies enables people with Parkinson's to maintain independence and quality of life longer.
+</p>
+
+<h2>Understanding Cognitive Changes in Parkinson's</h2>
+<p>
+Executive function difficulties—planning, organizing, decision-making, multitasking—appear early in some patients. Memory changes include difficulty recalling recent events though recognition often remains preserved. Processing speed slows—taking longer to understand information or formulate responses. Attention and concentration difficulty affects complex task completion. Apathy—reduced motivation and emotional response—may develop. Parkinson's dementia develops in 24-31% of patients, characterized by progressive memory loss, confusion, and cognitive decline. Lewy body dementia develops when cognitive symptoms precede motor symptoms. Depression and anxiety commonly occur with Parkinson's, potentially exacerbating cognitive symptoms and vice versa. Sleep disorders including sleep apnea and REM sleep behavior disorder contribute to cognitive problems through sleep deprivation. Medications sometimes contribute to cognitive changes; medication adjustment may help. Early recognition and intervention improves cognitive function maintenance.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160620-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Cognitive exercises and mental stimulation"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Cognitive Exercises and Mental Stimulation</h2>
+<p>
+Cognitive training—puzzles, word games, memory exercises—engages thinking and may slow cognitive decline. Computerized cognitive training programs show promise for improving processing speed and executive function. Learning new skills—languages, instruments, crafts—engages and challenges the brain. Reading stimulates many cognitive domains and provides both mental exercise and enjoyment. Social engagement provides cognitive stimulation and reduces dementia risk. Engaging conversations require careful listening, processing, and formulating responses. Teaching others reinforces knowledge and provides cognitive engagement. Pursuing hobbies you enjoy—whether model-building, gardening, or creative writing—provides pleasurable cognitive stimulation. Memory aids including written schedules, reminders, and organizational systems compensate for memory changes enabling continued independence. Digital assistants and smartphone reminders support daily management. Simplifying environment organization—designated locations for important items—reduces cognitive demand finding necessary items. Breaking complex tasks into smaller steps aids task completion when executive function difficulty develops. These approaches combined with cognitive exercise maintain functioning longer despite progressive cognitive changes.
+</p>
+
+<h2>Medical and Lifestyle Strategies for Brain Health</h2>
+<p>
+Optimize sleep quality—poor sleep contributes to cognitive decline and mood changes. Sleep evaluation by sleep specialists helps identify treatable sleep disorders. Physical exercise provides strong evidence for slowing cognitive decline—regular aerobic activity and strength training enhance cognitive function. Mediterranean diet supporting brain health shows promise for slowing cognitive decline. Manage depression and anxiety with therapy and medications if present. Monitor medication side effects—some medications worsen cognitive function; neurologist adjustment may help. Maintain social engagement; isolation accelerates cognitive decline. Mental health support including therapy helps manage emotional changes and mood disorders. Control cardiovascular risk factors—hypertension, diabetes, atherosclerosis—which accelerate cognitive decline. Manage pain adequately—chronic pain impairs cognition. Participate in cognitive training programs showing evidence for improvement. Speech therapy supports language skills as language changes develop. Neuropsychological evaluation identifies specific cognitive impairments enabling targeted interventions. Advance planning including financial, legal, and healthcare decisions made while cognitive function allows provides autonomy and reduces future decision burden.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160630-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Support systems and caregiver strategies"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Support Systems and Caregiver Collaboration</h2>
+<p>
+Open communication with family and caregivers about cognitive changes enables appropriate support without stigma. Caregivers can provide external memory aids, organization support, and gentle reminders maintaining independence longer. Support groups address emotional impacts of cognitive changes. Professional caregiver services help when family caregivers cannot provide needed support. Adult day programs provide cognitive stimulation, social engagement, and structure supporting cognitive health. When driving becomes unsafe due to cognitive or motor changes, transportation assistance enables continued independence in other domains. Legal and financial planning with capacity intact ensures wishes are honored if cognitive decline develops. Advance care planning including healthcare decision documentation provides medical teams guidance when cognitive changes limit decision-making ability. Residential care options including assisted living and memory care provide appropriate support as cognitive needs increase. Maintaining dignity, autonomy, and quality of life remains possible even with progressive cognitive changes through appropriate support and planning.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+},
+{
+  id: "parkinsons-safety-fall-prevention",
+  slug: "parkinsons-safety-fall-prevention",
+  title: "Safety and Fall Prevention in Parkinson's Disease",
+  category: "Parkinson's Disease",
+  categorySlug: "parkinsons-disease",
+  description: "Strategies for preventing falls, managing balance problems, and maintaining safety in home and community environments.",
+  author: "SixHealth Editorial Team",
+  reviewer: "SixHealth Clinical Team",
+  readTime: "8 min read",
+  content: `
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160640-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Fall prevention and safety for Parkinson's disease"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<p>
+Falls occur in 60-90% of Parkinson's patients, causing fractures, head injuries, loss of independence, and hospitalization. Parkinson's-specific balance and gait problems—shuffling gait, reduced arm swing, freezing of gait, postural instability—increase fall risk beyond typical aging. Systematic safety modifications and targeted interventions dramatically reduce fall risk and injury severity maintaining independence and quality of life.
+</p>
+
+<h2>Parkinson's-Specific Fall Risk Factors</h2>
+<p>
+Postural instability and balance impairment develop progressively in Parkinson's, particularly visible when standing without support or when unexpected weight shifts occur. Freezing of gait—sudden inability to move limbs despite wanting movement—causes falls when feet "freeze" mid-stride. Shuffling gait with reduced clearance increases tripping risk over minor obstacles. Reduced ability to right postural imbalance once falling begins prevents catching yourself. Forward-stooped posture shifts balance forward, particularly risky on stairs or slopes. Medication off-periods with increased rigidity worsen balance and gait. Visual changes including reduced upward gaze and reduced peripheral awareness reduce environmental hazard recognition. Cognitive changes affect balance through reduced attention to environmental hazards. Dizziness or orthostatic hypotension increases falls. Sleep disorders cause fatigue increasing accident risk. Careful assessment identifies individual fall risk factors enabling targeted interventions.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160650-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Home modifications and safety equipment"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Home Safety Modifications</h2>
+<p>
+Install handrails on both sides of stairs providing stability and fall prevention. Stairway lighting prevents falls from inadequate visibility; install motion-activated lighting for nighttime bathroom trips. Remove throw rugs and clutter creating tripping hazards. Ensure adequate lighting throughout home—dark areas increase accident risk. Install grab bars in bathrooms near toilet and shower. Shower chairs and non-slip mats prevent slips. Bathroom toilet seat risers reduce fall risk from standing up. Adequate spacing between furniture prevents bumping into obstacles. Raise furniture height reducing bending necessary to sit; lower furniture height if difficulty rising from low seats. Kitchen modifications including removing bottom cabinet items you frequently use prevents excessive bending. Single-floor living when possible eliminates stair falls; if stairs are necessary, ensure well-maintained handrails and clear lighting. Bedroom safety including accessible light switches and clear navigation paths to bathroom prevents nighttime falls. Remove electrical cords creating tripping hazards. Keep frequently used items at waist height reducing bending and reaching.
+</p>
+
+<h2>Mobility Aids and Assistance Strategies</h2>
+<p>
+Walkers provide stability supporting safe mobility in advanced disease. Four-wheeled walkers with seats and hand brakes balance independence against safety. Canes help support weight and balance. Choose appropriate assistive device through physical therapist assessment. Movement strategies help overcome freezing of gait—large exaggerated steps initiate movement, visual cues on floor (stepping over lines drawn on floor), rhythmic cueing from metronome or music help restart frozen gait, verbal commands to self ("lift foot, step forward") initiate movement. Mental imagery—visualizing walking smoothly—sometimes overcomes freezing. Physical therapists teach specific techniques. Wearing appropriate footwear—supportive shoes with good traction, avoiding slippers—improves stability. Slow deliberate movements with concentrated attention reduce falls compared to hurried absent-minded movement. Turning slowly and deliberately prevents losing balance. Avoiding walking while holding objects—carrying coffee or phone distracts attention from balance—reduces fall risk. Requesting help when fatigued or when balance feels particularly poor is safer than attempting independence when fall risk is high.
+</p>
+
+<div style="text-align:center; margin:20px 0;">
+  <img 
+    src="https://images.unsplash.com/photo-1576091160660-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    alt="Community safety and emergency preparedness"
+    loading="lazy"
+    style="max-width:100%; border-radius:12px;"
+  />
+</div>
+
+<h2>Community Safety and Emergency Preparedness</h2>
+<p>
+Maintain good physical fitness through exercise reducing fall risk whether at home or in community. Vision correction ensuring adequate sight for hazard detection and navigation remains important. Medication adherence and proper timing maximizes symptom control during activities. Avoid community areas with excessive crowds, uneven surfaces, or heavy traffic when balance is particularly poor. Wear medical alert bracelets enabling emergency responders to provide appropriate care if fall results in unconsciousness. ID cards in wallet including name, emergency contacts, Parkinson's diagnosis, medications, and neurologist contact information aid emergency care. Exercise caution winter walking on ice—many falls occur in winter; consider remaining indoors during icy conditions. Home security systems with fall alert buttons enable emergency assistance if falling occurs. Motion-activated lights throughout home provide illumination preventing falls without requiring hands to find switches. Water temperature settings preventing scalding reduces injury severity if falls occur in bathroom. Cell phone with fully charged battery keeps emergency assistance accessible. Regular physical activity through physical therapy and exercise programs builds strength and balance reducing falls more effectively than any single intervention. Comprehensive approaches addressing multiple fall risk factors reduce fall incidence and maintain independence longest.
+</p>
+
+<hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;" />
+<div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;">
+  <p><strong>Author:</strong> SixHealth Editorial Team</p>
+  <p><strong>Medical Review:</strong> SixHealth Clinical Team</p>
+  <p><strong>Last Updated:</strong> 2026</p>
+</div>
+  `
+}

@@ -1,0 +1,48 @@
+.article-layout {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr) 260px;
+  gap: 36px;
+  width: 100%;
+  margin: 40px auto;
+  padding: 0 28px;
+  box-sizing: border-box;
+}
+
+.article-main {
+  max-width: 720px;
+}
+
+.toc {
+  position: sticky;
+  top: 100px;
+  font-size: 14px;
+}
+
+.toc h4 {
+  margin-bottom: 10px;
+}
+
+.toc a {
+  display: block;
+  margin-bottom: 8px;
+  color: #6b7280;
+}
+
+.related-sidebar {
+  position: sticky;
+  top: 100px;
+}
+
+.related-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 1024px) {
+  .article-layout {
+    grid-template-columns: 1fr;
+    padding: 0 16px;
+  }
+}
