@@ -55,17 +55,16 @@ export function Footer() {
       </div>
 
       {}
-      <div className="container py-12">
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-5">
+      <div className="container py-6 sm:py-12">
+        <div className="grid gap-6 sm:gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-5">
           {}
           <div className="lg:col-span-2">
             <Link to="/" className="mb-4 flex items-center gap-2">
-              <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
-                              <span className="text-xl font-bold">DoctorSix</span>
-
+              <div className="flex h-8 w-8 sm:h-9 sm:w-9 items-center justify-center rounded-lg bg-primary">
+                <span className="text-sm sm:text-lg font-bold text-white">DoctorSix</span>
               </div>
             </Link>
-            <p className="mb-4 max-w-sm text-sm text-muted-foreground">
+            <p className="mb-4 max-w-sm text-xs sm:text-sm text-muted-foreground">
               Your trusted source for evidence-based health information. All
               content is medically reviewed by healthcare professionals.
             </p>
@@ -95,13 +94,13 @@ export function Footer() {
 
           {}
           <div>
-            <h4 className="mb-4 font-semibold">Categories</h4>
+            <h4 className="mb-4 text-sm sm:text-base font-semibold">Categories</h4>
             <ul className="space-y-2">
               {footerLinks.categories.map((link) => (
                 <li key={link.title}>
                   <Link
                     to={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground"
+                    className="text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {link.title}
                   </Link>
@@ -112,13 +111,13 @@ export function Footer() {
 
           {}
           <div>
-            <h4 className="mb-4 font-semibold">About</h4>
+            <h4 className="mb-4 text-sm sm:text-base font-semibold">About</h4>
             <ul className="space-y-2">
               {footerLinks.about.map((link) => (
                 <li key={link.title}>
                   <Link
                     to={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground"
+                    className="text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {link.title}
                   </Link>
@@ -129,13 +128,13 @@ export function Footer() {
 
           {}
           <div>
-            <h4 className="mb-4 font-semibold">Legal</h4>
+            <h4 className="mb-4 text-sm sm:text-base font-semibold">Legal</h4>
             <ul className="space-y-2">
               {footerLinks.legal.map((link) => (
                 <li key={link.title}>
                   <Link
                     to={link.href}
-                    className="text-sm text-muted-foreground hover:text-foreground"
+                    className="text-xs sm:text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {link.title}
                   </Link>
@@ -148,11 +147,11 @@ export function Footer() {
 
       {}
       <div className="border-t">
-        <div className="container flex flex-col items-center justify-between gap-4 py-6 md:flex-row">
-          <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} HealthHub. All rights reserved.
+        <div className="container flex flex-col items-center justify-between gap-3 py-4 sm:py-6 sm:flex-row">
+          <p className="text-center text-xs sm:text-sm text-muted-foreground">
+            © {new Date().getFullYear()} DoctorSix. All rights reserved.
           </p>
-          <p className="text-center text-xs text-muted-foreground">
+          <p className="text-center text-[10px] sm:text-xs text-muted-foreground">
             Medical Disclaimer: Content is for informational purposes only and
             not a substitute for professional medical advice.
           </p>

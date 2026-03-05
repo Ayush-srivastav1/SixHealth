@@ -182,11 +182,11 @@ export function Header() {
 
       {}
       <header ref={headerRef} className="bg-black sticky top-0 z-50" style={{overflow: 'visible'}}>
-        <div className="relative max-w-[1280px] mx-auto px-6 h-[72px] flex items-stretch justify-between" style={{overflow: 'visible'}}>
-          <div className="flex items-center text-white text-2xl font-bold">DoctorSix</div>
+        <div className="relative max-w-[1280px] mx-auto px-3 sm:px-6 h-[60px] sm:h-[72px] flex items-stretch justify-between" style={{overflow: 'visible'}}>
+          <div className="flex items-center text-white text-xl sm:text-2xl font-bold">DoctorSix</div>
 
-          <nav className="absolute inset-x-0 top-0 h-full flex items-center justify-center" style={{overflow: 'visible'}}>
-            <ul className="flex items-center gap-6 text-sm font-semibold text-white h-full" style={{overflow: 'visible'}}>
+          <nav className="hidden sm:absolute sm:inset-x-0 sm:top-0 sm:h-full sm:flex sm:items-center sm:justify-center" style={{overflow: 'visible'}}>
+            <ul className="hidden sm:flex sm:items-center sm:gap-4 md:gap-6 text-xs sm:text-sm font-semibold text-white sm:h-full" style={{overflow: 'visible'}}>
               {categories.map((category) => {
                 const isHub = ["health-conditions","wellness","tools","featured","connect"].includes(category.id);
 
