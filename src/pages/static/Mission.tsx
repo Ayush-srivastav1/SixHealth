@@ -7,7 +7,7 @@ const Mission = () => {
       description="To make the world healthier, one person at a time."
     >
       <p>
-        At SixHealth, our mission is simple: to provide high-quality, accessible health information that empowers 
+        At DoctorSix, our mission is simple: to provide high-quality, accessible health information that empowers 
         individuals to take control of their well-being.
       </p>
       <h2>Bridging the Gap</h2>

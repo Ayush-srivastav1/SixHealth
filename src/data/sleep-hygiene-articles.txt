@@ -5,7 +5,7 @@
     category: "Sleep",
     categorySlug: "sleep",
     description: "Evidence-based sleep hygiene practices improving sleep quality and consistency.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -99,7 +99,7 @@ Consistent sleep hygiene practices provide foundation enabling restorative sleep
     category: "Sleep",
     categorySlug: "sleep",
     description: "Complete guide to designing an ideal bedroom for quality sleep.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -171,3 +171,4 @@ Optimized sleep environment removes barriers enabling consistent restorative sle
 </p>
   `
   }
+

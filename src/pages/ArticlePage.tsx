@@ -13,7 +13,7 @@ const ArticlePage: React.FC = () => {
 
   useEffect(() => {
     const prev = document.title;
-    if (article?.title) document.title = `${article.title} | SixHealth`;
+    if (article?.title) document.title = `${article.title} | DoctorSix`;
     return () => {
       document.title = prev;
     };

@@ -5,7 +5,7 @@
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding polysomnography testing and what to expect during a sleep study.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -69,7 +69,7 @@ Polysomnography precisely diagnoses sleep disorders guiding appropriate treatmen
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding portable sleep apnea testing in home environment.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -128,7 +128,7 @@ Home sleep testing provides accessible initial screening for obstructive sleep a
     category: "Sleep",
     categorySlug: "sleep",
     description: "Using sleep diaries to identify patterns and guide sleep improvement.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -192,7 +192,7 @@ Sleep diary guides diagnosis and treatment while increasing awareness enabling s
     category: "Sleep",
     categorySlug: "sleep",
     description: "How medical history helps identify sleep disorders and underlying causes.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -251,7 +251,7 @@ Detailed medical history guides diagnosis and treatment selection for sleep diso
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding standardized sleep questionnaires for diagnosis and monitoring.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -313,3 +313,4 @@ Standardized questionnaires enhance sleep disorder diagnosis accuracy and treatm
 </p>
   `
   }
+

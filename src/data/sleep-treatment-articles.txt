@@ -5,7 +5,7 @@
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding medication options for sleep disorders.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -79,7 +79,7 @@ Sleep medications supplement but don't replace behavioral interventions for opti
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding the most effective psychological treatment for insomnia.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -153,7 +153,7 @@ CBT-I is highly effective first-line insomnia treatment with sustained long-term
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding sleep restriction therapy improving sleep quality.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -217,7 +217,7 @@ Sleep restriction therapy restores sleep quality and efficiency through initiall
     category: "Sleep",
     categorySlug: "sleep",
     description: "Using light exposure to reset circadian rhythm and improve sleep.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -281,7 +281,7 @@ Strategic light exposure effectively resets circadian rhythm improving sleep tim
     category: "Sleep",
     categorySlug: "sleep",
     description: "Creating an ideal sleep environment promoting deep sleep.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -355,7 +355,7 @@ Optimized bedroom environment removes environmental barriers enabling restorativ
     category: "Sleep",
     categorySlug: "sleep",
     description: "Evidence-based techniques reducing tension and promoting sleep onset.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -422,3 +422,4 @@ Regular relaxation practice reduces bedtime tension and mental activity enabling
 </p>
   `
   }
+

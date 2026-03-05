@@ -1,7 +1,7 @@
 # HEALTHLINE DESIGN PATTERNS - IMPLEMENTATION GUIDE
 
 **Date:** February 27, 2026  
-**Purpose:** Practical CSS code to implement Healthline.com design patterns in your SixHealth project
+**Purpose:** Practical CSS code to implement Healthline.com design patterns in your DoctorSix project
 
 ---
 
@@ -1226,5 +1226,6 @@ textarea:focus-visible {
 
 **Implementation Complete!**
 
-Use these practical CSS patterns to enhance your SixHealth project with Healthline-style design patterns. Start with whichever components would add the most value to your current interface.
+Use these practical CSS patterns to enhance your DoctorSix project with Healthline-style design patterns. Start with whichever components would add the most value to your current interface.
+
 

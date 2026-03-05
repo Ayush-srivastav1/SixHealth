@@ -1,7 +1,7 @@
-# CSS Extraction Summary - SixHealth Project
+# CSS Extraction Summary - DoctorSix Project
 
 ## Overview
-This document contains all CSS extracted from the SixHealth project, organized by source file. The project uses:
+This document contains all CSS extracted from the DoctorSix project, organized by source file. The project uses:
 - **Tailwind CSS** for utility-first styling
 - **Custom CSS files** for theme and layout overrides
 - **PostCSS** for CSS processing (tailwindcss + autoprefixer plugins)
@@ -951,4 +951,5 @@ These fall back to Arial Narrow and sans-serif respectively.
 
 ---
 
-This extraction captures all CSS styling in the SixHealth project as of February 27, 2026.
+This extraction captures all CSS styling in the DoctorSix project as of February 27, 2026.
+

@@ -5,7 +5,7 @@
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding the essential biological functions and benefits of sleep for physical and mental health.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -69,7 +69,7 @@ Sleep is not downtime—it's essential maintenance keeping you physically health
     category: "Sleep",
     categorySlug: "sleep",
     description: "Evidence-based sleep duration guidelines for different age groups and life stages.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -128,7 +128,7 @@ Finding your personal sleep sweet spot—the duration that consistently leaves y
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding circadian rhythms and their critical role in sleep, health, and daily function.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -187,7 +187,7 @@ Respecting and optimizing your natural circadian rhythm improves sleep quality a
     category: "Sleep",
     categorySlug: "sleep",
     description: "Exploring connections between sleep and prevention of chronic diseases.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -251,7 +251,7 @@ Prioritizing sleep may be the single most impactful health intervention availabl
     category: "Sleep",
     categorySlug: "sleep",
     description: "How sleep needs and quality change throughout different life stages.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -308,3 +308,4 @@ Understanding stage-specific sleep needs and challenges enables proactive optimi
 </p>
   `
   }
+

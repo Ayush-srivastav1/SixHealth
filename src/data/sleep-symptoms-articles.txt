@@ -5,7 +5,7 @@
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding excessive daytime sleepiness and its underlying causes.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -64,7 +64,7 @@ Excessive daytime sleepiness is treatable once underlying causes are identified.
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding the spectrum of insomnia symptoms and warning signs.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -128,7 +128,7 @@ Identifying insomnia symptoms early enables prompt treatment preventing conditio
     category: "Sleep",
     categorySlug: "sleep",
     description: "Recognizing signs and symptoms of obstructive and central sleep apnea.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -187,7 +187,7 @@ Early recognition and treatment of sleep apnea prevent serious cardiovascular an
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding how poor sleep affects emotional regulation and behavior.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -246,7 +246,7 @@ Recognizing mood changes related to poor sleep directs treatment toward sleep op
     category: "Sleep",
     categorySlug: "sleep",
     description: "Understanding sleep loss effects on memory, attention, and cognitive function.",
-    author: "SixHealth Team",
+    author: "DoctorSix Team",
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
@@ -303,3 +303,4 @@ Treating underlying sleep disorders restores cognitive function and preserves lo
 </p>
   `
   }
+

@@ -7,7 +7,7 @@ const MedicalReview = () => {
       description="Meet the experts who ensure our content is accurate and safe."
     >
       <p>
-        The SixHealth Medical Review Board consists of board-certified physicians, nurses, dietitians, 
+        The DoctorSix Medical Review Board consists of board-certified physicians, nurses, dietitians, 
         and mental health professionals. They rigorously vet our content to ensure it meets the highest 
         standards of medical accuracy.
       </p>

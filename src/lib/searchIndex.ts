@@ -17,9 +17,11 @@ export interface SearchableItem {
   url: string;
   excerpt?: string;
   imageUrl?: string;
-}
+}
+
 export const getAllSearchableContent = (): SearchableItem[] => {
-  const items: SearchableItem[] = [];
+  const items: SearchableItem[] = [];
+
   allArticles.forEach(article => {
     items.push({
       id: article.id,
@@ -31,7 +33,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: article.description,
       imageUrl: article.imageUrl,
     });
-  });
+  });
+
   breastCancerSections.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -44,7 +47,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: contentToString(article.content),
       });
     });
-  });
+  });
+
   eyeHealthCategories.forEach(category => {
     items.push({
       id: category.id,
@@ -56,7 +60,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: category.description,
       imageUrl: category.image,
     });
-  });
+  });
+
   [...editorsPicks, ...correctiveEyeSurgery, ...managingVisionPrescriptions, ...homeRemedies, ...moreTopReads, ...navigatingEyeSymptoms].forEach(article => {
     items.push({
       id: article.id,
@@ -68,7 +73,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       excerpt: article.excerpt,
       imageUrl: article.image,
     });
-  });
+  });
+
   chemoToc.forEach(item => {
     items.push({
       id: item.id,
@@ -79,9 +85,11 @@ export const getAllSearchableContent = (): SearchableItem[] => {
       url: `/chemotherapy#${item.id}`,
       excerpt: item.label,
     });
-  });
+  });
+
   menopauseSections.forEach(section => {
-    section.links.forEach(link => {
+    section.links.forEach(link => {
+
       const normalizedUrl = link.href.startsWith('/articles/')
         ? link.href.replace('/articles/', '/article/')
         : link.href;
@@ -96,7 +104,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: link.label,
       });
     });
-  });
+  });
+
   menopauseSectionsDetailed.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -109,7 +118,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
+  });
+
   msSectionsDetailed.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -122,7 +132,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
+  });
+
   const alzheimersSections = [
     {
       id: "editors-picks",
@@ -189,7 +200,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         { id: "questions", title: "Questions to Ask Your Doctor After an Early Alzheimer’s Diagnosis", content: "Important questions for your healthcare provider." },
       ],
     },
-  ];
+  ];
+
   alzheimersSections.forEach(section => {
     section.articles.forEach(article => {
       items.push({
@@ -202,9 +214,10 @@ export const getAllSearchableContent = (): SearchableItem[] => {
         excerpt: article.content,
       });
     });
-  });
+  });
+
   const pages = [
-    { title: 'Home', content: 'Welcome to Six Health - Your comprehensive health resource', url: '/', category: 'page' },
+    { title: 'Home', content: 'Welcome to Doctor Six - Your comprehensive health resource', url: '/', category: 'page' },
     { title: 'Articles Hub', content: 'Browse all health articles and medical information', url: '/articles', category: 'page' },
     { title: 'Breast Cancer', content: 'Comprehensive information about breast cancer diagnosis, treatment, and support', url: '/breast-cancer', category: 'page' },
     { title: 'Cancer Care', content: 'Cancer treatment options and supportive care information', url: '/conditions/cancer-care', category: 'page' },
@@ -215,10 +228,10 @@ export const getAllSearchableContent = (): SearchableItem[] => {
     { title: 'Multiple Sclerosis', content: 'MS symptoms, treatment, and management strategies', url: '/multiple-sclerosis', category: 'page' },
     { title: 'Health News', content: 'Latest health news and medical updates', url: '/health-news', category: 'page' },
     { title: 'Tools', content: 'Health calculators and assessment tools', url: '/tools', category: 'page' },
-    { title: 'About', content: 'About Six Health and our mission', url: '/about', category: 'page' },
-    { title: 'Contact', content: 'Get in touch with Six Health', url: '/contact', category: 'page' },
+    { title: 'About', content: 'About Doctor Six and our mission', url: '/about', category: 'page' },
+    { title: 'Contact', content: 'Get in touch with Doctor Six', url: '/contact', category: 'page' },
     { title: 'Privacy Policy', content: 'Privacy policy and data protection information', url: '/privacy', category: 'page' },
-    { title: 'Terms of Service', content: 'Terms and conditions for using Six Health', url: '/terms', category: 'page' },
+    { title: 'Terms of Service', content: 'Terms and conditions for using Doctor Six', url: '/terms', category: 'page' },
   ];
 
   pages.forEach(page => {
@@ -234,7 +247,8 @@ export const getAllSearchableContent = (): SearchableItem[] => {
   });
 
   return items;
-};
+};
+
 export const searchContent = (query: string): SearchableItem[] => {
   if (!query.trim()) return [];
 

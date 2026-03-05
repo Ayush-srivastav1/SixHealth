@@ -1,1 +1,1 @@
-Start-Process "https://github.com/Ayush-srivastav1/SixHealth/pull/new/merge-backup-into-main-20260203"
+Start-Process "https://github.com/Ayush-srivastav1/DoctorSix/pull/new/merge-backup-into-main-20260203"

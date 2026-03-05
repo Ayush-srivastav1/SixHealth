@@ -411,4 +411,5 @@ colors: {
 
 ---
 
-This CSS variable reference was generated on **2026-02-27** for the SixHealth project.
+This CSS variable reference was generated on **2026-02-27** for the DoctorSix project.
+

@@ -11,15 +11,15 @@ const Contact = () => {
       </p>
       <h2>General Inquiries</h2>
       <p>
-        Email: <a href="mailto:contact@sixhealth.com" className="text-primary hover:underline">contact@sixhealth.com</a>
+        Email: <a href="mailto:contact@doctorsix.com" className="text-primary hover:underline">contact@doctorsix.com</a>
       </p>
       <h2>Press & Media</h2>
       <p>
-        Email: <a href="mailto:press@sixhealth.com" className="text-primary hover:underline">press@sixhealth.com</a>
+        Email: <a href="mailto:press@doctorsix.com" className="text-primary hover:underline">press@doctorsix.com</a>
       </p>
       <h2>Mailing Address</h2>
       <p>
-        SixHealth HQ<br />
+        DoctorSix HQ<br />
         123 Wellness Way<br />
         Suite 400<br />
         New York, NY 10001

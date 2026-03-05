@@ -3,7 +3,7 @@ slug: adult-onset-asthma
 title: "Adult-Onset Asthma"
 excerpt: "Asthma developing in adulthood presents unique challenges and characteristics distinct from childhood-onset disease."
 category: Basics
-author: "SixHealth Editorial Team"
+author: "DoctorSix Editorial Team"
 authorRole: ""
 reviewer: "Dr. James Wilson"
 reviewerRole: "MD, Respiratory Medicine"
@@ -41,3 +41,4 @@ Treatment principles are similar to other asthma types but require attention to 
 ## Prognosis
 
 Adult-onset asthma often has lower remission rates but can be managed effectively with personalized therapy.
+

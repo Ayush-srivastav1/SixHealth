@@ -84,7 +84,7 @@ const Index = () => {
 
         <div className="absolute inset-0 bg-black/45 flex items-center justify-center">
           <div className="text-center px-4">
-            <h1 className="text-4xl md:text-5xl font-bold text-white">Welcome to Six Health</h1>
+            <h1 className="text-4xl md:text-5xl font-bold text-white">Welcome to Doctor Six</h1>
             <p className="mt-3 text-lg text-sky-100">Your trusted health information hub</p>
           </div>
         </div>

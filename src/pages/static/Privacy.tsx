@@ -8,7 +8,7 @@ const Privacy = () => {
       lastUpdated="January 1, 2026"
     >
       <p>
-        At SixHealth, we take your privacy seriously. This policy explains how we collect, use, and 
+        At DoctorSix, we take your privacy seriously. This policy explains how we collect, use, and 
         safeguard your information when you visit our website.
       </p>
       <h2>Information We Collect</h2>
