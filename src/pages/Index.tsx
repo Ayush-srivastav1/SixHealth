@@ -8,7 +8,7 @@ import {
 import { allArticles } from "@/data/allArticles";
 import { navigationCategories } from "@/data/categories";
 import { TrendingUp, ArrowRight, Play, ChevronRight } from "lucide-react";
-import { getImageUrl, imageLibrary } from '@/data/imageLibrary';
+import { getCategoryImage, getImageUrl, imageLibrary } from '@/data/imageLibrary';
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 
@@ -25,19 +25,23 @@ const Index = () => {
     let rrIndex = 0;
 
     return articles.map((a) => {
-      // Prefer topic-derived image; fall back to round-robin from the library
-      const preferredKey = ((a as any).categorySlug || (a as any).category || 'generalHealth') as string;
-      let img = getImageUrl(preferredKey);
+      // Prefer category-derived image; fall back to round-robin from the library
+      const catSlug = (a as any).categorySlug;
+      const category = (a as any).category;
+      let img = getCategoryImage(catSlug, category);
 
       if (used.has(img)) {
-        // find next unused topic in round-robin order
+        // find next unused topic in round-robin order by trying different topics
         let tries = 0;
-        while (tries < topics.length && used.has(getImageUrl(topics[rrIndex % topics.length]))) {
+        while (tries < topics.length) {
+          const nextImg = getCategoryImage(topics[rrIndex % topics.length], undefined);
+          if (!used.has(nextImg)) {
+            img = nextImg;
+            break;
+          }
           rrIndex++;
           tries++;
         }
-        img = getImageUrl(topics[rrIndex % topics.length]);
-        rrIndex++;
       }
 
       used.add(img);
@@ -52,7 +56,7 @@ const Index = () => {
   // Ensure featured article has a topic image as well
   const featuredWithImage = {
     ...featuredArticle,
-    imageUrl: getImageUrl((featuredArticle as any).categorySlug || (featuredArticle as any).category || 'generalHealth'),
+    imageUrl: getCategoryImage((featuredArticle as any).categorySlug, (featuredArticle as any).category),
   };
 
   const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];

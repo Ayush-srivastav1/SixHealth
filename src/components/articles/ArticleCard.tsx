@@ -2,7 +2,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { CategoryBadge, CategoryType } from "./CategoryBadge";
 import { Clock, User } from "lucide-react";
 import { SafeImage } from "@/components/common/SafeImage";
-import { imageLibrary } from "@/data/imageLibrary";
+import { getCategoryImage } from "@/data/imageLibrary";
 import { cn } from "@/lib/utils";
 
 export interface ArticleCardProps {
@@ -40,20 +40,24 @@ export function ArticleCard({
   const navigate = useNavigate();
   const catSlug = (categorySlug || (typeof category === "string" ? (category as string).toLowerCase().replace(/\s+/g, "-") : "")).toString();
   const articlePath = forceUrl || (catSlug ? `/${catSlug}/article/${slug}` : `${baseUrl}/${slug}`);
+  
+  // Auto-assign image from category if not provided
+  const finalImageUrl = imageUrl || getCategoryImage(catSlug, typeof category === "string" ? category : undefined);
+  
   try {
-     
     console.debug("ArticleCard path", { id: title, slug, category, categorySlug: catSlug, articlePath });
+    // eslint-disable-next-line no-empty
   } catch (e) {
-
+    // Silently catch debug logging errors
   }
   const handleClick = () => navigate(articlePath);
   if (compact) {
     return (
       <article onClick={handleClick} className={cn("group flex gap-2 sm:gap-3 cursor-pointer", className)}>
         <Link to={articlePath} className="shrink-0">
-          {imageUrl ? (
+          {finalImageUrl ? (
             <SafeImage
-              src={imageUrl}
+              src={finalImageUrl}
               alt={title}
               fallbackTopic="generalHealth"
               componentName="ArticleCardCompact"
@@ -86,7 +90,7 @@ export function ArticleCard({
         <Link to={articlePath} className="block">
           <div className="relative aspect-[16/9] overflow-hidden">
             <SafeImage
-              src={imageUrl}
+              src={finalImageUrl}
               alt={title}
               fallbackTopic="generalHealth"
               componentName="ArticleCardFeatured"
@@ -128,7 +132,7 @@ export function ArticleCard({
       <Link to={articlePath} className="block">
         <div className="aspect-[16/10] overflow-hidden">
           <SafeImage
-            src={imageUrl}
+            src={finalImageUrl}
             alt={title}
             fallbackTopic="generalHealth"
             componentName="ArticleCardDefault"
