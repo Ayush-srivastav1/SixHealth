@@ -16,7 +16,7 @@ const Skincare: React.FC = () => (
 
           <figure className="my-6">
             <img
-              src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1200&q=80"
+              src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
               alt="Person applying moisturizer to face"
               loading="lazy"
               className="w-full rounded"
@@ -31,7 +31,7 @@ const Skincare: React.FC = () => (
 
           <figure className="my-6">
             <img
-              src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80"
+              src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
               alt="Flatlay of gentle cleanser and skincare items"
               loading="lazy"
               className="w-full rounded"
@@ -46,7 +46,7 @@ const Skincare: React.FC = () => (
 
           <figure className="my-6">
             <img
-              src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80"
+              src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
               alt="Person applying sunscreen outdoors"
               loading="lazy"
               className="w-full rounded"
@@ -61,7 +61,7 @@ const Skincare: React.FC = () => (
 
           <figure className="my-6">
             <img
-              src="https://images.unsplash.com/photo-1580281657522-77f7b6a9f1c5?auto=format&fit=crop&w=1200&q=80"
+              src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
               alt="Skincare serums and dropper bottles"
               loading="lazy"
               className="w-full rounded"
@@ -84,3 +84,4 @@ const Skincare: React.FC = () => (
 );
 
 export default Skincare;
+

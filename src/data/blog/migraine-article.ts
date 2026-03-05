@@ -1,6 +1,6 @@
 const migraineArticle = `
 <h1>Migraine: Recognition, Triggers, and Effective Treatment Strategies</h1>
-<p><strong>Image:</strong> <img src="/images/migraine.webp" alt="Person holding head in pain" /></p>
+<p><strong>Image:</strong> <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person holding head in pain" /></p>
 
 <h2>Introduction</h2>
 <p>Migraine is a common neurological disorder characterized by recurrent headache attacks often accompanied by nausea, sensitivity to light and sound, and sometimes aura (transient visual or sensory symptoms). Migraines can be disabling but are treatable with acute and preventive strategies tailored to attack frequency, severity, and patient preferences.</p>
@@ -32,3 +32,4 @@ const migraineArticle = `
 `;
 
 export default migraineArticle;
+

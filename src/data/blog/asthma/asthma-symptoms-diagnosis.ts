@@ -11,7 +11,7 @@ const asthmaSymptomsDiagnosis: BlogPost = {
   reviewer: "SixHealth Clinical Team",
   readTime: "12 min read",
   content: `<div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person holding chest, breathing difficulty" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person holding chest, breathing difficulty" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>Asthma commonly presents with intermittent breathing symptoms that can be mistaken for other conditions. Early recognition and accurate diagnosis are important because timely treatment reduces the risk of severe attacks, prevents avoidable emergency care, and preserves long‑term lung health. This article explains the typical warning signs, common triggers, and the tests clinicians use to confirm asthma.</p>
@@ -21,7 +21,7 @@ const asthmaSymptomsDiagnosis: BlogPost = {
 <h2>Overview / Definition</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lung anatomy illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Lung anatomy illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>Asthma is a chronic inflammatory disorder of the airways characterized by variable airflow obstruction and bronchial hyperresponsiveness. In practical terms, that means the small tubes that carry air in and out of the lungs become inflamed and narrow in response to exposures or internal signals, producing symptoms that vary over time.</p>
@@ -47,7 +47,7 @@ const asthmaSymptomsDiagnosis: BlogPost = {
 <h2>Symptoms or Risk Factors</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person coughing and using inhaler" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person coughing and using inhaler" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>Classic asthma symptoms include wheeze (a whistling sound on exhalation), cough (often worse at night), chest tightness, and shortness of breath. Importantly, symptoms are often variable — absent for long periods and then flaring with triggers or infections.</p>
@@ -72,7 +72,7 @@ const asthmaSymptomsDiagnosis: BlogPost = {
 <h2>Treatment or Management</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1519027781531-1f0b4e2e77d6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Inhaler and spacer" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Inhaler and spacer" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>Treatment aims to control symptoms, prevent exacerbations, and maintain normal activity. Management follows a stepwise approach:</p>
@@ -89,7 +89,7 @@ const asthmaSymptomsDiagnosis: BlogPost = {
 <h2>Lifestyle / Prevention</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1521790797524-b2497295b8f7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person exercising outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person exercising outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>Preventive strategies reduce exposure to triggers and support overall lung health: avoid tobacco smoke, reduce indoor allergen exposure (mattress covers, regular washing of bedding, humidity control), address occupational risks, stay current with vaccinations, and maintain physical fitness. Weight management and treatment of comorbid conditions (rhinitis, GERD, sleep apnea) often improve control.</p>
@@ -119,3 +119,4 @@ Refer for specialist assessment if symptoms persist despite medium-to-high dose 
 };
 
 export default asthmaSymptomsDiagnosis;
+

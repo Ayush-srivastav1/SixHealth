@@ -1,13 +1,15 @@
 import { useLocation, useParams, useNavigate } from "react-router-dom";
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { tabSections } from "../Psoriasis";
 import { sampleArticles } from "@/data/articles";
 
 export default function ArticlePage() {
   const { articleId } = useParams();
   const location = useLocation();
-  const navigate = useNavigate();
-  const dataArticle = sampleArticles.find((a) => a.slug === articleId);
+  const navigate = useNavigate();
+
+  const dataArticle = sampleArticles.find((a) => a.slug === articleId);
+
   let foundArticle = null;
   let foundSection = null;
   if (!dataArticle) {
@@ -28,7 +30,14 @@ export default function ArticlePage() {
   const desc = dataArticle?.excerpt || foundArticle?.desc || "";
 
   return (
-    <Layout>
+    <ArticleLayout
+      title={title}
+      heroImage={dataArticle?.imageUrl}
+      author={dataArticle?.author ? { name: dataArticle.author } : undefined}
+      published={dataArticle?.date}
+      toc={[]}
+      relatedArticles={[]}
+    >
       <div className="max-w-3xl mx-auto px-4 py-10">
         <button
           className="mb-6 text-purple-700 hover:underline"
@@ -44,6 +53,6 @@ export default function ArticlePage() {
           <div className="text-red-600">Sorry, this article was not found.</div>
         )}
       </div>
-    </Layout>
+    </ArticleLayout>
   );
 }

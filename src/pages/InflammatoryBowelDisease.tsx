@@ -1,13 +1,33 @@
-import { Layout } from "@/components/layout";
+import ArticleLayout from '@/components/ArticleLayout'
 
 export default function InflammatoryBowelDisease() {
+  const toc = [
+    { id: 'what-is-ibd', text: 'What is Inflammatory Bowel Disease?' },
+    { id: 'types-ibd', text: 'Types of IBD' },
+    { id: 'symptoms', text: 'Symptoms and Signs' },
+    { id: 'causes', text: 'Causes and Risk Factors' },
+    { id: 'diagnosis', text: 'Diagnosis and Testing' },
+    { id: 'treatment', text: 'Treatment Options' },
+    { id: 'lifestyle', text: 'Lifestyle Management' },
+    { id: 'complications', text: 'Complications and Prevention' },
+    { id: 'living-with-ibd', text: 'Living with IBD' },
+    { id: 'additional-links', text: 'Additional Links' },
+  ]
+
+  const relatedArticles = [
+    { title: "Crohn's Disease: Symptoms and Treatment", href: '#' },
+    { title: 'Ulcerative Colitis: Living with UC', href: '#' },
+    { title: 'IBD Diet: Foods to Eat and Avoid', href: '#' },
+    { title: 'IBD Medications: What You Need to Know', href: '#' },
+  ]
+
   return (
-    <Layout>
+    <ArticleLayout title="Inflammatory Bowel Disease: Comprehensive Guide to IBD" toc={toc} relatedArticles={relatedArticles}>
       <div className="max-w-4xl mx-auto px-5 py-10">
         {}
         <div className="mb-8">
           <img
-            src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+            src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
             alt="Inflammatory Bowel Disease awareness - digestive health illustration"
             className="w-full h-64 object-cover rounded-lg shadow-lg"
           />
@@ -527,31 +547,7 @@ export default function InflammatoryBowelDisease() {
           </section>
 
           {}
-          <section className="bg-gray-50 p-6 rounded-lg mb-8">
-            <h2 className="text-2xl font-semibold text-gray-900 mb-4">Related Articles</h2>
-            <div className="grid md:grid-cols-2 gap-4">
-              <div className="bg-white p-4 rounded border">
-                <h3 className="font-semibold text-blue-600 mb-2">Crohn's Disease: Symptoms and Treatment</h3>
-                <p className="text-sm text-gray-600 mb-2">Comprehensive guide to Crohn's disease management and treatment options.</p>
-                <a href="#" className="text-blue-600 text-sm hover:underline">Read more →</a>
-              </div>
-              <div className="bg-white p-4 rounded border">
-                <h3 className="font-semibold text-blue-600 mb-2">Ulcerative Colitis: Living with UC</h3>
-                <p className="text-sm text-gray-600 mb-2">Daily management strategies and lifestyle tips for ulcerative colitis.</p>
-                <a href="#" className="text-blue-600 text-sm hover:underline">Read more →</a>
-              </div>
-              <div className="bg-white p-4 rounded border">
-                <h3 className="font-semibold text-blue-600 mb-2">IBD Diet: Foods to Eat and Avoid</h3>
-                <p className="text-sm text-gray-600 mb-2">Nutritional guidelines and meal planning for inflammatory bowel disease.</p>
-                <a href="#" className="text-blue-600 text-sm hover:underline">Read more →</a>
-              </div>
-              <div className="bg-white p-4 rounded border">
-                <h3 className="font-semibold text-blue-600 mb-2">IBD Medications: What You Need to Know</h3>
-                <p className="text-sm text-gray-600 mb-2">Understanding different medication options and their effects.</p>
-                <a href="#" className="text-blue-600 text-sm hover:underline">Read more →</a>
-              </div>
-            </div>
-          </section>
+          {/* Related articles moved to the right-hand sidebar via ArticleLayout; in-content duplicate removed */}
 
           <section id="additional-links" className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Additional Links</h2>
@@ -605,6 +601,6 @@ export default function InflammatoryBowelDisease() {
           </footer>
         </article>
       </div>
-    </Layout>
+    </ArticleLayout>
   );
 }

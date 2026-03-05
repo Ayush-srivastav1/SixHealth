@@ -1,14 +1,18 @@
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { findArticleBySlug } from "@/data/allArticles";
 
 export default function DietAndNutrition() {
   const article = findArticleBySlug("diet-and-nutrition");
   return (
-    <Layout>
-      <div className="max-w-3xl mx-auto px-4 py-10">
-        <h1 className="text-3xl font-bold mb-4">{article?.title ?? "Diet and Nutrition"}</h1>
-        <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: article?.content || "" }} />
-      </div>
-    </Layout>
+    <ArticleLayout
+      title={article?.title ?? "Diet and Nutrition"}
+      heroImage={article?.imageUrl}
+      author={article?.author ? { name: article.author } : undefined}
+      published={article?.publishDate}
+      toc={[]}
+      relatedArticles={[]}
+    >
+      <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: article?.content || "" }} />
+    </ArticleLayout>
   );
 }

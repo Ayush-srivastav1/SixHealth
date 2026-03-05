@@ -9,7 +9,7 @@ const commonMythsArticle: Article = {
   author: "Educational Team",
   date: "Feb 9, 2026",
   category: "conditions",
-  imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=800&fit=crop&fm=webp",
+  imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   content: `
     <p><strong>Introduction</strong></p>
     <p>Chronic Obstructive Pulmonary Disease (COPD) is widely misunderstood. Misinformation about causes, symptoms, treatments and prognosis can make living with COPD more stressful and can delay appropriate care. This article dispels common myths, explains the facts, and provides practical, evidence-based guidance for patients, families and caregivers.</p>
@@ -68,3 +68,4 @@ const commonMythsArticle: Article = {
 export default function CommonMythsAboutCOPD() {
   return <ArticleLayout article={commonMythsArticle} />;
 }
+

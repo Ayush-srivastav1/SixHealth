@@ -11,7 +11,7 @@ const asthmaLifestyle = {
   publishDate: "2026-02-19",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy balanced diet for respiratory health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Healthy balanced diet for respiratory health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -25,7 +25,7 @@ Many people with asthma avoid exercise or ignore dietary habits due to fear of t
 <h2>How Diet and Exercise Affect Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Fresh fruits and vegetables for lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Fresh fruits and vegetables for lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -76,7 +76,7 @@ Vitamin D supports immune regulation, while magnesium helps relax airway muscles
 <h2>Foods That May Worsen Symptoms</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Processed foods and asthma triggers" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Processed foods and asthma triggers" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -108,7 +108,7 @@ Combining healthy eating with regular physical activity is the most effective st
 <h2>Exercise and Lung Function</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1571019613914-85f342c55f59?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Outdoor exercise for respiratory fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Outdoor exercise for respiratory fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -142,7 +142,7 @@ With proper precautions, most people with asthma can safely participate in physi
 <h2>Breathing Techniques and Stress Management</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Yoga breathing and relaxation for asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Yoga breathing and relaxation for asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -203,3 +203,4 @@ Yes, warm and humid environments are often easier on the airways.</p>
 `};
 
 export default asthmaLifestyle;
+

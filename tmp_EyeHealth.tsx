@@ -14,7 +14,7 @@ if (import.meta.hot && !inWebWorker) {
   window.$RefreshReg$ = RefreshRuntime.getRefreshReg("E:/sixhealth e file/src/pages/EyeHealth.tsx");
   window.$RefreshSig$ = RefreshRuntime.createSignatureFunctionForTransform;
 }
-var _s = $RefreshSig$();
+const _s = $RefreshSig$();
 import __vite__cjsImport3_react from "/node_modules/.vite/deps/react.js?v=2e93afb6"; const useState = __vite__cjsImport3_react["useState"]; const useRef = __vite__cjsImport3_react["useRef"];
 import { Layout } from "/src/components/layout/index.ts";
 import PageLayout from "/src/components/layout/PageLayout.tsx";
@@ -212,7 +212,7 @@ export default function EyeHealth() {
 }
 _s(EyeHealth, "6yyu6EW137Zfb8Xw94h0kwvB5cc=");
 _c2 = EyeHealth;
-var _c, _c2;
+let _c, _c2;
 $RefreshReg$(_c, "Section");
 $RefreshReg$(_c2, "EyeHealth");
 if (import.meta.hot && !inWebWorker) {

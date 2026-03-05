@@ -11,10 +11,10 @@ byline: "Medically reviewed by Dr. James Wilson — Written by Dr. Sarah Mitchel
 readTime: "15 min read"
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1527613426441-4da17471b66d?w=1200&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=1351&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1527613426441-4da17471b66d?w=1200&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=1351&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 Recognizing the early signs of asthma and navigating the diagnostic pathway are essential steps to prevent severe exacerbations, reduce long-term lung impairment, and set up an effective management plan. While the classic symptom of wheeze often draws attention, asthma can present subtly or with atypical features — particularly in children, older adults, and those with coexisting conditions. This article walks through early warning signs, the tests clinicians use, interpretation of results, and practical preparation for your medical visit.
 

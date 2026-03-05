@@ -1,4 +1,4 @@
-import { Layout } from "../components/layout/Layout";
+import ArticleLayout from '@/components/ArticleLayout'
 import { NewsletterSignup } from "../components/articles/NewsletterSignup";
 import { Share2, Facebook, Twitter, Linkedin } from "lucide-react";
 import { Card } from "@/components/ui/card";
@@ -21,12 +21,30 @@ export default function MyExperienceMelanoma() {
   };
 
   return (
-    <Layout>
+    <ArticleLayout
+      title={"My Experience with Hospital Cancer Care: Melanoma Diagnosis and Treatment"}
+      heroImage={'/images/articles/melanoma-personal-hero.webp'}
+      author={{ name: 'The Healthline Editorial Team' }}
+      published={'July 16, 2024'}
+      toc={[
+        { id: 'diagnosis', text: 'Initial diagnosis' },
+        { id: 'cancer-care', text: 'My cancer care experience' },
+        { id: 'aftercare', text: 'Aftercare and follow-up' },
+        { id: 'takeaways', text: 'What I want others to know' },
+        { id: 'bottom-line', text: 'Bottom line' },
+      ]}
+      relatedArticles={[
+        { title: 'What Does Skin Cancer Look Like?', href: '/pages/melanoma' },
+        { title: 'What You Need to Know About Skin Cancer on the Scalp', href: '/pages/melanoma-scalp' },
+        { title: 'Understanding Cancer Treatment Options', href: '/pages/cancer-treatment' },
+        { title: "Navigating Cancer Care: A Patient's Guide", href: '/pages/cancer-care' },
+      ]}
+    >
       <article className="min-h-screen bg-background">
         {}
         <div className="relative h-[480px] w-full overflow-hidden bg-muted shadow-sm">
           <img
-            src="https://media.post.rvohealth.io/wp-content/uploads/2024/07/point-of-view-cancer-patient-surgery-hospital-IV-drip-1296x728-header.jpg"
+            src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
             alt="A cancer patient in the hospital with an IV drip in their arm"
             className="absolute inset-0 h-full w-full object-cover filter brightness-75"
           />
@@ -67,37 +85,7 @@ export default function MyExperienceMelanoma() {
                 </div>
               </div>
 
-              {}
-              <nav className="mb-8 w-full max-w-md rounded-lg bg-white p-4 shadow">
-                <h2 className="mb-3 font-semibold">On this page</h2>
-                <ul className="space-y-2 text-sm text-muted-foreground">
-                  <li>
-                    <a href="#diagnosis" className="text-primary hover:underline">
-                      Initial diagnosis
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#cancer-care" className="text-primary hover:underline">
-                      My cancer care experience
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#aftercare" className="text-primary hover:underline">
-                      Aftercare and follow-up
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#takeaways" className="text-primary hover:underline">
-                      What I want others to know
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#bottom-line" className="text-primary hover:underline">
-                      Bottom line
-                    </a>
-                  </li>
-                </ul>
-              </nav>
+              {/* TOC moved to `ArticleLayout` (left column) */}
 
               {}
               <section className="mb-8">
@@ -353,31 +341,7 @@ export default function MyExperienceMelanoma() {
               </Card>
 
               {}
-              <Card className="p-6">
-                <h3 className="mb-4 font-semibold">Read this next</h3>
-                <ul className="space-y-3 text-sm">
-                  <li>
-                    <a href="/pages/melanoma" className="font-medium text-primary hover:underline">
-                      What Does Skin Cancer Look Like?
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/pages/melanoma-scalp" className="font-medium text-primary hover:underline">
-                      What You Need to Know About Skin Cancer on the Scalp
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/pages/cancer-treatment" className="font-medium text-primary hover:underline">
-                      Understanding Cancer Treatment Options
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/pages/cancer-care" className="font-medium text-primary hover:underline">
-                      Navigating Cancer Care: A Patient's Guide
-                    </a>
-                  </li>
-                </ul>
-              </Card>
+              {/* Per-page 'Read this next' removed to rely on shared ArticleLayout/sidebar */}
 
               {}
               <NewsletterSignup variant="card" />
@@ -385,6 +349,7 @@ export default function MyExperienceMelanoma() {
           </div>
         </div>
       </article>
-    </Layout>
+    </ArticleLayout>
   );
 }
+

@@ -6,7 +6,7 @@ export const ibdSections = [
         id: 1,
         slug: "inflammatory-bowel-disease-guide",
         title: "Inflammatory Bowel Disease: Comprehensive Guide to IBD",
-        imageUrl: "https://images.unsplash.com/photo-1576091160550-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp",
+        imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
         content: `Inflammatory Bowel Disease (IBD) encompasses chronic inflammatory conditions affecting the digestive tract. This comprehensive guide covers Crohn's disease and ulcerative colitis, their symptoms, causes, diagnosis, and management strategies.
 
 Inflammatory Bowel Disease (IBD) refers to a group of chronic inflammatory conditions that affect the digestive tract. Unlike irritable bowel syndrome (IBS), which affects how the intestines work, IBD causes physical inflammation and damage to the intestinal wall. The two main types of IBD are Crohn's disease and ulcerative colitis.
@@ -347,25 +347,25 @@ IBD can affect fertility and pregnancy, but most people can have children:
           {
             title: "Crohn's Disease: Symptoms and Treatment",
             description: "Comprehensive guide to Crohn's disease management and treatment options.",
-            imageUrl: "https://images.unsplash.com/photo-1576091160579-112de9d334a5?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "#"
           },
           {
             title: "Ulcerative Colitis: Living with UC",
             description: "Daily management strategies and lifestyle tips for ulcerative colitis.",
-            imageUrl: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "#"
           },
           {
             title: "IBD Diet: Foods to Eat and Avoid",
             description: "Nutritional guidelines and meal planning for inflammatory bowel disease.",
-            imageUrl: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "#"
           },
           {
             title: "IBD Medications: What You Need to Know",
             description: "Understanding different medication options and their effects.",
-            imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde36?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "#"
           }
         ],
@@ -373,73 +373,73 @@ IBD can affect fertility and pregnancy, but most people can have children:
           {
             title: "Crohn's & Colitis Foundation",
             description: "Leading organization for IBD research and support.",
-            imageUrl: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.crohnscolitisfoundation.org"
           },
           {
             title: "American Gastroenterological Association",
             description: "Professional organization for digestive health.",
-            imageUrl: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.gastro.org"
           },
           {
             title: "International Organization for the Study of IBD",
             description: "Global research and education on IBD.",
-            imageUrl: "https://images.unsplash.com/photo-1576091160075-112de9d332ef?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ioibd.org"
           },
           {
             title: "IBD Support Group Directory",
             description: "Find local support groups and online communities.",
-            imageUrl: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ibdsupport.org"
           },
           {
             title: "Online IBD Communities",
             description: "Connect with others living with IBD.",
-            imageUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.healthline.com/health/crohns-disease/support-groups"
           },
           {
             title: "Patient Resources",
             description: "Educational materials and tools for IBD patients.",
-            imageUrl: "https://images.unsplash.com/photo-1516534775068-bb57e39c1016?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ccfa.org/resources"
           },
           {
             title: "ClinicalTrials.gov - IBD Studies",
             description: "Find ongoing research studies and clinical trials.",
-            imageUrl: "https://images.unsplash.com/photo-1576091167099-112de9d332f1?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://clinicaltrials.gov"
           },
           {
             title: "IBD Research Updates",
             description: "Latest news and findings in IBD research.",
-            imageUrl: "https://images.unsplash.com/photo-1576091160550-2173dba99999?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ccfa.org/research"
           },
           {
             title: "National Institutes of Health",
             description: "Government research on IBD and digestive diseases.",
-            imageUrl: "https://images.unsplash.com/photo-1576091160075-112de9d332c6?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.nih.gov"
           },
           {
             title: "IBD Facts and Statistics",
             description: "Comprehensive data on IBD prevalence and impact.",
-            imageUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ccfa.org/ibd-facts"
           },
           {
             title: "IBD Educational Videos",
             description: "Visual resources for understanding IBD.",
-            imageUrl: "https://images.unsplash.com/photo-1516534775068-bb57e39c1017?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.healthline.com/health/inflammatory-bowel-disease"
           },
           {
             title: "IBD Management Toolkits",
             description: "Practical guides for managing IBD symptoms.",
-            imageUrl: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80&fm=webp",
+            imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
             link: "https://www.ccfa.org/toolkits"
           }
         ]
@@ -447,3 +447,4 @@ IBD can affect fertility and pregnancy, but most people can have children:
     ]
   }
 ];
+

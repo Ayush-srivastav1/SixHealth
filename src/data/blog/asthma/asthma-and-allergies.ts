@@ -11,7 +11,7 @@ const asthmaAndAllergies = {
   publishDate: "2026-02-19",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1600959907703-125ba1374a12?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Allergy symptoms and breathing difficulty" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Allergy symptoms and breathing difficulty" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -25,7 +25,7 @@ When allergies and asthma occur together, the immune system reacts strongly to o
 <h2>How Allergies Trigger Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1582719478185-6c1d6b6c2c61?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Immune response and airway inflammation concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Immune response and airway inflammation concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -57,7 +57,7 @@ Identifying personal triggers is one of the most important steps in managing bot
 <h2>Symptoms of Allergic Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person experiencing allergy and asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person experiencing allergy and asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -80,7 +80,7 @@ Symptoms often worsen during allergy seasons or after exposure to indoor allerge
 <h2>Diagnosis and Allergy Testing</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Allergy testing and respiratory evaluation" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Allergy testing and respiratory evaluation" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -105,7 +105,7 @@ Accurate diagnosis allows for targeted treatment and trigger avoidance strategie
 <h2>Treatment Options</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Asthma and allergy treatment inhaler and medication" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Asthma and allergy treatment inhaler and medication" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -203,3 +203,4 @@ There is no cure, but symptoms can be effectively controlled with proper managem
 `};
 
 export default asthmaAndAllergies;
+

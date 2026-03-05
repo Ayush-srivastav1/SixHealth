@@ -10,10 +10,10 @@ reviewerRole: MD, Respiratory Medicine
 readTime: 18 min read
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=1200&h=800&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=444&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=1200&h=800&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=444&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 # What is Asthma? A Comprehensive Guide to Symptoms, Causes, and Management
 

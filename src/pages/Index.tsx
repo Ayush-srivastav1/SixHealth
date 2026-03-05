@@ -8,6 +8,7 @@ import {
 import { allArticles } from "@/data/allArticles";
 import { navigationCategories } from "@/data/categories";
 import { TrendingUp, ArrowRight, Play, ChevronRight } from "lucide-react";
+import { getImageUrl, imageLibrary } from '@/data/imageLibrary';
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 
@@ -17,7 +18,45 @@ const Index = () => {
   const latestArticles = allArticles.slice(5, 11);
   const popularArticles = allArticles.slice(0, 6);
 
-  const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];
+  // Assign unique images to avoid repeated thumbnails on the homepage
+  const assignUniqueImages = (articles: typeof allArticles) => {
+    const used = new Set<string>();
+    const topics = Object.keys(imageLibrary || {}).filter((k) => k !== 'default');
+    let rrIndex = 0;
+
+    return articles.map((a) => {
+      // Prefer topic-derived image; fall back to round-robin from the library
+      const preferredKey = ((a as any).categorySlug || (a as any).category || 'generalHealth') as string;
+      let img = getImageUrl(preferredKey);
+
+      if (used.has(img)) {
+        // find next unused topic in round-robin order
+        let tries = 0;
+        while (tries < topics.length && used.has(getImageUrl(topics[rrIndex % topics.length]))) {
+          rrIndex++;
+          tries++;
+        }
+        img = getImageUrl(topics[rrIndex % topics.length]);
+        rrIndex++;
+      }
+
+      used.add(img);
+      return { ...a, imageUrl: img };
+    });
+  };
+
+  const latestWithImages = assignUniqueImages(latestArticles);
+  const trendingWithImages = assignUniqueImages(trendingArticles);
+  const popularWithImages = assignUniqueImages(popularArticles.slice(0, 4));
+
+  // Ensure featured article has a topic image as well
+  const featuredWithImage = {
+    ...featuredArticle,
+    imageUrl: getImageUrl((featuredArticle as any).categorySlug || (featuredArticle as any).category || 'generalHealth'),
+  };
+
+  const categories: CategoryType[] = ["conditions", "wellness", "nutrition", "fitness", "lifestyle"];
+
   console.log("allArticles count:", allArticles.length);
   console.log("latestArticles:", latestArticles);
 
@@ -26,8 +65,21 @@ const Index = () => {
       {}
       <section className="relative">
         <picture>
-          <source srcSet="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1920&q=80&fm=webp" type="image/webp" />
-          <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1920&q=80" alt="Healthcare professionals" className="w-full h-[320px] object-cover block" />
+          <source
+            srcSet={(() => {
+              const u = getImageUrl('default');
+              return u.replace(/(\?|&)?w=\d+/g, '') + (u.includes('?') ? '&' : '?') + 'w=1920';
+            })()}
+            type="image/webp"
+          />
+          <img
+            src={(() => {
+              const u = getImageUrl('default');
+              return u.replace(/(\?|&)?w=\d+/g, '') + (u.includes('?') ? '&' : '?') + 'w=1920';
+            })()}
+            alt="Healthcare professionals"
+            className="w-full h-[320px] object-cover block"
+          />
         </picture>
 
         <div className="absolute inset-0 bg-black/45 flex items-center justify-center">
@@ -57,7 +109,7 @@ const Index = () => {
                 </Button>
               </div>
               <div className="grid gap-6 sm:grid-cols-2">
-                {latestArticles.map((article) => (
+                {latestWithImages.map((article) => (
                   <ArticleCard key={article.id} {...article} />
                 ))}
               </div>
@@ -72,7 +124,7 @@ const Index = () => {
               <div className="rounded-xl border bg-card p-6">
                 <h3 className="mb-4 font-semibold">Popular This Week</h3>
                 <div className="space-y-4">
-                  {popularArticles.slice(0, 4).map((article) => (
+                  {popularWithImages.map((article) => (
                     <ArticleCard key={article.id} {...article} compact />
                   ))}
                 </div>

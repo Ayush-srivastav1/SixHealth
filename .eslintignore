@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+public/
+tmp/
+tmp/**
+archive/
+tmp-dropdown-check/
+.cache/
+.vite/
+*.log
+*.lock

@@ -1,5 +1,5 @@
 import { useParams, Link, Navigate } from "react-router-dom";
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { 
   ArticleCard, 
   CategoryBadge, 
@@ -23,14 +23,16 @@ import {
 import { Button } from "@/components/ui/button";
 import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRenderer";
 import { cn } from "@/lib/utils";
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
+
 const slugify = (text: string) => {
   return text
     .toLowerCase()
     .replace(/[^\w\s-]/g, "")
     .replace(/[\s_-]+/g, "-")
     .replace(/^-+|-+$/g, "");
-};
+};
+
 interface Section {
   id: string;
   level: number;
@@ -63,7 +65,8 @@ const parseContent = (content: string) => {
       blocks.push({ type: 'h3', content: text, id: slugify(text) });
     } else if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
       currentList.push(trimmed.substring(2));
-    } else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
+    } else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
+
          flushList();
          blocks.push({ type: 'strong_p', content: trimmed.replace(/\*\*/g, '') });
     } else {
@@ -76,7 +79,8 @@ const parseContent = (content: string) => {
 };
 
 export default function AsthmaArticlePage() {
-  const { articleId } = useParams();
+  const { articleId } = useParams();
+
   const article: any = findArticleBySlug(articleId);
   const relatedArticles: any[] = article
     ? allArticles.filter(a => a.category === article.category && a.id !== article.id).slice(0, 3)
@@ -84,7 +88,7 @@ export default function AsthmaArticlePage() {
 
   if (!article) {
     return (
-      <Layout>
+      <ArticleLayout title="Article Not Found" toc={[]} relatedArticles={[]}>
         <div className="flex flex-col items-center justify-center min-h-[50vh] px-4">
           <h1 className="text-2xl font-bold mb-4">Article Not Found</h1>
           <p className="text-muted-foreground mb-6">The article you are looking for does not exist.</p>
@@ -92,13 +96,21 @@ export default function AsthmaArticlePage() {
             <Link to="/asthma">Return to Asthma Hub</Link>
           </Button>
         </div>
-      </Layout>
+      </ArticleLayout>
     );
-  }
-  const tocItems = getHeadingsFromContent(article.content).map(h => ({ id: slugify(h), label: h }));
+  }
+
+  const tocItems = getHeadingsFromContent(article.content).map(h => ({ id: slugify(h), text: h }));
 
   return (
-    <Layout>
+    <ArticleLayout
+      title={article.title}
+      heroImage={article.imageUrl}
+      author={article.author ? { name: article.author } : undefined}
+      published={article.date}
+      toc={tocItems}
+      relatedArticles={relatedArticles}
+    >
       <article>
         {}
         <header className="border-b bg-card">
@@ -176,23 +188,9 @@ export default function AsthmaArticlePage() {
 
         {}
         <div className="article-content pb-16 px-4 lg:px-8">
-          <div className="grid gap-12 lg:grid-cols-[1fr_300px] xl:gap-16">
-            {}
+          <div className="grid gap-12">
             <div className="min-w-0">
               {}
-              <div className="lg:hidden mb-8 rounded-lg border bg-muted/30 p-4">
-                <h3 className="font-semibold mb-2">In This Article</h3>
-                <ul className="space-y-2 text-sm">
-                  {tocItems.map(item => (
-                    <li key={item.id}>
-                      <a href={`#${item.id}`} className="text-muted-foreground hover:text-primary block py-1">
-                        {item.label}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-
               {}
               <div className="prose prose-slate max-w-none dark:prose-invert prose-headings:scroll-mt-24 prose-headings:font-bold prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-6 prose-p:text-lg prose-p:leading-relaxed prose-li:text-lg">
                 <ArticleContent content={article.content} />
@@ -237,64 +235,11 @@ export default function AsthmaArticlePage() {
                 </div>
               </div>
             </div>
-
-            {}
-            <aside className="space-y-8 hidden lg:block">
-              {}
-              <div className="sticky top-24">
-                <div className="mb-8">
-                    <h3 className="font-bold text-lg mb-4 px-2">Table of Contents</h3>
-                    <nav className="max-h-[calc(100vh-200px)] overflow-y-auto pl-2">
-                        <ul className="space-y-3 border-l-2 border-muted pl-4">
-                        {tocItems.map(item => (
-                            <li key={item.id}>
-                            <a 
-                                href={`#${item.id}`} 
-                                className="block text-sm text-muted-foreground hover:text-primary hover:font-medium transition-colors"
-                            >
-                                {item.label}
-                            </a>
-                            </li>
-                        ))}
-                        </ul>
-                    </nav>
-                </div>
-
-                <div className="space-y-6">
-                    <NewsletterSignup />
-                    <ArticleSidebar />
-                </div>
-              </div>
-            </aside>
           </div>
         </div>
 
         {}
-        {relatedArticles.length > 0 && (
-          <section className="bg-muted/30 py-16 border-t">
-            <div className="container max-w-7xl mx-auto px-4 lg:px-8">
-              <h2 className="text-2xl font-bold mb-8">Related Articles</h2>
-              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                {relatedArticles.map((article) => (
-                  <ArticleCard 
-                    key={article.id}
-                    title={article.title}
-                    excerpt={article.excerpt}
-                    slug={article.slug}
-                    category="conditions" 
-                    imageUrl={article.imageUrl}
-                    author={article.author}
-                    readTime={article.readTime}
-                    date={article.date}
-                    baseUrl="/asthma"
-                    className="bg-background"
-                  />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
       </article>
-    </Layout>
+    </ArticleLayout>
   );
 }

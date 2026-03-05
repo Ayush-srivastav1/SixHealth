@@ -1,0 +1,4514 @@
+Unsplash duplicate photo keys report
+Total unique keys: 487
+Duplicate keys: 459
+
+photo-1454023492551-3d65d2c4f3c2
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\types-of-asthma.ts
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1526256262350-7da4c6157f6a
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\types-of-asthma.ts
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1512621776951-1b1e6d8a6d6a
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-symptoms-diagnosis.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1531746020798-e6953c6e8e04
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-symptoms-diagnosis.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1609662226302-786571fdf67e
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-symptoms-diagnosis.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1498804103079-a6351b050096
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-symptoms-diagnosis.ts
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1556228578-8c89e6adf883
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-in-children.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1524230575278-9a0b3d2c2d3b
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-in-children.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1584480174307-6d6f42a3b523
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-in-children.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1522335618666-a8ca199e6e05
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-lifestyle.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1568166452873-b990c0dfac32
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-lifestyle.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1496307042754-b4aa456c4a2d
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-lifestyle.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1506126613408-eca07ce68773
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-lifestyle.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1571019614242-c5c5dee9f50b
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\adult-onset-asthma.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1584220815890-62b87adac204
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\adult-onset-asthma.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1607623814075-e51df1bdc82f
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\adult-onset-asthma.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1532609025046-53143e090255
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-and-allergies.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1505751172876-2b4f4b7f0a1b
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-and-allergies.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1576089541629-3ec6d7a28ba0
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-and-allergies.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1516314775683-debb67b4e889
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-and-allergies.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1489824904134-891ab64532f1
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blog\asthma\asthma-and-allergies.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1464454709131-ffd692591ee5
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1488459716781-6918f6066772
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1585518419759-fc5dae5d7f36
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1599599810694-e5e9f8f3e2e1
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1561070791-2526d30994b5
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1460661419201-fd4cecdf8a8b
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1557672172-298e090d0f80
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1514306688772-37c5693e0d88
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\blogData.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1551913400-1e029ce8c5c5
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1638550495892-7f50a01fbe9a
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1581322959214-b5e6b0c4bb39
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1562966978-8b4cbb05c8d0
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516062423079-7ca13cdc7f5a
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1530026405419-be7e0922dc52
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1550831107-1553e8acf12e
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160822-4a84a0055ffe
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-30f24dd49d3b
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582281420527-2eeba8af83f0
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160679-92efbfaff8b0
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1578747780570-13c7c2f15e19
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1490645935967-10de6ba17061
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\src\data\asthmaArticles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+source:1200x800/
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+  E:\sixhealth e file\dist\assets\index-D6fVml04.js
+
+photo-1505751172876-fa1923c5c528
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1485827404703-89b55fcc595e
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1580281658629-8d0d7c4d7f91
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1582719471384-894fbb16e074
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1582719478250-c89cae4dc85b
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1517694712202-14dd9538aa97
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1559757148-5c350d0d3c56
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160579-112173f7f869
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1512621776951-a57141f2eefd
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre-restore-backup\what-is-breast-cancer.tsx
+
+photo-1529148482759-b8fcb8792588
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1573496359142-b8d87734a775
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1618328198882-2b51be8b0337
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-01d82b9c3054
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580489944761-b60bbb06ed43
+  E:\sixhealth e file\IMAGE_AUDIT_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-xxx
+  E:\sixhealth e file\IMAGE_BEST_PRACTICES.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1559757175-5700dde675bc
+  E:\sixhealth e file\IMAGE_REFACTOR_SUMMARY.md
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1576169265665-a2b5c6b50f3c
+  E:\sixhealth e file\IMAGE_VALIDATION_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160069-112de9d332a5
+  E:\sixhealth e file\IMAGE_VALIDATION_REPORT.md
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1576091160399-1122a606b8d3
+  E:\sixhealth e file\IMAGE_VALIDATION_REPORT.md
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1501004318641-b39e6451bec6
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1532634896-26909d0d4a3a
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1518611012118-696072aa579a
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1581093588401-8f2f7c1d3f6b
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582719478142-0f3d2b0a7b9a
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1559757175-570cbb0f5c8e
+  E:\sixhealth e file\src\content\asthma\types-of-asthma.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1530026405186-ed1f139313f8
+  E:\sixhealth e file\src\content\asthma\what-is-asthma.md
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506905925346-21bda4d32df4
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1517836357463-d25dfeac3438
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1541781774459-bb2af2f05b55
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579684385127-1ef15d508118
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1544367567-0f2fcb009e0b
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1544005313-94ddf0286df2
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1545312164-1b2a7e3f1b5b
+  E:\sixhealth e file\src\data\articles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1584036561584-b03c19da874c
+  E:\sixhealth e file\src\data\blogData.healthConditions.backup.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1531177071261-7a9f0f1b6d7f
+  E:\sixhealth e file\src\data\blogData.healthConditions.backup.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1599872200326-842bc8d3f5af
+  E:\sixhealth e file\src\data\blogData.healthConditions.backup.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+
+photo-1587854692152-cbe660dbde44
+  E:\sixhealth e file\src\data\blogData.healthConditions.backup.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+
+photo-1576091160550-112173f31c77
+  E:\sixhealth e file\src\data\blogData.healthConditions.backup.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1576091160550-112de9d332a5
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160579-112de9d334a5
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1551836022-d5d88e9218df
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1587854692152-cbe660dbde36
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160075-112de9d332ef
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1529156069898-49953e39b3ac
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1552664730-d307ca884978
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516534775068-bb57e39c1016
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091167099-112de9d332f1
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173dba99999
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160075-112de9d332c6
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1454165804606-c3d57bc86b40
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516534775068-bb57e39c1017
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1531482615713-2afd69097998
+  E:\sixhealth e file\src\data\ibdArticles.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517836357463-d25ddfcbf042
+  E:\sixhealth e file\src\data\images.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1577720643272-265f434b9dff
+  E:\sixhealth e file\src\data\images.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1541033391-ae2c2b1d0c30
+  E:\sixhealth e file\src\data\images.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1631217b829f68188e0f97fbe91b83f8f8e9d4b5
+  E:\sixhealth e file\src\data\images.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1581092580496-3b1b6f4d6f6a
+  E:\sixhealth e file\src\data\images.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1515378791036-0648a3ef77b2
+  E:\sixhealth e file\src\what-is-breast-cancer.tsx
+  E:\sixhealth e file\tmp\pre-restore-backup\what-is-breast-cancer.tsx
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\recovered_breast_cancer\what-is-breast-cancer.tsx
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160550-2173dba999ef
+  E:\sixhealth e file\tmp\blogData_backup_2026-02-25.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+
+photo-1582719478176-2a1d9b6f8e7e
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+
+photo-1605902711622-cfb43c44367f
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1554284126-aa88f22d8f4b
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+
+photo-1526256262350-7da7584cf5eb
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+
+photo-1496317899792-9d7dbcd928a1
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+
+photo-1580281657521-36a2b6b1b0d3
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+
+photo-1498837167922-ddd27525d352
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+
+photo-1500530855697-b586d89ba3ee
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+
+photo-1544025162-d76694265947
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+
+photo-1470167290877-7d2a3b9f3a0f
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pe.json
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_articles.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1550831107-1553da8c8464
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+
+photo-1546484959-f4b3c1c8f6c0
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1509042239860-f550ce710b93
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1581579184675-3a8f0f4ad8b6
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1542744173-8e7e53415bb0
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1556740738-b6a63e27c4df
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1631217314830-e77992e560e1
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+
+photo-1586941487516-8f0258ca630d
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1506806732259-39c2d0268443
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1604149490776-04b2e6b63e5b
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\blogData_merged.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_blogData.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1631217314218-3e62f1bf8e8f
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_breastCancerSections.ts
+
+photo-1576091160822-fd45a1a2785f
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160822-5d20c8df27ca
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1557818735-69785c8d3fe0
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576086213369-97a306d36557
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160822-4e8229603b19
+  E:\sixhealth e file\tmp\pre_backup\src_data_breastCancerSections.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1508214751196-bcfd4ca60f91
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1588776814546-1ffcf47267a5
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160550-112173f7f869
+  E:\sixhealth e file\tmp\pre_backup\src_data_images.ts
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1631217021380-72794b2a6a22
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160399-112ba8d25d1d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1513224502586-d1e602410265
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1603398938378-e54eab446dde
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1527613426441-4da17471b66d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584362917165-526a968579e8
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1631217868264-e5b90bb7e133
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1559757175-0eb30cd8c063
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1581595219315-a187dd40c322
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1584515933487-779824d29309
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1579154204601-01588f351e67
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1505576399279-565b52d4ac71
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1492724441997-5dc865305da7
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1507003211169-0a1dd7228f2d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1581594693702-fbdc51b2763b
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1580281658629-0c5a1f7e8f35
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1534438327276-14e5300c3a48
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f169
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1520975922215-230c4c7c1a5c
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1571019613454-1cb2f99b2d8b
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1522335789203-aabd1fc54bc9
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1585435557343-3b092031a831
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1516302752625-fcc3c50ae61f
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1505693416388-ac5ce068fe85
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1579154204601-01d82e67e4e0
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1554284126-aa88f22d8b74
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1552674605-db6ffd4facb5
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1599058917212-d750089bc07e
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1508973378895-527fcdce3c56
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1554224155-6726b3ff858f
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1543353071-087092ec393a
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1524504388940-b1c1722653e1
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1532375810709-6a3b9f2d3f36
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1558611848-73f7eb4001d9
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1546484959-f6a9a7043c03
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517964603305-4c91a1f8f0da
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1522202176988-66273c2fd55f
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1546435770-a3e426bf472b
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1520975915497-9c3e9f6c8f0e
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1503676260728-1c00da094a0b
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1509099836639-18ba1795216d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1588776814546-ec7e7d6d7e8c
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1559056199-641a0ac8b3f4
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1495521821757-a1efb6729352
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584567595344-3f3f9abe2a10
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1505576399279-1b251fab0dd5
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1585414341624-a7a0ad1a3b7c
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1600298881974-6be191ceeda1
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582719365432-9e6d8d4d7a8a
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1554224155-8d04cb21cd6c
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1546069901-eacef0df6022
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281780460-82d2770c929f
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1588776814546-ec7e1b0f0f74
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1592496001020-8a41be42b8b3
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506459225024-1428097a7e18
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517336714731-489689fd1ca8
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584697964190-738a7c88b6a6
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1580281657527-47eaf8f4f61d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1504384308090-c894fdcc538d
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1491438590914-bc09fcaaf77a
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1500534314209-a25ddb2bd429
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1559839734-2b71ea197ec2
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160695-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1584308666744-24d5f400f6f9
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1631217314812-535f1f991db6
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1579154204601-01d82b27ebf9
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160690-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160699-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160675-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1631217314698-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160580-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160685-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160705-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160715-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160725-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160735-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160745-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160752-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160762-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160772-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160782-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160792-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160802-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160812-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160822-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160832-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160842-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160852-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160862-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160872-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160882-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160902-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160912-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160922-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160932-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160942-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160952-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160962-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160972-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160982-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160992-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160702-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160712-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160722-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160732-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160742-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160892-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160560-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160570-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160590-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160600-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160610-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160620-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160630-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160640-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160650-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160660-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160639-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160549-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160559-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f6f5
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f6f6
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160559-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160589-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160628-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160577-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160588-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160641-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160692-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160718-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160728-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160750-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160760-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160780-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160788-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160795-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160800-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160808-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160815-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160828-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160835-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160850-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160858-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160865-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160888-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160895-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160909-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160916-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160923-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160930-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160937-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160944-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160950-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160958-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160965-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160980-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160987-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160994-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091161001-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091161008-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091161015-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091161022-112173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1541123603104-852fc5d41b71
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1512941691920-25bdb36edc60
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-01d82b27d100
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1505628346881-b72b27e84530
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160550-112169f7f8f0
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517457373614-b7152f800fd1
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1576091160812-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160852-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160862-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1606811841689-23ace3c904b2
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160685-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160695-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160705-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160715-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160725-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160735-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160752-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160762-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160822-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160832-2173f31c77
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517994712202-5fc54e7129cc
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1516921318423-f06a590b4e3b
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1516826957519-5a7c2b32a8c6
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1517286428247-d1cc0fb8c83c
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1516828957519-5a7c2b32a8c6
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516912481808-846ec9ded34e
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1566073771259-6a8506099945
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1489749798305-4fea3ba63d60
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1526118613799-112421434ada
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1631217314830-e41d5ff5138f
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1514897575878-ccd0b43cfc94
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516969394944-6f03a7c26faf
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516928588374-20ae06bf1e41
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+
+photo-1516728267335-59b6b0ac8c14
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516920591595-6f40d6f82d87
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517288286528-025cac48a501
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516021318467-f06cacbe504e
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516823597251-b3d06d6e0b53
+  E:\sixhealth e file\tmp\replacement_plan.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1503454537195-1dcabb73ffb9
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584982751601-97dcc096659c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1507537297725-24a1c029d3ca
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1600959907703-125ba1374a12
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582719478185-6c1d6b6c2c61
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582719508461-905c673771fd
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1519494026892-80bbd2d6fd0d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1546069901-ba9599a7e63c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1571019613914-85f342c55f59
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1604908176997-4317e45e0c8d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1556228578-dd6c6b6e90d1
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516251193007-45ef944ab0c6
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1519027781531-1f0b4e2e77d6
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1521790797524-b2497295b8f7
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-112173f7f870
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1631217314832-c6227db76b6f
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204602-01d82b27d101
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516387938670-c8fdf578ac54
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160680-112122dee78c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160375-112122dee78c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160495-112122dee78c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-02d82b27d100
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1586985289688-cacf1ca15921
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1586985289688-cacf1ca15922
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160349-112122dee78c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1586985289688-cacf1ca15923
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1534438327276-14e5300c3a49
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1534438327276-14e5300c3a50
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1534438327276-14e5300c3a51
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1499887142886-fd1cac13d5d8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1499887142886-fd1cac13d5d9
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1499887142886-fd1cac13d5d10
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1499887142886-fd1cac13d5d11
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173f7f869d1
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173f7f869d2
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173f7f869d3
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173f7f869d4
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160355-f3f6b66f0e18
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160355-f3f6b66f0e19
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160355-f3f6b66f0e20
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160355-f3f6b66f0e21
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506126613408-eca07ce68774
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506126613408-eca07ce68775
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506126613408-eca07ce68776
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584503659536-a373625a51e6
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584503659536-a373625a51e7
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584503659536-a373625a51e8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584503659536-a373625a51e9
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160399-112122dee78c
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160399-112122dee78d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160399-112122dee78e
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160399-112122dee78f
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1556228578-8c89e6adf884
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1556228578-8c89e6adf885
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1556228578-8c89e6adf886
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1417604283796-e20aec5c03e6
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1417604283796-e20aec5c03e7
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1417604283796-e20aec5c03e8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1417604283796-e20aec5c03e9
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f170
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f171
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584308666744-24d5f400f172
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1517838277536-f5f99be501cd
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1599058917765-a780eda07a3e
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1549060279-7e168fcee0c2
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1511632765486-a01980e01a18
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1493836512294-502baa1986e2
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1511988617509-a57c8a288659
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1584515933487-779824d29307
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1600959907701-125ba1374a10
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-01588f351e65
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1597764690519-5c5e9f6b0c79
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281657527-47b1d47a4b1f
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1582719478147-2d1e58b8a7f6
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1498050108023-c5249f4df085
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1604908176997-125f25cc6f3d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281657527-47b7b1a4b9a8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516035069371-29a1b244cc32
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1528715471579-d1bcf0ba5e83
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1603398938378-7d4a6f6b5c2d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1527137342181-19aab11a8ee8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1521791136064-7986c2920216
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1529626455594-4ff0802cfb7e
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1599058917212-d750089bc07b
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516825592778-5c240fc8a424
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1506794778202-cad84cf45f1d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1571624436279-136fcf76f91e
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1500595046891-5b1f6fde99f4
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1516307365426-f06628340bbb
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1579154204601-01d82b27ebcc
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160677-112d6d749f6d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160393-112c9ce7e5a9
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576822924686-01fcc6738b95
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576087193922-4efd8e5d75e0
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1552456562-daf640c7d4c5
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1544716278-ca5e3af3abd8
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1614730321146-b6fa6a46bcb4
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160699-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160775-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160872-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160882-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1631217b1e6dbe8a3f2c2e4d13c51f8f
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160975-b2c3561b948d
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160550-112de9d332d0
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160675-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160745-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160772-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160782-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160792-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160802-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1576091160842-2173f31c77
+  E:\sixhealth e file\tmp\unsplash_duplicates.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281657521-3c6d6c9c3d2a
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1597764690520-7f19b49f4c4d
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1505577058444-a3dab90d4253
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281780460-82d277c0f3c0
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1520974735194-8b5f2b4d2b0f
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1518611012118-f7c5d6b9c0f3
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1543353071-10c8ba85a904
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1505576633757-0ac1084af824
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1556911220-e15b29be8c8f
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1472162314594-750a15b2c1b8
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1580281657522-77f7b6a9f1c5
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1510627498534-cf7e9002facc
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1559239115-cec7f5c8a6a3
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1546484959-f9a9b4c1a7c2
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1526406915890-585b57b2a9b5
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json
+
+photo-1527515637462-daf8f04b9c1b
+  E:\sixhealth e file\tmp\validation_report.json
+  E:\sixhealth e file\tmp\validation_report.json

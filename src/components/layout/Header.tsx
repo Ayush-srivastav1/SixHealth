@@ -39,8 +39,11 @@ export function Header() {
   const navigate = useNavigate();
   const location = useLocation();
 
-  const isSubPage = location.pathname !== "/";
+  const isSubPage = location.pathname !== "/";
+
   const [hovered, setHovered] = useState<string | null>(null);
+  const headerRef = useRef<HTMLDivElement | null>(null);
+  const [panelTop, setPanelTop] = useState<number | undefined>(undefined);
   const closeTimer = useRef<number | null>(null);
 
   const clearCloseTimer = useCallback(() => {
@@ -61,6 +64,21 @@ export function Header() {
     return () => clearCloseTimer();
   }, [clearCloseTimer]);
 
+  // compute dropdown top when opening so portal aligns under header
+  useEffect(() => {
+    if (!hovered) return;
+    const compute = () => {
+      const el = headerRef.current;
+      if (!el) return setPanelTop(72);
+      const rect = el.getBoundingClientRect();
+      setPanelTop(Math.round(rect.bottom));
+    };
+
+    compute();
+    window.addEventListener('resize', compute);
+    return () => window.removeEventListener('resize', compute);
+  }, [hovered]);
+
   const handleSearch = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter" && query.trim()) {
       setSuggestOpen(false);
@@ -72,7 +90,8 @@ export function Header() {
     const q = query.trim().toLowerCase();
     if (q.length < 2) return [];
     return searchContent(q).slice(0, 10).map((item) => ({ title: item.title, href: item.url, type: item.type, category: item.category }));
-  }, [query]);
+  }, [query]);
+
   useEffect(() => {
     const footer = document.querySelector('footer');
     if (!footer) return;
@@ -93,6 +112,15 @@ export function Header() {
     io.observe(footer);
     return () => io.disconnect();
   }, []);
+
+  // Close any open dropdown when navigation occurs (e.g., user clicked a link)
+  useEffect(() => {
+    // Immediately hide dropdowns on route change so the new page isn't covered
+    setHovered(null);
+    setSuppressDropdown(false);
+    setSuggestOpen(false);
+    setMobileMenuOpen(false);
+  }, [location.pathname]);
 
   return (
     <>
@@ -153,14 +181,15 @@ export function Header() {
       </div>
 
       {}
-      <header className="bg-black sticky top-0 z-50" style={{overflow: 'visible'}}>
+      <header ref={headerRef} className="bg-black sticky top-0 z-50" style={{overflow: 'visible'}}>
         <div className="relative max-w-[1280px] mx-auto px-6 h-[72px] flex items-stretch justify-between" style={{overflow: 'visible'}}>
           <div className="flex items-center text-white text-2xl font-bold">SixHealth</div>
 
           <nav className="absolute inset-x-0 top-0 h-full flex items-center justify-center" style={{overflow: 'visible'}}>
             <ul className="flex items-center gap-6 text-sm font-semibold text-white h-full" style={{overflow: 'visible'}}>
               {categories.map((category) => {
-                const isHub = ["health-conditions","wellness","tools","featured","connect"].includes(category.id);
+                const isHub = ["health-conditions","wellness","tools","featured","connect"].includes(category.id);
+
                 const allLinks: { title: string; href: string }[] = [];
                 for (const link of category.extraLinks || []) {
                   const l = link as unknown as { title: string; href?: string; subLinks?: Array<{ title: string; href: string }> };
@@ -194,17 +223,19 @@ export function Header() {
           </nav>
 
           {}
-          {hovered && !dropdownHiddenByFooter && !suppressDropdown && (
+          {hovered && (
             (() => {
               const active = categories.find((c) => c.id === hovered);
-              if (!active) return null;
+              if (!active) return null;
+
               let columns: Array<Array<{ title: string; href: string }>> = [];
               if (active.id === 'featured') {
                 const entries = Object.entries(featuredList).map(([slug, title]) => ({ title, href: `/featured/${slug}` }));
                 const colCount = 4;
                 const perCol = Math.max(1, Math.ceil(entries.length / colCount));
                 columns = Array.from({ length: colCount }, (_, i) => entries.slice(i * perCol, (i + 1) * perCol));
-              } else {
+              } else {
+
                 const allLinks: { title: string; href: string }[] = [];
                 for (const link of active.extraLinks || []) {
                   const l = link as unknown as { title: string; href?: string; subLinks?: Array<{ title: string; href: string }> };
@@ -222,46 +253,92 @@ export function Header() {
 
               const gridColsClass = active.id === 'featured' || active.id === 'health-conditions' ? 'grid-cols-4' : 'grid-cols-3';
 
+              const isOpen = !!(hovered && !dropdownHiddenByFooter && !suppressDropdown);
+
               return (
-                <div onMouseEnter={() => clearCloseTimer()} onMouseLeave={() => scheduleClose()}>
                   <NavDropdownPanel
+                    onMouseEnter={() => clearCloseTimer()}
+                    onMouseLeave={() => scheduleClose()}
+                    topOverride={panelTop}
                     className={cn(
-                      "absolute left-0 right-0 top-full w-full z-[999] transition-all duration-200",
+                      "transition-all duration-200",
                       {
-                        'opacity-0 pointer-events-none translate-y-2': false,
-                        'opacity-100 pointer-events-auto translate-y-0': true,
+                        'opacity-0 pointer-events-none translate-y-2': !isOpen,
+                        'opacity-100 pointer-events-auto translate-y-0': isOpen,
                       }
                     )}
-                    panelClassName="mx-auto max-w-[1280px] px-20 py-10 bg-[#f5efe6] shadow-[0_8px_20px_rgba(0,0,0,0.08)] rounded-md"
+                    panelClassName="w-full px-20 py-10 bg-[#f5efe6] shadow-[0_8px_20px_rgba(0,0,0,0.08)] rounded-md"
                   >
                     <div className={cn("grid gap-10", gridColsClass)}>
-                      {active.id === 'featured' ? (
+                      {active.id === 'featured' ? (
+
                         columns.map((col, i) => (
                           <div key={i}>
                             <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">{["Health News", "This Just In", "Top Reads", "Video Series"][i] || `Column ${i+1}`}</h5>
-                            <div className="space-y-1">{col?.map((l) => (<Link key={l.title} to={l.href} onClick={() => setSuppressDropdown(true)} className="block py-1.5 text-sm text-gray-700 hover:text-[#0b5fff] font-medium">{l.title}</Link>))}</div>
+                            <div className="space-y-1">{col?.map((l) => (
+                              <Link
+                                key={l.title}
+                                to={l.href}
+                                onClick={() => { setHovered(null); setSuppressDropdown(true); }}
+                                className="block py-1.5 text-sm text-gray-700 font-medium transform transition duration-150 ease-out hover:-translate-y-1 hover:text-[#0b5fff]"
+                              >
+                                {l.title}
+                              </Link>
+                            ))}</div>
                           </div>
                         ))
                       ) : (
                         <>
                           <div>
                             <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">{active.title}</h5>
-                            <div className="space-y-1">{columns[0]?.map((l) => (<Link key={l.title} to={l.href} onClick={() => setSuppressDropdown(true)} className="block py-1.5 text-sm text-gray-700 hover:text-[#0b5fff] font-medium">{l.title}</Link>))}</div>
+                            <div className="space-y-1">{columns[0]?.map((l) => (
+                              <Link
+                                key={l.title}
+                                to={l.href}
+                                onClick={() => { setHovered(null); setSuppressDropdown(true); }}
+                                className="block py-1.5 text-sm text-gray-700 font-medium transform transition duration-150 ease-out hover:-translate-y-1 hover:text-[#0b5fff]"
+                              >
+                                {l.title}
+                              </Link>
+                            ))}</div>
                           </div>
                           <div>
                             <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">Column 2</h5>
-                            <div className="space-y-1">{columns[1]?.map((l) => (<Link key={l.title} to={l.href} onClick={() => setSuppressDropdown(true)} className="block py-1.5 text-sm text-gray-700 hover:text-[#0b5fff] font-medium">{l.title}</Link>))}</div>
+                            <div className="space-y-1">{columns[1]?.map((l) => (
+                              <Link
+                                key={l.title}
+                                to={l.href}
+                                onClick={() => { setHovered(null); setSuppressDropdown(true); }}
+                                className="block py-1.5 text-sm text-gray-700 font-medium transform transition duration-150 ease-out hover:-translate-y-1 hover:text-[#0b5fff]"
+                              >
+                                {l.title}
+                              </Link>
+                            ))}</div>
                           </div>
                           <div>
                             <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">Column 3</h5>
-                            <div className="space-y-1">{columns[2]?.map((l) => (<Link key={l.title} to={l.href} onClick={() => setSuppressDropdown(true)} className="block py-1.5 text-sm text-gray-700 hover:text-[#0b5fff] font-medium">{l.title}</Link>))}</div>
+                            <div className="space-y-1">{columns[2]?.map((l) => (
+                              <Link
+                                key={l.title}
+                                to={l.href}
+                                onClick={() => { setHovered(null); setSuppressDropdown(true); }}
+                                className="block py-1.5 text-sm text-gray-700 font-medium transform transition duration-150 ease-out hover:-translate-y-1 hover:text-[#0b5fff]"
+                              >
+                                {l.title}
+                              </Link>
+                            ))}</div>
                           </div>
                           {active.id === 'health-conditions' && (
                             <div>
                               <h5 className="text-sm font-bold text-gray-900 uppercase tracking-wide mb-4">Condition Spotlight</h5>
                               <div className="space-y-3">
                                 {spotlight.map((item) => (
-                                  <Link to={item.link} key={item.title} className="flex items-center gap-3 py-2 hover:underline">
+                                  <Link
+                                    to={item.link}
+                                    key={item.title}
+                                    onClick={() => { setHovered(null); setSuppressDropdown(true); }}
+                                    className="flex items-center gap-3 py-2 hover:underline transform transition duration-150 ease-out hover:translate-x-1 hover:scale-[1.02]"
+                                  >
                                     <img src={item.icon} alt={item.title} className="w-12 h-12 rounded-full bg-white p-1 object-contain" />
                                     <span className="text-sm font-medium text-gray-900">{item.title}</span>
                                   </Link>
@@ -273,7 +350,6 @@ export function Header() {
                       )}
                     </div>
                   </NavDropdownPanel>
-                </div>
               );
             })()
           )}

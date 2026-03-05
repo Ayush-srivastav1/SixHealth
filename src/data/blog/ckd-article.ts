@@ -1,6 +1,6 @@
 const ckdArticle = `
 <h1>Chronic Kidney Disease: Understanding, Slowing Progression, and Living Well</h1>
-<p><strong>Image:</strong> <img src="/images/ckd.webp" alt="Healthcare professional reviewing kidney scan" /></p>
+<p><strong>Image:</strong> <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Healthcare professional reviewing kidney scan" /></p>
 
 <h2>Introduction</h2>
 <p>Chronic kidney disease (CKD) is a gradual loss of kidney function over time. It may progress to kidney failure (end-stage renal disease) requiring dialysis or transplant, but many people live for years with stable CKD when it is detected early and managed effectively. CKD is common — largely driven by diabetes, high blood pressure, and aging — and often has few symptoms in early stages, which is why screening in at-risk populations is important.</p>
@@ -35,3 +35,4 @@ const ckdArticle = `
 `;
 
 export default ckdArticle;
+

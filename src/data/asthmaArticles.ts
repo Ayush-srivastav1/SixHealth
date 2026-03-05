@@ -26,7 +26,7 @@ export const asthmaSections = [
           title: "What is Asthma? A Comprehensive Guide to Symptoms, Causes, and Management",
           excerpt: "Asthma is a chronic inflammatory disease of the airways causing breathing difficulties. Learn about its causes, risk factors, and how it affects the lungs in this detailed guide.",
           category: "Basics",
-          imageUrl: "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&h=600&fit=crop",
+          imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
           author: "Dr. Sarah Mitchell",
           authorRole: "Pulmonologist",
           reviewer: "Dr. James Wilson",
@@ -132,7 +132,7 @@ export const asthmaSections = [
          title: "Modern Asthma Treatments: From Inhalers to Biologics",
          excerpt: "Explore the latest advancements in asthma care, including smart inhalers and biologic therapies for severe cases.",
          category: "Treatment",
-         imageUrl: "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800&h=600&fit=crop",
+         imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
          author: "Dr. Alan Grant",
          authorRole: "Clinical Researcher",
          reviewer: "Dr. Sarah Mitchell",
@@ -141,7 +141,7 @@ export const asthmaSections = [
          date: "Feb 14, 2026",
          updatedDate: "Feb 14, 2026",
         content: `
-      ![Inhalers and spacer on table](https://images.unsplash.com/photo-1584362917165-526a968579e8?w=1200&h=800&fit=crop)
+      ![Inhalers and spacer on table](https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp
       *Photo: Inhaler devices and spacers help deliver asthma medication effectively.*
 
       **By:** Dr. Alan Grant, Clinical Researcher — Dr. Grant researches inhaler strategies and biologic therapies for severe asthma.
@@ -284,7 +284,7 @@ export const asthmaSections = [
         title: "Types of Asthma — Phenotypes, Triggers, and Treatment Implications",
         excerpt: "Asthma is a heterogeneous disease with multiple types (phenotypes). Learn how each type differs in triggers, tests, and tailored treatments.",
         category: "Basics",
-        imageUrl: "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800&h=600&fit=crop",
+        imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "SixHealth Editorial Team",
         authorRole: "",
         reviewer: "Dr. James Wilson",
@@ -293,7 +293,7 @@ export const asthmaSections = [
         date: "Feb 10, 2026",
         updatedDate: "Feb 15, 2026",
         content: `
-    ![Lung diagram and inhaler](https://images.unsplash.com/photo-1584362917165-526a968579e8?w=1200&h=800&fit=crop)
+    ![Lung diagram and inhaler](https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp
     *Photo: Visualizing airway inflammation helps explain different asthma phenotypes.*
 
     **By:** SixHealth Editorial Team — content reviewed by subject-matter experts.
@@ -589,7 +589,7 @@ export const asthmaSections = [
         title: "Asthma in Children: Symptoms, Diagnosis, and Family-Focused Management",
         excerpt: "A practical guide for parents and caregivers: recognizing symptoms, navigating testing, and building an effective asthma action plan for children.",
         category: "Children",
-        imageUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=1200&h=800&fit=crop",
+        imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Dr. Sarah Mitchell",
         authorRole: "Pediatric Pulmonologist",
         reviewer: "Dr. James Wilson",
@@ -598,7 +598,7 @@ export const asthmaSections = [
         date: "Feb 16, 2026",
         updatedDate: "Feb 16, 2026",
         content: `
-![Child using an inhaler with caregiver](https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=1600&h=900&fit=crop)
+![Child using an inhaler with caregiver](https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp
 *Photo: Prompt recognition and proper inhaler technique help children stay active and safe.*
 
 **By:** Dr. Sarah Mitchell, Pediatric Pulmonologist
@@ -726,7 +726,7 @@ Managing childhood asthma is a team effort — parents, clinicians, schools, and
         title: "Diet and Exercise for Asthma Control",
         excerpt: "How your lifestyle choices impact your asthma. Tips for safe exercise and anti-inflammatory foods.",
         category: "Lifestyle",
-        imageUrl: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop",
+        imageUrl: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
         author: "Lisa Ray, RD",
         authorRole: "Nutritionist",
         reviewer: "Dr. James Wilson",
@@ -735,7 +735,7 @@ Managing childhood asthma is a team effort — parents, clinicians, schools, and
         date: "Feb 08, 2026",
         updatedDate: "Feb 08, 2026",
         content: `
-      ![Healthy foods and exercise for lung health](https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=1200&h=800&fit=crop)
+      ![Healthy foods and exercise for lung health](https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp
       *Photo: Diet and safe exercise support lung health and asthma control.*
 
       **By:** Lisa Ray, RD — Nutritionist specializing in respiratory-friendly diets.
@@ -832,3 +832,4 @@ Managing childhood asthma is a team effort — parents, clinicians, schools, and
     ]
   }
 ];
+

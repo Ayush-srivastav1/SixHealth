@@ -1,94 +1,62 @@
 import React from 'react'
+import ArticleLayout from '@/components/ArticleLayout'
 import LymphedemaCard from '../components/LymphedemaCard'
 
 export default function LymphedemaCare() {
+  const toc = [
+    { id: 'overview', text: 'Overview' },
+    { id: 'causes', text: 'Causes and Risk Factors' },
+    { id: 'symptoms', text: 'Symptoms and Signs' },
+    { id: 'diagnosis', text: 'Diagnosis and Imaging' },
+    { id: 'staging', text: 'Staging and Severity' },
+    { id: 'management', text: 'Management and Treatment Overview' },
+    { id: 'compression', text: 'Compression Therapy' },
+    { id: 'mld', text: 'Manual Lymphatic Drainage (MLD)' },
+    { id: 'exercise', text: 'Exercise and Movement' },
+    { id: 'skin', text: 'Skin and Infection Care' },
+    { id: 'surgery', text: 'Surgical Options' },
+    { id: 'daily', text: 'Daily Living and Self-Care' },
+    { id: 'psychosocial', text: 'Psychosocial Impact and Support' },
+    { id: 'faqs', text: 'Frequently Asked Questions' },
+    { id: 'related', text: 'Related Articles & Guides' },
+    { id: 'resources', text: 'Resources & Further Reading' },
+  ]
+
+  const related = [
+    { slug: 'breast-cancer-lymphedema', title: 'Breast cancer & upper-limb lymphedema' },
+    { slug: 'compression-garments-guide', title: 'Compression garments: selection and care' },
+    { slug: 'manual-lymphatic-drainage', title: 'Manual lymphatic drainage: techniques' },
+  ]
+
   return (
-    <main className="max-w-6xl mx-auto px-4 py-8">
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-        <article className="prose lg:prose-lg lg:col-span-3">
-          <header className="mb-6">
-            <img
-              src="/placeholder.svg"
-              onError={(e: any) => { e.target.src = 'https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=1b3c9d2c0e9f0e5b8b3f0d7f3e2d8a4a' }}
-              alt="Lymphedema care"
-              className="w-full h-64 object-cover rounded-md shadow-sm mb-6"
-            />
-            <h1 className="text-3xl font-extrabold">Lymphedema Care: A Comprehensive Guide</h1>
-            <p className="text-gray-600">Evidence-based guidance, practical self-care strategies, and treatment pathways for people living with lymphedema.</p>
+    <ArticleLayout
+      title="Lymphedema Care: A Comprehensive Guide"
+      heroImage="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
+      published="February 06, 2026"
+      author={{ name: 'Dr. Maya Patel, MSc (Physiotherapy)', role: 'Reviewed by: Prof. Daniel Reed, MD (Lymphology)' }}
+      toc={toc}
+      relatedArticles={related}
+    >
+      <div className="prose lg:prose-lg">
+        <div className="mb-6">
+          <LymphedemaCard />
+        </div>
 
-            <div className="mt-4 text-sm text-gray-700">
-              <div><strong>Author:</strong> Editorial Team • <strong>Medical review:</strong> Dr. Maya Patel, MSc (Physiotherapy)</div>
-              <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
-            </div>
+        <p>
+          Lymphedema is a chronic disorder of the lymphatic system that results in localized fluid retention and tissue swelling. The lymphatic system plays a critical role in immune function and fluid balance; when its vessels or nodes are blocked, removed, or impaired, lymphatic fluid can accumulate and cause progressive swelling, skin changes, and an increased risk for infection.
+        </p>
 
-            <div className="mt-6 flex items-center gap-3">
-              <div className="flex items-center gap-2 text-sm text-gray-700">
-                <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3M3 11h18M5 19h14M12 11v8"/></svg>
-                <span>Medically reviewed</span>
-              </div>
-              <div className="ml-auto flex gap-2">
-                <button className="px-3 py-1 bg-blue-600 text-white rounded text-sm">Share • Facebook</button>
-                <button className="px-3 py-1 bg-blue-400 text-white rounded text-sm">Share • Twitter</button>
-                <button className="px-3 py-1 bg-gray-200 text-gray-800 rounded text-sm">Copy link</button>
-              </div>
-            </div>
-          </header>
-        <header className="mb-6">
-          <img
-            src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=1b3c9d2c0e9f0e5b8b3f0d7f3e2d8a4a"
-            alt="Lymphedema care"
-            className="w-full h-64 object-cover rounded-md shadow-sm mb-6"
-          />
-          <h1 className="text-3xl font-extrabold">Lymphedema Care: A Comprehensive Guide</h1>
-          <p className="text-gray-600">Practical guidance, treatment options, and everyday strategies to manage lymphedema safely and effectively.</p>
+        <p>
+          The condition ranges from mild, intermittent swelling to severe, disfiguring tissue change. It can develop weeks, months, or even years after an initiating event — particularly after cancer treatment that includes lymph node removal or radiation. Early recognition and prompt management slow progression, reduce complications, and preserve limb function.
+        </p>
 
-          <div className="mt-4 text-sm text-gray-700">
-            <strong>Author:</strong> Dr. Maya Patel, MSc (Physiotherapy) • <strong>Reviewed by:</strong> Prof. Daniel Reed, MD (Lymphology)
-            <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
-          </div>
-        </header>
+        <p>
+          This page consolidates practical, evidence-based approaches: how clinicians diagnose lymphedema, the role of conservative therapies, surgical options for selected patients, daily self-care steps, and how to access support. It also includes tips for travel, exercise programming, and psychosocial support because lymphedema affects both body and everyday life.
+        </p>
 
-        <nav className="hidden lg:block lg:col-span-1">
-          <div className="sticky top-24 space-y-4">
-            <div>
-              <LymphedemaCard />
-            </div>
-            <div className="bg-white border rounded p-4">
-              <h3 className="font-semibold text-sm">On this page</h3>
-              <ul className="mt-3 text-sm space-y-2 text-gray-700">
-                <li><a href="#overview" className="hover:underline">Overview</a></li>
-                <li><a href="#causes" className="hover:underline">Causes & risk factors</a></li>
-                <li><a href="#symptoms" className="hover:underline">Symptoms</a></li>
-                <li><a href="#diagnosis" className="hover:underline">Diagnosis</a></li>
-                <li><a href="#management" className="hover:underline">Management & treatment</a></li>
-                <li><a href="#compression" className="hover:underline">Compression</a></li>
-                <li><a href="#mld" className="hover:underline">Manual lymphatic drainage</a></li>
-                <li><a href="#exercise" className="hover:underline">Exercise</a></li>
-                <li><a href="#skin" className="hover:underline">Skin care</a></li>
-                <li><a href="#surgery" className="hover:underline">Surgery</a></li>
-                <li><a href="#daily" className="hover:underline">Daily living</a></li>
-                <li><a href="#psychosocial" className="hover:underline">Support</a></li>
-                <li><a href="#faqs" className="hover:underline">FAQs</a></li>
-              </ul>
-            </div>
-          </div>
-        </nav>
-
-        <section id="overview">
-          <h2>Overview</h2>
-          <p>
-            Lymphedema is a chronic disorder of the lymphatic system that results in localized fluid retention and tissue swelling. The lymphatic system plays a critical role in immune function and fluid balance; when its vessels or nodes are blocked, removed, or impaired, lymphatic fluid can accumulate and cause progressive swelling, skin changes, and an increased risk for infection.
-          </p>
-          <p>
-            The condition ranges from mild, intermittent swelling to severe, disfiguring tissue change. It can develop weeks, months, or even years after an initiating event — particularly after cancer treatment that includes lymph node removal or radiation. Early recognition and prompt management slow progression, reduce complications, and preserve limb function.
-          </p>
-          <p>
-            This page consolidates practical, evidence-based approaches: how clinicians diagnose lymphedema, the role of conservative therapies, surgical options for selected patients, daily self-care steps, and how to access support. It also includes tips for travel, exercise programming, and psychosocial support because lymphedema affects both body and everyday life.
-          </p>
-          <p>
-            Practical example: a patient who develops mild arm swelling after breast cancer surgery can often reverse that early swelling with targeted compression, exercise, and skin care — while people with longstanding, fibrotic changes may need lifelong maintenance and, in select cases, surgical intervention.
-          </p>
-        </section>
+        <p>
+          Practical example: a patient who develops mild arm swelling after breast cancer surgery can often reverse that early swelling with targeted compression, exercise, and skin care — while people with longstanding, fibrotic changes may need lifelong maintenance and, in select cases, surgical intervention.
+        </p>
 
         <section id="causes">
           <h2>Causes and Risk Factors</h2>
@@ -104,7 +72,7 @@ export default function LymphedemaCare() {
           <p>
             Patient factors that raise risk after surgery or radiation include higher body mass index, older age, extensive node removal, postoperative wound complications, and limited mobility. Identifying risk pre-treatment enables targeted prevention: education on skin care, early detection, and referral to physiotherapy or lymphedema services when early signs appear.
           </p>
-        </section>
+        {/* Related articles moved to the right-hand sidebar via ArticleLayout; in-content duplicate removed */}
 
         <section id="symptoms">
           <h2>Symptoms and Signs</h2>
@@ -537,8 +505,8 @@ export default function LymphedemaCare() {
             Disclaimer: This article is intended for educational purposes and does not replace individualized medical advice. Consult a specialist for diagnosis and a personalized management plan.
           </p>
         </footer>
-      </article>
       </div>
-    </main>
+    </ArticleLayout>
   )
 }
+

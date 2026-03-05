@@ -56,7 +56,7 @@ const HearingHealth: React.FC = () => {
       <Layout>
         <div className="bg-white min-h-screen text-gray-900">
           <div className="relative w-full h-96 bg-cover bg-center" style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=1200&fm=webp&q=70)',
+            backgroundImage: 'url(https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp',
             backgroundColor: '#f3f4f6'
           }}>
             <div className="absolute inset-0 bg-black bg-opacity-40"></div>
@@ -123,7 +123,7 @@ const HearingHealth: React.FC = () => {
     <Layout>
       <div className="bg-white min-h-screen text-gray-900">
         <div className="relative w-full h-96 bg-cover bg-center" style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=1200&fm=webp&q=70)',
+          backgroundImage: 'url(https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp',
           backgroundColor: '#f3f4f6'
         }}>
           <div className="absolute inset-0 bg-black bg-opacity-40"></div>
@@ -142,3 +142,4 @@ const HearingHealth: React.FC = () => {
 };
 
 export default HearingHealth;
+

@@ -11,10 +11,10 @@ byline: "Medically reviewed by Dr. James Wilson — Written by Dr. Sarah Mitchel
 readTime: "15 min read"
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1584362917165-526a968579e8?w=1200&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=449&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1584362917165-526a968579e8?w=1200&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=449&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 # Types of Asthma — Phenotypes, Triggers, and Treatment Implications
 

@@ -65,7 +65,7 @@ function renderMarkdownLite(md: string) {
 
 export default function EarlyDetectionCard({
   title,
-  image = "/images/early-detection.jpg",
+  image = "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   content,
   author = "SixHealth Editorial Team",
   reviewer = "Dr. Faith Selchick, DNP, AOCNP",
@@ -133,3 +133,4 @@ export default function EarlyDetectionCard({
     </article>
   );
 }
+

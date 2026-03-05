@@ -11,7 +11,7 @@ const asthmaInChildren = {
   publishDate: "2026-02-19",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Child using inhaler" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Child using inhaler" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -25,7 +25,7 @@ Understanding how asthma affects children differently from adults is essential f
 <h2>How Asthma Affects Children</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Respiratory care concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Respiratory care concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -39,7 +39,7 @@ Symptoms may come and go, but asthma is a long-term condition. Some children may
 <h2>Common Symptoms in Children</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Child asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Child asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -80,7 +80,7 @@ Parents should observe when symptoms worsen and work with healthcare providers t
 <h2>Diagnosis of Childhood Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Child medical checkup" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Child medical checkup" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -94,7 +94,7 @@ Allergy testing may also be recommended to identify environmental triggers.
 <h2>Treatment and Medication</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Child asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Child asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -180,3 +180,4 @@ Low-dose inhaled steroids are considered safe and are important for long-term as
 `};
 
 export default asthmaInChildren;
+

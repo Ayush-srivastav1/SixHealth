@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { findArticleBySlug } from "@/data/allArticles";
 import { asthmaSections } from "@/data/asthmaArticles";
 import {
@@ -18,10 +18,13 @@ import { ArticleContent, getHeadingsFromContent } from "@/components/ArticleRend
 import type { Article as ArticleType } from "@/types/article";
 
 export default function AsthmaArticlePage() {
-  const { slug } = useParams<{ slug: string }>();
+  const { slug } = useParams<{ slug: string }>();
+
   const article = findArticleBySlug(slug) as ArticleType | undefined;
-  const sectionTitle = article?.category || "Asthma";
-  const sections = asthmaSections;
+  const sectionTitle = article?.category || "Asthma";
+
+  const sections = asthmaSections;
+
   if (!article) {
     return (
       <Layout>
@@ -47,10 +50,30 @@ export default function AsthmaArticlePage() {
     day: "numeric",
   });
 
+  const slugify = (text: string) =>
+    text
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+
   const tocH2Headings = getHeadingsFromContent(article.content);
+  const tocItems = tocH2Headings.map((title: string) => ({ id: slugify(title), text: title }));
+
+  const related = sections
+    .flatMap((s) => s.articles)
+    .filter((a) => a.slug !== slug)
+    .slice(0, 6)
+    .map((a) => ({ title: a.title, slug: a.slug, href: `/asthma/article/${a.slug}` }));
 
   return (
-    <Layout>
+    <ArticleLayout
+      title={article.title}
+      heroImage={article.imageUrl}
+      author={{ name: 'Editorial Team' }}
+      published={articleDate}
+      toc={tocItems}
+      relatedArticles={related}
+    >
       <article>
         {}
         <header className="border-b bg-white">
@@ -148,56 +171,14 @@ export default function AsthmaArticlePage() {
               </div>
             </div>
 
-            {}
-            <div className="lg:col-span-1">
-              <div className="sticky top-4">
-                <div className="bg-gray-50 border rounded-lg p-6">
-                  <h3 className="flex items-center gap-2 font-bold text-lg mb-4 text-gray-900">
-                    <BookOpen className="h-5 w-5" />
-                    On this page
-                  </h3>
-                  <nav className="space-y-2 text-sm">
-                    <a href="#intro" className="text-blue-600 hover:text-blue-700 block">
-                      Overview
-                    </a>
-                    {tocH2Headings.map((heading: string, idx: number) => {
-                      const title = heading
-                      const id = title.toLowerCase().replace(/[^a-z0-9]+/g, '-')
-                      return (
-                        <a key={idx} href={`#${id}`} className="text-blue-600 hover:text-blue-700 block">
-                          {title}
-                        </a>
-                      )
-                    })}
-                  </nav>
-                </div>
-              </div>
-            </div>
+            {/* TOC moved to `ArticleLayout` (left column); removed per-page 'On this page' card */}
           </div>
 
           {}
-          <div className="mt-16 pt-8 border-t">
-            <h3 className="text-2xl font-bold text-gray-900 mb-6">Read this next</h3>
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {sections.flatMap(section =>
-                section.articles.filter(a => a.slug !== slug).slice(0, 3).map(relArticle => (
-                  <Link
-                    key={relArticle.id}
-                    to={`/asthma/article/${relArticle.slug}`}
-                    className="block p-4 bg-white border rounded hover:shadow-md transition"
-                  >
-                    <h4 className="font-semibold text-gray-900 mb-2 line-clamp-2">
-                      {relArticle.title}
-                    </h4>
-                    <p className="text-sm text-blue-600 font-semibold">READ MORE →</p>
-                  </Link>
-                ))
-              )}
-            </div>
-          </div>
+          {/* Related articles are rendered by the shared ArticleLayout sidebar; removed duplicate grid */}
         </div>
       </article>
-    </Layout>
+    </ArticleLayout>
   );
 }
 

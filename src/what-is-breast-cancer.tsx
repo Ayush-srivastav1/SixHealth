@@ -1,15 +1,49 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import ArticleLayout from '@/components/ArticleLayout'
 
 export default function WhatIsBreastCancer() {
+  const toc = [
+    { id: 'introduction', text: 'Introduction' },
+    { id: 'basics', text: 'How breast cancer develops' },
+    { id: 'types-subtypes', text: 'Types & subtypes' },
+    { id: 'risk-factors-prevention', text: 'Risk & prevention' },
+    { id: 'screening-early-detection', text: 'Screening' },
+    { id: 'signs-symptoms', text: 'Signs & symptoms' },
+    { id: 'diagnosis-staging', text: 'Diagnosis & staging' },
+    { id: 'treatment-planning', text: 'Treatment planning' },
+    { id: 'surgery-options', text: 'Surgery' },
+    { id: 'radiation-therapy', text: 'Radiation' },
+    { id: 'systemic-therapy', text: 'Systemic therapy' },
+    { id: 'managing-side-effects', text: 'Side effects' },
+    { id: 'survivorship', text: 'Survivorship' },
+    { id: 'resources-links', text: 'Resources' },
+  ]
+
+  const relatedArticles = [
+    { slug: 'radiation-therapy-guide', title: 'Radiation Therapy Guide', href: '/radiation-therapy-guide' },
+    { slug: 'lymphedema-care', title: 'Lymphedema Care', href: '/lymphedema-care' },
+    { slug: 'breast-cancer', title: 'Breast Cancer Hub', href: '/breast-cancer' },
+  ]
+
   return (
-    <main className="max-w-6xl mx-auto px-4 py-8">
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-        <article className="prose lg:prose-lg lg:col-span-3">
+    <ArticleLayout
+      title="What Is Breast Cancer?"
+      heroImage="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
+      published="February 06, 2026"
+      toc={toc}
+      relatedArticles={relatedArticles}
+    >
+      <div className="mb-4 text-sm text-gray-700">
+        <div><strong>Author:</strong> Editorial Team • <strong>Medical review:</strong> Dr. Faith Selchick, DNP, AOCNP</div>
+        <div className="mt-1 text-xs text-gray-500">Last updated: February 06, 2026 • Peer review: 2025</div>
+      </div>
+
+      <div className="prose lg:prose-lg">
           <header className="mb-6">
             <img
-              src="/images/breast-cancer-hero-2.jpg"
-              onError={(e: any) => { e.target.src = 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=1' }}
+              src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
+              onError={(e: any) => { e.target.src = 'https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp' }}
               alt="Breast cancer awareness ribbon and medical illustration"
               className="w-full h-72 object-cover rounded-md shadow-sm mb-6"
             />
@@ -218,49 +252,9 @@ export default function WhatIsBreastCancer() {
             </p>
           </section>
 
-          <div className="mt-12 border-t pt-8">
-            <h3 className="text-2xl font-bold mb-4">Related articles</h3>
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              <Link to="/radiation-therapy-guide" className="block p-4 bg-white border rounded hover:shadow transition">
-                <h4 className="font-semibold text-gray-900 mb-2">Radiation Therapy Guide</h4>
-                <p className="text-sm text-purple-600 font-semibold">READ MORE →</p>
-              </Link>
-              <Link to="/lymphedema-care" className="block p-4 bg-white border rounded hover:shadow transition">
-                <h4 className="font-semibold text-gray-900 mb-2">Lymphedema Care</h4>
-                <p className="text-sm text-purple-600 font-semibold">READ MORE →</p>
-              </Link>
-              <Link to="/breast-cancer" className="block p-4 bg-white border rounded hover:shadow transition">
-                <h4 className="font-semibold text-gray-900 mb-2">Breast Cancer Hub</h4>
-                <p className="text-sm text-purple-600 font-semibold">EXPLORE →</p>
-              </Link>
-            </div>
-          </div>
-        </article>
-
-        <nav className="hidden lg:block lg:col-span-1">
-          <div className="sticky top-24 space-y-4">
-            <div className="bg-white border rounded p-4">
-              <h3 className="flex items-center gap-2 font-bold text-lg mb-4 text-gray-900">On this page</h3>
-              <nav className="space-y-2 text-sm">
-                <a href="#introduction" className="text-purple-600 hover:text-purple-700 block">Introduction</a>
-                <a href="#basics" className="text-purple-600 hover:text-purple-700 block">How breast cancer develops</a>
-                <a href="#types-subtypes" className="text-purple-600 hover:text-purple-700 block">Types & subtypes</a>
-                <a href="#risk-factors-prevention" className="text-purple-600 hover:text-purple-700 block">Risk & prevention</a>
-                <a href="#screening-early-detection" className="text-purple-600 hover:text-purple-700 block">Screening</a>
-                <a href="#signs-symptoms" className="text-purple-600 hover:text-purple-700 block">Signs & symptoms</a>
-                <a href="#diagnosis-staging" className="text-purple-600 hover:text-purple-700 block">Diagnosis & staging</a>
-                <a href="#treatment-planning" className="text-purple-600 hover:text-purple-700 block">Treatment planning</a>
-                <a href="#surgery-options" className="text-purple-600 hover:text-purple-700 block">Surgery</a>
-                <a href="#radiation-therapy" className="text-purple-600 hover:text-purple-700 block">Radiation</a>
-                <a href="#systemic-therapy" className="text-purple-600 hover:text-purple-700 block">Systemic therapy</a>
-                <a href="#managing-side-effects" className="text-purple-600 hover:text-purple-700 block">Side effects</a>
-                <a href="#survivorship" className="text-purple-600 hover:text-purple-700 block">Survivorship</a>
-                <a href="#resources-links" className="text-purple-600 hover:text-purple-700 block">Resources</a>
-              </nav>
-            </div>
-          </div>
-        </nav>
+          {/* Related articles moved to ArticleLayout sidebar; removed duplicate grid */}
       </div>
-    </main>
+    </ArticleLayout>
   )
 }
+

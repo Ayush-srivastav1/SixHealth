@@ -8,7 +8,7 @@ export default function WhatIsBreastCancer() {
         <article className="prose lg:prose-lg lg:col-span-3">
           <header className="mb-6">
             <img
-              src="/images/breast-cancer-hero-2.jpg"
+              src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1554"
               onError={(e: any) => { e.target.src = 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=1' }}
               alt="Breast cancer awareness ribbon and medical illustration"
               className="w-full h-72 object-cover rounded-md shadow-sm mb-6"

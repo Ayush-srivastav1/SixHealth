@@ -9,7 +9,8 @@ export const defaultImages = {
   defaultHealth: "/images/default-health.webp",
   defaultHero: "/images/default-hero.webp",
   healthPlaceholder: "/images/default-health.webp",
-};
+};
+
 export const conditionImages = {
   breastCancer: "/images/conditions/breast-cancer.webp",
   diabetes: "/images/conditions/diabetes.webp",
@@ -26,7 +27,8 @@ export const conditionImages = {
   melanoma: "/images/conditions/melanoma.webp",
   psoriasis: "/images/conditions/psoriasis.webp",
   alzheimers: "/images/conditions/alzheimers.webp",
-};
+};
+
 export const articleImages = {
   breastCancerHero: "/images/articles/breast-cancer-hero.webp",
   foodMountain: "/images/articles/food-mountain.png",
@@ -34,40 +36,55 @@ export const articleImages = {
   briskWalking: "/images/articles/brisk-walking.webp",
   fitnessProgress: "/images/articles/fitness-progress.webp",
   healthyLifestyle: "/images/articles/healthy-lifestyle.webp",
-};
+};
+
 export const categoryImages = {
   wellness: "/images/categories/wellness.webp",
   healthConditions: "/images/categories/health-conditions.webp",
   tools: "/images/categories/tools.webp",
   featured: "/images/categories/featured.webp",
   connect: "/images/categories/connect.webp",
-};
+};
+
 export const iconImages = {
   bezzy: "/bezzy.svg",
   logo: "/logosix.png",
   banner: "/banner.svg",
-};
-export const externalImages = {
-  healthcareProfessionals: "https://images.unsplash.com/photo-1579154204601-02d82b27d100?auto=format&fit=crop&w=1200&q=80&fm=webp",
-  hospitalPatient: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  walkingOutdoors: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  parkWalking: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  sportsActivity: "https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?auto=format&fit=crop&w=1200&fm=webp&q=70",
-  stressRelief: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  mentalWellness: "https://images.unsplash.com/photo-1577720643272-265f434b9dff?auto=format&fit=crop&w=800&q=80&fm=webp",
-  healthyFood: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  mediterraneanDiet: "https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp",
-  sleepWellness: "https://images.unsplash.com/photo-1541033391-ae2c2b1d0c30?auto=format&fit=crop&w=800&q=80&fm=webp",
-  heartHealth: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  lungHealth: "https://images.unsplash.com/photo-1579154204601-02d82b27d100?auto=format&fit=crop&w=1200&q=80&fm=webp",
-  lymphedemaHealth: "https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1600&q=80&fm=webp",
-  rheumatoidArthritisImg: "https://images.unsplash.com/photo-1631217b829f68188e0f97fbe91b83f8f8e9d4b5?auto=format&fit=crop&w=800&q=80&fm=webp",
-  cancerCare: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  breastCancerHeal: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  radiationTherapy: "https://images.unsplash.com/photo-1581092580496-3b1b6f4d6f6a?auto=format&fit=crop&w=1600&q=80&fm=webp",
-  hearingWellness: "https://source.unsplash.com/1200x800/?images%20medical%20healthcare%20hospital%20doctor%20patient&auto=format&fit=crop&w=1200&q=80&fm=webp",
-  digestiveHealth: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=1000&q=80&fm=webp",
-  eyeWellness: "https://images.unsplash.com/photo-1576091160550-112173f7f869?auto=format&fit=crop&w=800&q=80&fm=webp",
+};
+
+export const externalImages = {
+
+  healthcareProfessionals: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  hospitalPatient: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  walkingOutdoors: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  parkWalking: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  sportsActivity: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  stressRelief: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  mentalWellness: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  healthyFood: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  mediterraneanDiet: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  sleepWellness: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  heartHealth: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  lungHealth: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  lymphedemaHealth: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  rheumatoidArthritisImg: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  cancerCare: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  breastCancerHeal: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+  radiationTherapy: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  hearingWellness: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  digestiveHealth: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
+
+  eyeWellness: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
 };
 
 /**
@@ -94,12 +111,15 @@ export const parseImageUrl = (
   url: string | undefined | null,
   fallback = defaultImages.placeholder
 ): string => {
-  if (!url) return fallback;
+  if (!url) return fallback;
+
   if (typeof url === 'string' && url.startsWith('/')) {
     return url;
-  }
+  }
+
   if (typeof url === 'string' && (url.startsWith('http://') || url.startsWith('https://'))) {
     return url;
-  }
+  }
+
   return fallback;
 };

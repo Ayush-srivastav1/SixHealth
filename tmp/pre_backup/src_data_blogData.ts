@@ -54,19 +54,19 @@ export const blogData: BlogArticle[] = [
     readTime: "8 min read",
     publishDate: "2026-02-22",
     content: `
-<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Couple preparing healthy meals together" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1555" alt="Couple preparing healthy meals together" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Losing weight can feel overwhelming, especially when quick fixes and medications dominate the conversation. However, sustainable results often come from consistent lifestyle changes rather than short-term solutions. One coupleΓÇÖs journey of losing a combined 118 pounds highlights the power of teamwork, healthy habits, and long-term commitment.</p> <p>Their transformation did not rely on prescription weight-loss drugs or extreme dieting. Instead, they focused on improving daily routines, building healthier eating patterns, and supporting each other through challenges.</p> <h2>Building a Foundation for Change</h2> <p>The first step in their journey was acknowledging the need for sustainable change. Rather than following restrictive diets, they focused on balanced nutrition that included whole foods, lean proteins, vegetables, fruits, and healthy fats. Portion awareness and mindful eating helped them reduce excess calorie intake without feeling deprived.</p> <p>Planning meals ahead of time and cooking at home also gave them better control over ingredients and portion sizes, making it easier to stay consistent.</p>
 
-<img src="https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Couple walking together outdoors for fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1556" alt="Couple walking together outdoors for fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>The Role of Physical Activity</h2> <p>Regular movement became a central part of their routine. They began with simple activities such as daily walks and gradually increased intensity over time. Walking together not only supported weight loss but also strengthened accountability and motivation.</p> <p>As their fitness improved, they incorporated strength training and additional cardio sessions. Building muscle helped increase metabolism and supported long-term weight management.</p> <h2>Overcoming Challenges Together</h2> <p>Weight-loss journeys often include setbacks. Busy schedules, social events, and periods of low motivation tested their commitment. Instead of giving up, they focused on progress rather than perfection.</p> <p>Having a partner with the same goals made a significant difference. Encouragement during difficult moments and celebrating small milestones helped them stay motivated throughout the process.</p>
 
-<img src="https://images.unsplash.com/photo-1546484959-f4b3c1c8f6c0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Strength training as part of weight loss journey" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1557" alt="Strength training as part of weight loss journey" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Health Benefits Beyond Weight Loss</h2> <p>The results extended beyond the number on the scale. They experienced improved energy levels, better sleep, enhanced mood, and reduced joint discomfort. Regular physical activity and improved nutrition also supported heart health, blood pressure control, and metabolic wellness.</p> <p>These broader health improvements reinforced their motivation to maintain their new lifestyle.</p> <h2>Creating Long-Term Habits</h2> <p>Sustainability was the key to their success. Instead of short-term restrictions, they focused on habits they could maintain long term. This included meal planning, staying active most days of the week, managing stress, and prioritizing sleep.</p> <p>They also allowed flexibility for occasional treats, which helped prevent feelings of restriction and reduced the likelihood of abandoning their routine.</p>
 
-<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle with exercise, hydration, and balance" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1558" alt="Healthy lifestyle with exercise, hydration, and balance" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Lessons for Others Starting Their Journey</h2> <p>This story highlights that meaningful weight loss is possible without medication for many individuals. The most effective approach often combines balanced nutrition, regular physical activity, realistic goal-setting, and social support.</p> <p>For people with medical conditions or significant weight concerns, consulting a healthcare professional before starting a new program is important to ensure safety and personalized guidance.</p> <h2>Frequently Asked Questions</h2> <p><strong>Is it possible to lose significant weight without medication?</strong> Yes. Many people achieve sustainable weight loss through lifestyle changes such as improved diet, increased physical activity, and behavioral support.</p> <p><strong>How important is having a support system?</strong> Social support improves accountability, motivation, and long-term success during lifestyle changes.</p> <p><strong>How fast should healthy weight loss occur?</strong> Most experts recommend gradual weight loss of about 1ΓÇô2 pounds per week for safe and sustainable results.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div>
     `
@@ -83,19 +83,19 @@ export const blogData: BlogArticle[] = [
     readTime: "8 min read",
     publishDate: "2026-02-22",
     content: `
-<img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person walking outdoors for exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1559" alt="Person walking outdoors for exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>The 6-6-6 walking workout has gained attention as a simple and structured approach to daily exercise. The routine typically involves walking at 6 a.m. or 6 p.m. for 60 minutes, with a 6-minute warm-up and a 6-minute cool-down. For many people looking for a sustainable way to lose weight, this method offers consistency without the intensity of high-impact workouts.</p> <p>Walking remains one of the most accessible forms of physical activity. When performed regularly and paired with healthy lifestyle habits, it can support weight management, improve cardiovascular health, and enhance overall well-being.</p> <h2>How the 6-6-6 Walking Method Works</h2> <p>The structure of the 6-6-6 routine is designed to promote consistency and safety. Beginning with a gradual warm-up helps prepare muscles and joints, reducing the risk of injury. The main walking session focuses on maintaining a steady, brisk pace that increases heart rate and calorie burn. Ending with a cool-down allows the body to recover gradually.</p> <p>This predictable schedule can also help build a long-term habit. Exercising at the same time each day makes it easier to stay committed and track progress.</p>
 
-<img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Brisk walking in a park for cardio fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1560" alt="Brisk walking in a park for cardio fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Can Walking Support Weight Loss?</h2> <p>Weight loss occurs when the body burns more calories than it consumes. A brisk 60-minute walk can burn between 200 and 400 calories, depending on body weight, speed, and terrain. When practiced consistently, the 6-6-6 method can contribute to a calorie deficit over time.</p> <p>Walking also helps preserve muscle mass compared to some aggressive weight-loss methods. Maintaining muscle supports metabolism, which plays a key role in long-term weight management.</p> <h2>Health Benefits Beyond the Scale</h2> <p>Regular walking provides benefits that go beyond weight loss. It improves heart health, supports blood sugar control, enhances mood, and reduces stress levels. Many people also experience better sleep and increased daily energy.</p> <p>Because walking is low-impact, it is suitable for beginners, older adults, and individuals recovering from injury or managing chronic conditions.</p>
 
-<img src="https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person checking fitness progress after walking workout" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1561" alt="Person checking fitness progress after walking workout" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>How to Get the Best Results</h2> <p>To maximize the benefits of the 6-6-6 routine, aim for a brisk pace that slightly increases breathing while still allowing conversation. Wearing supportive footwear and choosing safe walking routes can improve comfort and reduce injury risk.</p> <p>Pairing the routine with balanced nutrition, adequate hydration, and strength training a few times per week can enhance fat loss and overall fitness.</p> <h2>Lifestyle Tips for Long-Term Success</h2> <p>Consistency matters more than intensity. Setting realistic goals, tracking daily steps, and gradually increasing pace or distance can help maintain motivation. Walking with a friend, listening to music or podcasts, and exploring different routes can make the routine more enjoyable.</p> <p>For individuals with medical conditions or those new to exercise, consulting a healthcare professional before starting a new fitness plan is recommended.</p>
 
-<img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle habits including outdoor walking and hydration" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1562" alt="Healthy lifestyle habits including outdoor walking and hydration" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2> <p><strong>Is the 6-6-6 walking workout suitable for beginners?</strong> Yes, the routine is low-impact and easy to modify based on your fitness level and pace.</p> <p><strong>How long before I see weight-loss results?</strong> Results vary, but consistent daily walking combined with healthy eating may lead to gradual changes within several weeks.</p> <p><strong>Do I need to walk exactly at 6 a.m. or 6 p.m.?</strong> No. The timing is flexible. The most important factor is maintaining a consistent daily schedule.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div>
     `
@@ -274,19 +274,19 @@ export const blogData: BlogArticle[] = [
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1546484959-f4b3c1c8f6c0?auto=format&fit=crop&w=800&h=600&fm=webp",
     content: `
-<img src="https://images.unsplash.com/photo-1546484959-f4b3c1c8f6c0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person practicing mindful walking outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1563" alt="Person practicing mindful walking outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Pursed-lip breathing is a simple but effective technique often used to manage shortness of breath during physical activity. When combined with regular walking, this approach can improve exercise tolerance, support lung function, and make everyday movement feel easier and more controlled.</p> <p>Originally developed as part of pulmonary rehabilitation programs, pursed-lip walking is now widely recommended for individuals with respiratory conditions as well as those looking to build endurance safely and gradually.</p> <h2>Understanding the Technique</h2> <p>Pursed-lip breathing involves inhaling slowly through the nose and exhaling gently through lips that are slightly puckered. This method helps keep airways open longer, allowing trapped air to escape and improving the efficiency of each breath.</p> <p>When practiced during walking, the technique helps regulate breathing patterns, reduce anxiety related to breathlessness, and support better oxygen delivery to the muscles.</p>
 
-<img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Guided breathing and movement exercise outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1564" alt="Guided breathing and movement exercise outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Who Can Benefit</h2> <p>Pursed-lip walking is especially helpful for people living with chronic respiratory conditions such as COPD, asthma, or pulmonary fibrosis. It can also benefit older adults, beginners starting a fitness routine, or anyone who experiences fatigue or shortness of breath during activity.</p> <p>By slowing the breathing rate and improving airflow, this method helps conserve energy and allows for longer, more comfortable walking sessions.</p> <h2>How to Practice While Walking</h2> <p>Begin at a comfortable pace. Inhale through your nose for two steps, then exhale slowly through pursed lips for four steps. The goal is to keep exhalation longer than inhalation without forcing the breath.</p> <p>If breathing becomes difficult, slow your pace and focus on the breathing rhythm until you feel more comfortable. Over time, this coordination helps build confidence and stamina.</p>
 
-<img src="https://images.unsplash.com/photo-1508973378895-527fcdce3c56?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Outdoor walking path for endurance training" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1565" alt="Outdoor walking path for endurance training" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Building Endurance Gradually</h2> <p>Start with short sessions of 10 to 15 minutes and gradually increase duration as your tolerance improves. Walking on level surfaces, maintaining upright posture, and wearing supportive footwear can make breathing easier and reduce fatigue.</p> <p>Combining walking with gentle strength training and stretching can further improve overall physical function and reduce the effort required during daily activities.</p> <h2>Lifestyle Habits That Support Lung Health</h2> <p>Healthy lifestyle choices play an important role in respiratory wellness. Avoiding tobacco smoke, minimizing exposure to air pollution, maintaining a healthy weight, and staying physically active all support better breathing capacity.</p> <p>Stress management and relaxation techniques can also reduce unnecessary breathing strain and improve overall comfort during activity.</p>
 
-<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy active lifestyle in nature supporting lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1566" alt="Healthy active lifestyle in nature supporting lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2> <p><strong>Is pursed-lip breathing only for people with lung disease?</strong> No. Anyone who wants better breathing control during exercise can benefit from the technique.</p> <p><strong>How often should I practice?</strong> Daily or most days of the week is ideal, starting with short sessions and gradually increasing duration.</p> <p><strong>When should I seek medical advice?</strong> Stop exercising and consult a healthcare provider if you experience chest pain, dizziness, or severe or worsening shortness of breath.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
@@ -506,7 +506,7 @@ export const blogData: BlogArticle[] = [
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Financial planning healthcare expenses" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthcare costs can be unpredictable, making financial planning an important part of overall wellness. A financial health check helps individuals prepare for medical expenses, insurance needs, and long-term care without unnecessary stress. </p> <p> When financial stability improves, people are more likely to seek preventive care, follow treatment plans, and avoid delays in medical attention. </p> <h2>Overview</h2> <p> A financial checkup evaluates insurance coverage, emergency savings, healthcare spending, and future medical needs to ensure you are prepared for unexpected situations. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Reviewing medical insurance documents" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Health insurance and coverage gaps</li> <li>Emergency medical savings</li> <li>Prescription and treatment costs</li> <li>Long-term care planning</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Budget planning for healthcare" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program is useful for families, individuals with chronic conditions, older adults planning retirement, and anyone looking to reduce financial stress related to healthcare. </p> <h2>How to Get Started</h2> <p> Review your current insurance plan, calculate out-of-pocket costs, and consider consulting a financial advisor or benefits specialist. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Financial advisor consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Schedule annual financial reviews, maintain an emergency fund, compare healthcare plans during enrollment periods, and use preventive services to reduce long-term costs. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Financial organization and planning tools" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much should I save for medical emergencies?</strong><br/>Many experts recommend at least three to six months of expenses.</p> <p><strong>Does insurance cover all costs?</strong><br/>Most plans include deductibles and co-pays, so additional savings help.</p> <p><strong>How often should I review my coverage?</strong><br/>At least once a year or after major life changes.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1567" alt="Financial planning healthcare expenses" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthcare costs can be unpredictable, making financial planning an important part of overall wellness. A financial health check helps individuals prepare for medical expenses, insurance needs, and long-term care without unnecessary stress. </p> <p> When financial stability improves, people are more likely to seek preventive care, follow treatment plans, and avoid delays in medical attention. </p> <h2>Overview</h2> <p> A financial checkup evaluates insurance coverage, emergency savings, healthcare spending, and future medical needs to ensure you are prepared for unexpected situations. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1568" alt="Reviewing medical insurance documents" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Health insurance and coverage gaps</li> <li>Emergency medical savings</li> <li>Prescription and treatment costs</li> <li>Long-term care planning</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1569" alt="Budget planning for healthcare" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program is useful for families, individuals with chronic conditions, older adults planning retirement, and anyone looking to reduce financial stress related to healthcare. </p> <h2>How to Get Started</h2> <p> Review your current insurance plan, calculate out-of-pocket costs, and consider consulting a financial advisor or benefits specialist. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1570" alt="Financial advisor consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Schedule annual financial reviews, maintain an emergency fund, compare healthcare plans during enrollment periods, and use preventive services to reduce long-term costs. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1571" alt="Financial organization and planning tools" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much should I save for medical emergencies?</strong><br/>Many experts recommend at least three to six months of expenses.</p> <p><strong>Does insurance cover all costs?</strong><br/>Most plans include deductibles and co-pays, so additional savings help.</p> <p><strong>How often should I review my coverage?</strong><br/>At least once a year or after major life changes.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -522,7 +522,7 @@ export const blogData: BlogArticle[] = [
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active seniors walking outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthy aging focuses on maintaining independence, mobility, and quality of life as the body changes over time. While aging is natural, lifestyle choices play a major role in preventing chronic illness and preserving physical and mental function. </p> <p> Regular activity, preventive healthcare, and social engagement help older adults stay active and confident in daily life. </p> <h2>Overview</h2> <p> Healthy aging includes balanced nutrition, physical activity, cognitive stimulation, and routine health screenings to detect problems early. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1559239115-cec7f5c8a6a3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Senior health checkup" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Fall prevention and mobility</li> <li>Heart and bone health</li> <li>Memory and cognitive wellness</li> <li>Chronic disease management</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1546484959-f9a9b4c1a7c2?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Senior exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Older adults, caregivers, and families planning long-term health strategies benefit from proactive aging programs. </p> <h2>How to Get Started</h2> <p> Schedule regular screenings, review medications, and create a personalized exercise and nutrition plan with a healthcare provider. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Doctor consultation senior care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay socially connected, maintain daily movement, eat nutrient-dense foods, and prioritize sleep and mental stimulation. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active social lifestyle seniors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>When should aging screenings begin?</strong><br/>Many screenings start around age 50, depending on risk factors.</p> <p><strong>Can exercise improve mobility?</strong><br/>Yes, regular activity maintains strength and balance.</p> <p><strong>Is memory decline normal?</strong><br/>Mild changes can occur, but significant decline should be evaluated.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1572" alt="Active seniors walking outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthy aging focuses on maintaining independence, mobility, and quality of life as the body changes over time. While aging is natural, lifestyle choices play a major role in preventing chronic illness and preserving physical and mental function. </p> <p> Regular activity, preventive healthcare, and social engagement help older adults stay active and confident in daily life. </p> <h2>Overview</h2> <p> Healthy aging includes balanced nutrition, physical activity, cognitive stimulation, and routine health screenings to detect problems early. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1573" alt="Senior health checkup" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Fall prevention and mobility</li> <li>Heart and bone health</li> <li>Memory and cognitive wellness</li> <li>Chronic disease management</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1574" alt="Senior exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Older adults, caregivers, and families planning long-term health strategies benefit from proactive aging programs. </p> <h2>How to Get Started</h2> <p> Schedule regular screenings, review medications, and create a personalized exercise and nutrition plan with a healthcare provider. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1575" alt="Doctor consultation senior care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay socially connected, maintain daily movement, eat nutrient-dense foods, and prioritize sleep and mental stimulation. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1576" alt="Active social lifestyle seniors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>When should aging screenings begin?</strong><br/>Many screenings start around age 50, depending on risk factors.</p> <p><strong>Can exercise improve mobility?</strong><br/>Yes, regular activity maintains strength and balance.</p> <p><strong>Is memory decline normal?</strong><br/>Mild changes can occur, but significant decline should be evaluated.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -538,7 +538,7 @@ export const blogData: BlogArticle[] = [
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy home-cooked meal" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthy eating does not need to be complicated or expensive. Small, consistent choices such as planning meals, choosing whole foods, and controlling portions can improve energy, weight management, and long-term health. </p> <p> This program focuses on realistic strategies that work for busy schedules and different budgets. </p> <h2>Overview</h2> <p> Balanced meals include vegetables, fruits, whole grains, lean protein, and healthy fats while limiting processed foods and added sugar. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1543353071-10c8ba85a904?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Fresh produce selection" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Meal planning and preparation</li> <li>Budget-friendly grocery shopping</li> <li>Portion control</li> <li>Reading nutrition labels</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cooking healthy meals at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Individuals and families looking to improve nutrition, manage weight, or support chronic condition prevention benefit from structured eating habits. </p> <h2>How to Get Started</h2> <p> Plan weekly meals, create a grocery list, and keep healthy snacks available to avoid processed convenience foods. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505576633757-0ac1084af824?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy meal preparation planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Practice mindful eating, stay hydrated, and combine good nutrition with regular physical activity for the best results. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active healthy lifestyle concept" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Is healthy eating expensive?</strong><br/>Planning and cooking at home can reduce costs.</p> <p><strong>Do I need a strict diet?</strong><br/>Balanced, flexible eating habits work best long term.</p> <p><strong>How can I avoid overeating?</strong><br/>Use smaller portions and eat slowly.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1577" alt="Healthy home-cooked meal" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Healthy eating does not need to be complicated or expensive. Small, consistent choices such as planning meals, choosing whole foods, and controlling portions can improve energy, weight management, and long-term health. </p> <p> This program focuses on realistic strategies that work for busy schedules and different budgets. </p> <h2>Overview</h2> <p> Balanced meals include vegetables, fruits, whole grains, lean protein, and healthy fats while limiting processed foods and added sugar. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1578" alt="Fresh produce selection" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Meal planning and preparation</li> <li>Budget-friendly grocery shopping</li> <li>Portion control</li> <li>Reading nutrition labels</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1579" alt="Cooking healthy meals at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Individuals and families looking to improve nutrition, manage weight, or support chronic condition prevention benefit from structured eating habits. </p> <h2>How to Get Started</h2> <p> Plan weekly meals, create a grocery list, and keep healthy snacks available to avoid processed convenience foods. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1580" alt="Healthy meal preparation planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Practice mindful eating, stay hydrated, and combine good nutrition with regular physical activity for the best results. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1581" alt="Active healthy lifestyle concept" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Is healthy eating expensive?</strong><br/>Planning and cooking at home can reduce costs.</p> <p><strong>Do I need a strict diet?</strong><br/>Balanced, flexible eating habits work best long term.</p> <p><strong>How can I avoid overeating?</strong><br/>Use smaller portions and eat slowly.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -553,7 +553,7 @@ export const blogData: BlogArticle[] = [
     readTime: "12 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1582"
 alt="Bottles of supplements on a table"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -568,7 +568,7 @@ style="max-width:100%; border-radius:8px;"
 <p>CBD is one of many cannabinoids in cannabis. Unlike THC, CBD does not produce a psychoactive ΓÇ£highΓÇ¥ at typical doses. Products marketed as CBD may contain variable amounts of CBD, THC, or other contaminants unless they are manufactured to strict standards. The regulatory environment differs across countries and states, affecting product labeling and quality control.</p>
 
 <img
-src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1583"
 alt="Person reading supplement labels"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -581,7 +581,7 @@ style="max-width:100%; border-radius:8px;"
 <p>CBD is generally well tolerated at common doses, but side effects can include drowsiness, dry mouth, diarrhea, and changes in appetite. CBD can interact with other medications metabolized by the liver, including blood thinners and some antiepileptic drugs. People with liver disease or those taking interacting medications should consult a clinician before using CBD.</p>
 
 <img
-src="https://images.unsplash.com/photo-1543353071-087092ec393a?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1584"
 alt="Topical cream application"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -596,7 +596,7 @@ style="max-width:100%; border-radius:8px;"
 <p>A clinician can help identify potential interactions and monitor liver function when indicated.</p>
 
 <img
-src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1585"
 alt="CBD oil and dropper"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -635,7 +635,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "13 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1586"
 alt="Community health worker speaking with patients"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -650,7 +650,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Public health data show higher rates of hypertension, type 2 diabetes, certain cancers, and adverse maternal outcomes among Black populations in many countries. These differences reflect complex interactions between genetics, environment, historical inequities, access to care, and social factors like housing, employment, and education.</p>
 
 <img
-src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1587"
 alt="Clinician and patient reviewing information"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -667,7 +667,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Risk factors that are particularly impactful include uncontrolled hypertension, obesity, limited access to healthy food, and inadequate prenatal care. Social stressors and lack of paid sick leave can also worsen chronic disease management and delay preventive care.</p>
 
 <img
-src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1588"
 alt="Group health workshop"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -688,7 +688,7 @@ style="max-width:100%; border-radius:8px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1589"
 alt="Community health fair"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -729,7 +729,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "12 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1590"
 alt="Person outdoors practicing wellness"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -744,7 +744,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Wellness is an active process of making choices and adopting behaviors that support physical, mental, and social health. It is not a single destination but a set of practices that promote functioning and quality of life across many domains. For many people, wellness combines preventive healthcare (screening and vaccinations), self-care (sleep and stress management), and lifestyle choices (diet and activity) that together reduce the risk of chronic disease and improve day-to-day functioning.</p>
 
 <img
-src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1591"
 alt="Health professional advising patient"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -775,7 +775,7 @@ style="max-width:100%; border-radius:8px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1592"
 alt="Woman tracking symptoms in a journal"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -798,7 +798,7 @@ style="max-width:100%; border-radius:8px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1593"
 alt="Group wellness class with instructor"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -817,7 +817,7 @@ style="max-width:100%; border-radius:8px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1580281658629-0c5a1f7e8f35?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1594"
 alt="Healthy meal preparation at home"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -860,7 +860,7 @@ Coverage varies. Many insurers cover preventive services and some behavioral int
     readTime: "13 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1595"
 alt="Clinician consulting patient"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -875,7 +875,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Abortion refers to the medical termination of a pregnancy. There are two broadly used methods: medication abortion (often called the abortion pill) and procedural (surgical) abortion. Medication abortion is typically available in the first trimester and involves taking two medicationsΓÇömifepristone followed by misoprostolΓÇöto complete the pregnancy. Procedural options vary by gestational age and can include aspiration (vacuum) procedures in early pregnancy and dilation and evacuation (D&E) later in the second trimester.</p>
 
 <img
-src="https://images.unsplash.com/photo-1532375810709-6a3b9f2d3f36?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1596"
 alt="Medical supplies on a tray"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -898,7 +898,7 @@ style="max-width:100%; border-radius:8px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1597"
 alt="Patient support during clinic visit"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -919,7 +919,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Complications are uncommon but can include heavy bleeding, infection, or retained tissueΓÇöclinics provide clear instructions for when to seek urgent care. Pain control, counseling, and contraception planning are important parts of management.</p>
 
 <img
-src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1598"
 alt="Clinical recovery room"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -959,7 +959,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "13 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1599"
 alt="Person jogging outdoors"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -974,7 +974,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Fitness broadly includes aerobic endurance (cardio), muscular strength, flexibility/mobility, and balance. Health-focused exercise emphasizes regular moderate-intensity activity, muscle-strengthening twice weekly, and activities that improve flexibility and balanceΓÇöespecially important as we age. A balanced program combines these elements rather than focusing on one type alone.</p>
 
 <img
-src="https://images.unsplash.com/photo-1558611848-73f7eb4001d9?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1600"
 alt="People in a group strength class"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -989,7 +989,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Exercise may cause temporary muscle soreness, which is normal. Warning signs that need medical attention include chest pain, sudden breathlessness, fainting, or new severe joint swelling. Risk factors for exercise-related complications include known cardiovascular disease, uncontrolled hypertension, recent stroke, or severe pulmonary diseaseΓÇödiscuss safe activity levels with your clinician first.</p>
 
 <img
-src="https://images.unsplash.com/photo-1546484959-f6a9a7043c03?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1601"
 alt="Man stretching before workout"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1010,7 +1010,7 @@ style="max-width:100%; border-radius:8px;"
 <p>For weight loss, combine increased activity with dietary changes; for cardiovascular benefit, aim for at least 150 minutes per week of moderate-intensity aerobic activity or 75 minutes of vigorous activity, spread across the week.</p>
 
 <img
-src="https://images.unsplash.com/photo-1517964603305-4c91a1f8f0da?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1602"
 alt="People exercising outdoors in a park"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1048,7 +1048,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "12 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1603"
 alt="Person applying skincare serum"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1063,7 +1063,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Skin is the bodyΓÇÖs largest organ and plays key roles in protection, temperature regulation, and sensory function. Healthy beauty emphasizes barrier-supporting ingredients (ceramides, glycerin), sun protection, and targeted treatments for conditions like acne, eczema, or hyperpigmentation under clinician guidance.</p>
 
 <img
-src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1604"
 alt="Array of skincare products on shelf"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1076,7 +1076,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Common signs that need attention include persistent redness, severe dryness with cracking, recurrent acne with scarring, sudden pigmentation changes, or skin lesions that bleed or donΓÇÖt healΓÇöthese need clinician assessment.</p>
 
 <img
-src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1605"
 alt="Dermatologist consultation"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1118,7 +1118,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "12 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1606"
 alt="Audiologist checking hearing"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1131,7 +1131,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Hearing loss ranges from mild difficulties understanding speech in noisy places to severe loss that affects everyday functioning. It can be conductive (problems in the outer or middle ear), sensorineural (inner ear or nerve damage), or mixed. Age-related hearing loss (presbycusis) and noise-induced hearing loss are among the most common types.</p>
 
 <img
-src="https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1607"
 alt="Person using ear protection at a concert"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1144,7 +1144,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Signs of hearing problems include difficulty following conversations (especially in background noise), asking people to repeat themselves, turning up the volume on devices, ringing or buzzing in the ears (tinnitus), and avoidance of social situations. Risk factors include older age, noisy occupations, frequent recreational loud noise exposure, smoking, cardiovascular disease, and a family history of hearing loss.</p>
 
 <img
-src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1608"
 alt="Person being fitted for a hearing aid"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1159,7 +1159,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Hearing aids come in many styles and price ranges; modern devices often include rechargeable batteries and smartphone connectivity. Work with an audiologist to select appropriate devices and follow-up for fittings and adjustments.</p>
 
 <img
-src="https://images.unsplash.com/photo-1520975915497-9c3e9f6c8f0e?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1609"
 alt="Close-up of ear with hearing aid"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -1195,7 +1195,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1520975922215-230c4c7c1a5c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Inclusive healthcare consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> LGBTQIA+ health focuses on providing respectful, inclusive, and personalized care that addresses the unique medical and mental health needs of diverse communities. Access to supportive healthcare environments improves preventive care, early diagnosis, and overall well-being. </p> <p> Understanding risk factors and encouraging open communication with healthcare providers helps individuals receive appropriate screenings and treatment. </p> <h2>Overview</h2> <p> Inclusive healthcare ensures that medical history, identity, and personal experiences are considered when planning care and prevention strategies. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Supportive community environment" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Health Risks</h2> <ul> <li>Higher rates of stress and anxiety</li> <li>Barriers to preventive screenings</li> <li>Substance use risks</li> <li>Limited access to culturally competent care</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1580281657521-3c6d6c9c3d2a?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Preventive health screening" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Management and Care</h2> <p> Routine checkups, mental health support, and recommended screenings based on anatomy and risk factors are essential. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mental health support discussion" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle and Support</h2> <p> Building supportive social networks, managing stress, and accessing affirming healthcare services improve long-term health outcomes. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1520974735194-8b5f2b4d2b0f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Community wellness and support" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Why is inclusive care important?</strong><br/>It improves trust, communication, and preventive care.</p> <p><strong>Should screenings differ?</strong><br/>Screenings are based on anatomy and individual risk factors.</p> <p><strong>How can I find supportive providers?</strong><br/>Look for clinics experienced in inclusive and culturally competent care.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1610" alt="Inclusive healthcare consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> LGBTQIA+ health focuses on providing respectful, inclusive, and personalized care that addresses the unique medical and mental health needs of diverse communities. Access to supportive healthcare environments improves preventive care, early diagnosis, and overall well-being. </p> <p> Understanding risk factors and encouraging open communication with healthcare providers helps individuals receive appropriate screenings and treatment. </p> <h2>Overview</h2> <p> Inclusive healthcare ensures that medical history, identity, and personal experiences are considered when planning care and prevention strategies. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1611" alt="Supportive community environment" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Health Risks</h2> <ul> <li>Higher rates of stress and anxiety</li> <li>Barriers to preventive screenings</li> <li>Substance use risks</li> <li>Limited access to culturally competent care</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1612" alt="Preventive health screening" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Management and Care</h2> <p> Routine checkups, mental health support, and recommended screenings based on anatomy and risk factors are essential. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1613" alt="Mental health support discussion" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle and Support</h2> <p> Building supportive social networks, managing stress, and accessing affirming healthcare services improve long-term health outcomes. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1614" alt="Community wellness and support" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Why is inclusive care important?</strong><br/>It improves trust, communication, and preventive care.</p> <p><strong>Should screenings differ?</strong><br/>Screenings are based on anatomy and individual risk factors.</p> <p><strong>How can I find supportive providers?</strong><br/>Look for clinics experienced in inclusive and culturally competent care.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "allergies-program",
@@ -1209,7 +1209,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Seasonal allergies outdoor" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Allergies occur when the immune system reacts to substances such as pollen, dust, pet dander, or certain foods. These reactions can affect the nose, skin, lungs, or digestive system and range from mild irritation to severe symptoms. </p> <p> Understanding your triggers and creating a personalized management plan helps reduce flare-ups and improves daily comfort. </p> <h2>Overview</h2> <p> Common allergy types include seasonal allergies, indoor allergies, food allergies, and medication reactions. Symptoms often include sneezing, itching, congestion, skin rashes, or breathing difficulty. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Allergy testing clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Trigger identification</li> <li>Environmental control</li> <li>Medication management</li> <li>Emergency planning for severe reactions</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505577058444-a3dab90d4253?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Using allergy medication" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports individuals with seasonal symptoms, chronic sinus issues, asthma-related allergies, or food sensitivities. </p> <h2>How to Get Started</h2> <p> Consult a healthcare provider for allergy testing and personalized treatment, including antihistamines, nasal sprays, or immunotherapy. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Doctor consultation allergy care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Use air filters, keep windows closed during high pollen days, wash bedding frequently, and avoid known food triggers. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy indoor environment lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Can allergies develop later in life?</strong><br/>Yes, adult-onset allergies are common.</p> <p><strong>Are allergy shots effective?</strong><br/>Immunotherapy can reduce long-term sensitivity.</p> <p><strong>When is it an emergency?</strong><br/>Seek urgent care for breathing difficulty or swelling.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1615" alt="Seasonal allergies outdoor" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Allergies occur when the immune system reacts to substances such as pollen, dust, pet dander, or certain foods. These reactions can affect the nose, skin, lungs, or digestive system and range from mild irritation to severe symptoms. </p> <p> Understanding your triggers and creating a personalized management plan helps reduce flare-ups and improves daily comfort. </p> <h2>Overview</h2> <p> Common allergy types include seasonal allergies, indoor allergies, food allergies, and medication reactions. Symptoms often include sneezing, itching, congestion, skin rashes, or breathing difficulty. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1616" alt="Allergy testing clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Trigger identification</li> <li>Environmental control</li> <li>Medication management</li> <li>Emergency planning for severe reactions</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1617" alt="Using allergy medication" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports individuals with seasonal symptoms, chronic sinus issues, asthma-related allergies, or food sensitivities. </p> <h2>How to Get Started</h2> <p> Consult a healthcare provider for allergy testing and personalized treatment, including antihistamines, nasal sprays, or immunotherapy. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1618" alt="Doctor consultation allergy care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Use air filters, keep windows closed during high pollen days, wash bedding frequently, and avoid known food triggers. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1619" alt="Healthy indoor environment lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Can allergies develop later in life?</strong><br/>Yes, adult-onset allergies are common.</p> <p><strong>Are allergy shots effective?</strong><br/>Immunotherapy can reduce long-term sensitivity.</p> <p><strong>When is it an emergency?</strong><br/>Seek urgent care for breathing difficulty or swelling.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "cold-flu-season",
@@ -1223,7 +1223,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584036561584-b03c19da874c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cold and flu prevention" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Cold and flu viruses spread easily in close-contact settings and during colder months. While most cases are self-limited, they can cause significant discomfort and, in some people, serious complications. </p> <h2>Overview</h2> <p> Common symptoms include sore throat, cough, nasal congestion, body aches, fever, and fatigue. The flu tends to cause more abrupt and severe symptoms than the common cold. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1580281657522-77f7b6a9f1c5?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Flu shot clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Vaccination and preventive care</li> <li>Hand hygiene and masking when appropriate</li> <li>Home care and symptom management</li> <li>When to seek medical care</li> </ul> <h2>Who It Helps</h2> <p> People of all ages benefit from prevention; high-risk groups include older adults, very young children, pregnant people, and those with chronic health conditions. </p> <h2>How to Get Started</h2> <p> Get your annual flu vaccine, practice good hand hygiene, keep up-to-date with recommended vaccines, and plan to rest and hydrate when symptoms begin. For severe symptoms or high-risk individuals, contact a healthcare provider promptlyΓÇöantiviral medications are time-sensitive. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Rest and fluids" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle & Home Care Tips</h2> <ul> <li>Rest, stay hydrated, and use fever reducers as directed.</li> <li>Use saline nasal sprays, humidifiers, and throat lozenges to ease symptoms.</li> <li>Stay home when contagious to prevent spreading infection.</li> <li>Clean high-touch surfaces and replace toothbrushes after recovery if symptomatic.</li> </ul> <h2>When to Seek Care</h2> <p> Seek urgent care for difficulty breathing, chest pain, persistent high fever, confusion, or symptoms that rapidly worsen. Infants, older adults, and immunocompromised people should be evaluated earlier. </p> <h2>FAQ</h2> <p><strong>Can the flu vaccine give you the flu?</strong><br/>No. Flu vaccines used in the U.S. do not contain live influenza virus that can cause flu illness.</p> <p><strong>Are antivirals effective?</strong><br/>When started early, antivirals can reduce symptom duration and complications for some people with influenza.</p> <p><strong>How long are you contagious?</strong><br/>Adults are typically contagious 1 day before symptoms begin and up to 5ΓÇô7 days after illness starts.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1620" alt="Cold and flu prevention" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Cold and flu viruses spread easily in close-contact settings and during colder months. While most cases are self-limited, they can cause significant discomfort and, in some people, serious complications. </p> <h2>Overview</h2> <p> Common symptoms include sore throat, cough, nasal congestion, body aches, fever, and fatigue. The flu tends to cause more abrupt and severe symptoms than the common cold. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1621" alt="Flu shot clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Vaccination and preventive care</li> <li>Hand hygiene and masking when appropriate</li> <li>Home care and symptom management</li> <li>When to seek medical care</li> </ul> <h2>Who It Helps</h2> <p> People of all ages benefit from prevention; high-risk groups include older adults, very young children, pregnant people, and those with chronic health conditions. </p> <h2>How to Get Started</h2> <p> Get your annual flu vaccine, practice good hand hygiene, keep up-to-date with recommended vaccines, and plan to rest and hydrate when symptoms begin. For severe symptoms or high-risk individuals, contact a healthcare provider promptlyΓÇöantiviral medications are time-sensitive. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1622" alt="Rest and fluids" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle & Home Care Tips</h2> <ul> <li>Rest, stay hydrated, and use fever reducers as directed.</li> <li>Use saline nasal sprays, humidifiers, and throat lozenges to ease symptoms.</li> <li>Stay home when contagious to prevent spreading infection.</li> <li>Clean high-touch surfaces and replace toothbrushes after recovery if symptomatic.</li> </ul> <h2>When to Seek Care</h2> <p> Seek urgent care for difficulty breathing, chest pain, persistent high fever, confusion, or symptoms that rapidly worsen. Infants, older adults, and immunocompromised people should be evaluated earlier. </p> <h2>FAQ</h2> <p><strong>Can the flu vaccine give you the flu?</strong><br/>No. Flu vaccines used in the U.S. do not contain live influenza virus that can cause flu illness.</p> <p><strong>Are antivirals effective?</strong><br/>When started early, antivirals can reduce symptom duration and complications for some people with influenza.</p> <p><strong>How long are you contagious?</strong><br/>Adults are typically contagious 1 day before symptoms begin and up to 5ΓÇô7 days after illness starts.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "destination-wellness",
@@ -1237,7 +1237,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Holistic wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Wellness isnΓÇÖt a single destinationΓÇöit's a balanced approach to physical health, mental well-being, nutrition, sleep, and purposeful living. This program helps you build sustainable habits across those domains. </p> <h2>Overview</h2> <p> The Destination: Wellness program covers foundational areas: movement, nutrition, stress management, sleep hygiene, social connection, and preventive healthcare. Small, consistent changes produce lasting results. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1526406915890-585b57b2a9b5?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle habits" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Physical activity tailored to your level</li> <li>Balanced, nutrient-rich eating</li> <li>Stress reduction and resilience-building</li> <li>Sleep improvement strategies</li> <li>Preventive screenings and routine care</li> </ul> <h2>Who It Helps</h2> <p> This program is for anyone looking to improve overall health, recover from burnout, or establish sustainable daily routines that support long-term wellbeing. </p> <h2>How to Get Started</h2> <p> Begin with a self-assessment of sleep, diet, activity, and stress. Set 1ΓÇô3 realistic goals, track progress, and consult with healthcare professionals when making major lifestyle changes. Small wins compound into meaningful improvements. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mindfulness practice" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Practical Tips</h2> <ul> <li>Schedule short daily movement sessions (walk, stretch, or strength work).</li> <li>Prioritize whole foods and balanced meals with protein, fiber, and healthy fats.</li> <li>Practice a 5ΓÇô10 minute daily mindfulness or breathing routine.</li> <li>Create a consistent bedtime routine and limit screens before sleep.</li> <li>Build social connectionsΓÇöregular check-ins support mental health.</li> </ul> <h2>FAQ</h2> <p><strong>How quickly will I see results?</strong><br/>Some benefits, like improved mood or sleep, can appear within weeks; structural changes (fitness, metabolic health) take months.</p> <p><strong>Do I need a gym or special equipment?</strong><br/>No. Many effective routines use bodyweight and walking. Equipment can help but isnΓÇÖt required.</p> <p><strong>How do I stay motivated?</strong><br/>Set measurable goals, celebrate small wins, and build habits into existing routines.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1623" alt="Holistic wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Wellness isnΓÇÖt a single destinationΓÇöit's a balanced approach to physical health, mental well-being, nutrition, sleep, and purposeful living. This program helps you build sustainable habits across those domains. </p> <h2>Overview</h2> <p> The Destination: Wellness program covers foundational areas: movement, nutrition, stress management, sleep hygiene, social connection, and preventive healthcare. Small, consistent changes produce lasting results. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1624" alt="Healthy lifestyle habits" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Physical activity tailored to your level</li> <li>Balanced, nutrient-rich eating</li> <li>Stress reduction and resilience-building</li> <li>Sleep improvement strategies</li> <li>Preventive screenings and routine care</li> </ul> <h2>Who It Helps</h2> <p> This program is for anyone looking to improve overall health, recover from burnout, or establish sustainable daily routines that support long-term wellbeing. </p> <h2>How to Get Started</h2> <p> Begin with a self-assessment of sleep, diet, activity, and stress. Set 1ΓÇô3 realistic goals, track progress, and consult with healthcare professionals when making major lifestyle changes. Small wins compound into meaningful improvements. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1625" alt="Mindfulness practice" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Practical Tips</h2> <ul> <li>Schedule short daily movement sessions (walk, stretch, or strength work).</li> <li>Prioritize whole foods and balanced meals with protein, fiber, and healthy fats.</li> <li>Practice a 5ΓÇô10 minute daily mindfulness or breathing routine.</li> <li>Create a consistent bedtime routine and limit screens before sleep.</li> <li>Build social connectionsΓÇöregular check-ins support mental health.</li> </ul> <h2>FAQ</h2> <p><strong>How quickly will I see results?</strong><br/>Some benefits, like improved mood or sleep, can appear within weeks; structural changes (fitness, metabolic health) take months.</p> <p><strong>Do I need a gym or special equipment?</strong><br/>No. Many effective routines use bodyweight and walking. Equipment can help but isnΓÇÖt required.</p> <p><strong>How do I stay motivated?</strong><br/>Set measurable goals, celebrate small wins, and build habits into existing routines.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -1252,7 +1252,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Women discussing menopause care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Menopause is a natural life transition that marks the end of menstrual cycles. Hormonal changes during this time can affect sleep, mood, metabolism, and overall health. Understanding what to expect helps women manage symptoms and maintain quality of life. </p> <p> With the right medical guidance and lifestyle adjustments, many women navigate menopause comfortably and stay active and healthy. </p> <h2>Overview</h2> <p> Menopause typically occurs between ages 45 and 55. Common symptoms include hot flashes, night sweats, mood changes, sleep problems, and changes in bone density and metabolism. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical consultation for menopause" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Hormone balance and symptom management</li> <li>Bone and heart health</li> <li>Weight and metabolism changes</li> <li>Mental and emotional well-being</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1518611012118-f7c5d6b9c0f3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise for womenΓÇÖs health" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Women approaching or experiencing menopause, as well as those dealing with early menopause or severe symptoms, benefit from structured guidance. </p> <h2>How to Get Started</h2> <p> Discuss symptoms with your healthcare provider. Treatment options may include lifestyle changes, non-hormonal therapies, or hormone replacement therapy when appropriate. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Personalized womenΓÇÖs health planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Maintain regular physical activity, eat calcium- and protein-rich foods, manage stress, and prioritize sleep to support overall health during this transition. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle during menopause" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How long does menopause last?</strong><br/>Symptoms can last several years but vary by individual.</p> <p><strong>Is hormone therapy safe?</strong><br/>It may be appropriate for some women and should be discussed with a doctor.</p> <p><strong>Can lifestyle changes reduce symptoms?</strong><br/>Yes, exercise, nutrition, and stress management often help.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1626" alt="Women discussing menopause care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Menopause is a natural life transition that marks the end of menstrual cycles. Hormonal changes during this time can affect sleep, mood, metabolism, and overall health. Understanding what to expect helps women manage symptoms and maintain quality of life. </p> <p> With the right medical guidance and lifestyle adjustments, many women navigate menopause comfortably and stay active and healthy. </p> <h2>Overview</h2> <p> Menopause typically occurs between ages 45 and 55. Common symptoms include hot flashes, night sweats, mood changes, sleep problems, and changes in bone density and metabolism. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1627" alt="Medical consultation for menopause" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Hormone balance and symptom management</li> <li>Bone and heart health</li> <li>Weight and metabolism changes</li> <li>Mental and emotional well-being</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1628" alt="Exercise for womenΓÇÖs health" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Women approaching or experiencing menopause, as well as those dealing with early menopause or severe symptoms, benefit from structured guidance. </p> <h2>How to Get Started</h2> <p> Discuss symptoms with your healthcare provider. Treatment options may include lifestyle changes, non-hormonal therapies, or hormone replacement therapy when appropriate. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1629" alt="Personalized womenΓÇÖs health planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Maintain regular physical activity, eat calcium- and protein-rich foods, manage stress, and prioritize sleep to support overall health during this transition. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1630" alt="Healthy lifestyle during menopause" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How long does menopause last?</strong><br/>Symptoms can last several years but vary by individual.</p> <p><strong>Is hormone therapy safe?</strong><br/>It may be appropriate for some women and should be discussed with a doctor.</p> <p><strong>Can lifestyle changes reduce symptoms?</strong><br/>Yes, exercise, nutrition, and stress management often help.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -1267,7 +1267,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Relaxation and mindfulness practice" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Self-care is not a luxuryΓÇöit is an essential part of maintaining physical and emotional health. Daily habits that support rest, stress management, and personal balance help prevent burnout and improve overall quality of life. </p> <p> This program encourages practical routines that fit into busy schedules and promote long-term wellness. </p> <h2>Overview</h2> <p> Self-care includes activities that support mental clarity, physical recovery, emotional balance, and healthy boundaries. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Journaling and reflection" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Stress reduction techniques</li> <li>Sleep and rest routines</li> <li>Physical activity and movement</li> <li>Emotional awareness and boundaries</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1518611012118-f7c5d6b9c0f3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Outdoor activity for mental wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Anyone experiencing stress, work-life imbalance, or fatigue can benefit from structured self-care practices. </p> <h2>How to Get Started</h2> <p> Choose one small habit such as daily walks, breathing exercises, or scheduled downtime, and gradually build a routine. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Wellness coaching and planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Limit screen time, maintain social connections, practice gratitude, and protect time for rest and recovery. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Balanced healthy lifestyle concept" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much time is needed for self-care?</strong><br/>Even 10ΓÇô15 minutes daily can make a difference.</p> <p><strong>Is self-care selfish?</strong><br/>No, it improves your ability to function and support others.</p> <p><strong>What is the best self-care activity?</strong><br/>The one you can maintain consistently.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1631" alt="Relaxation and mindfulness practice" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Self-care is not a luxuryΓÇöit is an essential part of maintaining physical and emotional health. Daily habits that support rest, stress management, and personal balance help prevent burnout and improve overall quality of life. </p> <p> This program encourages practical routines that fit into busy schedules and promote long-term wellness. </p> <h2>Overview</h2> <p> Self-care includes activities that support mental clarity, physical recovery, emotional balance, and healthy boundaries. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1632" alt="Journaling and reflection" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Stress reduction techniques</li> <li>Sleep and rest routines</li> <li>Physical activity and movement</li> <li>Emotional awareness and boundaries</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1633" alt="Outdoor activity for mental wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Anyone experiencing stress, work-life imbalance, or fatigue can benefit from structured self-care practices. </p> <h2>How to Get Started</h2> <p> Choose one small habit such as daily walks, breathing exercises, or scheduled downtime, and gradually build a routine. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1634" alt="Wellness coaching and planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Limit screen time, maintain social connections, practice gratitude, and protect time for rest and recovery. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1635" alt="Balanced healthy lifestyle concept" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much time is needed for self-care?</strong><br/>Even 10ΓÇô15 minutes daily can make a difference.</p> <p><strong>Is self-care selfish?</strong><br/>No, it improves your ability to function and support others.</p> <p><strong>What is the best self-care activity?</strong><br/>The one you can maintain consistently.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -1282,7 +1282,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Caregiver supporting patient at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Caregiving can be rewarding, but it also brings physical and emotional challenges. Without proper support, caregivers may experience fatigue, stress, and burnout that affects their own health. </p> <p> Prioritizing self-care helps caregivers maintain energy, resilience, and the ability to provide quality care. </p> <h2>Overview</h2> <p> Caregiver wellness includes managing stress, maintaining physical health, and accessing support resources. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Caregiver health consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Burnout prevention</li> <li>Emotional support and counseling</li> <li>Time management and respite care</li> <li>Physical health maintenance</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1518611012118-f7c5d6b9c0f3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Caregiver stress relief outdoor walk" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Family caregivers supporting aging parents, individuals with chronic illness, or people recovering from medical conditions. </p> <h2>How to Get Started</h2> <p> Schedule regular breaks, ask for help from family or community services, and speak with a healthcare provider about stress or fatigue. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support group or counseling session" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Maintain regular meals, stay active, prioritize sleep, and connect with support groups or caregiver networks. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Balanced caregiver lifestyle wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>What is caregiver burnout?</strong><br/>Physical and emotional exhaustion from prolonged caregiving.</p> <p><strong>Is it okay to ask for help?</strong><br/>Yes, support improves both caregiver and patient outcomes.</p> <p><strong>When should I seek professional help?</strong><br/>If stress, anxiety, or fatigue become overwhelming.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1636" alt="Caregiver supporting patient at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Caregiving can be rewarding, but it also brings physical and emotional challenges. Without proper support, caregivers may experience fatigue, stress, and burnout that affects their own health. </p> <p> Prioritizing self-care helps caregivers maintain energy, resilience, and the ability to provide quality care. </p> <h2>Overview</h2> <p> Caregiver wellness includes managing stress, maintaining physical health, and accessing support resources. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1637" alt="Caregiver health consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Burnout prevention</li> <li>Emotional support and counseling</li> <li>Time management and respite care</li> <li>Physical health maintenance</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1638" alt="Caregiver stress relief outdoor walk" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Family caregivers supporting aging parents, individuals with chronic illness, or people recovering from medical conditions. </p> <h2>How to Get Started</h2> <p> Schedule regular breaks, ask for help from family or community services, and speak with a healthcare provider about stress or fatigue. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1639" alt="Support group or counseling session" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Maintain regular meals, stay active, prioritize sleep, and connect with support groups or caregiver networks. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1640" alt="Balanced caregiver lifestyle wellness" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>What is caregiver burnout?</strong><br/>Physical and emotional exhaustion from prolonged caregiving.</p> <p><strong>Is it okay to ask for help?</strong><br/>Yes, support improves both caregiver and patient outcomes.</p> <p><strong>When should I seek professional help?</strong><br/>If stress, anxiety, or fatigue become overwhelming.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "managing-type-2-diabetes",
@@ -1296,7 +1296,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Blood sugar monitoring at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Type 2 diabetes is a chronic condition that affects how the body processes glucose. With the right combination of lifestyle changes, regular monitoring, and medical care, many people successfully manage their blood sugar and reduce the risk of long-term complications. </p> <p> This program focuses on sustainable habits that support energy levels, heart health, and overall well-being. </p> <h2>Overview</h2> <p> Managing diabetes involves maintaining stable blood glucose levels through balanced nutrition, regular physical activity, medication when prescribed, and routine medical follow-up. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1543353071-10c8ba85a904?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy diabetic meal planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Carbohydrate awareness and portion control</li> <li>Daily blood glucose monitoring</li> <li>Weight management</li> <li>Heart and kidney protection</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019613914-85f342c55f4c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise for diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports adults diagnosed with Type 2 diabetes, individuals with prediabetes, and those at high risk due to family history or lifestyle factors. </p> <h2>How to Get Started</h2> <p> Work with your healthcare provider to create a personalized care plan that includes nutrition guidance, activity goals, and medication if needed. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Doctor consultation diabetes care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Eat regular meals, stay active most days of the week, manage stress, and attend routine screenings for eyes, feet, and heart health. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle diabetes prevention" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Can Type 2 diabetes be reversed?</strong><br/>Lifestyle changes may significantly improve control and, in some cases, lead to remission.</p> <p><strong>How often should blood sugar be checked?</strong><br/>Frequency depends on your treatment plan.</p> <p><strong>Is exercise safe?</strong><br/>Yes, regular activity helps lower blood sugar and improves overall health.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1641" alt="Blood sugar monitoring at home" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Type 2 diabetes is a chronic condition that affects how the body processes glucose. With the right combination of lifestyle changes, regular monitoring, and medical care, many people successfully manage their blood sugar and reduce the risk of long-term complications. </p> <p> This program focuses on sustainable habits that support energy levels, heart health, and overall well-being. </p> <h2>Overview</h2> <p> Managing diabetes involves maintaining stable blood glucose levels through balanced nutrition, regular physical activity, medication when prescribed, and routine medical follow-up. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1642" alt="Healthy diabetic meal planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Carbohydrate awareness and portion control</li> <li>Daily blood glucose monitoring</li> <li>Weight management</li> <li>Heart and kidney protection</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1643" alt="Exercise for diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports adults diagnosed with Type 2 diabetes, individuals with prediabetes, and those at high risk due to family history or lifestyle factors. </p> <h2>How to Get Started</h2> <p> Work with your healthcare provider to create a personalized care plan that includes nutrition guidance, activity goals, and medication if needed. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1644" alt="Doctor consultation diabetes care" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Eat regular meals, stay active most days of the week, manage stress, and attend routine screenings for eyes, feet, and heart health. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1645" alt="Healthy lifestyle diabetes prevention" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Can Type 2 diabetes be reversed?</strong><br/>Lifestyle changes may significantly improve control and, in some cases, lead to remission.</p> <p><strong>How often should blood sugar be checked?</strong><br/>Frequency depends on your treatment plan.</p> <p><strong>Is exercise safe?</strong><br/>Yes, regular activity helps lower blood sugar and improves overall health.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -1311,7 +1311,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1520975922215-230c4c7c1a5c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Men preventive health checkup" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Men often delay routine medical care, which can increase the risk of preventable health problems. Regular screenings, healthy lifestyle choices, and early intervention help detect issues before they become serious. </p> <p> MenΓÇÖs wellness focuses on heart health, mental well-being, hormonal balance, and preventive screenings. </p> <h2>Overview</h2> <p> Preventive care includes blood pressure checks, cholesterol screening, diabetes testing, and age-appropriate cancer screenings. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Routine health screening clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Heart and metabolic health</li> <li>Mental health and stress management</li> <li>Prostate and reproductive health</li> <li>Weight and fitness</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019613914-85f342c55f4c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Men fitness and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports men of all ages who want to take a proactive approach to their health and reduce long-term disease risk. </p> <h2>How to Get Started</h2> <p> Schedule an annual physical exam, discuss personal risk factors with your provider, and set realistic goals for activity, nutrition, and sleep. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1580281657521-3c6d6c9c3d2a?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Doctor patient wellness consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay physically active, avoid tobacco, limit alcohol, manage stress, and prioritize regular health screenings. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1518611012118-f7c5d6b9c0f3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy active lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How often should men get a checkup?</strong><br/>At least once a year or as recommended by a provider.</p> <p><strong>When should prostate screening begin?</strong><br/>Usually around age 50, or earlier if high risk.</p> <p><strong>Is mental health part of wellness?</strong><br/>Yes, emotional health is essential for overall well-being.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1646" alt="Men preventive health checkup" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Men often delay routine medical care, which can increase the risk of preventable health problems. Regular screenings, healthy lifestyle choices, and early intervention help detect issues before they become serious. </p> <p> MenΓÇÖs wellness focuses on heart health, mental well-being, hormonal balance, and preventive screenings. </p> <h2>Overview</h2> <p> Preventive care includes blood pressure checks, cholesterol screening, diabetes testing, and age-appropriate cancer screenings. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1647" alt="Routine health screening clinic" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Heart and metabolic health</li> <li>Mental health and stress management</li> <li>Prostate and reproductive health</li> <li>Weight and fitness</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1648" alt="Men fitness and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> This program supports men of all ages who want to take a proactive approach to their health and reduce long-term disease risk. </p> <h2>How to Get Started</h2> <p> Schedule an annual physical exam, discuss personal risk factors with your provider, and set realistic goals for activity, nutrition, and sleep. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1649" alt="Doctor patient wellness consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay physically active, avoid tobacco, limit alcohol, manage stress, and prioritize regular health screenings. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1650" alt="Healthy active lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How often should men get a checkup?</strong><br/>At least once a year or as recommended by a provider.</p> <p><strong>When should prostate screening begin?</strong><br/>Usually around age 50, or earlier if high risk.</p> <p><strong>Is mental health part of wellness?</strong><br/>Yes, emotional health is essential for overall well-being.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   }
   ,
   {
@@ -1326,7 +1326,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&fm=webp&q=70" alt="New year fitness goal planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Many people set health goals at the start of the year, but long-term success requires realistic planning and sustainable habits. The Resolution Revolution program focuses on creating lasting change rather than short-term motivation. </p> <p> Small, consistent actions often produce better results than drastic lifestyle changes. </p> <h2>Overview</h2> <p> Successful habit change involves setting achievable goals, tracking progress, and building routines that fit your daily life. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Goal planning and tracking" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Physical activity and fitness</li> <li>Healthy eating habits</li> <li>Sleep and stress management</li> <li>Accountability and progress tracking</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019613914-85f342c55f4c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Regular exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Anyone looking to improve their health, manage weight, reduce stress, or build consistent wellness routines can benefit. </p> <h2>How to Get Started</h2> <p> Choose one or two priority goals, break them into small steps, and review progress weekly. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Wellness coaching consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Focus on consistency over perfection, celebrate small wins, and adjust goals as your routine evolves. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy balanced lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Why do resolutions fail?</strong><br/>Unrealistic goals and lack of routine are common reasons.</p> <p><strong>How long does habit change take?</strong><br/>Consistency over several weeks builds lasting habits.</p> <p><strong>Should I track progress?</strong><br/>Yes, tracking increases motivation and accountability.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1651" alt="New year fitness goal planning" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Many people set health goals at the start of the year, but long-term success requires realistic planning and sustainable habits. The Resolution Revolution program focuses on creating lasting change rather than short-term motivation. </p> <p> Small, consistent actions often produce better results than drastic lifestyle changes. </p> <h2>Overview</h2> <p> Successful habit change involves setting achievable goals, tracking progress, and building routines that fit your daily life. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1652" alt="Goal planning and tracking" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Physical activity and fitness</li> <li>Healthy eating habits</li> <li>Sleep and stress management</li> <li>Accountability and progress tracking</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1653" alt="Regular exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Anyone looking to improve their health, manage weight, reduce stress, or build consistent wellness routines can benefit. </p> <h2>How to Get Started</h2> <p> Choose one or two priority goals, break them into small steps, and review progress weekly. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1654" alt="Wellness coaching consultation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Focus on consistency over perfection, celebrate small wins, and adjust goals as your routine evolves. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1655" alt="Healthy balanced lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Why do resolutions fail?</strong><br/>Unrealistic goals and lack of routine are common reasons.</p> <p><strong>How long does habit change take?</strong><br/>Consistency over several weeks builds lasting habits.</p> <p><strong>Should I track progress?</strong><br/>Yes, tracking increases motivation and accountability.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "back-to-school-health",
@@ -1341,7 +1341,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Students returning to school" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> A successful school year begins with good health. From sleep routines and nutrition to illness prevention and mental well-being, preparing children physically and emotionally helps them stay focused, energized, and ready to learn. </p> <p> Families can support academic success by building healthy daily habits before the school year begins. </p> <h2>Overview</h2> <p> Back-to-school health includes routine checkups, updated vaccinations, balanced meals, consistent sleep schedules, and stress management for both students and parents. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=900&fm=webp&q=70" alt="School health checkup and preparation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Immunizations and annual physical exams</li> <li>Healthy lunch planning</li> <li>Screen time and sleep balance</li> <li>Emotional adjustment and school anxiety</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy school lunch preparation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Parents, caregivers, and students of all ages benefit from structured routines that support learning, growth, and emotional resilience. </p> <h2>How to Get Started</h2> <p> Schedule medical appointments early, establish bedtime routines, organize school supplies, and talk with children about expectations and concerns. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Parent child school preparation discussion" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Encourage physical activity, maintain consistent schedules, promote hand hygiene, and create a calm evening routine to support sleep and focus. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active healthy student lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much sleep do students need?</strong><br/>School-age children typically need 9ΓÇô11 hours, depending on age.</p> <p><strong>How can I reduce school anxiety?</strong><br/>Start routines early and keep communication open.</p> <p><strong>Are annual checkups necessary?</strong><br/>Yes, they help detect health concerns early.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1656" alt="Students returning to school" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> A successful school year begins with good health. From sleep routines and nutrition to illness prevention and mental well-being, preparing children physically and emotionally helps them stay focused, energized, and ready to learn. </p> <p> Families can support academic success by building healthy daily habits before the school year begins. </p> <h2>Overview</h2> <p> Back-to-school health includes routine checkups, updated vaccinations, balanced meals, consistent sleep schedules, and stress management for both students and parents. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1657" alt="School health checkup and preparation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Immunizations and annual physical exams</li> <li>Healthy lunch planning</li> <li>Screen time and sleep balance</li> <li>Emotional adjustment and school anxiety</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1658" alt="Healthy school lunch preparation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Parents, caregivers, and students of all ages benefit from structured routines that support learning, growth, and emotional resilience. </p> <h2>How to Get Started</h2> <p> Schedule medical appointments early, establish bedtime routines, organize school supplies, and talk with children about expectations and concerns. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1659" alt="Parent child school preparation discussion" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Encourage physical activity, maintain consistent schedules, promote hand hygiene, and create a calm evening routine to support sleep and focus. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1660" alt="Active healthy student lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>How much sleep do students need?</strong><br/>School-age children typically need 9ΓÇô11 hours, depending on age.</p> <p><strong>How can I reduce school anxiety?</strong><br/>Start routines early and keep communication open.</p> <p><strong>Are annual checkups necessary?</strong><br/>Yes, they help detect health concerns early.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "sustainable-living-health",
@@ -1355,7 +1355,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Eco-friendly lifestyle and nature" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Sustainable living focuses on reducing environmental impact while improving personal health. Many eco-friendly habitsΓÇösuch as eating whole foods, reducing pollution exposure, and increasing outdoor activityΓÇöalso support physical and mental well-being. </p> <p> Small daily choices can make a meaningful difference for both individual health and the environment. </p> <h2>Overview</h2> <p> Sustainable health practices include reducing waste, choosing clean air environments, eating locally sourced foods, and minimizing exposure to harmful chemicals. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Farmers market fresh produce" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Clean indoor air and water</li> <li>Whole and locally sourced nutrition</li> <li>Active transportation like walking or cycling</li> <li>Reducing plastic and chemical exposure</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1473445361085-b9a07f55608b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cycling for eco-friendly transportation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Individuals and families interested in healthier homes, cleaner environments, and long-term wellness benefit from sustainable living practices. </p> <h2>How to Get Started</h2> <p> Begin with simple changes such as using reusable products, improving ventilation at home, and choosing fresh, minimally processed foods. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1527515637462-daf8f04b9c1b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Eco-friendly home organization" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Spend more time outdoors, reduce energy use, avoid harsh cleaning chemicals, and support local food and wellness resources. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Outdoor wellness and nature activity" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Does sustainable living improve health?</strong><br/>Yes, it reduces exposure to pollutants and supports healthier habits.</p> <p><strong>Is it expensive?</strong><br/>Many sustainable changes actually reduce long-term costs.</p> <p><strong>Where should I start?</strong><br/>Focus on small changes like reusable items and fresh foods.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1661" alt="Eco-friendly lifestyle and nature" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Sustainable living focuses on reducing environmental impact while improving personal health. Many eco-friendly habitsΓÇösuch as eating whole foods, reducing pollution exposure, and increasing outdoor activityΓÇöalso support physical and mental well-being. </p> <p> Small daily choices can make a meaningful difference for both individual health and the environment. </p> <h2>Overview</h2> <p> Sustainable health practices include reducing waste, choosing clean air environments, eating locally sourced foods, and minimizing exposure to harmful chemicals. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1662" alt="Farmers market fresh produce" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Clean indoor air and water</li> <li>Whole and locally sourced nutrition</li> <li>Active transportation like walking or cycling</li> <li>Reducing plastic and chemical exposure</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1663" alt="Cycling for eco-friendly transportation" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Individuals and families interested in healthier homes, cleaner environments, and long-term wellness benefit from sustainable living practices. </p> <h2>How to Get Started</h2> <p> Begin with simple changes such as using reusable products, improving ventilation at home, and choosing fresh, minimally processed foods. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1664" alt="Eco-friendly home organization" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Spend more time outdoors, reduce energy use, avoid harsh cleaning chemicals, and support local food and wellness resources. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1665" alt="Outdoor wellness and nature activity" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Does sustainable living improve health?</strong><br/>Yes, it reduces exposure to pollutants and supports healthier habits.</p> <p><strong>Is it expensive?</strong><br/>Many sustainable changes actually reduce long-term costs.</p> <p><strong>Where should I start?</strong><br/>Focus on small changes like reusable items and fresh foods.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "veterans-care",
@@ -1369,7 +1369,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     content: `
 
-<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Veteran healthcare support" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Military veterans may face unique health challenges, including physical injuries, chronic pain, and mental health concerns such as post-traumatic stress, anxiety, or depression. Access to specialized care and support services plays a critical role in long-term recovery and well-being. </p> <p> Comprehensive care helps veterans transition successfully into civilian life while maintaining physical and emotional health. </p> <h2>Overview</h2> <p> Veterans care includes preventive health services, mental health support, rehabilitation, and assistance navigating healthcare benefits. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical consultation for veterans" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Mental health screening and counseling</li> <li>Chronic pain and injury management</li> <li>Preventive and routine healthcare</li> <li>Access to community and support programs</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1518611012118-f7c5d6b9c0f3?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Rehabilitation and physical activity" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Veterans, active service members transitioning to civilian life, and their families benefit from coordinated healthcare and support systems. </p> <h2>How to Get Started</h2> <p> Connect with veteran health services, review available benefits, and schedule routine physical and mental health evaluations. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Veteran support counseling session" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay physically active, build social connections, seek peer support, and maintain consistent medical follow-up. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle after military service" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Are mental health services available for veterans?</strong><br/>Yes, specialized programs provide counseling and treatment.</p> <p><strong>How often should checkups be done?</strong><br/>At least annually or as recommended.</p> <p><strong>Where can veterans find support?</strong><br/>Local veteran organizations and healthcare systems offer resources.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
+<div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1666" alt="Veteran healthcare support" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <p> Military veterans may face unique health challenges, including physical injuries, chronic pain, and mental health concerns such as post-traumatic stress, anxiety, or depression. Access to specialized care and support services plays a critical role in long-term recovery and well-being. </p> <p> Comprehensive care helps veterans transition successfully into civilian life while maintaining physical and emotional health. </p> <h2>Overview</h2> <p> Veterans care includes preventive health services, mental health support, rehabilitation, and assistance navigating healthcare benefits. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1667" alt="Medical consultation for veterans" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Key Focus Areas</h2> <ul> <li>Mental health screening and counseling</li> <li>Chronic pain and injury management</li> <li>Preventive and routine healthcare</li> <li>Access to community and support programs</li> </ul> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1668" alt="Rehabilitation and physical activity" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Who It Helps</h2> <p> Veterans, active service members transitioning to civilian life, and their families benefit from coordinated healthcare and support systems. </p> <h2>How to Get Started</h2> <p> Connect with veteran health services, review available benefits, and schedule routine physical and mental health evaluations. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1669" alt="Veteran support counseling session" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>Lifestyle Tips</h2> <p> Stay physically active, build social connections, seek peer support, and maintain consistent medical follow-up. </p> <div style="text-align:center; margin:20px 0;"> <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1670" alt="Healthy lifestyle after military service" loading="lazy" style="max-width:100%; border-radius:8px;" /> </div> <h2>FAQ</h2> <p><strong>Are mental health services available for veterans?</strong><br/>Yes, specialized programs provide counseling and treatment.</p> <p><strong>How often should checkups be done?</strong><br/>At least annually or as recommended.</p> <p><strong>Where can veterans find support?</strong><br/>Local veteran organizations and healthcare systems offer resources.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
   {
     id: "medicare-2026-changes",
@@ -1383,19 +1383,19 @@ style="max-width:100%; border-radius:8px;"
     readTime: "8 min read",
     publishDate: "2026-02-21",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Senior reviewing healthcare documents" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1671" alt="Senior reviewing healthcare documents" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Medicare open enrollment is an important opportunity for millions of Americans to review and adjust their health coverage. Each year brings policy updates that can affect premiums, prescription costs, and available benefits. For 2026, several changes are designed to improve affordability and simplify access to essential care.</p> <p>If you rely on Medicare ΓÇö or plan to enroll soon ΓÇö understanding these updates can help you make confident decisions during the enrollment period and avoid unexpected expenses later.</p> <h2>Overview of the 2026 Changes</h2> <p>The 2026 Medicare updates focus primarily on reducing out-of-pocket costs for prescription medications and improving plan transparency. These changes build on recent healthcare reforms aimed at making coverage more predictable and patient-centered.</p> <p>Key highlights include caps on drug spending, expanded preventive services in some plans, and clearer information to help beneficiaries compare coverage options.</p>
 
-<img src="https://images.unsplash.com/photo-1588776814546-ec7e7d6d7e8c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare professional discussing coverage options" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1672" alt="Healthcare professional discussing coverage options" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Prescription Drug Cost Improvements</h2> <p>One of the most significant updates affects Medicare Part D. In 2026, beneficiaries will see stronger protections against high medication costs. Annual out-of-pocket spending for covered prescriptions will be capped, helping people with chronic conditions manage long-term treatment expenses.</p> <p>Additionally, insulin and certain essential medications will remain subject to lower monthly limits, improving access for patients who depend on these therapies.</p> <h2>Premium and Plan Adjustments</h2> <p>While some plans may see modest premium changes, insurers are expected to offer more flexible benefit designs. Medicare Advantage plans may expand coverage for services such as dental care, vision, hearing, and wellness programs.</p> <p>Because costs and benefits vary by provider and location, reviewing plan details carefully during enrollment is essential.</p>
 
-<img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person comparing health insurance plans on laptop" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1673" alt="Person comparing health insurance plans on laptop" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Preventive Care and Chronic Condition Support</h2> <p>Many 2026 plans emphasize preventive care and chronic disease management. Expanded screenings, telehealth options, and care coordination programs aim to detect health issues early and reduce hospital visits.</p> <p>For individuals managing conditions such as diabetes, heart disease, or respiratory illness, these programs can improve outcomes while lowering overall healthcare costs.</p> <h2>How to Prepare for Open Enrollment</h2> <p>Medicare open enrollment typically runs from October 15 to December 7. During this time, you can switch plans, adjust coverage, or enroll in a Medicare Advantage or Part D plan.</p> <p>Before making changes, consider reviewing your current medications, healthcare providers, and expected medical needs for the coming year. Comparing multiple plans ensures you select coverage that matches both your health requirements and budget.</p>
 
-<img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Senior couple reviewing financial and healthcare planning" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1674" alt="Senior couple reviewing financial and healthcare planning" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Financial Protection and Long-Term Planning</h2> <p>The 2026 updates reflect a broader effort to protect older adults from unpredictable healthcare expenses. Spending caps and expanded benefits help reduce financial stress and support long-term treatment adherence.</p> <p>Taking time to review your options each year remains the best way to maximize value and ensure your coverage keeps pace with your changing health needs.</p> <h2>Frequently Asked Questions</h2> <p><strong>When does Medicare open enrollment begin?</strong> Open enrollment typically runs from October 15 through December 7 each year.</p> <p><strong>Do I need to change my plan every year?</strong> Not necessarily, but reviewing your coverage annually helps ensure it still meets your needs and budget.</p> <p><strong>Will prescription drugs cost less in 2026?</strong> Many beneficiaries will benefit from out-of-pocket caps and lower costs for certain essential medications.</p> <hr/> <div style="background:#f5f7fa; padding:15px; border-radius:8px; margin-top:20px;"> <p><strong>Author:</strong> SixHealth Editorial Team</p> <p><strong>Medical Review:</strong> SixHealth Clinical Team</p> <p><strong>Last Updated:</strong> 2026</p> </div> `
   },
@@ -1412,7 +1412,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cup of black coffee on table with morning sunlight" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1675" alt="Cup of black coffee on table with morning sunlight" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Large prospective cohort studies over the past two decades have consistently found associations between moderate coffee consumption and reduced risk of cardiovascular disease, type 2 diabetes, Parkinson's disease, and all-cause mortality. When coffee is part of an overall healthy lifestyle, many adults may see longevity benefits from daily consumption of three to four cups.</p>
 
@@ -1422,7 +1422,7 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Meta-analyses of prospective cohort studies show that people drinking 3ΓÇô4 cups of coffee daily have 15ΓÇô20% lower mortality risk compared to non-drinkers over follow-up periods of 10ΓÇô30 years. Importantly, benefits appear to plateau around four cups; higher intake does not provide additional protection and may increase caffeine-related side effects such as anxiety or sleep disruption. These studies measure association, not causation; unmeasured confounders such as diet quality, exercise, and socioeconomic factors could partially explain findings.</p>
 
-<img src="https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Coffee plant leaves and freshly roasted beans" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1676" alt="Coffee plant leaves and freshly roasted beans" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Cardiovascular and Metabolic Benefits</h2>
 
@@ -1430,7 +1430,7 @@ style="max-width:100%; border-radius:8px;"
 
 <p>For individuals with well-controlled hypertension or normal baseline blood pressure, moderate coffee intake appears safe and potentially beneficial. However, people with uncontrolled hypertension, arrhythmias, anxiety disorders, or pregnancy should discuss caffeine limits individually with their clinician, as individual responses vary.</p>
 
-<img src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person enjoying morning coffee routine with breakfast" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1677" alt="Person enjoying morning coffee routine with breakfast" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Optimizing Your Daily Coffee Intake</h2>
 
@@ -1442,7 +1442,7 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Coffee works best as one component of broader healthy practices: regular movement, balanced nutrition, social engagement, stress management, and restful sleep. For individuals managing anxiety disorders, insomnia, gastroesophageal reflux, pregnancy, or taking certain medications, caffeine sensitivity may outweigh benefits. Genetic variation in caffeine metabolism means some people ("slow metabolizers") experience side effects at doses that others tolerate easily. Personalised recommendations based on individual response are most prudent.</p>
 
-<img src="https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active outdoor lifestyle and wellness routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1678" alt="Active outdoor lifestyle and wellness routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1485,7 +1485,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1581579184675-3a8f0f4ad8b6?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1581579184675-3a8f0f4ad8b6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person cleaning kitchen counter with disinfectant spray" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1679" alt="Person cleaning kitchen counter with disinfectant spray" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>When a household member recovers from the flu, proper cleaning and disinfection of shared spaces reduces virus transmission risk to other family members and visitors. The influenza virus can survive on hard surfaces for hours to several days, depending on temperature, humidity, and material type. A systematic approach combining physical cleaning with EPA-approved disinfectants is most effective at reducing viral load.</p>
 
@@ -1495,25 +1495,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Influenza spreads primarily through respiratory droplets when an infected person coughs or sneezes, and secondarily through contact with contaminated surfaces. Hard, non-porous surfaces such as doorknobs, light switches, remotes, smartphones, and countertops harbor virus longestΓÇötypically 24ΓÇô48 hours at room temperature. Soft, porous materials like carpets and bedding have shorter viral survival times, usually a few hours. Humidity, temperature, and specific surface material all affect persistence. Standard household soap and water removes organic matter and substantially reduces viral load; adding a disinfectant step ensures remaining pathogens are killed.</p>
 
-<img src="https://images.unsplash.com/photo-1584567595344-3f3f9abe2a10?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cleaning supplies and protective equipment organized" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1680" alt="Cleaning supplies and protective equipment organized" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Pre-Cleaning Preparation and Safety</h2>
 
 <p>Start by ventilating your home: open windows for 15ΓÇô20 minutes to allow fresh air circulation and reduce airborne virus concentration. Wear disposable gloves throughout the process and avoid touching your face. If you need to clean while the infected person is still symptomatic, wear a mask as well. Gather all necessary supplies before starting: disposable gloves, sturdy garbage bags, paper towels or washable cloths, general purpose cleaner, EPA-registered disinfectant, and a timer to track contact time (the duration a surface must stay wet with disinfectant to kill viruses, typically 30 seconds to 10 minutes depending on product).</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Laundry washing and bedding drying in sunlight" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1681" alt="Laundry washing and bedding drying in sunlight" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>High-Touch Surface Disinfection Protocol</h2>
 
 <p>Prioritize surfaces the sick person contacted directly. Pick up visible debris using paper towels. Wipe each surface with soap and water or general purpose cleaner applied to disposable cloths, then dispose of cloths in a separate bag. Allow surfaces to air dry completely. Next, apply EPA-registered disinfectant according to label instructions: spray affected areas and let the solution sit for the specified contact timeΓÇötypically 30 seconds to 10 minutesΓÇöbefore wiping with a clean cloth. Key high-touch areas include doorknobs, light switch plates, remote controls, mobile phones and tablets, computer keyboards and mice, refrigerator and freezer handles, faucet handles, toilet flush handles, stair railings, and any other surfaces the person touched regularly.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Clean organized home interior with natural light" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1682" alt="Clean organized home interior with natural light" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Textiles and Laundry Management</h2>
 
 <p>Machine wash all bedding, pillowcases, towels, and clothing used by the sick person in hot water (60┬░C or 140┬░F if available) and dry on high heat. Heat inactivates influenza virus effectively. For items that cannot be machine washedΓÇöupholstered furniture, curtainsΓÇövacuuming and allowing them to remain undisturbed for several days is sufficient in most home settings, as flu virus does not survive prolonged periods on porous materials. If immediate cleaning of furniture is necessary, a low-VOC disinfectant spray applied per label instructions will supplement natural viral decay.</p>
 
-<img src="https://images.unsplash.com/photo-1586941487516-8f0258ca630d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Organized cleaning supplies and safety equipment shelf" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1683" alt="Organized cleaning supplies and safety equipment shelf" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Choosing Safe and Effective Disinfectants</h2>
 
@@ -1560,7 +1560,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1584036561584-b03c19da874c?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1584036561584-b03c19da874c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare professional administering vaccine" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1684" alt="Healthcare professional administering vaccine" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>YesΓÇöMedicare Part B covers pneumococcal vaccines for eligible beneficiaries when administered by an enrolled healthcare provider. Pneumococcal disease causes serious infections including pneumonia, meningitis, and bacteremia and can be life-threatening, especially for older adults and those with chronic conditions. Coverage includes both pneumococcal conjugate vaccine (PCV) and pneumococcal polysaccharide vaccine (PPSV).</p>
 
@@ -1570,13 +1570,13 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Medicare Part B covers pneumococcal vaccinations with no copayment when provided by an in-network provider. As of 2024, Medicare-eligible adults age 65 and older are recommended to receive pneumococcal vaccines, though the specific vaccine schedule depends on prior vaccination history and individual risk factors. Younger Medicare-eligible beneficiaries (under 65) with certain chronic conditions or immunosuppression also qualify for covered pneumococcal vaccination. The Centers for Disease Control and Prevention (CDC) periodically updates recommendations, so your provider should apply current guidelines to your specific situation.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical professional reviewing vaccination records" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1685" alt="Medical professional reviewing vaccination records" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Current Vaccine Recommendations and Eligibility</h2>
 
 <p>As of early 2024, the CDC recommends a single dose of PCV20 (pneumococcal conjugate vaccine) for adults age 65 and older without prior pneumococcal vaccination, or a different schedule if prior vaccination occurred. Adults age 19ΓÇô64 with chronic lung disease, heart disease, diabetes, or cigarette smoking also qualify for pneumococcal vaccination. Those with weakened immune systems, including persons living with HIV/AIDS and transplant recipients, have additional vaccine recommendations. Your primary care provider or a vaccination clinic can assess your individual history and determine which vaccines you need.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Patient and doctor discussing health and prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1686" alt="Patient and doctor discussing health and prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>How to Get Your Pneumococcal Vaccine Through Medicare</h2>
 
@@ -1584,13 +1584,13 @@ style="max-width:100%; border-radius:8px;"
 
 <p>If you receive the vaccine from an out-of-network provider, you may be responsible for some costs. Call Medicare at 1-800-MEDICARE (1-800-633-4227) to confirm a provider is in-network before your appointment.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Pharmacy vaccination clinic" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1687" alt="Pharmacy vaccination clinic" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Side Effects and What to Expect</h2>
 
 <p>Most people tolerate pneumococcal vaccines well. Common mild side effects appear within 24ΓÇô48 hours and include soreness or redness at the injection site, low fever, mild fatigue, or muscle aches. These symptoms resolve without treatment within 1ΓÇô2 days. Serious side effects are rare. If you experience symptoms such as difficulty breathing, chest pain, or severe allergic reaction, seek emergency care immediately. Discuss any concerns about vaccine side effects with your healthcare provider before or after vaccination.</p>
 
-<img src="https://images.unsplash.com/photo-1579154204601-01d82e67e4e0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy senior adults enjoying outdoor activity" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1688" alt="Healthy senior adults enjoying outdoor activity" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1633,7 +1633,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1531177071261-7a9f0f1b6d7f?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1531177071261-7a9f0f1b6d7f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="DNA helix structure illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1689" alt="DNA helix structure illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Genetics play an important role in health, influencing everything from risk for chronic disease to medication metabolism to physical traits. Understanding basic genetic concepts helps you make informed decisions about screening, lifestyle modifications, and when to pursue genetic counseling. Chromosomes, genes, DNA, and inheritance patterns interact in complex ways, but grasping these fundamentals provides insight into how biology shapes health across your lifespan.</p>
 
@@ -1645,7 +1645,7 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Variations in genes create genetic diversity. A single gene might have multiple versions or "alleles." For some traits or conditions, having one disease-causing variant is sufficient to produce symptoms (dominant inheritance); for others, you need two copies to be affected (recessive inheritance). Understanding your family history of disease can help predict your own risk, since inherited conditions often cluster in families.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Scientist examining DNA sample in laboratory" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1690" alt="Scientist examining DNA sample in laboratory" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Genetics and Disease Risk</h2>
 
@@ -1653,19 +1653,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Genetic testing can identify predisposition to certain conditions. BRCA mutations indicate increased lifetime risk for breast and ovarian cancer; knowing this allows for enhanced surveillance and preventive options. Familial hypercholesterolemia increases heart disease risk and benefits from early medical management. Not all genetic information is equally actionable; discussion with a genetic counselor helps you understand implications and decide whether testing aligns with your values.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare provider discussing test results with patient" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1691" alt="Healthcare provider discussing test results with patient" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>When Genetic Counseling and Testing Are Appropriate</h2>
 
 <p>Genetic counseling involves meeting with a healthcare professional trained in genetics to discuss your family history, explain inheritance patterns, and help you decide if testing makes sense. Strong indicators for counseling include: multiple family members with cancer or heart disease at young ages; a family member with a known genetic condition; ethnic background associated with higher risk for certain genetic conditions (such as Ashkenazi Jewish heritage and BRCA mutations); or pregnancy planning with known genetic risks in the family. A genetic counselor can review your specific situation and recommend whether testing, lifestyle modifications, or enhanced medical monitoring is most appropriate.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Patient participating in health discussion with provider" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1692" alt="Patient participating in health discussion with provider" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Integrating Genetic Information Into Health Decisions</h2>
 
 <p>Genetic information is most valuable when combined with lifestyle factors and medical monitoring. If your family history suggests increased cancer risk, this might prompt earlier screening, healthier habits, and regular check-upsΓÇönot fatalism about a predetermined outcome. Many genetic risks can be modified through diet, exercise, stress management, and evidence-based medical interventions. Genetic data provides information, not destiny; you retain agency in how you respond.</p>
 
-<img src="https://images.unsplash.com/photo-1579154204601-01d82e67e4e0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Health and wellness through active lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1693" alt="Health and wellness through active lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1708,7 +1708,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Bottles of supplements on organized shelf" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1694" alt="Bottles of supplements on organized shelf" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Multivitamins tailored to women address nutritional gaps common at different life stages. Women of reproductive age may benefit from iron and folic acid; postmenopausal women need adequate calcium and vitamin D for bone health; and all women require certain micronutrients for optimal energy, immune function, and disease prevention. Choosing a quality multivitamin means matching formulations to your age, evaluating ingredient lists for evidence-based nutrients, and understanding that supplementation works best alongside a balanced diet.</p>
 
@@ -1718,25 +1718,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Reproductive-age women (19ΓÇô50 years) need adequate iron because menstruation increases losses, and folic acid to prevent birth defects. Women 51 and older (postmenopausal) no longer lose iron through menstruation, so iron needs decrease. However, postmenopausal women require 1,200 mg daily of calcium and 600ΓÇô800 IU of vitamin D to slow bone density loss and reduce osteoporosis risk. All women benefit from B vitamins for energy metabolism, vitamin C for collagen and immune function, and vitamin E for antioxidant protection. Evaluating a multivitamin should start with your age and reproductive status to ensure key nutrients match your needs.</p>
 
-<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy foods and supplement bottles together" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1695" alt="Healthy foods and supplement bottles together" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Key Nutrients in Women's Multivitamins</h2>
 
 <p>High-quality women's multivitamins contain: iron (8 mg for those 19ΓÇô50; 8 mg or lower for those 51+), folic acid (400 mcg minimum), calcium (though most tablets can't deliver the full daily need, they provide partial support), vitamin D3 (at least 400 IU, preferably 600ΓÇô1000 IU for older adults), B vitamins including B6 and B12, vitamin C, vitamin E, and often biotin, iodine, and magnesium. Read labels carefully: avoid products claiming to boost energy, metabolism, or weight loss without clinical evidence. Choose formulations from reputable manufacturers that third-party test for purity and labeled content.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrient information labels on supplement bottles" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1696" alt="Nutrient information labels on supplement bottles" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Considerations for Specific Health Situations</h2>
 
 <p>Pregnant women or those planning pregnancy should take prenatal vitamins specifically formulated with higher folic acid (600ΓÇô800 mcg) and often additional iron to support pregnancy demands. Women with family history of osteoporosis may need separate calcium and vitamin D supplementation beyond a standard multivitamin to achieve adequate intake. Those with certain digestive conditions (celiac disease, inflammatory bowel disease) may benefit from formulations designed for malabsorption. Women taking medications should discuss multivitamin use with their pharmacist or clinician, as some supplements interact with medications or reduce their effectiveness.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare provider consulting with patient" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1697" alt="Healthcare provider consulting with patient" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Choosing Quality and Avoiding Overconsumption</h2>
 
 <p>Look for products certified by USP (United States Pharmacopeia), NSF International, or ConsumerLab to verify that labeled amounts match actual content and products are free of contaminants. Avoid megadosesΓÇötaking far more of a nutrient than daily requirementsΓÇöunless directed by a healthcare provider. Excess vitamin A (from retinol, not beta-carotene) can be toxic; excess iron may increase oxidative damage; megadoses of some B vitamins are water-soluble and excreted but offer no additional benefit. A standard women's multivitamin at recommended dosage is safe for most people; discuss any concerns about interactions or suitability with your clinician.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Woman enjoying balanced healthy meal" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1698" alt="Woman enjoying balanced healthy meal" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1779,7 +1779,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Supplement bottles and healthy foods together" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1699" alt="Supplement bottles and healthy foods together" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>For many men, a balanced diet provides most essential nutrients. However, multivitamins can help fill gaps when diet is insufficient and support optimal energy, immune function, and disease prevention. Men's health needs differ from women's: men don't menstruate, so iron requirements are lower; men face higher cardiovascular disease risk earlier in life, making cardiac-supportive nutrients important; and prostate health becomes increasingly relevant with age. A quality men's multivitamin addresses these priorities.</p>
 
@@ -1789,25 +1789,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Adult men over 19 require 8 mg daily of iron (much lower than premenopausal women at 18 mg, reflecting men's lack of menstrual loss) and generally need 1,000 mg of calcium daily. Vitamin D is critical for bone health, immune function, and cardiovascular support; many men are deficient, especially in northern climates or those who spend limited time outdoors. B vitamins support energy metabolism and neurologic health, particularly important as men age. Magnesium, often underconsumed, supports muscle and bone health. Selenium and zinc support immune function and prostate health. Many men eating highly processed diets, skipping meals, or with limited vegetable intake may benefit from supplementation.</p>
 
-<img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrient-rich foods and supplement selection" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1700" alt="Nutrient-rich foods and supplement selection" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Key Nutrients in Men's Multivitamins</h2>
 
 <p>Quality men's multivitamins contain: selenium (70 mcg, important for prostate health and antioxidant defense), zinc (11 mg, supports immune function and prostate), magnesium (adequate amounts since many foods don't provide enough), vitamin D3 (at least 400ΓÇô600 IU, preferably 1,000 IU as most men are deficient), B vitamins including B6 and B12 (supports cardiovascular and neurologic health), vitamin C, and vitamin E. Lower iron (8 mg or less) is appropriate since men don't deplete iron through menstruation and excess iron may increase cardiovascular risk. Avoid products with exaggerated claims about energy, performance, or libido without clinical support.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Supplement label review and comparison" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1701" alt="Supplement label review and comparison" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Cardiovascular and Prostate Health Support</h2>
 
 <p>Men face higher cardiovascular disease risk than premenopausal women. B vitamins (particularly B6, B12, and folate) help manage homocysteine levels; omega-3 fatty acids support heart health (some men's formulations include these, though separate supplementation may be needed for optimal intake). Magnesium supports healthy blood pressure and heart rhythm. For prostate health, zinc and selenium are important micronutrients; lycopene and saw palmetto are sometimes included, though evidence for these botanical components is mixed. A men's multivitamin addressing cardiovascular factors is especially important for men with family history of heart disease or those over 50.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active man engaged in exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1702" alt="Active man engaged in exercise routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Quality, Safety, and Integration into Lifestyle</h2>
 
 <p>Choose multivitamins certified by USP (United States Pharmacopeia), NSF International, or ConsumerLab to verify content accuracy and safety. Avoid megadoses unless directed by a healthcare provider; excess iron may be harmful, and excessive levels of fat-soluble vitamins (A, D, E, K) can accumulate and cause toxicity. Men taking blood pressure, cholesterol, or other medications should discuss multivitamin use with their pharmacist, as some nutrients interact with medications. Most importantly, multivitamins are supplementalΓÇöthey work best alongside whole foods, regular exercise, stress management, adequate sleep, and limiting alcohol.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Man enjoying healthy lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1703" alt="Man enjoying healthy lifestyle outdoors" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1850,7 +1850,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person on telehealth therapy video session" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1704" alt="Person on telehealth therapy video session" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Online therapy has dramatically expanded access to mental health care, making professional counseling available to people in underserved areas, those with mobility limitations, and anyone seeking flexible scheduling. Virtual therapy is as effective as in-person treatment for many conditions including depression, anxiety, PTSD, and relationship issues. However, online platforms vary significantly in therapist credentials, privacy protections, treatment models, and insurance acceptance. Understanding these differences helps you choose a service aligned with your needs and values.</p>
 
@@ -1860,25 +1860,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Several models exist: therapist-matching platforms connect you with a licensed therapist for ongoing weekly sessions; messaging-based apps provide textual communication with a therapist, often asynchronously; structured programs offer guided self-help with optional therapist support. Real-time video therapy most closely resembles in-person sessions and is typically most effective for complex issues. Matching platforms allow you to specify preferences (therapist gender, specialty, treatment modality, availability) and connect with someone fitting your criteria. Messaging platforms work well for those preferring asynchronous communication or having scheduling limitations. Understanding which model matches your needs and preferences is the first step.</p>
 
-<img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Therapist providing online consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1705" alt="Therapist providing online consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Critical Evaluation Criteria: Licensing and Credentials</h2>
 
 <p>Verify that therapists are licensed professionals: Licensed Clinical Social Workers (LCSW), Licensed Professional Counselors (LPC), Licensed Marriage and Family Therapists (LMFT), Psychologists (PhD or PsyD), Psychiatrists (MD or DO), or Licensed Clinical Addictions Counselors (LCAC). Check that licenses are current and active via your state's licensing board. Some platforms employ coaches or counselors without clinical licensure; while less regulated, these may still be helpful for certain needs. Reputable platforms clearly display therapist credentials. Be cautious of platforms making extraordinary claims or employing practitioners without verifiable credentials.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Therapist reviewing clinical notes" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1706" alt="Therapist reviewing clinical notes" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Privacy, Data Security, and HIPAA Compliance</h2>
 
 <p>Therapy involves sharing sensitive personal information; privacy protection is critical. Verified platforms comply with HIPAA (Health Insurance Portability and Accountability Act) and other privacy regulations, encrypt data transmission and storage, and clearly outline data policies. Review privacy statements before signing up. Ensure platforms do not sell your data or use it for marketing. Ask whether sessions are recorded (most aren't, but verify) and what happens to session notes if you discontinue service. Some platforms may be covered under insurance if the provider is in-network; verify coverage details and confirm that insurance claims are handled securely and confidentially.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person in calm, comfortable therapy setting" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1707" alt="Person in calm, comfortable therapy setting" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Cost, Insurance, and Trial Periods</h2>
 
 <p>Online therapy ranges from under $100 to $400+ per session. Some platforms accept insurance, which typically reduces out-of-pocket cost; confirm whether your plan covers telehealth and what copay or deductible applies. Sliding-scale options or payment plans exist on some platforms for uninsured individuals. Many services offer an initial trial period or discounted first session, allowing you to test the platform and therapist fit before full commitment. Compare costs but not at the expense of therapist quality; a less expensive practitioner who isn't a good fit wastes both time and money.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person feeling positive after therapy session" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1708" alt="Person feeling positive after therapy session" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1921,7 +1921,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Therapist conducting virtual consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1709" alt="Therapist conducting virtual consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Insurance coverage for online therapy varies substantially by carrier, plan type, and state regulations. Many insurance companies now cover telehealth mental health services, especially post-pandemic. However, understanding your specific plan's coverage, finding in-network providers, and navigating the claims process can be confusing. Accessing insurance-covered online therapy requires knowing what benefits exist, how to verify eligibility, and what documentation may be needed.</p>
 
@@ -1931,25 +1931,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Start by reviewing your insurance plan documents or contacting your insurance company directly to confirm: Does your plan cover mental health services? Are telehealth visits covered at the same rate and deductible as in-person visits, or differently? What's your copay or coinsurance for mental health services? Does your plan require a referral from a primary care doctor? Life, accident, and health insurance companies may have different policies; if you have multiple coverage options, compare them. Ask specifically about therapy versus psychiatric visits (medication management by a psychiatrist vs. counseling by a therapist), as coverage may differ.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Insurance documentation and healthcare forms" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1710" alt="Insurance documentation and healthcare forms" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Finding In-Network Telehealth Therapists</h2>
 
 <p>Your insurance company's website typically has a provider finder tool; search for "therapists," "counselors," or "mental health" and filter by "telehealth" or "virtual visits." Verify that the therapist is in-network and accepts your insurance before scheduling. Many insurance companies also partner with online therapy platforms; check your insurer's website to see if they promote preferred telehealth partners, as these may offer enhanced coverage or discounted rates. If you have difficulty finding in-network telehealth providers in your specialty area, call your insurance company's behavioral health line for assistanceΓÇöpatient advocates can help identify available options.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Person researching therapy options online" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1711" alt="Person researching therapy options online" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Understanding Costs and Financial Responsibility</h2>
 
 <p>If you see an in-network therapist, your insurance covers a percentage and you pay the copay or coinsurance at each visit. Typical copays for mental health visits range from $20 to $50. Some plans have an annual deductible you must meet before insurance pays anything. Review your plan document to understand your specific financial responsibility. Out-of-network telehealth therapists may charge higher fees; your insurance may partially reimburse (allowing you to submit claims) or reimburse minimally, leaving you responsible for a large bill. When in doubt, confirm the provider's in-network status and ask for an itemized receipt for insurance claims.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Patient reviewing insurance and therapy options" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1712" alt="Patient reviewing insurance and therapy options" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Navigating Insurance Approval and Documentation</h2>
 
 <p>Some insurance plans require pre-authorization (approval before starting therapy). Your therapist's office typically handles this; confirm that authorization is obtained before your first appointment. If your insurance denies coverage, ask why and consider appealing; many denials are overturned with proper documentation. Your therapist can provide clinical justification for why therapy is medically necessary. If you're unsure about a denial or feel it's incorrect, call your insurance company's appeals department. Patient advocacy groups can also assist if you face persistent coverage barriers.</p>
 
-<img src="https://images.unsplash.com/photo-1586941487516-8f0258ca630d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare professional and patient in successful consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1713" alt="Healthcare professional and patient in successful consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -1992,7 +1992,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=900&fm=webp&q=70\" alt=\"Prescription medication and clinical consultation\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
+<img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1714" alt=\"Prescription medication and clinical consultation\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
 
 <p>Ozempic (semaglutide), originally approved for type 2 diabetes, has gained attention for weight management due to its GLP-1 agonist mechanism. However, purchasing prescription medications online carries significant risks: counterfeit products, contamination, dosing errors, and side effects without professional oversight. GLP-1 medications require medical supervision, appropriate dosing adjustment, and monitoring for adverse effects. This guide outlines safety and legal considerations before pursuing online acquisition.</p>
 
@@ -2063,7 +2063,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&fm=webp&q=70\" alt=\"Medication box and clinical information\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1715" alt=\"Medication box and clinical information\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
 
 <p>Mounjaro (tirzepatide) is a newer GLP-1/GIP receptor agonist approved for type 2 diabetes in 2022 and for weight management (under the brand Zepbound) in 2023. It represents a significant advance in metabolic disease treatment, combining two mechanisms of action in a single agent. Clinical trials show superior weight loss and blood sugar control compared to single-agent GLP-1 medications. However, like all medications, Mounjaro has side effects and contraindications that require medical supervision. This guide provides patient-friendly information to support informed decisions about treatment.</p>
 
@@ -2134,7 +2134,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70\" alt=\"Fresh seasonal produce at farmers market\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1716" alt=\"Fresh seasonal produce at farmers market\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
 
 <p>Seasonal eating connects us to natural food cycles, improves flavor and nutritional quality, reduces cost, and supports local agriculture and environmental sustainability. When fruits and vegetables are in season, they peak in ripeness, flavor, and nutrient density because they mature naturally. Foods harvested at peak ripeness are typically fresher when they reach your table compared to those picked early for long-distance shipping. Learning what's in season where you live and building meals around available produce transforms eating into a more nourishing, economical, and satisfying experience.</p>
 
@@ -2205,7 +2205,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=900&fm=webp&q=70\" alt=\"Artist painting outdoors in natural light\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1717" alt=\"Artist painting outdoors in natural light\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
 
 <p>Engaging in artistic activitiesΓÇöwhether visual art, music, writing, dance, or theaterΓÇösupports emotional expression, stress reduction, cognitive function, and social connection. Art moves beyond aesthetic appreciation; it's a health intervention. Community arts programs reach populations that might not access traditional mental health services, reducing stigma and fostering belonging. Research increasingly demonstrates that creative engagement improves mood, resilience, and overall wellbeing. Art provides a language for expressing what words sometimes cannot, making it particularly powerful for trauma recovery, grief processing, and celebrating identity.</p>
 
@@ -2278,7 +2278,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70\" alt=\"Healthcare technology and data visualization\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1718" alt=\"Healthcare technology and data visualization\" loading=\"lazy\" style=\"max-width:100%; border-radius:8px;\" />
 
 <p>Healthcare is transforming rapidly through technological innovation, data science, and evolving patient expectations. Artificial intelligence assists diagnosis; wearable devices track physiologic data continuously; telemedicine expands access; precision medicine tailors treatment to individual genetics and biology; and patient engagement tools empower self-management. These converging trends reshape how care is delivered, where it happens, and who drives treatment decisions. Understanding emerging healthcare directions helps you navigate the changing landscape and access innovations that benefit your health.</p>
 
@@ -2354,7 +2354,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1581579184675-3a8f0f4ad8b6?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1581579184675-3a8f0f4ad8b6?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Clean home environment and hygiene practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1719" alt="Clean home environment and hygiene practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Cold and flu viruses spread primarily through respiratory droplets and surface contact. Creating a health-protective home environment involves reducing transmission pathways, supporting immune resilience, and knowing how to manage illness if it occurs. Many prevention strategies are simple behavioral adjustments that substantially reduce household illness when applied consistently.</p>
 
@@ -2364,25 +2364,25 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Respiratory viruses spread through droplets when an infected person coughs or sneezes, or through contact with contaminated surfaces. Understanding transmission helps you target prevention efforts effectively. Cold viruses survive hours on surfaces; flu viruses similarly persist 24-48 hours. High-touch surfaces (doorknobs, light switches, remotes) pose higher risk than surfaces rarely touched. Hands frequently transfer virus to face, especially eyes, nose, and mouth. Disrupting these pathways through handwashing, surface cleaning, and respiratory etiquette substantially reduces household transmission.</p>
 
-<img src="https://images.unsplash.com/photo-1584567595344-3f3f9abe2a10?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Proper handwashing technique" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1720" alt="Proper handwashing technique" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Essential Prevention Practices in Your Home</h2>
 
 <p>Handwashing with soap and water for at least 20 seconds is foundational. Wash after returning home, before eating, after touching the face, and whenever hands are visibly soiled. Hand sanitizer (60% alcohol or higher) works when soap and water unavailable but is less effective on soiled hands. Respiratory etiquetteΓÇöcoughing or sneezing into an elbow or tissue rather than handsΓÇöprevents aerosol spread. Tissues should be disposed immediately in a lined trash. Encourage family members to avoid touching their faces, which is difficult but reducing frequency lowers risk. Maintain good ventilation by opening windows periodically, which reduces airborne virus concentration.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Home hygiene and cleaning routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1721" alt="Home hygiene and cleaning routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>When Someone Is Sick: Isolation and Care</h2>
 
 <p>If someone in your household develops cold or flu symptoms, isolate them in a separate room if possible, particularly if others are at higher risk (young children, elderly, immunocompromised). Provide separate towels, dishes, and utensils. Disinfect high-touch surfaces in shared spaces. The sick person should wear a mask when around others to reduce droplet transmission. Most cold and flu cases resolve without specific treatment through supportive care: rest, fluids, fever management with acetaminophen or ibuprofen, and expectorants for congestion if helpful. Antiviral medications (oseltamivir for flu) are most effective when started early in illness.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sick person resting with home care support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1722" alt="Sick person resting with home care support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Supporting Immune Resilience Year-Round</h2>
 
 <p>Consistently practicing healthy habits reduces illness risk: sleep 7-9 hours nightly, exercise regularly, eat balanced nutrition rich in fruits and vegetables, manage stress, stay hydrated, and maintain social connections. Surprisingly, excess hand sanitizer use and overly sterile environments may impair immune development; normal exposure to environmental microbes supports healthy immunity. Vaccinations (annual flu vaccine, COVID vaccines) are among the most effective prevention strategies. Vaccines reduce illness severity even when breakthrough infections occur. Discuss vaccination with your healthcare provider, particularly for vulnerable household members.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle supporting immune function" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1723" alt="Healthy lifestyle supporting immune function" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2425,7 +2425,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthcare provider with patient for HIV management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1724" alt="Healthcare provider with patient for HIV management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Modern HIV treatment has transformed the condition from a life-limiting illness to a manageable chronic disease. With appropriate medical care, people with HIV can achieve an undetectable viral load, live normal lifespans, and have excellent quality of life. Thriving involves medical management, mental health support, healthy lifestyle habits, and connection with community resources.</p>
 
@@ -2435,19 +2435,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Antiretroviral therapy (ART) consists of combinations of medications from different drug classes that work synergistically to suppress HIV replication. When taken consistently, ART reduces viral load to undetectable levelsΓÇöso low that the virus cannot be transmitted sexually (U=U: undetectable equals untransmittable). People with undetectable viral loads have normal life expectancy and can live healthy, fulfilling lives. ART regimens have become simplerΓÇömany people take a single pill once dailyΓÇöwith fewer side effects than earlier medications. Adherence is crucial; missing doses risks resistance development. Working closely with an HIV specialist ensures optimal medication selection and monitoring.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical consultation and HIV treatment plan" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1725" alt="Medical consultation and HIV treatment plan" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Health Monitoring and Preventive Care</h2>
 
 <p>Regular monitoring includes CD4 count and viral load testing (typically 1-4 times yearly) and routine health screenings. People with HIV have higher risk for certain cancers, cardiovascular disease, and bone health issues, necessitating age-appropriate screening. Screening for sexually transmitted infections, hepatitis B and C, and tuberculosis is important. Vaccinations protect against preventable illnesses; some standard vaccines require modified timing with HIV. Mental health support is integralΓÇödepression and anxiety are common and treatable. Sexual health discussions with partners help with safe practices and reducing transmission risk.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle and wellness activities" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1726" alt="Healthy lifestyle and wellness activities" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Lifestyle Strategies for Thriving</h2>
 
 <p>The fundamentals of healthΓÇöregular exercise, balanced nutrition, adequate sleep, stress management, limiting alcohol, avoiding smokingΓÇöare particularly important with HIV. Exercise supports cardiovascular health, bone strength, mood, and immune function. Nutrition rich in fruits, vegetables, whole grains, and lean protein supports immune function and overall health. Sleep quality affects immune response and mental health. Social connection and community involvement provide support, reduce isolation, and enhance wellbeing. Many people find HIV support groups, whether in-person or online, invaluable for connection with others with similar experiences and practical advice.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Social connection and community support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1727" alt="Social connection and community support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2490,7 +2490,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy sleep environment setup" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1728" alt="Healthy sleep environment setup" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Sleep apnea is a common sleep disorder where breathing repeatedly stops and starts during sleep. Untreated sleep apnea increases risk for heart disease, stroke, hypertension, and cognitive decline. Modern diagnostic tools and treatment options have become increasingly effective and convenient. Understanding the condition, recognizing symptoms, pursuing diagnosis, and adhering to treatment dramatically improves sleep quality, daytime functioning, and long-term health outcomes.</p>
 
@@ -2500,19 +2500,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Common symptoms include loud snoring, gasping for air during sleep, morning headaches, excessive daytime sleepiness despite adequate sleep duration, difficulty concentrating, mood changes, and nocturia (waking to urinate frequently). Risk factors include obesity, male gender, age over 50, anatomic factors (large neck circumference, narrow airway), hypertension, and smoking. Sleep apnea often goes undiagnosed because people don't remember apnea episodes or may attribute symptoms to other causes. If you or your bed partner notices these symptoms, consider mentioning them to your healthcare provider.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep study and diagnostic process" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1729" alt="Sleep study and diagnostic process" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Diagnostic Approach and Sleep Study</h2>
 
 <p>Sleep apnea is diagnosed through sleep study (polysomnography), which monitors brain activity, oxygen saturation, heart rate, and breathing during sleep. In-lab studies provide comprehensive data; home-based devices are increasingly accurate for moderate-to-severe obstructive sleep apnea. Results quantify apnea-hypopnea index (AHI), the number of breathing disruptions per hour. AHI severity guides treatment recommendations. Mild apnea may be managed with behavioral changes; moderate-to-severe typically requires treatment intervention.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="CPAP therapy and treatment setup" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1730" alt="CPAP therapy and treatment setup" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Treatment Options and Adherence Strategies</h2>
 
 <p>Continuous positive airway pressure (CPAP) is first-line treatment; it gently pressurizes air to keep airways open during sleep. Alternative devices include bi-level (BiPAP) and autotitrating positive airway pressure (APAP) machines. Adherence is crucial for benefit; devices comfortable and quiet are essential. Position changes, weight loss, treating nasal congestion, and avoiding sedatives or alcohol improve sleep apnea in some people. Oral appliances (dental devices that advance the lower jaw) work for mild-moderate apnea. Positional therapy (sleeping on your side) helps position-dependent apnea. Rarely, surgery is considered.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lifestyle modifications and sleep hygiene" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1731" alt="Lifestyle modifications and sleep hygiene" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2555,7 +2555,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle and sustainable weight management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1732" alt="Healthy lifestyle and sustainable weight management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Weight management is complex, influenced by genetics, metabolism, environment, behavior, psychology, and medical factors. Quick-fix dieting rarely produces lasting results; instead, sustainable approaches combine realistic eating patterns, regular movement, stress management, sleep, and professional support when needed. Understanding weight as part of overall healthΓÇörather than the sole measureΓÇöhelps reframe goals constructively.</p>
 
@@ -2565,19 +2565,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Body weight results from energy intake versus expenditure, but individual factors create variation. Genetics explain 70% of weight variation; some people are naturally heavier despite similar eating and activity as lighter peers. Metabolic rate varies based on age, sex, muscle mass, hormones, and medical conditions. Weight cycling (repeated loss and regain) can lower metabolic rate slightly. Medications, hormones, and medical conditions affect weight. Rather than viewing weight as purely a matter of willpower, understanding its complex biology helps identify useful interventions.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrition and balanced eating approach" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1733" alt="Nutrition and balanced eating approach" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Evidence-Based Weight Loss Strategies</h2>
 
 <p>Modest calorie deficit (500-750 kcal/day) produces 1-1.5 lbs/week weight lossΓÇösustainable and healthy. Rapid weight loss often reflects fluid loss and muscle; slow loss is fat loss. Eating whole foods with adequate protein and fiber supports satiety and metabolic health. Regular exercise, including both strength and cardiovascular activity, preserves muscle during weight loss and improves health independently of weight change. Addressing emotional eating, stress, and sleep quality improves sustainable weight management. For some, meal replacement programs or structured approaches provide helpful structure. Newer GLP-1 medications assist some people; discussion with your provider determines appropriateness.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise and physical activity routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1734" alt="Exercise and physical activity routine" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Building Sustainable Lifestyle Change</h2>
 
 <p>Lasting weight management comes from identifying eating and activity patterns you can maintain indefinitely, not temporary "dieting." What matters is adherence; the "best" diet is the one you'll stick with. Small changesΓÇöwalking 30 minutes daily, swapping sugar beverages for water, adding vegetables to each mealΓÇöaccumulate to meaningful lifestyle shifts. Behavioral strategies including self-monitoring, social support, and addressing barriers improve success. Perfectionism undermines sustainability; expecting occasional indulgences and having plans for getting back on track is realistic.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mental health and wellbeing during lifestyle change" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1735" alt="Mental health and wellbeing during lifestyle change" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2620,7 +2620,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Food tracking and nutrition planning" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1736" alt="Food tracking and nutrition planning" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Navigating weight management successfully requires practical tools, realistic strategies, and professional support. Modern approaches emphasize sustainable lifestyle modification over restrictive dieting. Apps tracking food intake and exercise, health coaching, medical supervision, and behavioral modification techniques all contribute to success when tailored to individual needs and preferences.</p>
 
@@ -2630,19 +2630,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Logging food intake increases awareness and helps identify patterns. Many apps (MyFitnessPal, Lose It, Cronometer) track calories, macronutrients, and micronutrients. For some, detailed tracking is motivating and educational; for others, it feels obsessive. Alternative approaches include portion sizing (using your hand as a measuring tool), mindful eating practices, and general awareness without precise tracking. Finding what works for your personality matters more than any specific method.</p>
 
-<img src="https://images.unsplash.com/photo-1505576399279-1b251fab0dd5?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise tracking and activity monitoring" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1737" alt="Exercise tracking and activity monitoring" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Activity Monitoring and Movement Integration</h2>
 
 <p>Wearable devices (Fitbit, Apple Watch, Garmin) track daily steps, exercise, and calories burned. Goal-setting for daily steps (10,000 is a common target, but any increase is beneficial) motivates activity. Activity apps (Strava, Nike Training Club) provide guided workouts. However, obsessive calorie tracking and over-exercising to "earn" food can create unhealthy relationships with movement and food. Exercise should feel enjoyable and sustainable, not punitive.</p>
 
-<img src="https://images.unsplash.com/photo-1585414341624-a7a0ad1a3b7c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Professional health coaching and support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1738" alt="Professional health coaching and support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Professional Support and Behavioral Strategies</h2>
 
 <p>Health coaches, registered dietitians, therapists, and physicians provide personalized guidance based on your specific situation, medical history, and goals. Behavioral strategies including habit stacking (linking new behaviors to existing ones), environmental modification (removing tempting foods, prepping healthy meals), and self-compassion when lapses occur improve adherence. Support groups (in-person or online) provide community and accountability. Cognitive behavioral therapy addresses emotional eating and unhelpful thought patterns.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sustainable lifestyle practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1739" alt="Sustainable lifestyle practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2685,7 +2685,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Skincare routine and dermatological care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1740" alt="Skincare routine and dermatological care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Eczema (atopic dermatitis) is a chronic skin condition characterized by itching, inflammation, and sensitivity. While not curable, eczema is highly manageable through consistent skincare, trigger identification, medical treatment, and lifestyle adjustments. Living well with eczema involves understanding your unique triggers, maintaining skin barrier health, and accessing appropriate medical care when needed.</p>
 
@@ -2695,19 +2695,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Eczema flares result from combination of genetic predisposition and environmental triggers. Common triggers include irritants (soaps, detergents, fragrances), allergens, stress, infections, temperature/humidity changes, and certain fabrics. Identifying your personal triggers through journaling helps guide prevention. Avoiding known triggers is most effective strategy. Stress management, since stress is a potent trigger, includes relaxation, exercise, and therapy when helpful.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Skincare products and moisturization techniques" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1741" alt="Skincare products and moisturization techniques" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Daily Skincare and Barrier Maintenance</h2>
 
 <p>Maintaining skin barrier health is foundational. Gentle cleansing with fragrance-free, mild cleansers is essentialΓÇöharsh soaps strip natural oils. Moisturizing immediately after bathing (while skin is still damp) locks in hydration; thick creams or ointments work better than lotions. Fragrance-free, hypoallergenic products lower irritation risk. Bathing temperature should be warm, not hot, and baths should be brief to prevent excessive drying. Some people benefit from wet-wrap therapy (applying moisturizer, then damp bandages) during flares. Avoiding irritating fabrics (rough wools, synthetic materials) in favor of soft cotton helps.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical treatment and prescription management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1742" alt="Medical treatment and prescription management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment Options</h2>
 
 <p>Topical corticosteroids and calcineurin inhibitors are first-line prescription treatments for flares and maintenance. Phototherapy (controlled UV exposure) can help moderate-to-severe eczema. Newer biologic medications (dupilumab, tralokinumab) target specific immune pathways and are effective for moderate-to-severe eczema not controlled by other treatments. Working with a dermatologist helps tailor treatment to severity and response. Oral medications may address secondary infections or severe itching. The goal is controlling eczema with the lowest-potency treatment needed.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emotional wellness and stress management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1743" alt="Emotional wellness and stress management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2750,7 +2750,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy skin and diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1744" alt="Healthy skin and diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>People with diabetes experience specific skin challenges: slower wound healing, higher infection risk, increased susceptibility to fungal infections, and higher risk for diabetic neuropathy affecting feet. Proactive skincare, good glucose control, and awareness of skin changes support skin health and prevent complications. Daily skin inspection, appropriate skincare products, foot care, and prompt attention to changes protect skin integrity.</p>
 
@@ -2760,19 +2760,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>High blood sugar impairs immune function, increasing infection risk. Yeast and fungal infections are common. Dry skin results from reduced sweat gland function; proper moisturization is essential. Diabetic blisters, necrobiosis lipoidica diabeticorum (shiny patches on shins), and digital sclerosis (thickened, waxy skin on hands and feet) are specific to diabetes. While many conditions are harmless, some warrant medical attention. Regular skin self-examination helps catch changes early.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Daily skin care and hygiene practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1745" alt="Daily skin care and hygiene practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Daily Skincare and Foot Care Essentials</h2>
 
 <p>Gentle, fragrance-free cleansing with lukewarm (not hot) water prevents irritation and drying. Thorough drying, especially between toes and skin folds, prevents fungal growth. Moisturizing daily with fragrance-free lotions locks in hydration; avoid products with alcohol. Foot care is particularly important since reduced sensation can delay recognition of injuries. Inspect feet daily for cuts, blisters, or redness. Wear well-fitting shoes, keep feet elevated when sitting, and address any concerns promptly. Toenail care should be careful to avoid cuts; professional pedicure providers should understand diabetes precautions.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Wound care and infection prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1746" alt="Wound care and infection prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Wound Care and Infection Prevention</h2>
 
 <p>Even minor wounds require attention. Clean with gentle soap and water, apply antibiotic ointment, cover with clean bandage, and observe for signs of infection (increased redness, warmth, drainage, odor). Contact your doctor if wounds don't heal within standard timeframe or show signs of infection. Avoid over-the-counter remedies that might mask serious problems. Good glucose control accelerates healing; maintaining target blood sugar levels supports skin and wound recovery.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Quality of life and diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1747" alt="Quality of life and diabetes management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2815,7 +2815,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Self-care routine for skin wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1748" alt="Self-care routine for skin wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Beyond medical treatment, self-care practices and lifestyle modifications significantly impact eczema management. Stress reduction, sleep quality, hydration, environmental control, and emotional support all contribute to skin health and overall wellbeing. Embracing self-care as essential to eczema managementΓÇörather than optionalΓÇöimproves outcomes and quality of life.</p>
 
@@ -2825,19 +2825,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Stress is a potent eczema trigger; conversely, flares cause stress and anxiety. Breaking this cycle requires stress-reduction practices: meditation, deep breathing, yoga, progressive muscle relaxation, or activities that bring joy. Therapy or counseling helps address the psychological burden of chronic skin condition. Support groups (in-person or online) connect you with others managing eczema and provide validation that struggles are real and shared. Reducing self-stigmaΓÇöeczema is not your fault, not caused by poor hygiene or characterΓÇösupports mental health.</p>
 
-<img src="https://images.unsplash.com/photo-1600298881974-6be191ceeda1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep and recovery practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1749" alt="Sleep and recovery practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Sleep Quality and Night-Time Management</h2>
 
 <p>Quality sleep supports immune function and healing; eczema itching often disrupts sleep, creating a negative cycle. Bedtime routine optimizationΓÇöcool room temperature, breathable cotton bedding, pre-sleep skincare, and relaxation practicesΓÇöimproves sleep. If nighttime itching is severe, discuss with your doctor about options (antihistamines, topical calming agents). Keeping nails short reduces damage from scratching. Some people benefit from cotton gloves during sleep to prevent unconscious scratching.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Hydration and nutrition for skin health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1750" alt="Hydration and nutrition for skin health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Nutrition, Hydration, and Lifestyle Factors</h2>
 
 <p>Adequate hydration supports skin hydration from within. Anti-inflammatory diet rich in omega-3 fatty acids, fruits, vegetables, and whole grains may support skin health. Some people find specific foods trigger flares; elimination diet under professional guidance identifies these. Exercise reduces stress and supports overall health but modify during flares if exercise triggers symptoms. Limiting hot baths and showers, using humidifiers in dry environments, and avoiding harsh chemicals all support skin barrier health.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Community support and wellness practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1751" alt="Community support and wellness practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2880,7 +2880,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Blood glucose monitoring and health check" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1752" alt="Blood glucose monitoring and health check" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Blood glucose (blood sugar) is central to energy production and health. Healthy glucose management prevents diabetes and related complications including cardiovascular disease, kidney disease, and neuropathy. Understanding glucose dynamics, monitoring when appropriate, and implementing lifestyle strategies support glucose health and wellbeing whether you have diabetes or simply want to maintain metabolic health.</p>
 
@@ -2890,19 +2890,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Glucose is the body's primary energy source. When you eat carbohydrates, they're broken into glucose, which triggers insulin release to carry glucose into cells. This process should be efficient and well-regulated. When blood glucose remains elevated or regulation breaks down, diabetes develops. Prediabetes (fasting glucose 100-125 mg/dL or A1c 5.7-6.4%) indicates increased diabetes risk but is reversible through lifestyle intervention. Normal fasting glucose is less than 100 mg/dL; A1c (average of past 3 months' glucose) should be less than 5.7%.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrition and dietary strategies for glucose control" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1753" alt="Nutrition and dietary strategies for glucose control" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Nutrition Strategies for Glucose Management</h2>
 
 <p>Carbohydrate quality matters more than quantity. Whole grains, legumes, vegetables, and fruits contain fiber, which slows glucose absorption and prevents blood sugar spikes. Refined carbohydrates (white flour, sugary foods) cause rapid glucose elevations. Protein and healthy fats (nuts, olive oil, avocado) also slow glucose absorption. Pairing carbohydrates with protein or fat moderates glucose response. Limiting sugary beverages is particularly importantΓÇöliquid calories bypass satiety signals and raise glucose quickly. Portion control and meal timing (eating at consistent times) support stable glucose throughout the day.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise and physical activity for glucose control" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1754" alt="Exercise and physical activity for glucose control" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Physical Activity and Lifestyle Factors</h2>
 
 <p>Exercise improves insulin sensitivity immediately and cumulatively with regular practice. Both aerobic exercise (walking, cycling, swimming) and resistance training (weights, bodyweight exercises) improve glucose control. Aim for 150 minutes of moderate aerobic activity weekly plus 2+ days resistance training. Sleep deprivation worsens glucose control; prioritize 7-9 hours nightly. Stress management through relaxation, meditation, or activities you enjoy supports glucose regulation. Limiting alcohol and avoiding tobacco protect metabolic health.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Glucose monitoring and health management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1755" alt="Glucose monitoring and health management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -2945,7 +2945,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Men's health and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1756" alt="Men's health and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Men face distinct health challenges: higher cardiovascular disease risk at younger ages than women, prostate and testicular cancer risks, higher rates of risky behaviors, and social barriers to seeking healthcare. Men's wellness involves regular health screening, preventive care, healthy lifestyle maintenance, and addressing mental health and emotional wellness alongside physical health.</p>
 
@@ -2955,19 +2955,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Regular health screening catches disease early when treatment is most effective. Age 20-39: establish baseline blood pressure, cholesterol, and glucose; discuss family history. Age 40+: continue regular screening, add prostate screening discussion (PSA test) around age 50, age 40 if family history, age 45 if Black (higher risk). Age 50+: colon cancer screening (colonoscopy, other options), continue cardiovascular screening. Blood pressure, cholesterol, glucose screening frequency depends on baseline results and risk factors. Testicular self-examination monthly helps catch early changes. Mental health screening identifies depression, which is common and treatable.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cardiovascular health and fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1757" alt="Cardiovascular health and fitness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Cardiovascular and Metabolic Health</h2>
 
 <p>Cardiovascular disease is leading health threat for men. Risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, and family history. Modifiable factors include regular aerobic exercise (150 min/week), healthy weight, blood pressure and cholesterol management, heart-healthy diet (Mediterranean style), stress management, and smoking cessation. Regular health monitoring allows early intervention when risk factors emerge. Depression screening is important; depression increases cardiovascular risk.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mental health and stress management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1758" alt="Mental health and stress management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Mental Health and Emotional Wellness</h2>
 
 <p>Men experience depression and anxiety but often don't seek help due to stigma or discomfort discussing emotions. Depression increases risk for cardiovascular disease, suicide, and substance misuse. Therapy or counseling effectively treats mental health conditions. Talking with trusted friends or family about struggles is healing. Physical activity improves mood. Sleep quality affects mental health; prioritize 7-9 hours nightly. Stress management practices including meditation, time in nature, hobbies, and social connection support emotional wellbeing. If you experience suicidal thoughts, reach out: call 988 (Suicide & Crisis Lifeline) immediately.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lifestyle and preventive wellness practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1759" alt="Lifestyle and preventive wellness practices" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3010,7 +3010,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical alert system technology" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1760" alt="Medical alert system technology" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Medical alert systems provide emergency response for people living independently, seniors, and those with health concerns. By pressing a wearable button, users can connect with emergency services or designated contacts. Modern systems offer fall detection, medication reminders, location tracking, and health monitoring integration. Choosing the right system ensures peace of mind and appropriate emergency response.</p>
 
@@ -3020,19 +3020,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Traditional systems use home base units connected to landline or broadband; pressing a wearable pendant connects to monitoring center, providing help or contacting emergency services. Mobile systems use cellular networks, allowing movement beyond home. Fall detection automatically alerts monitoring center when falls are detected (though false alarms occur). Newer systems integrate health monitoring (blood oxygen, heart rate, falls, medication reminders). Response typically involves monitoring center operator calling to assess need, then dispatching emergency services if appropriate. Some systems offer medical brief feature allowing health history and emergency contacts accessible to first responders.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emergency response and safety features" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1761" alt="Emergency response and safety features" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Features and System Types</h2>
 
 <p>Wearable buttons (pendants, wristbands, watches) must be worn consistently to be effective. Smartwatch integration allows familiar device use. Fall detection adds automatic alert capability if user doesn't respond after falling. Wi-Fi and cellular connectivity options suit different living situations. Medication reminders help adherence. Location tracking useful for those at increased fall or wandering risk. 24/7 monitoring center availability ensures help when needed. Some systems offer discounts for new technology adoption; others have growing waitlists. Battery life, water resistance, charging convenience matter for daily usability.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Choosing the right medical alert system" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1762" alt="Choosing the right medical alert system" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Selecting Your Medical Alert System</h2>
 
 <p>Consider your situation: living alone, family support available, mobility limitations, health conditions affecting fall risk. Personal preferences matterΓÇösome prefer watches, others pendants. Budget ranges from $20-80+ monthly. Insurance may cover costs. Trial periods let you test comfort and reliability. References from friends, family, or healthcare provider offer real-world perspective. Mobile systems suit active individuals; home-based systems work for those primarily at home. Hybrid systems (home base plus mobile) offer flexibility. Test response times and customer service before commitment. Ensure system works with any health devices you already use.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Peace of mind and family communication" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1763" alt="Peace of mind and family communication" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3075,7 +3075,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lupus awareness and education" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1764" alt="Lupus awareness and education" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Systemic lupus erythematosus (SLE or lupus) is an autoimmune disease where the immune system attacks the body's tissues and organs. Lupus affects skin, joints, kidneys, heart, lungs, and nervous system, causing inflammation and various symptoms. Disease course is unpredictable; some people experience mild symptoms while others have serious complications. Modern treatments dramatically improve outcomes and quality of life. Living well with lupus requires medical care, self-care, and community support.</p>
 
@@ -3085,19 +3085,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Common lupus symptoms include fatigue, joint pain, malar rash (butterfly-shaped across cheeks), photosensitivity, oral ulcers, and hair loss. Serious manifestations affect kidney function, heart, lungs, or brain. Diagnosis requires clinical symptoms plus positive autoantibody tests (ANA, anti-dsDNA, complement levels). Diagnosis can take time, increasing frustration; keep detailed symptom records for healthcare provider. Severity varies; some people have mild disease while others have serious organ involvement. Regular monitoring with your rheumatologist tracks disease activity so treatment can be adjusted.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medication management and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1765" alt="Medication management and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment and Medication Adherence</h2>
 
 <p>NSAIDs treat mild pain and inflammation. Low-dose corticosteroids control inflammation but require monitoring for long-term side effects. Hydroxychloroquine (plaquenil) is foundational therapy for most lupus patients, reducing flares and serious organ involvement. Immunosuppressants (mycophenolate, azathioprine) manage moderate-to-severe disease. Newer biologic medicines (belimumab) target specific immune mechanisms. Medication adherence is crucial; inconsistent treatment increases flare risk and organ damage. Work closely with your rheumatologist on treatment goals emphasizing minimum medication needed to control disease.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lifestyle management and self-care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1766" alt="Lifestyle management and self-care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Lifestyle Management and Self-Care</h2>
 
 <p>Sun protection is essential; UV exposure triggers flares. Wear SPF 50+ daily, protective clothing, and avoid midday sun exposure. Stress management through relaxation, meditation, and activities you enjoy reduces flare risk. Adequate sleep supports immune function; prioritize 7-9 hours. Regular, gentle exercise (walking, swimming, yoga) maintains function without triggering flares; work with physical therapist if needed. Balanced nutrition, adequate hydration, limiting alcohol, and avoiding smoking all support health. Flare management includes rest, increased medication if advised, and prompt contact with healthcare provider for concerning symptoms.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and community resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1767" alt="Support and community resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3140,7 +3140,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Pregnancy and prenatal health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1768" alt="Pregnancy and prenatal health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>The first trimester (weeks 1-13) is a period of significant physical and emotional change. Morning sickness, fatigue, mood changes, and anxiety are common. You're bonding with your developing baby while managing work, life, and health. Practical strategies, self-compassion, and support make first trimester more manageable.</p>
 
@@ -3150,19 +3150,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Morning sickness affects 80% of pregnant people, typically beginning around week 4-6. Ginger, frequent small meals, acupressure, and vitamin B6 help many. Medication (diclectin, ondansetron) is safe and effective for severe nausea. Avoid triggersΓÇöfood smells, motion, certain foods. Eat when hungry rather than waiting; low blood sugar worsens nausea. Cold foods often seem more appealing than hot. Hydration is crucial; if you're vomiting frequently, contact your healthcare provider. Hyperemesis gravidarum (severe vomiting requiring hospitalization) occurs in 1-3%; if severely affected, seek immediate care.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Prenatal nutrition and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1769" alt="Prenatal nutrition and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Nutrition, Fatigue, and Physical Wellbeing</h2>
 
 <p>Prenatal vitamin (folic acid, iron) supports baby's development. Most people don't need significantly increased calories in first trimester. Nutritious foods support energy when fatigue is overwhelmingΓÇöprotein, iron-rich foods, and whole grains help. Fatigue is normal; listen to your body and rest when needed. Gentle exercise (walking, pregnancy yoga, swimming) supports wellbeing but exercise should feel manageable, not depleting. Sleep position affects comfort; side-lying develops the habit for later pregnancy (left side is ideal). Avoid high-mercury fish, unpasteurized dairy, raw/undercooked meats, and excess caffeine.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emotional health in pregnancy" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1770" alt="Emotional health in pregnancy" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Emotional Health and Adjusting to Pregnancy</h2>
 
 <p>Mood changes, anxiety, and uncertainty are normal. Hormonal and life changes create emotional adjustment complexity. Discomfort about pregnancy, fear of loss (especially if history of miscarriage), and identity changes ("I'm going to be a parent?") are all valid. Talking with partner, family, healthcare provider, or therapist helps. Support groups connect you with others beginning pregnancy. Anxiety or depression symptoms warrant discussion with your healthcare provider; therapy and/or medication support mental health. Rest assured that mild anxiety is different from perinatal anxiety disorder (which requires treatment).</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Prenatal care and monitoring" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1771" alt="Prenatal care and monitoring" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3205,7 +3205,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lung cancer care and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1772" alt="Lung cancer care and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>A lung cancer diagnosis is life-altering. Modern treatments have improved significantly, with targeted therapies and immunotherapies offering improved survival. Treatment depends on cancer stage, genetics, and overall health. Living well with lung cancer involves medical treatment, managing side effects, maintaining quality of life, and finding support. Many people live years with lung cancer, working toward making each day meaningful.</p>
 
@@ -3215,19 +3215,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Surgery removes tumors when possible, especially early-stage disease. Chemotherapy uses medication to kill cancer cells throughout the body. Targeted therapy targets specific genetic mutations (EGFR, ALK, ROS1), often first-line for those with mutations. Immunotherapy activates immune system to fight cancer; increasingly used alongside other treatments. Radiation focuses energy on tumors. Combination therapies often provide better results than single treatments. Clinical trials access newer treatments not yet widely available. Working closely with oncology team informs treatment decisions. Second opinions are appropriate and often encouraged.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Managing side effects and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1773" alt="Managing side effects and wellness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Managing Treatment Side Effects</h2>
 
 <p>Fatigue is nearly universal; energy management (pacing activities, rest when needed) helps. Nausea responds to anti-nausea medication, dietary changes, and ginger. Chemotherapy causes hair loss (temporary); some use hats, wigs, or embrace baldness. Immunotherapy can cause immune-related side effects; reporting symptoms promptly allows treatment adjustment. Cognitive changes (chemo brain) affect some. Supportive care addresses each side effectΓÇötalk with your healthcare team. Complementary approaches (acupuncture, meditation, gentle massage) help many alongside conventional treatment. Self-compassion during difficult treatment weeks supports emotional and physical health.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutritional support and lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1774" alt="Nutritional support and lifestyle" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Nutrition, Exercise, and Quality of Life</h2>
 
 <p>Adequate nutrition supports immune function during treatment. Protein needs increase; varied nutritious foods help when appetite is affected. Small frequent meals often work better than three large meals. Registered dietitian consultation is valuable. Gentle exercise (walking, stretching, yoga) maintains function and supports mental health without overexertion. Social connection, meaningful activities, and time in nature sustain quality of life. Advance directives clarifying end-of-life wishesΓÇöwhile difficultΓÇöprovides peace and relief to family. Palliative care (focused on comfort and quality of life) isn't just end-of-life; it helps throughout cancer journey.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and emotional resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1775" alt="Support and emotional resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3270,7 +3270,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lung health and COPD management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1776" alt="Lung health and COPD management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Chronic obstructive pulmonary disease (COPD) includes emphysema and chronic bronchitisΓÇöconditions that damage airways and reduce airflow. COPD is progressive; early intervention slows progression and prevents complications. Management includes medication, exercise, nutrition, infection prevention, and mental health support. While not curable, COPD is highly manageable, allowing quality of life and independence for many years.</p>
 
@@ -3280,19 +3280,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>COPD develops from long-term irritant exposure (smoking, occupational chemicals, air pollution). Symptoms (cough, shortness of breath, wheezing) develop gradually. Diagnosis uses spirometry (breathing test) showing airflow limitation. Severity ranges from mild to severe based on FEV1 (forced expiratory volume in 1 second). Understanding your degree of airflow limitation helps predict symptoms and guides treatment. CT scans assess emphysema extent. Pulmonary function tests evaluate exercise tolerance. Your healthcare team assesses exacerbation risk and other health conditions affecting management.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medication and treatment management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1777" alt="Medication and treatment management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medication Regimens and Proper Inhaler Use</h2>
 
 <p>Inhalers deliver medication directly to airways; correct technique ensures effectiveness. Bronchodilators (beta-agonists, anticholinergics) relax airway smooth muscle; long-acting versions used regularly, short-acting for symptom relief. Corticosteroid inhalers reduce inflammation, particularly for moderate-severe COPD or with exacerbations. Combination inhalers deliver multiple medications. Spacers improve medication delivery, particularly for those with dexterity limitations. Regular practice and demonstration by healthcare professionals ensures proper technique. Maintaining medication adherence, even when feeling well, prevents exacerbations.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Pulmonary rehabilitation and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1778" alt="Pulmonary rehabilitation and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Pulmonary Rehabilitation and Exercise Programs</h2>
 
 <p>Pulmonary rehabilitation improves function and quality of life. Programs combine guided exercise, breathing techniques, education, and psychological support. Exercise tolerance improves with training, though lung function measurements don't change. Walking, stationary cycling, water exercise, and resistance training all help. Pursed-lip breathing and diaphragmatic breathing decrease shortness of breath. Avoiding triggers (air pollution, respiratory infections, extreme temperatures) prevents exacerbations. Vaccinations (flu, pneumococcal, COVID-19, pertussis) reduce infection risk. Home oxygen therapy, when prescribed, supports function and mental health.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrition and mental health support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1779" alt="Nutrition and mental health support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3335,7 +3335,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Thyroid eye disease and ophthalmology care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1780" alt="Thyroid eye disease and ophthalmology care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Thyroid eye disease (TED, or Graves' eye disease) occurs when the immune system attacks tissues around the eyes, causing inflammation, eye bulging (exophthalmos), and eye movement problems. TED affects 25-50% of people with Graves' disease. While range of severity spans from mild dry eyes to vision-threatening complications, modern treatment dramatically improves outcomes. Early intervention and specialized care are crucial.</p>
 
@@ -3345,19 +3345,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>When immune system attacks thyroid-stimulating immunoglobulin receptors on eye tissue fibroblasts, inflammation and expansion of eye muscle and fat tissue result. Eyes bulge forward (exophthalmos), causing dry eyes, double vision, and difficulty closing eyes. Eyelids swell and retract. Eye movement limitations reduce side-to-side and upward movement; up-gaze is more affected than others. Corneal exposure from incomplete eyelid closure threatens vision over time. Optic nerve compression from tissue expansion behind the eyes can cause vision loss. Evaluation includes clinical assessment, imaging (CT or MRI showing muscle/fat enlargement), and TSI (thyroid stimulating immunoglobulin) blood tests confirming thyroid autoimmunity. Thyroid function testing guides thyroid treatment.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Treatment options and management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1781" alt="Treatment options and management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Modern Treatment Options</h2>
 
 <p>Thyroid control (achieving euthyroid state) reduces TED progression. Lubricating eye drops, protective eyewear, and sleeping with eyes taped closed prevent corneal damage. Selenium supplementation may improve mild TED. Oral corticosteroids reduce inflammation; higher doses benefit moderate-moderate TED but carry side effect risks. Intravenous immunoglobulin (IVIG) helps severe disease. Teprotumumab (Tepezza), a newer IGF-1 receptor inhibitor, shows significant benefits for active TED and is increasingly first-line for moderation to severe. Immunosuppressants (mycophenolate) help those intolerant of other treatments. Radiation therapy has fallen out of favor due to risk. Surgery corrects eye position and double vision after inflammation stabilizes; timing is crucial.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Eye care and symptom management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1782" alt="Eye care and symptom management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Daily Eye Care and Self-Management</h2>
 
 <p>Eye care is critical to prevent corneal damage. Artificial tears (preservative-free to allow frequent use) keep eyes moist. Lubricating ointment at night protects nocturnal eyes. Sunglasses reduce light sensitivity and protect from wind/dust irritation. Taping eyes closed during sleep or using sleep masks allows lid closure during sleep. Prism glasses correct mild double vision. Sleeping more upright than supine reduces fluid accumulation around eyes overnight. Avoiding smoking and secondhand smoke limits TED progression. Stress management may offer benefits as stress triggers immune activity. Monitoring weight and maintaining heart health support overall wellbeing.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mental health and quality of life" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1783" alt="Mental health and quality of life" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3400,7 +3400,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Gastrointestinal health and IBD care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1784" alt="Gastrointestinal health and IBD care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Inflammatory bowel disease (IBD)ΓÇöCrohn's disease and ulcerative colitisΓÇöinvolves chronic intestinal inflammation causing abdominal pain, diarrhea, and nutritional challenges. IBD is lifelong but highly manageable with modern medications. Treatment goals include achieving remission, preventing complications, and maintaining quality of life. Collaborative care between gastroenterology, mental health, nutrition, and patient self-management optimizes outcomes.</p>
 
@@ -3410,19 +3410,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Ulcerative colitis affects the colon and rectum lining; Crohn's can affect any GI tract area from mouth to anus and affects all intestinal wall layers. Diagnosis uses endoscopy (colonoscopy, upper endoscopy), biopsy, blood tests, and imaging. Symptoms severity varies from mild (few stools daily, minimal pain) to severe (frequent bloody diarrhea, fever, weight loss). Disease course is unpredictable; periods of remission alternate with flares. Understanding your disease type, location, and severity guides treatment. Genetic predisposition plus environmental factors (including infection history, antibiotics, diet, smoking) contribute to IBD development.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical treatment options" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1785" alt="Medical treatment options" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment Strategies</h2>
 
 <p>Mesalamine (5-ASA) medications reduce colon inflammation; effective for mild-moderate ulcerative colitis and mild Crohn's. Corticosteroids control moderate-severe inflammation but aren't maintenance therapy due to side effects. Immunosuppressants (azathioprine, 6-mercaptopurine) maintain remission. Biologic therapies (TNF inhibitors: infliximab, adalimumab; integrin inhibitors: vedolizumab; others) target specific immune mechanisms and are highly effective, particularly for moderate-severe disease. Choice of therapy depends on disease severity, location, previous medication response, and comorbidities. Maintenance therapy prevents relapse; adjusting therapy based on response optimizes treatment. Surgery becomes necessary if medical therapy fails or complications develop.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nutrition and dietary management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1786" alt="Nutrition and dietary management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Nutrition, Flare Management, and Quality of Life</h2>
 
 <p>Nutrition is foundational; malabsorption and dietary restrictions increase deficiency risk. Work with registered dietitian specializing in IBD. During flares, low-residue diet reduces symptoms; gradual return to normal diet as symptoms improve. Individual tolerances vary; identifying your trigger foods through journaling helps. Hydration is crucial; oral rehydration or IV therapy may be needed during severe flares. Probiotics, prebiotics, and specific fecal microbiota transplantation show promise but warrant discussion with your healthcare provider. Stress management, adequate sleep, regular gentle exercise, and social support reduce flare frequency. Pregnancy planning requires discussion with your healthcare team about medication safety.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Mental health and community support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1787" alt="Mental health and community support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3465,7 +3465,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Eczema and skin health management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1788" alt="Eczema and skin health management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>El eczema (dermatitis at├│pica) es una condici├│n cr├│nica de la piel caracterizada por picaz├│n, inflamaci├│n, y sensibilidad. Aunque no es curable, el eczema es altamente manejable mediante el cuidado consistente de la piel, identificaci├│n de factores desencadenantes, tratamiento m├⌐dico, y ajustes en el estilo de vida. Vivir bien con eczema implica entender sus factores desencadenantes ├║nicos, mantener la salud de la barrera cut├ínea, y acceder al cuidado m├⌐dico apropiado cuando sea necesario.</p>
 
@@ -3475,19 +3475,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Los brotes de eczema resultan de una combinaci├│n de predisposici├│n gen├⌐tica y factores ambientales desencadenantes. Los irritantes comunes incluyen jabones, detergentes, fragancias, al├⌐rgenos, estr├⌐s, infecciones, cambios de temperatura y humedad, y ciertos tejidos. Identificar sus factores desencadenantes personales mediante un diario ayuda a guiar la prevenci├│n. Evitar factores desencadenantes conocidos es la estrategia m├ís efectiva. El manejo del estr├⌐s, ya que el estr├⌐s es un desencadenante potente, incluye relajaci├│n, ejercicio, y terapia cuando es ├║til.</p>
 
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cuidado de la piel y mantenimiento de barrera" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1789" alt="Cuidado de la piel y mantenimiento de barrera" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Cuidado Diario de la Piel y Mantenimiento de la Barrera</h2>
 
 <p>Mantener la salud de la barrera cut├ínea es fundamental. La limpieza suave con limpiadores sin fragancia y suaves es esencial. La hidrataci├│n inmediata despu├⌐s del ba├▒o (cuando la piel a├║n est├í h├║meda) cierra la humedad; las cremas o ung├╝entos espesos funcionan mejor que las lociones. Los productos sin fragancia e hipoalerg├⌐nicos reducen el riesgo de irritaci├│n. La temperatura del ba├▒o debe ser tibia, no caliente, y los ba├▒os deben ser breves para prevenir el secado excesivo. Algunas personas se benefician de la terapia de envoltura h├║meda durante los brotes. Evitar textiles irritantes (lanas ├ísperas, materiales sint├⌐ticos) a favor de algod├│n suave ayuda.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Opciones de tratamiento m├⌐dico" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1790" alt="Opciones de tratamiento m├⌐dico" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Opciones de Tratamiento M├⌐dico</h2>
 
 <p>Los corticosteroides t├│picos e inhibidores de calcineurina son tratamientos de primera l├¡nea para los brotes y mantenimiento. La fototerapia (exposici├│n UV controlada) puede ayudar con eczema moderado a grave. Los medicamentos biol├│gicos m├ís nuevos (dupilumab, tralokinumab) apuntan a v├¡as inmunes espec├¡ficas y son efectivos para eczema moderado a grave no controlado por otros tratamientos. Trabajar con un dermat├│logo ayuda a adaptar el tratamiento a la gravedad y respuesta. Los medicamentos orales pueden abordar infecciones secundarias o picaz├│n grave. El objetivo es controlar el eczema con el tratamiento de menor potencia necesario.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Bienestar emocional y manejo del estr├⌐s" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1791" alt="Bienestar emocional y manejo del estr├⌐s" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Preguntas Frecuentes</h2>
 
@@ -3530,7 +3530,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="IBD patient experiences and diverse perspectives" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1792" alt="IBD patient experiences and diverse perspectives" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>IBD looks different for everyone. Some people have mild disease with minimal disruption; others have severe, frequently active disease. Work ability, family planning, social life, travel, and dating are all affected differently by IBD. Understanding the diverse experiences of people living with IBDΓÇöand seeing your experience reflected in others' storiesΓÇöprovides validation, hope, and practical insights.</p>
 
@@ -3540,19 +3540,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Unpredictable bowel movements, fatigue, and appointment frequency create workplace challenges. Some people require frequent bathroom access; others experience fatigue limiting productivity. The Americans with Disabilities Act (ADA) protects accommodations like flexible scheduling, increased bathroom breaks, or work-from-home options. Discussing IBD with employers may feel vulnerable; knowing your rights and having documentation from healthcare providers supports advocacy. Some people prefer privacy; others educate their workplace about IBD. Disability benefits (short/long-term disability, Social Security Disability Insurance) are options for those unable to work. Career development remains possible; many successful professionals manage IBD alongside demanding careers.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Social, romantic, and family life with IBD" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1793" alt="Social, romantic, and family life with IBD" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Navigating Social, Romantic, and Family Life</h2>
 
 <p>Social stigma around bowel disease creates shame and isolation. Telling friends about IBD helps explain bathroom frequency or dietary limitations; authentic relationships thrive with understanding friends. Dating with IBD raises vulnerability: when to disclose? Finding partners who accept your health without judgment matters. Pregnancy planning with IBD requires careful medical coordination but is possible for most; conceptions rates are normal. Parenting with IBD is achievable; connecting with other IBD parents normalizes challenges and provides support. Family dynamics shift; educating family supports understanding and reduces judgment. Adult children of IBD parents may worry about development risk; genetic predisposition is only one factor.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emotional health and mental health impact" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1794" alt="Emotional health and mental health impact" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Mental Health and Emotional Wellness with IBD</h2>
 
 <p>Living with unpredictability takes emotional toll; anxiety and depression are common and treatable. Therapy addressing both IBD-related adjustment and underlying mental health supports wellness. Support groups (in-person, online, disease-specific) connect you with others who truly understand. Normalizing bodily functions and reducing shame supports mental health. Mindfulness and acceptance-based therapies help with chronic disease adjustment. Some people find creative outlets (writing, art, music) cathartic. Advocating for yourself with healthcare providers, speaking up about mental health needs, and seeking peer support demonstrate strength. IBD doesn't define you; it's one part of your complex, multifaceted identity.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Hope, resilience, and community strength" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1795" alt="Hope, resilience, and community strength" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3595,7 +3595,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Advanced prostate cancer care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1796" alt="Advanced prostate cancer care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Advanced prostate cancer (metastatic disease) has spread beyond the prostate to bones or other areas. While not curable, modern treatment dramatically extends survival and quality of life. Men with advanced prostate cancer live years in remission, continuing work, relationships, and meaningful activities. Treatment combines hormone therapy, chemotherapy, and newer agents targeting cancer-specific features. Quality of life and symptom management are central treatment goals.</p>
 
@@ -3605,19 +3605,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Advanced (metastatic) prostate cancer has spread beyond the prostate gland. Prognosis depends on PSA level, extent of metastases, tumor genetics, and overall health. Newer genetic tests (genomics, tumor profiling) help predict treatment response. Bone metastases are most common; some people also have lymph node or other organ involvement. Symptoms may include bone pain, urinary changes, fatigue, or no symptoms (discovered by imaging during staging). Understanding your disease extent and genetic features guides treatment selection. Second opinions are appropriate and often encouraged, particularly for advanced disease.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Treatment options for metastatic prostate cancer" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1797" alt="Treatment options for metastatic prostate cancer" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment Strategies</h2>
 
 <p>Androgen deprivation therapy (ADT, hormone therapy) is foundational for most men, blocking testosterone that fuels prostate cancer growth. ADT includes GnRH agonists or antagonists, antiandrogens, or combination approaches. Chemotherapy (docetaxel, cabazitaxel) helps many men, particularly those progressing on ADT alone. Newer agents (abiraterone, enzalutamide) block androgen synthesis or action. Immunotherapy (pembrolizumab) helps some. Bone-targeted therapies protect from skeletal complications. Treatment sequencing and choice depend on disease genetics, PSA response, side effects, and therapy tolerance. Clinical trials access newer treatments. Recognizing when aggressive treatment should shift toward comfort-focused care is important conversation with your healthcare team.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Managing side effects and maintaining quality of life" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1798" alt="Managing side effects and maintaining quality of life" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Managing Side Effects and Maintaining Quality of Life</h2>
 
 <p>Hormone therapy can cause hot flashes, erectile dysfunction, bone loss, and sexual decline. Strategies include fan use/cool environment, medications (some hot flash treatments available), and open communication with partner about changing sexuality. Bone density monitoring and calcium/vitamin D supplementation protect bone health. Energy management helps with fatigue; gentle activity maintains function. Nutrition support (working with dietitian) addresses appetite changes. Discussing advanced directives (advance care planning, DNR status if desired) provides peace and relieves family burden. Palliative care improves quality of life throughout cancer journey, not just end-of-life. Many men continue meaningful work, travel, time with family and friends while living years with advanced cancer.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1799" alt="Support and resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3660,7 +3660,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Hereditary angioedema awareness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1800" alt="Hereditary angioedema awareness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Hereditary angioedema (HAE) is a rare genetic condition causing unpredictable swelling attacks affecting skin and inner tissues. HAE is caused by deficiency or dysfunction of C1-esterase inhibitor protein (C1-INH). Attacks can be life-threatening if affecting the throat (threatening airway) or dangerous if affecting the abdomen (intense pain). Modern treatments dramatically reduce attack frequency and severity.Proper diagnosis, recognition of HAE, and access to acute care when needed are vital.</p>
 
@@ -3670,19 +3670,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>HAE Type I (80%): C1-INH protein is low. HAE Type II (20%): C1-INH protein is normal but dysfunctional. HAE Type III (rare): normal C1-INH but other mutations causing similar attacks. Underlying defect causes abnormal bradykinin production, leading to blood vessel permeability and swelling. Attacks vary: facial swelling, limb swelling, abdominal pain/swelling, throat swelling (emergency). Triggers include trauma, infection, stress, estrogen (oral contraceptives, hormone replacement), or occur spontaneously. Diagnosis uses C1-INH level tests, C4 complement level, and C1-INH function testing. Genetic testing confirms HAE type. Family history is important; 50% of children inherit condition if parent has HAE.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Treatment options for attacks" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1801" alt="Treatment options for attacks" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Attack Treatment and Emergency Management</h2>
 
 <p>During acute attacks, C1-INH concentrate (IV infusion) rapidly stops progression and relieves symptoms. Kallikrein inhibitors (ecallantide, TA-106) block the enzyme causing bradykinin production; effective for acute attacks. Bradykinin B2 receptor antagonists (icatibant) block bradykinin action; used for acute attacks. Fresh frozen plasma (if specific agents unavailable) provides C1-INH but carries infection risk. Throat swelling is life-threatening; immediate emergency care and possible airway management are needed. Always having emergency treatment available when traveling is essential. Many people use portable IV lines at home for rapid self-administration. Avoiding triggers (trauma, stress, surgical procedures with care) prevents some attacks.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Prophylactic treatment and prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1802" alt="Prophylactic treatment and prevention" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Prophylactic Treatment and Life Planning</h2>
 
 <p>For frequent attacks, prophylactic (preventive) treatment reduces frequency. C1-INH replacement (IV infusion once or twice weekly), kallikrein inhibitors (lanadelumab, IV monthly), and androgen therapy (danazol, stanozolol) help prevent attacks. Prophylaxis allows more normal activities, reduced healthcare utilization, and quality of life. Pregnancy complications are possible; estrogen-containing contraceptives can trigger attacks; non-hormonal or progestin-only options are safer. Surgery requires coordination with healthcare provider about perioperative prophylaxis. Psychological impact of unpredictability is significant; therapy or support groups help. Many people with HAE lead fulfilling lives, traveling, working, and enjoying activities while managing attacks.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and community resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1803" alt="Support and community resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3725,7 +3725,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Narcolepsy and sleep disorder" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1804" alt="Narcolepsy and sleep disorder" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Narcolepsy is a neurological sleep disorder characterized by excessive daytime sleepiness, sudden loss of muscle tone (cataplexy), sleep paralysis, and hallucinations. Caused by deficiency of hypocretin (orexin), a brain chemical regulating wakefulness, narcolepsy is lifelong but highly treatable. Diagnosis often takes years; recognizing symptoms and seeking evaluation accelerates care. With appropriate treatment, many people work successfully and manage activities while living adapted lives.</p>
 
@@ -3735,19 +3735,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Narcolepsy Type 1 includes cataplexy (sudden muscle atonia triggered by emotion). Narcolepsy Type 2 doesn't include cataplexy. Both involve severe daytime sleepiness. Diagnosis uses sleep history, Epworth Sleepiness Scale (standardized questionnaire), polysomnography (overnight sleep study), and multiple sleep latency test (MSLT measuring how quickly sleep onset occurs). Brain spinal fluid hypocretin levels are low in Type 1. Symptoms emerge over months/years; often misdiagnosed as depression, ADHD, or laziness. Diagnosis requires specialist sleep medicine evaluation. Pediatric onset differs from adult; some children with narcolepsy go undiagnosed through adolescence.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical treatment options" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1805" alt="Medical treatment options" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment and Medication Management</h2>
 
 <p>Stimulant medications (modafinil, armodafinil, methylphenidate, amphetamine) increase wakefulness and reduce daytime sleepiness. Sodium oxybate (GHB) reduces cataplexy and improves nighttime sleep, often dramatically. Selective serotonin reuptake inhibitors (SSRIs) or serotonin-norepinephrine reuptake inhibitors (SNRIs) treat cataplexy when sodium oxybate insufficient. Hypocretin receptor agonists (new medication class) show promise. Medication combination often needed. Finding optimal regimen takes time through titration and adjustment. Medication adherence is important; stopping medication typically results in symptom return. Working with sleep specialists experienced in narcolepsy optimizes treatment.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lifestyle management and daily strategies" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1806" alt="Lifestyle management and daily strategies" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Lifestyle Management and Workplace Accommodation</h2>
 
 <p>Scheduled naps (15-20 min) boost alertness for several hours; workplace nap accommodation is important. Consistent sleep schedule, exercise timing (morning exercise better than evening), avoiding alcohol/heavy meals, and stress reduction all support management. Driving requires careful evaluation; many with narcolepsy drive safely with adequate treatment. Work performance often improves dramatically with diagnosis and treatment. Americans with Disabilities Act accommodations may include flexible hours, nap breaks, adjusted expectations, or work-from-home options. Social issues include embarrassment about symptoms, explaining narcolepsy to friends/partners. Support groups provide validation and practical tips. Most people with narcolepsy, properly treated, lead productive, fulfilling lives.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and community" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1807" alt="Support and community" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3790,7 +3790,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Neurofibromatosis type 1 awareness" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1808" alt="Neurofibromatosis type 1 awareness" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Neurofibromatosis type 1 (NF1) is a genetic disorder causing tumors along nerves throughout the body. Most NF1 is benign (non-cancerous), but malignancy risk exists. NF1 manifests with caf├⌐-au-lait spots (brown patches), neurofibromas (nerve tumors), and various complications. While affecting 1 in 3,000 people, many live decades without major complications. Multidisciplinary care, regular surveillance, and quality-of-life support are essential.</p>
 
@@ -3800,19 +3800,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>NF1 is autosomal dominant; inheriting one mutated gene from either parent causes disease. 50% of children born to affected parent inherit NF1; 50% don't. About half of cases result from new mutations. Caf├⌐-au-lait spots (six or more in >1.5 cm diameter indicate NF1 diagnosis) typically appear in infancy/early childhood. Neurofibromas (benign nerve tumors) develop throughout life, accelerating during puberty and pregnancy. Cutaneous neurofibromas are cosmetic concern; subcutaneous and internal neurofibromas may cause pain or neurological symptoms. Optic nerve gliomas (often asymptomatic) occur in 15-20%; most never require treatment. Malignant peripheral nerve sheath tumors (MPNST) develop in 8-13% of NF1 individuals; surveillance for symptoms is important.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Surveillance and medical management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1809" alt="Surveillance and medical management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Surveillance, Screening, and Medical Management</h2>
 
 <p>Annual multidisciplinary evaluation (dermatology, neurology, oncology) monitors disease. Imaging (MRI screening for optic nerve gliomas, periodic brain/spine imaging as clinically indicated) detects internal tumors. Ophthalmology evaluates vision. Orthopedic evaluation addresses bone abnormalities (scoliosis, dysplasia). Growth and development monitoring in children. Cancer screening (skin, lymph nodes) ensures early detection. Genetic counseling helps family planning decisions. Newer targeted therapies (MEK inhibitors) show promise for symptomatic plexiform neurofibromas and optic nerve gliomas, potentially offering treatment alternatives to surgery.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Surgery and symptom management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1810" alt="Surgery and symptom management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Surgery, Cosmetic Concerns, and Quality of Life</h2>
 
 <p>Surgical removal addresses symptomatic neurofibromas (painful, causing dysfunction). Cosmetic surgery may address visible neurofibromas causing psychological distress. Body image concerns are significant, particularly in adolescence. Psychological support helps address self-esteem and social challenges. Pain management addresses chronic neurofibroma pain. Acoustic neuromas (benign eighth nerve tumors, NF2 not NF1 complications) require specialist management if present. Many people with NF1 work successfully, travel, have relationships and families. Genetic testing of children born to affected parents identifies NF1 early, enabling surveillance and support.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support and resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1811" alt="Support and resources" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3855,7 +3855,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lymphoma cancer care and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1812" alt="Lymphoma cancer care and treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Lymphoma is cancer of lymphocytes (immune cells) found in lymph nodes and organs. Hodgkin lymphoma (10% of lymphoma) has better prognosis than most cancers. Non-Hodgkin lymphoma (90%) has diverse subtypes with varying prognosis and treatment. Modern treatments achieve remission in many; some lymphomas are now considered chronic long-term remissionable conditions. Treatment depends on subtype, stage, and overall health. Many people live years or decades after lymphoma diagnosis.</p>
 
@@ -3865,19 +3865,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Hodgkin lymphoma vs. Non-Hodgkin lymphoma distinction affects treatment and prognosis. Non-Hodgkin subtypes include diffuse large B-cell lymphoma, follicular lymphoma, Burkitt lymphoma, and many others, each with different characteristics. Diagnosis uses lymph node biopsy (tissue examination). Staging (PET-CT, bone marrow biopsy) determines if cancer is localized or widespread. Stage I-II is localized; Stage III-IV is advanced. Prognostic factors (age, LDH level, disease extent, histology) predict response and guide treatment. Genetic testing of cancer cells identifies mutations informing targeted therapy options.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Treatment approaches and options" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1813" alt="Treatment approaches and options" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Treatment Approaches and Modern Advances</h2>
 
 <p>Chemotherapy (ABVD, other regimens) is foundational; radiation therapy treats localized disease. Targeted therapy targets specific markers (CD20 antibodies like rituximab). Immunotherapy activates immune system against lymphoma. CAR-T cell therapy genetically engineers patient's immune cells to attack lymphoma; increasingly used for certain types. Stem cell transplantation (autologous using own cells; allogeneic using donor cells) allows higher-dose treatment. Treatment combinations optimize response. Clinical trials access newer treatments. Remission rates vary by subtype (80-90% for early-stage Hodgkin, 60-70% for early non-Hodgkin). Some lower-grade lymphomas are "watch and wait" initially if asymptomatic.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Managing side effects and post-treatment life" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1814" alt="Managing side effects and post-treatment life" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Managing Treatment and Life After Lymphoma</h2>
 
 <p>Chemotherapy side effects include fatigue, nausea, hair loss, increased infection risk. Cardiac and pulmonary toxicity monitoring matters for certain agents. Fertility concerns: chemotherapy affects sperm/egg production; fertility preservation (egg/sperm banking) before treatment is worth discussing. After successful treatment, surveillance for recurrence and monitoring for late effects (secondary cancers, heart/lung problems from treatment) continue. Many treat-able recurrences occur; retreatment options exist. Support groups connect survivors with others. Mental health services address anxiety, depression, and post-traumatic growth. Many people consider themselves "cancer survivors" with gratitude for time prioritization and life perspective.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Hope and long-term outcomes" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1815" alt="Hope and long-term outcomes" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3920,7 +3920,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Parkinson's disease management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1816" alt="Parkinson's disease management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Parkinson's disease is a progressive neurodegenerative disorder affecting movement. Cardinal features include tremor, rigidity (stiffness), bradykinesia (slowness), and postural instability (balance problems). Progressive cognitive changes, depression, and autonomic dysfunction also occur. While Parkinson's is progressive and currently incurable, modern treatment dramatically improves long-term outcomes. Many people live decades after diagnosis maintaining independence, working, traveling, and engaging meaningfully.</p>
 
@@ -3930,19 +3930,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Parkinson's results from loss of dopamine-producing neurons in the substantia nigra brain region. Why neurons degenerate remains unclear (likely genetic factors, environmental exposures, aging, protein accumulation). Diagnosis is clinical (no definitive test); healthcare provider evaluates slowness, tremor, rigidity, balance. MRI/SPECT imaging may support diagnosis but aren't diagnostic. Family history increases risk; most cases are sporadic. Atypical Parkinsonisms (Progressive supranuclear palsy, Multiple System atrophy) mimic Parkinson's; specialist neurology evaluation clarifies. Post-diagnostic planning includes discussing disease trajectory, treatment goals, and advance care planning.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medication and treatment management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1817" alt="Medication and treatment management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Medical Treatment and Medication Management</h2>
 
 <p>Levodopa (L-DOPA, often with carbidopa) is most effective medication; replaces dopamine in the brain. Dopamine agonists (ropinirole, pramipexole) directly activate dopamine receptors; used early or combined with levodopa. MAO-B inhibitors and COMT inhibitors extend levodopa effect. Anticholinergics (benztropine, trihexyphenidyl) help tremor but side effects limit use in older adults. Deep brain stimulation surgery benefits many with advanced Parkinson's, reducing symptoms and medication needs. Finding optimal medication regimen takes time; doses are titrated based on response. As disease progresses, medication adjustments become necessary. Regular follow-up with movement disorder specialist optimizes treatment.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Non-motor symptoms and multidisciplinary care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1818" alt="Non-motor symptoms and multidisciplinary care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Managing Non-Motor Symptoms and Multidisciplinary Care</h2>
 
 <p>Depression, anxiety, cognitive changes, sleep problems, and autonomic issues (blood pressure, digestion, urinary) are common. Speech-language pathology assists with speech/swallowing changes. Physical therapy maintains mobility, balance, and independence. Occupational therapy addresses fine motor tasks, daily activities. Mental health care treats depression/anxiety. Multidisciplinary Parkinson's clinics coordinate care. Exercise (particularly forceful, goal-directed movement) shows disease-modifying benefits. Real-life skills (balance training, transfer strategies, fall prevention) maintained through therapy. Advance directives clarifying end-of-life wishes provide peace. Most people with Parkinson's maintain quality life years; focusing on abilities rather than losses supports wellbeing.</p>
 
-<img src="https://images.unsplash.com/photo-1604149490776-04b2e6b63e5b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Support, community, and hope" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1819" alt="Support, community, and hope" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -3985,7 +3985,7 @@ style="max-width:100%; border-radius:8px;"
     publishDate: "2026-02-22",
     imageUrl: "https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=1200&fm=webp&q=80",
     content: `
-<img src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Alopecia areata and hair loss" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1820" alt="Alopecia areata and hair loss" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <p>Alopecia areata is an autoimmune condition where body's immune system attacks hair follicles, causing hair loss. Severity ranges from small patches to complete scalp baldness (alopecia totalis) or total body hair loss (alopecia universalis). While not physically painful or dangerous, emotional impact can be significant given cultural hair importance. Disease course is unpredictable; spontaneous remission occurs for some. Modern treatments improve regrowth; managing the emotional and social impact is equally essential.</p>
 
@@ -3995,19 +3995,19 @@ style="max-width:100%; border-radius:8px;"
 
 <p>Immune system mistakenly targets hair follicles, pushing them prematurely into resting phase, leading to shedding. Genetic predisposition plus environmental triggers (stress, illness, infection) contribute to development. Family history increases risk. Onset can be sudden, with hair loss noticed over days/weeks. Loss may stabilize at one level or progress to total scalp or body baldness. Regrowth may occur spontaneously even without treatment; conversely, treatment-initiated regrowth can regress. About 50% regrow hair within 1 year without treatment; recurrence happens in 10-20%. Alopecia areata doesn't damage hair follicles permanently; theoretically, regrowth is possible at any time.</p>
 
-<img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Treatment options and medical management" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1821" alt="Treatment options and medical management" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Treatment Options and Medical Management</h2>
 
 <p>Topical corticosteroids applied to scalp reduce inflammation; effective for small patches but less for extensive loss. Intralesional corticosteroid injections directly into bald patches stimulate regrowth. Minoxidil (Rogaine) topical solution promotes hair growth; often combined with corticosteroids. Anthralin (topical irritant increasing immune response) treats some cases. JAK inhibitors (ruxolitinib cream, newly approved) show promise for alopecia areata, enabling regrowth in many. Oral medications (corticosteroids, immunosuppressants) treat extensive disease, though side effects limit use. Immunotherapy (SADBE, DPCP) deliberately provokes allergic reaction to balance immune response. Treatment response varies; not all respond to same approach; combination therapy often helps.</p>
 
-<img src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Coping with hair loss and emotional wellbeing" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1822" alt="Coping with hair loss and emotional wellbeing" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Coping with Hair Loss and Emotional Impact</h2>
 
 <p>Hair loss profoundly affects self-image and emotional wellbeing. Therapy or counseling helps address distress. Support groups connect you with others experiencing alopecia areata; shared experience reduces isolation. Wigs, hairpieces, hats, scarves offer appearance control and confidence during hair growth. High-quality wigs often feel natural and boost morale. Tattooed eyebrows/eyeliner help if loss includes those areas. Disclosure decisions are personal; sharing with close others provides support; keeping private is also valid. Dating and romantic concerns emerge; finding partners accepting of alopecia areata matters. Self-compassion and identity beyond appearance support psychological health. Many people, while frustrated by alopecia areata, lead engaged, fulfilling lives.</p>
 
-<img src="https://images.unsplash.com/photo-1599872200326-842bc8d3f5af?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Hope and ongoing support" loading="lazy" style="max-width:100%; border-radius:8px;" />
+<img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1823" alt="Hope and ongoing support" loading="lazy" style="max-width:100%; border-radius:8px;" />
 
 <h2>Frequently Asked Questions</h2>
 
@@ -4048,7 +4048,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "7 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1824"
 alt="Breast cancer awareness pink ribbon on clinical background"
 loading="lazy"
 style="max-width:100%; border-radius:12px;"
@@ -4067,7 +4067,7 @@ style="max-width:100%; border-radius:12px;"
 <p>Over time, cancer cells can invade nearby breast tissue and may spread to lymph nodes or other parts of the body through the bloodstream or lymphatic system. When detected early, breast cancer is highly treatable, and survival rates are significantly improved.</p>
 
 <img
-src="https://images.unsplash.com/photo-1584515933487-779824d29307?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1825"
 alt="Doctor explaining breast anatomy model to patient during consultation"
 loading="lazy"
 style="max-width:100%; border-radius:12px;"
@@ -4102,7 +4102,7 @@ style="max-width:100%; border-radius:12px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1600959907701-125ba1374a10?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1826"
 alt="Mammogram screening being performed in hospital radiology department"
 loading="lazy"
 style="max-width:100%; border-radius:12px;"
@@ -4124,7 +4124,7 @@ style="max-width:100%; border-radius:12px;"
 <p>A biopsy is the only definitive way to confirm breast cancer. During this procedure, a small sample of tissue is removed and examined under a microscope.</p>
 
 <img
-src="https://images.unsplash.com/photo-1579154204601-01588f351e65?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1827"
 alt="Breast biopsy procedure performed in clinical setting"
 loading="lazy"
 style="max-width:100%; border-radius:12px;"
@@ -4157,7 +4157,7 @@ style="max-width:100%; border-radius:12px;"
 </ul>
 
 <img
-src="https://images.unsplash.com/photo-1597764690519-5c5e9f6b0c79?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1828"
 alt="Woman performing breast self-examination at home"
 loading="lazy"
 style="max-width:100%; border-radius:12px;"
@@ -4197,7 +4197,7 @@ style="max-width:100%; border-radius:12px;"
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281658629-8d0d7c4d7f91?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1829"
     alt="Breast cancer surgery procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4246,7 +4246,7 @@ Surgical treatment plays a crucial role in breast cancer management and is often
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1830"
     alt="Breast Cancer Awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4307,7 +4307,7 @@ Understanding breast cancer stages helps patients make informed decisions, work 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1831"
     alt="Breast Cancer Medical Care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4377,7 +4377,7 @@ Awareness of different breast cancer types helps individuals recognize the impor
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47b1d47a4b1f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1832"
     alt="Mammography screening"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4440,7 +4440,7 @@ Regular mammography, along with breast awareness and clinical exams, plays a vit
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1833"
     alt="Medical diagnostic testing"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4506,7 +4506,7 @@ Accurate diagnosis through biopsy and imaging ensures that patients receive the 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1834"
     alt="Genetic testing laboratory"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4568,7 +4568,7 @@ Advances in genetic testing have made personalized cancer prevention and early d
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1835"
     alt="Chemotherapy treatment session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4618,7 +4618,7 @@ Although chemotherapy can be challenging, it remains a highly effective treatmen
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1836"
     alt="Radiation therapy machine for breast cancer"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4669,7 +4669,7 @@ Radiation therapy is an important part of breast cancer treatment and significan
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1837"
     alt="Breast cancer survivor after treatment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4720,7 +4720,7 @@ Life after breast cancer treatment is about rebuilding strength, confidence, and
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1838"
     alt="Patient discussing treatment side effects with doctor"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4776,7 +4776,7 @@ With proper medical guidance and supportive care, most side effects can be manag
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478147-2d1e58b8a7f6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1839"
     alt="Lymphedema arm swelling management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4829,7 +4829,7 @@ Early detection and consistent care are essential to prevent complications. Pati
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1840"
     alt="Healthy nutrition for breast cancer recovery"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4883,7 +4883,7 @@ A registered dietitian can create a personalized nutrition plan based on individ
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1841"
     alt="Breast cancer survivor doing light exercise"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4937,7 +4937,7 @@ Regular movement supports both physical and emotional healing, making exercise a
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1842"
     alt="Emotional support for breast cancer patient"
     style="max-width:100%; border-radius:8px;"
   />
@@ -4990,7 +4990,7 @@ Caring for emotional health empowers breast cancer patients to navigate treatmen
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1843"
     alt="Cancer awareness medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5039,7 +5039,7 @@ Early detection through screening and awareness of warning signs greatly increas
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1844"
     alt="Hospital cancer care environment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5084,7 +5084,7 @@ Modern hospital care focuses not only on treating cancer but also on improving t
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719365432-9e6d8d4d7a8a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1845"
     alt="Full body CT scan machine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5123,7 +5123,7 @@ Healthcare professionals generally recommend evidence-based screening tests rath
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1846"
     alt="WiFi router and radiation concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5160,7 +5160,7 @@ Based on existing evidence, standard Wi-Fi exposure is considered safe under nor
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1847"
     alt="Cancer awareness ribbon concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5203,7 +5203,7 @@ Each type varies in symptoms, risk factors, and treatment approaches. Regular sc
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1848"
     alt="Oncologist consulting patient"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5245,7 +5245,7 @@ Oncologists work closely with healthcare teams to ensure comprehensive cancer ca
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1849"
     alt="Chemotherapy treatment session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5279,7 +5279,7 @@ Doctors monitor symptoms closely and provide medications to reduce discomfort an
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1850"
     alt="Cancer treatment concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5314,7 +5314,7 @@ Side effects vary among individuals and are often temporary.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1851"
     alt="Healthy food concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5348,7 +5348,7 @@ A healthcare provider or dietitian can provide personalized dietary guidance.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719365432-9e6d8d4d7a8a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1852"
     alt="Medical imaging scan"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5381,7 +5381,7 @@ Regular follow-ups ensure treatment adjustments when needed.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1853"
     alt="Caregiver supporting patient"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5411,7 +5411,7 @@ Family caregivers play a crucial role in providing emotional and physical suppor
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1854"
     alt="Family caregiver supporting cancer patient"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5462,7 +5462,7 @@ Being a caregiver is a journey of compassion and resilience. With the right know
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1855"
     alt="Emotional support conversation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5514,7 +5514,7 @@ Authentic support, patience, and kindness can make a significant difference duri
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1856"
     alt="Comfort gift package for cancer patient"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5558,7 +5558,7 @@ The most meaningful gift is often your presence, compassion, and consistent supp
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1857"
     alt="Cancer care package items"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5613,7 +5613,7 @@ A helpful cancer care package combines comfort, practicality, and compassion. Th
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1858"
     alt="Healthy nutrition for cancer recovery"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5662,7 +5662,7 @@ Consulting with a registered dietitian specializing in oncology can provide pers
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1859"
     alt="Financial planning and medical bills"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5708,7 +5708,7 @@ Seeking financial counseling early can help patients focus on treatment without 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1860"
     alt="Healthy alkaline foods"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5751,7 +5751,7 @@ A balanced diet based on established nutritional guidelines remains the safest a
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719365432-9e6d8d4d7a8a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1861"
     alt="Patient waiting for scan results"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5790,7 +5790,7 @@ Scanxiety is common and valid. Acknowledging these emotions and developing copin
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1862"
     alt="Emotional support during cancer journey"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5840,7 +5840,7 @@ Managing the emotional stages of cancer is an ongoing process. With appropriate 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1863"
     alt="Immune boosting healthy foods"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5879,7 +5879,7 @@ While no single food can “boost” immunity dramatically, a balanced diet rich
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1864"
     alt="Light bland foods for nausea"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5918,7 +5918,7 @@ Managing nausea requires a combination of medication, hydration, and mindful eat
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1546069901-eacef0df6022?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1865"
     alt="High calorie healthy meal"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5953,7 +5953,7 @@ Eating small portions more frequently may improve overall calorie intake without
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1866"
     alt="Anti inflammatory foods selection"
     style="max-width:100%; border-radius:8px;"
   />
@@ -5988,7 +5988,7 @@ A balanced diet emphasizing whole foods may help support recovery and long-term 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719365432-9e6d8d4d7a8a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1867"
     alt="Cancer screening test imaging"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6022,7 +6022,7 @@ Screening recommendations vary by age, risk factors, and medical history.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1868"
     alt="Medical biopsy procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6055,7 +6055,7 @@ Results guide treatment decisions and staging.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1869"
     alt="Blood test laboratory analysis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6088,7 +6088,7 @@ Blood tests alone usually cannot confirm cancer but are important tools in overa
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719365432-9e6d8d4d7a8a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1870"
     alt="Medical imaging CT MRI scan"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6129,7 +6129,7 @@ Doctors select imaging tests based on cancer type, location, and clinical needs.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1871"
     alt="Kidney health medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6231,7 +6231,7 @@ Awareness, early detection, and proactive management are the keys to protecting 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1872"
     alt="Kidney disease medical illustration"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6303,7 +6303,7 @@ With early intervention and consistent monitoring, many individuals with Stage 3
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1873"
     alt="Medical monitoring kidney health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6354,7 +6354,7 @@ Early recognition of worsening CKD allows for timely treatment adjustments and b
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1874"
     alt="Heart and kidney health concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6416,7 +6416,7 @@ Proactive heart protection significantly improves long-term outcomes for individ
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1875"
     alt="Advanced kidney disease medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6491,7 +6491,7 @@ With close medical monitoring and proactive care, individuals with Stage 4 CKD c
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1876"
     alt="Dialysis treatment medical setting"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6555,7 +6555,7 @@ While ESRD is a serious condition, modern treatment options allow many individua
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1877"
     alt="Kidney and heart health concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6607,7 +6607,7 @@ Early diagnosis and proactive management significantly reduce the likelihood of 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1878"
     alt="Skin itching medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6654,7 +6654,7 @@ If itching becomes severe, healthcare providers may adjust treatment plans to im
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1879"
     alt="Dialysis treatment procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6714,7 +6714,7 @@ Dialysis allows many individuals with kidney failure to continue living producti
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1880"
     alt="Dialysis patient care setting"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6775,7 +6775,7 @@ Although dialysis can cause discomfort, most side effects are manageable with me
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1881"
     alt="Healthcare coverage and medical bills"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6820,7 +6820,7 @@ Understanding insurance coverage early helps patients plan financially and focus
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1882"
     alt="Dialysis treatment comparison"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6865,7 +6865,7 @@ Discussing options with a nephrologist helps ensure the chosen dialysis method a
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1883"
     alt="Kidney treatment medical care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6917,7 +6917,7 @@ Although kidney failure is serious, modern treatment options allow many individu
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1884"
     alt="Supportive kidney care concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -6964,7 +6964,7 @@ Open conversations with healthcare providers and family members are essential wh
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1885"
     alt="Diverse healthcare support"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7009,7 +7009,7 @@ Raising awareness and encouraging open conversations about health equity can imp
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1886"
     alt="Kidney transplant surgical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7055,7 +7055,7 @@ With proper follow-up care and medication adherence, many transplant recipients 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1887"
     alt="Mental health support concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7098,7 +7098,7 @@ Addressing mental health is an essential part of comprehensive kidney disease ma
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1888"
     alt="Support group for chronic illness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7148,7 +7148,7 @@ Support systems empower individuals to navigate CKD with resilience and confiden
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1889"
     alt="Community discussion support"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7187,7 +7187,7 @@ Community connection helps reduce isolation and builds a sense of belonging.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1890"
     alt="Diabetes and kidney health concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7227,7 +7227,7 @@ Addressing emotional health alongside physical health leads to better long-term 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1891"
     alt="Fatigue and chronic illness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7262,7 +7262,7 @@ Discuss persistent fatigue with your healthcare provider to identify underlying 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1892"
     alt="Protein foods for kidney diet"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7294,7 +7294,7 @@ Consult a renal dietitian for personalized recommendations.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1546069901-eacef0df6022?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1893"
     alt="Weight management and kidney health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7321,7 +7321,7 @@ Managing sodium intake and staying active can help maintain healthy weight.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1894"
     alt="Foods to avoid kidney disease"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7369,7 +7369,7 @@ Dietary needs vary by CKD stage. A renal dietitian can help create a safe and ba
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281780460-82d2770c929f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1895"
     alt="Digestive system medical illustration"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7495,7 +7495,7 @@ With proper treatment and proactive management, many individuals with IBD lead a
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1896"
     alt="Gluten free food and digestive health concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7573,7 +7573,7 @@ With proper dietary management and medical follow-up, most individuals with celi
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1897"
     alt="Digestive discomfort and abdominal pain concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7643,7 +7643,7 @@ Although IBS is a chronic condition, it does not increase the risk of colon canc
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1898"
     alt="Heartburn and acid reflux concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7705,7 +7705,7 @@ With appropriate treatment and lifestyle adjustments, most individuals can effec
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47b7b1a4b9a8?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1899"
     alt="Digestive system medical diagram"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7790,7 +7790,7 @@ Digestive disorders are common but manageable. Early diagnosis and personalized 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281780460-82d2770c929f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1900"
     alt="Colon health medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7863,7 +7863,7 @@ Proactive colon care and regular screenings are essential components of long-ter
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1901"
     alt="Crohns disease intestinal inflammation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7921,7 +7921,7 @@ Regular follow-up with a gastroenterologist is essential for long-term disease m
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1902"
     alt="Medical treatment for digestive disease"
     style="max-width:100%; border-radius:8px;"
   />
@@ -7986,7 +7986,7 @@ With advances in medical therapy and personalized care, many individuals with Cr
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1903"
     alt="Healthy diet for digestive health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8042,7 +8042,7 @@ Dietary strategies vary by individual. Keeping a food diary may help identify pe
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1904"
     alt="Support group meeting"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8089,7 +8089,7 @@ Emotional resilience plays a crucial role in long-term disease management.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1905"
     alt="Doctor answering patient questions"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8136,7 +8136,7 @@ Understanding the condition empowers patients to make informed decisions.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1906"
     alt="Colon inflammation medical concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8199,7 +8199,7 @@ Proactive management and regular medical follow-up remain the most effective too
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1907"
     alt="Medical treatment for ulcerative colitis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8247,7 +8247,7 @@ Long-term management combines medication, diet adjustments, stress management, a
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1908"
     alt="Healthy digestive diet"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8292,7 +8292,7 @@ Working with a registered dietitian ensures balanced nutrition and prevents defi
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1909"
     alt="Support group discussion"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8326,7 +8326,7 @@ Emotional well-being is an important part of comprehensive care.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1910"
     alt="Doctor answering questions"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8368,7 +8368,7 @@ Knowledge empowers better disease management.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-ec7e1b0f0f74?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1911"
     alt="Abdominal discomfort and digestive pain concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8419,7 +8419,7 @@ Although IBS is chronic, it does not increase the risk of colon cancer and can b
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1912"
     alt="Food triggers and digestive health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8465,7 +8465,7 @@ Keeping a symptom diary can help identify personal triggers and guide dietary or
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1913"
     alt="Stress management and wellness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8509,7 +8509,7 @@ Consistency and regular follow-up with a healthcare provider improve long-term s
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1546069901-eacef0df6022?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1914"
     alt="Healthy meal planning for digestive health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8553,7 +8553,7 @@ Working with a dietitian helps ensure nutritional balance while avoiding symptom
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1915"
     alt="Medical consultation for digestive issues"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8588,7 +8588,7 @@ Psychological therapies such as cognitive behavioral therapy may also benefit so
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1916"
     alt="Healthy lifestyle and stress management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8622,7 +8622,7 @@ Long-term success in IBS management depends on combining medical guidance with h
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1917"
     alt="Eye examination with optometrist"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8730,7 +8730,7 @@ Eye exams are not just about updating your prescription—they are a crucial par
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1918"
     alt="Eye chart vision acuity test"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8838,7 +8838,7 @@ Vision acuity testing is a simple yet powerful tool for monitoring eyesight. Reg
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1919"
     alt="OCT eye scan imaging technology"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8900,7 +8900,7 @@ OCT technology has transformed eye care by enabling earlier diagnosis and more p
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1920"
     alt="Visual field test exam"
     style="max-width:100%; border-radius:8px;"
   />
@@ -8955,7 +8955,7 @@ Visual field testing is essential for identifying subtle vision loss and protect
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1921"
     alt="Eye pressure measurement test"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9016,7 +9016,7 @@ Regular intraocular pressure measurement is a simple yet powerful tool for prese
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1922"
     alt="Dilated eye examination"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9078,7 +9078,7 @@ Dilated eye exams are one of the most effective ways to detect eye diseases befo
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1923"
     alt="Prescription eyeglasses on table"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9134,7 +9134,7 @@ Regular updates to your prescription ensure optimal vision correction and comfor
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1592496001020-8a41be42b8b3?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1924"
     alt="Contact lenses case and solution"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9183,7 +9183,7 @@ Routine eye exams ensure safe and effective contact lens use.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1925"
     alt="Laser eye surgery procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9240,7 +9240,7 @@ Refractive surgery can significantly improve quality of life for many individual
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1926"
     alt="Cataract surgery procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9298,7 +9298,7 @@ Cataract surgery has a high success rate and significantly improves quality of l
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1592496001020-8a41be42b8b3?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1927"
     alt="Glaucoma eye drops medication"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9352,7 +9352,7 @@ Regular monitoring ensures the treatment remains effective and safe.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1928"
     alt="Laser eye treatment procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9404,7 +9404,7 @@ These therapies have significantly improved outcomes for patients with previousl
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506459225024-1428097a7e18?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1929"
     alt="Sunglasses UV protection"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9452,7 +9452,7 @@ Consistent UV protection reduces the risk of long-term eye damage and supports l
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1930"
     alt="Person using computer screen at night"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9517,7 +9517,7 @@ Managing screen habits and scheduling regular eye exams ensures digital device u
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1931"
     alt="Healthy foods for eye health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9574,7 +9574,7 @@ Combining healthy eating with regular eye exams enhances long-term vision protec
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1932"
     alt="Person exercising outdoors"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9622,7 +9622,7 @@ Combining exercise with healthy habits supports lifelong visual wellness.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e83?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1933"
     alt="No smoking sign health awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9669,7 +9669,7 @@ Quitting smoking is one of the most powerful steps you can take to protect long-
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1934"
     alt="Comprehensive eye examination"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9718,7 +9718,7 @@ Consistent monitoring preserves vision and supports overall health throughout li
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506459225024-1428097a7e18?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1935"
     alt="Healthy lifestyle for eye care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9759,7 +9759,7 @@ Simple daily routines contribute to long-term visual health and comfort.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1592496001020-8a41be42b8b3?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1936"
     alt="Contact lens cleaning and storage"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9795,7 +9795,7 @@ Failure to follow guidelines may lead to serious corneal infections.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1937"
     alt="Person working on laptop with eye strain"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9830,7 +9830,7 @@ Regular breaks and ergonomic setup significantly reduce symptoms.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1603398938378-7d4a6f6b5c2d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1938"
     alt="Protective safety glasses"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9865,7 +9865,7 @@ Choosing certified protective gear ensures maximum safety.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1939"
     alt="Prescription medication and eye health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9900,7 +9900,7 @@ Report sudden vision changes to your healthcare provider immediately.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1940"
     alt="Emergency eye examination"
     style="max-width:100%; border-radius:8px;"
   />
@@ -9936,7 +9936,7 @@ If any of these symptoms occur, seek emergency care immediately.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1941"
     alt="Emergency eye examination"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10020,7 +10020,7 @@ Your eyesight is priceless. Acting quickly when warning signs appear can make th
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1942"
     alt="Person experiencing anxiety"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10075,7 +10075,7 @@ Anxiety disorders are highly treatable. Seeking professional help is a strong an
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1943"
     alt="Mood swings concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10118,7 +10118,7 @@ Lifestyle stability, including regular sleep schedules and stress management, pl
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1944"
     alt="Mood swings concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10206,7 +10206,7 @@ With proper medical care, therapy, and support systems in place, many individual
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1945"
     alt="Schizophrenia awareness concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10257,7 +10257,7 @@ With ongoing treatment, many individuals with schizophrenia can manage symptoms 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1946"
     alt="Personality disorder concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10300,7 +10300,7 @@ Early diagnosis and structured therapy significantly improve outcomes and interp
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1527137342181-19aab11a8ee8?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1947"
     alt="PTSD trauma concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10346,7 +10346,7 @@ Healing from PTSD is possible. With professional support, safe coping strategies
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1948"
     alt="Depression awareness concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10393,7 +10393,7 @@ Seeking help is not a sign of weakness — it is a proactive step toward recover
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1949"
     alt="Anxiety symptoms concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10437,7 +10437,7 @@ Chronic anxiety can weaken immune function and disrupt sleep patterns. Early ide
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1950"
     alt="Stress vs mental illness concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10464,7 +10464,7 @@ Understanding the distinction helps individuals recognize when to seek professio
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1951"
     alt="Behavioral change concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10491,7 +10491,7 @@ Recognizing behavioral changes early allows timely evaluation and support. Open 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1952"
     alt="Behavioral changes concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10546,7 +10546,7 @@ Behavioral changes are not a sign of weakness — they are signals that the mind
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1953"
     alt="Sleep and mental health concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10590,7 +10590,7 @@ If sleep problems persist despite lifestyle changes, consulting a healthcare pro
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1954"
     alt="Substance abuse awareness concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10627,7 +10627,7 @@ Substance misuse often coexists with mental health disorders. Early intervention
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1955"
     alt="Psychiatric evaluation session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10666,7 +10666,7 @@ Honest communication ensures the most effective treatment strategy.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1956"
     alt="Psychological testing concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10704,7 +10704,7 @@ Testing results are interpreted by trained professionals and combined with clini
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1957"
     alt="Mental health consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10735,7 +10735,7 @@ A diagnosis is not a label — it is a roadmap for care and support.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1958"
     alt="Therapist consultation session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10819,7 +10819,7 @@ Finding the right provider may take time, but the effort is worthwhile. The righ
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1959"
     alt="First therapy session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10887,7 +10887,7 @@ The initial consultation is the first step toward healing. It marks the beginnin
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1960"
     alt="Confidential therapy discussion"
     style="max-width:100%; border-radius:8px;"
   />
@@ -10950,7 +10950,7 @@ If you have questions about privacy, ask your provider directly. Understanding y
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1961"
     alt="Psychotherapy session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11003,7 +11003,7 @@ Therapy is not only for crises; it can also support personal development and sel
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1962"
     alt="CBT therapy discussion"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11050,7 +11050,7 @@ CBT often includes homework exercises that reinforce skills between sessions.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1963"
     alt="Mental health medication concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11098,7 +11098,7 @@ Medication decisions are individualized. Open communication with your psychiatri
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1964"
     alt="Mindfulness meditation practice"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11161,7 +11161,7 @@ Consistency is key. Incorporating mindfulness into daily routines—such as mind
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1965"
     alt="Group therapy session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11214,7 +11214,7 @@ Group therapy complements individual therapy and can accelerate personal growth 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1966"
     alt="Hospital mental health care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11259,7 +11259,7 @@ Hospitalization is not a failure—it is a safety measure designed to protect li
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1967"
     alt="Self care routine concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11314,7 +11314,7 @@ Self-care is not selfish. It is a responsibility that enables individuals to fun
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1968"
     alt="Exercise and mental health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11366,7 +11366,7 @@ Exercise supports therapy and medication, making it a valuable part of comprehen
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1969"
     alt="Healthy nutrition for brain"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11411,7 +11411,7 @@ Small dietary improvements can produce noticeable changes in mood and energy lev
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1970"
     alt="Peaceful sleep environment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11464,7 +11464,7 @@ Prioritizing sleep hygiene strengthens emotional resilience and supports long-te
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1971"
     alt="Supportive social relationships"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11508,7 +11508,7 @@ Quality matters more than quantity. A few supportive relationships can significa
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1972"
     alt="Crisis support hotline"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11552,7 +11552,7 @@ Reaching out during crisis is a sign of strength. Help is available, and immedia
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1973"
     alt="Medication management concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11600,7 +11600,7 @@ Never stop medication abruptly without professional guidance. Safe management en
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1974"
     alt="Workplace stress and mental health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11666,7 +11666,7 @@ Balancing work and mental health requires awareness, boundaries, and supportive 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1975"
     alt="Supportive relationship"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11705,7 +11705,7 @@ Healthy relationships are protective factors in mental health recovery. Mutual e
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1976"
     alt="Breaking stigma concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11743,7 +11743,7 @@ Seeking help is a sign of strength and self-awareness. Reducing stigma improves 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1977"
     alt="Resilience and growth concept"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11778,7 +11778,7 @@ Recovery emphasizes living a meaningful life despite ongoing symptoms. Many indi
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1511988617509-a57c8a288659?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1978"
     alt="Family support and care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11817,7 +11817,7 @@ A supportive family environment fosters hope, safety, and long-term resilience.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1979"
     alt="Menopause health consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -11979,7 +11979,7 @@ Education, preventive health care, and open conversations with healthcare provid
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1980"
     alt="Women discussing menopause stages"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12026,7 +12026,7 @@ Each stage brings unique physical and emotional experiences. Recognizing these t
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1981"
     alt="Middle aged woman health awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12069,7 +12069,7 @@ Awareness of possible changes during these decades allows better preparation and
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1982"
     alt="Diverse women health awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12100,7 +12100,7 @@ Addressing disparities requires culturally competent healthcare, research inclus
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1983"
     alt="Medical innovation in women's health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12131,7 +12131,7 @@ Personalized medicine approaches allow tailored hormone therapy based on individ
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1984"
     alt="Doctor discussing menopause treatment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12193,7 +12193,7 @@ Treatment decisions should be guided by a healthcare provider, balancing benefit
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1985"
     alt="Hormone therapy consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12244,7 +12244,7 @@ Shared decision-making between patient and provider ensures informed treatment c
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1986"
     alt="Doctor explaining hormone therapy"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12289,7 +12289,7 @@ Women with history of certain cancers or clotting disorders may require alternat
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1987"
     alt="Relaxation techniques for menopause"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12328,7 +12328,7 @@ Tracking triggers can help identify patterns. Small lifestyle adjustments often 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1988"
     alt="Woman reflecting on health transition"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12379,7 +12379,7 @@ Every woman’s experience is unique. Consulting a healthcare provider can help 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1989"
     alt="Dental consultation during menopause"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12428,7 +12428,7 @@ Early dental care prevents long-term complications. Collaboration between health
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1990"
     alt="Women health products consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12471,7 +12471,7 @@ Consult a healthcare provider if discomfort persists, as localized estrogen ther
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1991"
     alt="Healthy diet and fitness for menopause"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12513,7 +12513,7 @@ Lifestyle consistency significantly improves symptom management and metabolic he
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1992"
     alt="Healthy weight management during menopause"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12564,7 +12564,7 @@ A holistic approach—balancing nutrition, exercise, sleep, and stress managemen
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1599058917212-d750089bc07b?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1993"
     alt="Home strength training for women"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12614,7 +12614,7 @@ Two to three strength sessions per week combined with daily stretching supports 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1994"
     alt="Balanced diet for hormonal health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12665,7 +12665,7 @@ Dietary consistency over time supports smoother hormonal adaptation.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1995"
     alt="Medical consultation about early menopause"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12710,7 +12710,7 @@ Early diagnosis and medical guidance help manage long-term health implications e
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1996"
     alt="Young woman health consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12772,7 +12772,7 @@ Emotional support is critical. Early menopause can affect fertility plans and se
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1997"
     alt="Hospital consultation about surgery"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12826,7 +12826,7 @@ Surgical menopause requires proactive long-term health monitoring.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1998"
     alt="Woman reflecting on life change"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12869,7 +12869,7 @@ Education, support, and self-compassion transformed fear into empowerment.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=1999"
     alt="Emotional well-being support"
     style="max-width:100%; border-radius:8px;"
   />
@@ -12912,7 +12912,7 @@ With the right support, early menopause can become a period of growth rather tha
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2000"
     alt="Migraine with aura visual disturbance"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13046,7 +13046,7 @@ Understanding the condition, recognizing early warning signs, and adopting preve
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2001"
     alt="Person experiencing migraine headache"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13100,7 +13100,7 @@ Early treatment improves outcomes and reduces severity.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2002"
     alt="Chronic migraine discomfort"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13147,7 +13147,7 @@ Early intervention prevents progression.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2003"
     alt="Severe prolonged headache"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13182,7 +13182,7 @@ Emergency treatment may include IV medications and fluids.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2004"
     alt="Brain activity illustration"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13209,7 +13209,7 @@ The trigeminovascular system releases inflammatory neuropeptides such as CGRP, c
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2005"
     alt="Genetic research in neurology"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13240,7 +13240,7 @@ Genetics influence brain sensitivity to triggers and neurochemical responses.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2006"
     alt="Person holding head due to migraine pain"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13293,7 +13293,7 @@ Understanding the biological basis of migraine pain helps guide effective treatm
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2007"
     alt="Visual disturbance illustration"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13336,7 +13336,7 @@ Seek immediate medical care if aura symptoms are new, last longer than one hour,
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2008"
     alt="Person feeling nausea during headache"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13376,7 +13376,7 @@ Managing associated symptoms often requires targeted medications such as antieme
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2009"
     alt="Migraine fatigue phase"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13420,7 +13420,7 @@ Recognizing prodrome allows early treatment, which may prevent full-blown attack
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2010"
     alt="Neurological health awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13460,7 +13460,7 @@ Proper diagnosis ensures appropriate treatment and prevents misclassification.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2011"
     alt="Tracking migraine frequency"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13512,7 +13512,7 @@ Understanding duration and patterns empowers better long-term management.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2012"
     alt="Doctor reviewing medical history"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13552,7 +13552,7 @@ Accurate history improves diagnosis precision and treatment planning.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2013"
     alt="Neurological exam"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13592,7 +13592,7 @@ A thorough neurological evaluation provides reassurance and diagnostic clarity.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2014"
     alt="Brain MRI scan"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13631,7 +13631,7 @@ Imaging helps rule out structural causes while confirming migraine as a primary 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2015"
     alt="Writing migraine diary"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13671,7 +13671,7 @@ Consistency in tracking improves long-term control and reduces unpredictability.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2016"
     alt="Neurologist consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13715,7 +13715,7 @@ Early specialist involvement improves long-term outcomes and reduces disability.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2017"
     alt="Brain evaluation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13755,7 +13755,7 @@ Proper evaluation ensures safe and accurate diagnosis.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2018"
     alt="Migraine medication"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13795,7 +13795,7 @@ Proper dosing and timing reduce risk of medication overuse headache.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2019"
     alt="Over the counter medicine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13834,7 +13834,7 @@ If OTC medications are needed more than 10–15 days per month, medical evaluati
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2020"
     alt="Preventive migraine medication consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13873,7 +13873,7 @@ Combination of medication and lifestyle management yields best outcomes.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2021"
     alt="Botox injection consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13915,7 +13915,7 @@ Botox is generally well tolerated, with mild injection-site discomfort being the
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2022"
     alt="Neuromodulation device"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13953,7 +13953,7 @@ They are especially helpful for patients who cannot tolerate medications.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2023"
     alt="Relaxation therapy for migraine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -13989,7 +13989,7 @@ These approaches complement medical treatment and improve long-term outcomes.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2024"
     alt="Foods linked to migraine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14025,7 +14025,7 @@ Keeping a migraine diary helps determine dietary sensitivity.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2025"
     alt="Hormonal health awareness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14064,7 +14064,7 @@ Understanding hormone patterns improves migraine control.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2026"
     alt="Bright sunlight trigger for migraine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14109,7 +14109,7 @@ Identifying environmental triggers through a migraine diary supports prevention 
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2027"
     alt="Stress and sleep disturbance"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14152,7 +14152,7 @@ Stress management techniques such as mindfulness and regular exercise improve re
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2028"
     alt="Coffee and migraine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14192,7 +14192,7 @@ Moderation and consistency are key.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1580281657527-47eaf8f4f61d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2029"
     alt="Excess medication use"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14229,7 +14229,7 @@ Education prevents long-term complications.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2030"
     alt="Work stress and migraine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14268,7 +14268,7 @@ Effective management enhances career sustainability.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2031"
     alt="Supportive relationship during illness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14307,7 +14307,7 @@ Open communication and realistic expectations strengthen social resilience.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2032"
     alt="Emergency preparedness discussion"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14346,7 +14346,7 @@ Clear action plans improve safety and confidence.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2033"
     alt="Travel planning with health condition"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14385,7 +14385,7 @@ Preparedness allows enjoyable travel experiences.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2034"
     alt="Emotional stress and headache"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14421,7 +14421,7 @@ Addressing emotional well-being is essential for holistic migraine care.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2035"
     alt="Support group meeting"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14460,7 +14460,7 @@ Connection and information strengthen long-term resilience.
   content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584697964190-738a7c88b6a6?auto=format&fit=crop&w=900&q=60"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2036"
     alt="Neurological consultation for multiple sclerosis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -14588,7 +14588,7 @@ While MS is a lifelong condition, knowledge about its types empowers individuals
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2037"
     alt="Breast cancer staging classification"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14606,7 +14606,7 @@ The TNM classification provides three key pieces of information. T describes the
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2038"
     alt="Medical imaging for cancer diagnosis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14625,7 +14625,7 @@ Beyond TNM staging, other factors influence prognosis including tumor grade (how
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2039"
     alt="Pathology and laboratory testing"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14644,7 +14644,7 @@ Receiving a cancer diagnosis can be emotionally overwhelming. Understanding your
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2040"
     alt="Healthcare team consultation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14672,7 +14672,7 @@ Receiving a cancer diagnosis can be emotionally overwhelming. Understanding your
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2041"
     alt="Breast cancer cell types under microscope"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14690,7 +14690,7 @@ The most common types are ductal carcinoma in situ (DCIS), invasive ductal carci
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2042"
     alt="Breast tissue anatomy diagram"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14709,7 +14709,7 @@ Beyond histology, cancers are classified by estrogen receptor (ER) and progester
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2043"
     alt="Laboratory specimen testing"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14728,7 +14728,7 @@ Your specific cancer type and receptor status directly determine which treatment
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160690-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2044"
     alt="Treatment planning consultation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14756,7 +14756,7 @@ Your specific cancer type and receptor status directly determine which treatment
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2045"
     alt="Mammography screening procedure"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14774,7 +14774,7 @@ Most major organizations recommend that average-risk women begin mammography at 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2046"
     alt="Mammogram imaging display"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14793,7 +14793,7 @@ During mammography, each breast is positioned between a plate and an X-ray detec
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2047"
     alt="Radiologist reviewing mammogram"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14812,7 +14812,7 @@ Mammography reduces breast cancer mortality through early detection, particularl
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2048"
     alt="Breast health education"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14840,7 +14840,7 @@ Mammography reduces breast cancer mortality through early detection, particularl
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2049"
     alt="Breast biopsy procedure"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14858,7 +14858,7 @@ Core needle biopsies use a larger needle to remove multiple tissue samples and a
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2050"
     alt="Pathology tissue analysis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14877,7 +14877,7 @@ Benign findings indicate no cancer is present and typically require routine foll
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2051"
     alt="Microscopy laboratory analysis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14896,7 +14896,7 @@ Results are typically available within 5-7 days and reviewed by your healthcare 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2052"
     alt="Doctor consultation with patient"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14924,7 +14924,7 @@ Results are typically available within 5-7 days and reviewed by your healthcare 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2053"
     alt="Genetic testing analysis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14942,7 +14942,7 @@ BRCA1 and BRCA2 are tumor suppressor genes that normally repair DNA damage. Muta
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2054"
     alt="Genetic counselor consultation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14961,7 +14961,7 @@ Genetic testing involves a simple blood test or saliva sample that is analyzed f
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2055"
     alt="Laboratory genetic testing"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -14980,7 +14980,7 @@ If you carry a BRCA mutation, your first-degree relatives (children, siblings, p
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2056"
     alt="Family health planning"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15008,7 +15008,7 @@ If you carry a BRCA mutation, your first-degree relatives (children, siblings, p
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2057"
     alt="Surgical oncology procedure"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15026,7 +15026,7 @@ Lumpectomy (also called partial mastectomy or segmentectomy) removes the tumor a
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2058"
     alt="Surgical pathology preparation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15045,7 +15045,7 @@ Sentinel lymph node biopsy identifies and removes 1-3 lymph nodes most likely to
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2059"
     alt="Post-surgical care monitoring"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15064,7 +15064,7 @@ Reconstruction after mastectomy improves body image and psychological well-being
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2060"
     alt="Supportive care after surgery"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15092,7 +15092,7 @@ Reconstruction after mastectomy improves body image and psychological well-being
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2061"
     alt="Intravenous chemotherapy administration"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15110,7 +15110,7 @@ AC (Adriamycin/cyclophosphamide) followed by taxane therapy is standard for many
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2062"
     alt="Chemotherapy nursing care"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15129,7 +15129,7 @@ Hair loss is common with many drugs but temporary, with regrowth beginning 3-6 m
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2063"
     alt="Nutritional support during cancer treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15148,7 +15148,7 @@ Many patients work during chemotherapy, though energy levels often require accom
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2064"
     alt="Cancer survivor support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15176,7 +15176,7 @@ Many patients work during chemotherapy, though energy levels often require accom
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2065"
     alt="Radiation therapy treatment planning"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15194,7 +15194,7 @@ Radiation is standard after breast-conserving surgery in almost all cases. After
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2066"
     alt="Radiation simulation imaging"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15213,7 +15213,7 @@ Radiation therapy is typically delivered 5 days a week for 3-7 weeks depending o
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2067"
     alt="Post-radiation skin care"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15232,7 +15232,7 @@ Protect skin from sun exposure during and after treatment. Use gentle cleansers 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2068"
     alt="Oncology team follow-up"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15260,7 +15260,7 @@ Protect skin from sun exposure during and after treatment. Use gentle cleansers 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2069"
     alt="Cancer survivor celebration"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15278,7 +15278,7 @@ Your oncology team should provide a summary of your cancer diagnosis, treatments
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2070"
     alt="Healthcare team collaboration"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15297,7 +15297,7 @@ Lymphedema, arm swelling from lymph node surgery, can develop years after treatm
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2071"
     alt="Physical rehabilitation therapy"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15316,7 +15316,7 @@ Return to work gradually if possible, discussing accommodations with your employ
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2072"
     alt="Survivor advocacy and community"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15344,7 +15344,7 @@ Return to work gradually if possible, discussing accommodations with your employ
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314830-e77992e560e1?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2073"
     alt="Cancer treatment side effect management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15362,7 +15362,7 @@ Nausea is one of the most feared side effects, though modern anti-nausea medicat
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2074"
     alt="Nutrition counseling for treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15381,7 +15381,7 @@ Cancer-related fatigue differs from normal tiredness and can be profound, affect
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2075"
     alt="Exercise during cancer treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15400,7 +15400,7 @@ Radiodermatitis (skin irritation from radiation) resembles a sunburn and require
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2076"
     alt="Medical support during treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15433,7 +15433,7 @@ Chemotherapy can lower white blood cells, red blood cells, and platelets. Low wh
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2077"
     alt="Lymphatic system and lymphedema"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15451,7 +15451,7 @@ Risk of lymphedema varies based on extent of lymph node removal and radiation ex
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2078"
     alt="Physical therapy measurement"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15470,7 +15470,7 @@ Maintain healthy weight as obesity increases lymphedema risk. Physical activity 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2079"
     alt="Compression therapy garments"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15489,7 +15489,7 @@ Most people manage lymphedema successfully with consistent self-care and profess
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2080"
     alt="Supportive care in community"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15517,7 +15517,7 @@ Most people manage lymphedema successfully with consistent self-care and profess
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1579154204601-01d82b27ebf9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2081"
     alt="Nutritious cancer treatment diet"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15535,7 +15535,7 @@ Protein requirements increase during cancer treatment to maintain muscle mass an
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2082"
     alt="Meal preparation for nutrition"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15554,7 +15554,7 @@ Lean proteins like poultry, fish, eggs, and legumes are well-tolerated when prot
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2083"
     alt="Supplements and cancer treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15573,7 +15573,7 @@ Prepare easy meals in advance when energy is sufficient. Ask family and friends 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2084"
     alt="Nutrition counselor support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15601,7 +15601,7 @@ Prepare easy meals in advance when energy is sufficient. Ask family and friends 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2085"
     alt="Gentle exercise during cancer treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15619,7 +15619,7 @@ Regular activity combats cancer-related fatigue by improving cardiovascular fitn
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2086"
     alt="Physical therapy guidance"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15638,7 +15638,7 @@ On high energy days, tackle slightly more challenging activities. On low energy 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2087"
     alt="Group exercise support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15657,7 +15657,7 @@ Schedule exercise like a medical appointment to prioritize it. Find an exercise 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2088"
     alt="Active cancer survivor"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15685,7 +15685,7 @@ Schedule exercise like a medical appointment to prioritize it. Find an exercise 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2089"
     alt="Emotional support and counseling"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15703,7 +15703,7 @@ Initial shock and disbelief often accompany diagnosis as the mind struggles to p
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314812-535f1f991db6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2090"
     alt="Cancer support group gathering"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15722,7 +15722,7 @@ Maintain connections with supportive friends and family while setting boundaries
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1587854692152-cbe660dbde44?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2091"
     alt="Cancer survivor peer support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15741,7 +15741,7 @@ Changes to breast appearance, hair loss, weight changes, and surgical scars chal
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f9?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2092"
     alt="Hope and healing journey"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15774,7 +15774,7 @@ Resilience isn't about never feeling upset; it's about processing difficult emot
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2093"
     alt="Heart health and cardiovascular system"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15792,7 +15792,7 @@ Cardiovascular disease encompasses multiple conditions affecting the heart and b
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160699-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2094"
     alt="Blood pressure monitoring for heart health"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15811,7 +15811,7 @@ Regular physical activity strengthens the heart and improves circulation. Aim fo
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2095"
     alt="Healthy heart lifestyle and exercise"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15844,7 +15844,7 @@ Seek emergency care immediately for chest pain, shortness of breath, severe swea
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160675-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2096"
     alt="Menopause transition and women's health"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15862,7 +15862,7 @@ Menopause is confirmed after 12 consecutive months without menstruation. The tra
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314698-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2097"
     alt="Hot flashes and menopause symptoms management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15881,7 +15881,7 @@ Lifestyle modifications including regular exercise, adequate sleep, stress manag
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160580-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2098"
     alt="Wellness and healthy aging through menopause"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15909,7 +15909,7 @@ Lifestyle modifications including regular exercise, adequate sleep, stress manag
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160685-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2099"
     alt="Parkinson's disease neurological health"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15927,7 +15927,7 @@ Parkinson's develops when nerve cells in the substantia nigra region of the brai
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2100"
     alt="Movement and physical therapy for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15946,7 +15946,7 @@ Levodopa remains the gold standard medication, converting to dopamine in the bra
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160705-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2101"
     alt="Quality of life and ongoing support for Parkinson's patients"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15974,7 +15974,7 @@ Levodopa remains the gold standard medication, converting to dopamine in the bra
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160715-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2102"
     alt="Psoriasis skin condition management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -15992,7 +15992,7 @@ Psoriasis develops when T cells mistake skin cells as foreign invaders, triggeri
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160725-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2103"
     alt="Dermatological treatment for psoriasis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16011,7 +16011,7 @@ Topical treatments including corticosteroids, vitamin D analogs, and retinoids r
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160735-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2104"
     alt="Skin health and wellness with psoriasis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16039,7 +16039,7 @@ Topical treatments including corticosteroids, vitamin D analogs, and retinoids r
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160745-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2105"
     alt="Rheumatoid arthritis joint health"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16057,7 +16057,7 @@ RA develops when immune cells attack joint linings, causing inflammation, pain, 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160752-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2106"
     alt="Physical therapy and mobility management for RA"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16076,7 +16076,7 @@ Disease-modifying antirheumatic drugs (DMARDs) form the cornerstone of treatment
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160762-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2107"
     alt="Quality of life and remission in rheumatoid arthritis"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16104,7 +16104,7 @@ Disease-modifying antirheumatic drugs (DMARDs) form the cornerstone of treatment
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160772-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2108"
     alt="Sleep health and better rest"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16122,7 +16122,7 @@ Sleep cycles through NREM (non-rapid eye movement) stages 1-3 and REM (rapid eye
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160782-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2109"
     alt="Sleep disorders and sleep apnea"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16141,7 +16141,7 @@ Establishing consistent sleep schedules anchors the body's circadian rhythm. Cre
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160792-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2110"
     alt="Healthy sleep habits and relaxation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16169,7 +16169,7 @@ Establishing consistent sleep schedules anchors the body's circadian rhythm. Cre
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160802-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2111"
     alt="Weight management and healthy lifestyle"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16187,7 +16187,7 @@ Body weight results from complex interactions between genetics, metabolism, envi
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160812-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2112"
     alt="Nutrition planning and balanced diet"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16206,7 +16206,7 @@ Set realistic goals focusing on health improvements rather than number on scale 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160822-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2113"
     alt="Fitness and active lifestyle for weight management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16234,7 +16234,7 @@ Set realistic goals focusing on health improvements rather than number on scale 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160832-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2114"
     alt="Alzheimer's caregiving and support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16252,7 +16252,7 @@ Alzheimer's disease progresses through mild, moderate, and severe stages over 8-
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2115"
     alt="Caregiver support and emotional health"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16271,7 +16271,7 @@ Caregiver burnout is real and damaging to both caregiver and care recipient. Tak
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160852-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2116"
     alt="Community resources and professional care support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16299,7 +16299,7 @@ Caregiver burnout is real and damaging to both caregiver and care recipient. Tak
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160685-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2117"
     alt="Understanding sudden Parkinson's symptom changes"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16317,7 +16317,7 @@ As Parkinson's progresses and medication wears off between doses, people experie
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160695-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2118"
     alt="Medication timing and symptom management for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16336,7 +16336,7 @@ Contact your neurologist promptly if worsening persists beyond a few hours or re
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1631217314698-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2119"
     alt="Support and communication with healthcare team for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16364,7 +16364,7 @@ Contact your neurologist promptly if worsening persists beyond a few hours or re
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160705-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2120"
     alt="End-stage Parkinson's disease care and support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16382,7 +16382,7 @@ Movement becomes severely limited, with rigidity and bradykinesia making volunta
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160752-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2121"
     alt="Comprehensive care management for advanced Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16401,7 +16401,7 @@ Full-time professional caregiving becomes necessary for most people, often requi
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2122"
     alt="Family support and palliative care for end-stage Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16429,7 +16429,7 @@ Full-time professional caregiving becomes necessary for most people, often requi
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160832-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2123"
     alt="Understanding neurological conditions Alzheimer's vs Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16447,7 +16447,7 @@ Alzheimer's disease primarily causes progressive memory loss and cognitive decli
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160852-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2124"
     alt="Brain changes in Alzheimer's and Parkinson's diseases"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16466,7 +16466,7 @@ Alzheimer's treatments focus on slowing cognitive decline; newer monoclonal anti
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2125"
     alt="Hope and treatment options for neurodegenerative diseases"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16494,7 +16494,7 @@ Alzheimer's treatments focus on slowing cognitive decline; newer monoclonal anti
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160862-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2126"
     alt="Parkinson's disease triggers and symptom management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16512,7 +16512,7 @@ Stress significantly worsens tremor, rigidity, and other motor symptoms in many 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160872-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2127"
     alt="Sleep, nutrition, and lifestyle for Parkinson's management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16531,7 +16531,7 @@ Skipped or delayed doses cause sudden symptom rebound that can be dangerous. Inc
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160882-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2128"
     alt="Wellness strategies for optimal Parkinson's management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16559,7 +16559,7 @@ Skipped or delayed doses cause sudden symptom rebound that can be dangerous. Inc
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160902-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2129"
     alt="Speech and communication challenges in Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16577,7 +16577,7 @@ Speech becomes softer and harder to hear (hypokinetic dysarthria), requiring lis
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160912-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2130"
     alt="Speech therapy and communication techniques for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16596,7 +16596,7 @@ Speech-language pathology assessment identifies specific problems and develops p
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160922-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2131"
     alt="Living well with speech and swallowing modifications"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16624,7 +16624,7 @@ Speech-language pathology assessment identifies specific problems and develops p
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160932-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2132"
     alt="Early warning signs and symptoms of Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16642,7 +16642,7 @@ Micrographia develops gradually as handwriting becomes progressively smaller and
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160942-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2133"
     alt="Motor changes and movement symptoms in early Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16661,7 +16661,7 @@ Consult a neurologist if you notice progressive tremor, significant handwriting 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160952-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2134"
     alt="Medical evaluation and early diagnosis of Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16689,7 +16689,7 @@ Consult a neurologist if you notice progressive tremor, significant handwriting 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160962-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2135"
     alt="Treatment options for Parkinson's tremor and shaking"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16707,7 +16707,7 @@ Levodopa, the gold standard Parkinson's medication, effectively reduces tremor i
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160972-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2136"
     alt="Surgical treatments and deep brain stimulation for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16726,7 +16726,7 @@ Physical therapy targeting specific movements and conscious attention reduces tr
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160982-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2137"
     alt="Living and adapting with Parkinson's tremor"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16754,7 +16754,7 @@ Physical therapy targeting specific movements and conscious attention reduces tr
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160992-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2138"
     alt="Sleep problems and insomnia in Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16772,7 +16772,7 @@ Motor rigidity and difficulty turning in bed disturb sleep throughout the night.
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160702-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2139"
     alt="Sleep disorders including REM sleep behavior disorder"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16791,7 +16791,7 @@ Optimize medication timing—some neurologists prescribe extended-release levodo
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160712-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2140"
     alt="Better sleep and wellness in Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16819,7 +16819,7 @@ Optimize medication timing—some neurologists prescribe extended-release levodo
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160702-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2141"
     alt="Levodopa medication for Parkinson's disease treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16837,7 +16837,7 @@ Parkinson's disease involves progressive loss of dopamine-producing nerve cells 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160712-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2142"
     alt="How levodopa crosses blood-brain barrier"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16856,7 +16856,7 @@ Levodopa begins working within 30-60 minutes of oral administration, reaching pe
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160722-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2143"
     alt="Parkinson's medication management and timing"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16889,7 +16889,7 @@ Early in Parkinson's disease, levodopa at moderate doses provides excellent symp
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160732-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2144"
     alt="Dopamine agonist medication for Parkinson's treatment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16907,7 +16907,7 @@ Dopamine agonists mimic dopamine's actions by directly stimulating dopamine rece
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160742-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2145"
     alt="MAO inhibitors and COMT inhibitors for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16926,7 +16926,7 @@ Anticholinergic medications (benztropine, trihexyphenidyl) block acetylcholine, 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160752-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2146"
     alt="Medication combinations for optimal Parkinson's symptom control"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16959,7 +16959,7 @@ Most Parkinson's patients eventually require medication combinations for optimal
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160762-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2147"
     alt="Managing Parkinson's medication side effects"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16977,7 +16977,7 @@ Nausea affects many patients starting levodopa or dopamine agonists, resulting f
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160772-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2148"
     alt="Dyskinesias and involuntary movements in Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -16996,7 +16996,7 @@ Hallucinations—usually seeing people or animals that aren't actually present�
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160782-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2149"
     alt="Communicating side effects with your neurologist"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17029,7 +17029,7 @@ Report new or worsening symptoms including nausea despite food/medication timing
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160792-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2150"
     alt="Supplements and natural approaches for Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17047,7 +17047,7 @@ Coenzyme Q10 (CoQ10) shows promise in small studies for slowing Parkinson's prog
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160802-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2151"
     alt="Medication interactions and supplement safety"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17066,7 +17066,7 @@ High-protein meals interfere with levodopa absorption, potentially reducing moto
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160812-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2152"
     alt="Evidence-based approaches to Parkinson's management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17099,7 +17099,7 @@ Physical therapy and exercise provide substantial evidence for slowing Parkinson
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160822-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2153"
     alt="Neurologist specializing in Parkinson's disease care"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17117,7 +17117,7 @@ The Parkinson's Foundation maintains an online database of Parkinson's specialis
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160832-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2154"
     alt="Initial Parkinson's disease neurological evaluation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17136,7 +17136,7 @@ Excellent Parkinson's specialists take time explaining disease concepts and trea
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2155"
     alt="Building patient-neurologist relationship"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17169,7 +17169,7 @@ Prepare for appointments by writing down current symptoms, medication side effec
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160852-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2156"
     alt="Support groups and community for Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17187,7 +17187,7 @@ The Parkinson's Foundation (parkinson.org) provides comprehensive information, s
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160862-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2157"
     alt="In-person and online support groups"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17206,7 +17206,7 @@ Organizations offer free educational workshops covering disease basics, medicati
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160872-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2158"
     alt="Healthcare navigation and caregiver support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17239,7 +17239,7 @@ Care coordinators and social workers help patients navigate healthcare systems, 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160882-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2159"
     alt="Insurance coverage and healthcare costs for Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17257,7 +17257,7 @@ Most health insurance plans cover neurologist services, Parkinson's medications,
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160892-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2160"
     alt="Disability benefits and financial assistance programs"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17276,7 +17276,7 @@ The Americans with Disabilities Act (ADA) requires employers to provide reasonab
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160902-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2161"
     alt="Financial assistance and charitable programs"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17309,7 +17309,7 @@ Pharmaceutical companies offer patient assistance programs providing free or red
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160912-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2162"
     alt="Multidisciplinary Parkinson's disease care team"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17327,7 +17327,7 @@ The movement disorder neurologist provides Parkinson's diagnosis, medication man
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160922-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2163"
     alt="Accessing specialty care and referrals"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17346,7 +17346,7 @@ Maintain a detailed medication list including doses, timing, and side effects to
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160932-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2164"
     alt="Integrated care coordination for optimal outcomes"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17379,7 +17379,7 @@ Your specific care team depends on your individual needs and symptom pattern. A 
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160550-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2165"
     alt="Exercise and physical activity for Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17397,7 +17397,7 @@ Regular exercise improves bradykinesia (slow movement), increases stride length,
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160560-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2166"
     alt="Types of exercise for Parkinson's disease management"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17416,7 +17416,7 @@ Consult your neurologist before starting new exercise programs ensuring safety. 
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160570-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2167"
     alt="Staying active and maintaining quality of life"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17449,7 +17449,7 @@ Long-term consistency provides optimal benefits; irregular exercise provides min
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160580-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2168"
     alt="Nutrition and diet strategies for Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17467,7 +17467,7 @@ Dietary protein competes with levodopa for intestinal absorption and blood-brain
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160590-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2169"
     alt="Managing constipation and gastrointestinal issues"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17486,7 +17486,7 @@ Maintain balanced nutrition providing adequate calories, proteins, fats, and car
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160600-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2170"
     alt="Adaptive eating strategies and mealtime support"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17519,7 +17519,7 @@ Difficulty using utensils from tremor or rigidity improves with adaptive equipme
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160610-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2171"
     alt="Cognitive health and brain wellness in Parkinson's"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17537,7 +17537,7 @@ Executive function difficulties—planning, organizing, decision-making, multita
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160620-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2172"
     alt="Cognitive exercises and mental stimulation"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17556,7 +17556,7 @@ Optimize sleep quality—poor sleep contributes to cognitive decline and mood ch
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160630-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2173"
     alt="Support systems and caregiver strategies"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17589,7 +17589,7 @@ Open communication with family and caregivers about cognitive changes enables ap
   content: `
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160640-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2174"
     alt="Fall prevention and safety for Parkinson's disease"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17607,7 +17607,7 @@ Postural instability and balance impairment develop progressively in Parkinson's
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160650-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2175"
     alt="Home modifications and safety equipment"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17626,7 +17626,7 @@ Walkers provide stability supporting safe mobility in advanced disease. Four-whe
 
 <div style="text-align:center; margin:20px 0;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160660-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2176"
     alt="Community safety and emergency preparedness"
     loading="lazy"
     style="max-width:100%; border-radius:12px;"
@@ -17660,7 +17660,7 @@ Maintain good physical fitness through exercise reducing fall risk whether at ho
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160639-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2177"
     alt="Psoriasis plaques and scaling manifestations"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17682,7 +17682,7 @@ The silvery-white scales result from rapid skin cell turnover. In psoriasis, ski
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160549-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2178"
     alt="Skin care and plaque management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17719,7 +17719,7 @@ Understanding psoriasis plaques and scaling empowers you to work effectively wit
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160559-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2179"
     alt="Skin irritation and itch management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17741,7 +17741,7 @@ Moisturizing is fundamental—regular application of thick creams, ointments, or
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f5?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2180"
     alt="Medical treatment and relief options"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17778,7 +17778,7 @@ Combining medical treatments with consistent self-care strategies provides compr
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1584308666744-24d5f400f6f6?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2181"
     alt="Nail health and psoriasis manifestations"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17800,7 +17800,7 @@ Nail changes can cause significant functional difficulties. Separated or friable
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160559-2173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2182"
     alt="Treatment and management strategies"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17837,7 +17837,7 @@ While nail psoriasis can be persistent, consistent treatment and nail care help 
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160589-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2183"
     alt="Systemic health and wellness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17864,7 +17864,7 @@ Psoriasis patients have elevated rates of cardiovascular disease, type 2 diabete
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160628-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2184"
     alt="Comprehensive health management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17896,7 +17896,7 @@ Recognizing and addressing systemic symptoms improves overall health outcomes be
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160577-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2185"
     alt="Mental health and emotional wellbeing"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17923,7 +17923,7 @@ Work productivity decreases from both symptoms and emotional distress. Frequent 
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160588-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2186"
     alt="Support and coping strategies"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17955,7 +17955,7 @@ Acknowledging and addressing psychological impacts of psoriasis leads to compreh
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160641-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2187"
     alt="Medical examination and diagnosis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -17982,7 +17982,7 @@ Lesion distribution—elbows, knees, scalp, lower back—favors psoriasis diagno
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160650-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2188"
     alt="Specialized dermatological assessment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18019,7 +18019,7 @@ Open communication and thorough examination help dermatologists confidently diag
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160660-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2189"
     alt="Skin biopsy procedure"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18046,7 +18046,7 @@ Under microscopy, psoriasis shows characteristic changes including thickened out
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160675-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2190"
     alt="Laboratory examination and analysis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18078,7 +18078,7 @@ Skin biopsy provides definitive confirmation when diagnostic certainty affects t
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160685-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2191"
     alt="Genetic factors and inheritance"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18105,7 +18105,7 @@ Genetic predisposition alone doesn't guarantee psoriasis development. Environmen
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160692-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2192"
     alt="Screening and prevention strategies"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18137,7 +18137,7 @@ Understanding genetic and familial factors empowers family members to recognize 
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160705-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2193"
     alt="Joint pain and arthritis evaluation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18164,7 +18164,7 @@ Rheumatoid factor and anti-CCP antibody testing are typically negative in psoria
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160718-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2194"
     alt="Rheumatology consultation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18196,7 +18196,7 @@ Early detection and treatment of psoriatic arthritis prevents progressive joint 
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160728-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2195"
     alt="Disease assessment and evaluation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18223,7 +18223,7 @@ The Physician's Global Assessment (PGA) provides overall disease severity rating
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160735-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2196"
     alt="Quality of life assessment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18255,7 +18255,7 @@ Accurate severity assessment ensures appropriate treatment intensity matching di
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160742-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2197"
     alt="Comprehensive health screening"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18282,7 +18282,7 @@ Depression affects 10-20% of psoriasis patients, significantly elevated versus g
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160750-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2198"
     alt="Preventive health measures"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18319,7 +18319,7 @@ Comprehensive health screening detects and prevents serious complications of sys
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160760-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2199"
     alt="Topical cream treatment application"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18346,7 +18346,7 @@ Tazarotene, a topical retinoid, reduces inflammation and skin cell turnover. It 
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160772-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2200"
     alt="Psoriasis management routine"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18383,7 +18383,7 @@ Effective topical treatment requires knowledge of available options and their pr
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160780-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2201"
     alt="Light therapy treatment session"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18410,7 +18410,7 @@ Excimer laser delivers high-intensity UVB to localized lesions. It suits limited
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160788-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2202"
     alt="Dermatology clinic treatment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18447,7 +18447,7 @@ Phototherapy provides effective control for moderate to severe psoriasis with go
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160795-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2203"
     alt="Systemic medication therapy"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18474,7 +18474,7 @@ Acitretin, an oral retinoid, works particularly well for pustular psoriasis. Dos
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160800-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2204"
     alt="Medical monitoring and treatment"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18511,7 +18511,7 @@ Systemic medications provide effective control of moderate to severe psoriasis w
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160808-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2205"
     alt="Biologic treatment administration"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18543,7 +18543,7 @@ Newer IL-23-specific inhibitors including guselkumab and risankizumab provide ex
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160815-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2206"
     alt="Patient counseling and education"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18580,7 +18580,7 @@ Biologic therapies have transformed psoriasis management, enabling disease contr
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160822-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2207"
     alt="Multiple treatment strategy"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18612,7 +18612,7 @@ Combining two systemic medications with different mechanisms is sometimes necess
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160828-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2208"
     alt="Comprehensive treatment planning"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18649,7 +18649,7 @@ Thoughtfully designed combination therapy provides superior psoriasis control wh
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160835-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2209"
     alt="Side effect monitoring and management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18676,7 +18676,7 @@ Biologic therapies increase infection risk including tuberculosis. TB screening 
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160842-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2210"
     alt="Regular monitoring and follow-up"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18713,7 +18713,7 @@ Effective side effect management enables continuation of beneficial psoriasis tr
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160850-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2211"
     alt="Gentle skin care for psoriasis"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18740,7 +18740,7 @@ Apply topical medications to damp skin after cleansing for better absorption. Us
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160858-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2212"
     alt="Psoriasis skincare tips"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18777,7 +18777,7 @@ A consistent, gentle skincare routine prevents many psoriasis flare-ups and supp
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160865-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2213"
     alt="Comfortable clothing for sensitive skin"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18804,7 +18804,7 @@ Summer presents challenges—covering affected areas becomes difficult while sun
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160872-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2214"
     alt="Fashion and confidence"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18841,7 +18841,7 @@ Thoughtful clothing selection reduces physical irritation and improves daily com
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160888-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2215"
     alt="Stress relief and relaxation"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18868,7 +18868,7 @@ CBT helps identify stress patterns and develop coping strategies. Therapists gui
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160895-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2216"
     alt="Physical activity and wellbeing"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18910,7 +18910,7 @@ Consistent stress management is as important as medical treatment for optimizing
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160902-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2217"
     alt="Healthy nutrition for skin health"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18937,7 +18937,7 @@ Obesity is associated with more severe psoriasis and higher TNF-alpha levels. Ac
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160909-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2218"
     alt="Nutritional supplements"
     style="max-width:100%; border-radius:8px;"
   />
@@ -18974,7 +18974,7 @@ Thoughtful dietary modifications support medical treatment and improve psoriasis
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160916-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2219"
     alt="Exercise and physical wellness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19001,7 +19001,7 @@ Sweating during exercise can irritate psoriatic skin but shouldn't prevent activ
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160923-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2220"
     alt="Active lifestyle and wellbeing"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19038,7 +19038,7 @@ Regular physical activity represents one of most powerful interventions for psor
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160930-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2221"
     alt="Social support and community"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19070,7 +19070,7 @@ Support groups—in-person or online—reduce isolation and provide practical st
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160937-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2222"
     alt="Mental health support and therapy"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19107,7 +19107,7 @@ Prioritizing mental health and social connection alongside medical treatment cre
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160944-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2223"
     alt="Infection and illness management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19134,7 +19134,7 @@ Hand hygiene reduces infection risk. Vaccination (flu, pneumococcal) prevents co
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160950-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2224"
     alt="Health maintenance and prevention"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19171,7 +19171,7 @@ Recognizing infections as common triggers enables preventive action and early in
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160958-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2225"
     alt="Stress management and wellness"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19198,7 +19198,7 @@ Keep a symptom diary tracking stress levels and psoriasis activity to identify p
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160965-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2226"
     alt="Relaxation and stress relief"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19230,7 +19230,7 @@ Effective stress management represents one of most powerful interventions for ps
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160972-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2227"
     alt="Seasonal health changes"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19257,7 +19257,7 @@ Cold temperatures directly worsen psoriasis through multiple mechanisms. Cold-in
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160980-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2228"
     alt="Indoor environmental control"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19299,7 +19299,7 @@ Recognizing and planning for seasonal patterns optimizes year-round psoriasis co
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160987-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2229"
     alt="Medication management"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19326,7 +19326,7 @@ Chloroquine and hydroxychloroquine used for autoimmune conditions can worsen pso
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091160994-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2230"
     alt="Medical consultation and treatment planning"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19368,7 +19368,7 @@ Awareness of medication side effects enables informed decision-making and optimi
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091161001-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2231"
     alt="Healthy lifestyle choices"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19395,7 +19395,7 @@ Smoking increases psoriasis risk in non-smokers and significantly worsens diseas
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091161008-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2232"
     alt="Wellness and recovery"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19437,7 +19437,7 @@ Reducing alcohol and smoking represents one of most impactful lifestyle changes 
     content: `
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091161015-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2233"
     alt="Skin injury prevention"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19464,7 +19464,7 @@ Avoid injury whenever possible—careful activities reduce injury risk. Protecti
 
 <div style="text-align:center; margin-bottom:20px;">
   <img 
-    src="https://images.unsplash.com/photo-1576091161022-112173f31c77?auto=format&fit=crop&w=900&fm=webp&q=70"
+    src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2234"
     alt="Safe wound care"
     style="max-width:100%; border-radius:8px;"
   />
@@ -19506,7 +19506,7 @@ Understanding and preventing the Koebner phenomenon reduces psoriasis burden and
     categorySlug: "sleep",
     description: "Understanding the essential biological functions and benefits of sleep for physical and mental health.",
     author: "SixHealth Team",
-    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1541123603104-852fc5d41b71?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Restorative sleep and wellness" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is not a luxury--it is a biological necessity as essential as food and water. During sleep, your body and brain undergo remarkable processes that are critical for survival, health, and optimal functioning. Understanding why we sleep helps appreciate its crucial role in life.</p><h2>Physical Restoration and Repair</h2><p>During deep sleep, your body enters repair mode. Growth hormone peaks, facilitating tissue repair, muscle growth, and bone strengthening. Protein synthesis increases, rebuilding muscles damaged during exercise and daily activity. The immune system strengthens, producing infection-fighting antibodies and white blood cells. Inflammation reduces, helping your body recover from physical stress and injury. Without adequate sleep, your body cannot repair itself effectively, leading to slower recovery from illness and injury.</p><h2>Brain Function and Consolidation</h2><p>Sleep is critical for cognitive function. Memory consolidation--the process of converting temporary memories into permanent ones--occurs primarily during sleep. REM sleep strengthens emotional memories. Non-REM sleep consolidates factual and procedural memories. During sleep, your brain also clears metabolic waste products that accumulate during waking hours. This brain cleansing is essential for preventing neurodegeneration and maintaining cognitive health. Sleep deprivation impairs attention, concentration, decision-making, and problem-solving ability.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516825592778-5c240fc8a424?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nocturnal brain restoration" style="max-width:100%; border-radius:8px;" /></div><h2>Immune System Strengthening</h2><p>The immune system is particularly active during sleep. Nighttime is when immune cells fight infections and clear debris. Sleep deprivation weakens immunity, increasing susceptibility to colds, flu, and infections. Chronic sleep loss increases autoimmune disease risk and impairs vaccine effectiveness. During sleep, your body produces cytokines--protein messenger molecules essential for immune response. Adequate sleep is one of the most powerful immune-boosting interventions available.</p><h2>Metabolic Regulation and Weight Control</h2><p>Sleep regulates hunger hormones. Sleep deprivation increases ghrelin (appetite stimulator) and decreases leptin (satiety hormone), leading to increased hunger and food cravings. Poor sleep promotes weight gain and increases metabolic disease risk. During sleep, your body processes glucose more efficiently and maintains healthy insulin sensitivity. Chronic sleep loss significantly increases type 2 diabetes risk independent of other factors.</p><h2>Emotional Regulation and Mental Health</h2><p>REM sleep processes emotions and regulates mood. During sleep, the brain consolidates emotional experiences, reducing their psychological impact. Sleep deprivation increases emotional reactivity, stress sensitivity, and anxiety. Chronic insufficient sleep significantly increases depression and mood disorder risk. Sleep appears protective against PTSD and helps trauma processing. The amygdala--your brain's emotional center--becomes overactive and disconnected from rational control without adequate sleep.</p><h2>Cardiovascular Health</h2><p>During sleep, blood pressure drops and heart rate slows, reducing cardiovascular strain. Sleep deprivation increases blood pressure, heart rate, and inflammatory markers contributing to heart disease. Chronic poor sleep increases heart attack and stroke risk. Sleep-disordered breathing directly stresses the cardiovascular system. Adequate sleep is essential for cardiovascular health and disease prevention.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Heart health and cardiovascular wellness" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is not downtime--it is essential maintenance keeping you physically healthy, mentally sharp, and emotionally resilient.</p>`
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2235" alt="Restorative sleep and wellness" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is not a luxury--it is a biological necessity as essential as food and water. During sleep, your body and brain undergo remarkable processes that are critical for survival, health, and optimal functioning. Understanding why we sleep helps appreciate its crucial role in life.</p><h2>Physical Restoration and Repair</h2><p>During deep sleep, your body enters repair mode. Growth hormone peaks, facilitating tissue repair, muscle growth, and bone strengthening. Protein synthesis increases, rebuilding muscles damaged during exercise and daily activity. The immune system strengthens, producing infection-fighting antibodies and white blood cells. Inflammation reduces, helping your body recover from physical stress and injury. Without adequate sleep, your body cannot repair itself effectively, leading to slower recovery from illness and injury.</p><h2>Brain Function and Consolidation</h2><p>Sleep is critical for cognitive function. Memory consolidation--the process of converting temporary memories into permanent ones--occurs primarily during sleep. REM sleep strengthens emotional memories. Non-REM sleep consolidates factual and procedural memories. During sleep, your brain also clears metabolic waste products that accumulate during waking hours. This brain cleansing is essential for preventing neurodegeneration and maintaining cognitive health. Sleep deprivation impairs attention, concentration, decision-making, and problem-solving ability.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2236" alt="Nocturnal brain restoration" style="max-width:100%; border-radius:8px;" /></div><h2>Immune System Strengthening</h2><p>The immune system is particularly active during sleep. Nighttime is when immune cells fight infections and clear debris. Sleep deprivation weakens immunity, increasing susceptibility to colds, flu, and infections. Chronic sleep loss increases autoimmune disease risk and impairs vaccine effectiveness. During sleep, your body produces cytokines--protein messenger molecules essential for immune response. Adequate sleep is one of the most powerful immune-boosting interventions available.</p><h2>Metabolic Regulation and Weight Control</h2><p>Sleep regulates hunger hormones. Sleep deprivation increases ghrelin (appetite stimulator) and decreases leptin (satiety hormone), leading to increased hunger and food cravings. Poor sleep promotes weight gain and increases metabolic disease risk. During sleep, your body processes glucose more efficiently and maintains healthy insulin sensitivity. Chronic sleep loss significantly increases type 2 diabetes risk independent of other factors.</p><h2>Emotional Regulation and Mental Health</h2><p>REM sleep processes emotions and regulates mood. During sleep, the brain consolidates emotional experiences, reducing their psychological impact. Sleep deprivation increases emotional reactivity, stress sensitivity, and anxiety. Chronic insufficient sleep significantly increases depression and mood disorder risk. Sleep appears protective against PTSD and helps trauma processing. The amygdala--your brain's emotional center--becomes overactive and disconnected from rational control without adequate sleep.</p><h2>Cardiovascular Health</h2><p>During sleep, blood pressure drops and heart rate slows, reducing cardiovascular strain. Sleep deprivation increases blood pressure, heart rate, and inflammatory markers contributing to heart disease. Chronic poor sleep increases heart attack and stroke risk. Sleep-disordered breathing directly stresses the cardiovascular system. Adequate sleep is essential for cardiovascular health and disease prevention.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2237" alt="Heart health and cardiovascular wellness" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is not downtime--it is essential maintenance keeping you physically healthy, mentally sharp, and emotionally resilient.</p>`
   },
   {
     id: "sleep-duration-recommendations",
@@ -19516,7 +19516,7 @@ Understanding and preventing the Koebner phenomenon reduces psoriasis burden and
     categorySlug: "sleep",
     description: "Age-based sleep duration guidelines and how to determine personal sleep needs.",
     author: "SixHealth Team",
-    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512941691920-25bdb36edc60?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Adequate sleep duration guidelines" style="max-width:100%; border-radius:8px;" /></div><p>Sleep needs vary based on age, genetics, and individual factors. The National Sleep Foundation and American Academy of Sleep Medicine provide evidence-based recommendations to help people determine appropriate sleep duration for optimal health.</p><h2>Age-Based Sleep Recommendations</h2><p>Newborns (0-3 months): 14-17 hours daily (including naps). Infants need extensive sleep for critical brain development. Irregular sleep patterns are normal and expected. Infants (4-11 months): 12-15 hours daily. Sleep consolidates into longer nighttime stretches with remaining naps. Toddlers (1-2 years): 11-14 hours daily including 1-2 naps. Preschoolers (3-5 years): 10-13 hours daily including naps. School-age children (6-12 years): 9-12 hours nightly. Teenagers (13-18 years): 8-10 hours nightly. Adults (18-64 years): 7-9 hours nightly. Older adults (65+ years): 7-8 hours nightly.</p><h2>Individual Variation</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1540575467063-178f50002c1b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Individual sleep patterns varying by genetics and needs" style="max-width:100%; border-radius:8px;" /></div><p>While guidelines provide helpful targets, individual needs vary significantly. Some people function optimally on 7 hours while others need 9. Genetic factors determine individual sleep needs--roughly 10% of people are naturally short sleepers, functioning well on 5-6 hours consistently. Conversely, some people are long sleepers needing 10+ hours. Individual consistency matters more than specific duration--sleeping 7 hours at the same times each night is generally better than 8 hours at irregular times.</p><h2>Quality Versus Quantity</h2><p>Nine hours of poor-quality, fragmented sleep provides less benefit than 7 hours of continuous, restorative sleep. Quality markers include: falling asleep within 10-20 minutes, waking less than once per night, spending less than 5-10 minutes awake after sleep onset, feeling rested upon waking. If a particular duration leaves you feeling tired despite adequate time sleep, investigate quality issues--sleep apnea, restless legs, frequent arousals, or other disorders may be reducing restorative value.</p><h2>Finding Your Personal Sleep Need</h2><p>Vary bedtime by one hour over a vacation without alarm clocks. Note where you naturally settle--this reflects your true sleep need. Track subjective alertness, mood, and cognitive function at different sleep durations to identify your optimal amount.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1523193313752-6f3031224c94?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Personalized sleep optimization and sleep tracking" style="max-width:100%; border-radius:8px;" /></div><p>Finding your personal sleep sweet spot is key to maximizing sleep's health benefits.</p>`
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2238" alt="Adequate sleep duration guidelines" style="max-width:100%; border-radius:8px;" /></div><p>Sleep needs vary based on age, genetics, and individual factors. The National Sleep Foundation and American Academy of Sleep Medicine provide evidence-based recommendations to help people determine appropriate sleep duration for optimal health.</p><h2>Age-Based Sleep Recommendations</h2><p>Newborns (0-3 months): 14-17 hours daily (including naps). Infants need extensive sleep for critical brain development. Irregular sleep patterns are normal and expected. Infants (4-11 months): 12-15 hours daily. Sleep consolidates into longer nighttime stretches with remaining naps. Toddlers (1-2 years): 11-14 hours daily including 1-2 naps. Preschoolers (3-5 years): 10-13 hours daily including naps. School-age children (6-12 years): 9-12 hours nightly. Teenagers (13-18 years): 8-10 hours nightly. Adults (18-64 years): 7-9 hours nightly. Older adults (65+ years): 7-8 hours nightly.</p><h2>Individual Variation</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2239" alt="Individual sleep patterns varying by genetics and needs" style="max-width:100%; border-radius:8px;" /></div><p>While guidelines provide helpful targets, individual needs vary significantly. Some people function optimally on 7 hours while others need 9. Genetic factors determine individual sleep needs--roughly 10% of people are naturally short sleepers, functioning well on 5-6 hours consistently. Conversely, some people are long sleepers needing 10+ hours. Individual consistency matters more than specific duration--sleeping 7 hours at the same times each night is generally better than 8 hours at irregular times.</p><h2>Quality Versus Quantity</h2><p>Nine hours of poor-quality, fragmented sleep provides less benefit than 7 hours of continuous, restorative sleep. Quality markers include: falling asleep within 10-20 minutes, waking less than once per night, spending less than 5-10 minutes awake after sleep onset, feeling rested upon waking. If a particular duration leaves you feeling tired despite adequate time sleep, investigate quality issues--sleep apnea, restless legs, frequent arousals, or other disorders may be reducing restorative value.</p><h2>Finding Your Personal Sleep Need</h2><p>Vary bedtime by one hour over a vacation without alarm clocks. Note where you naturally settle--this reflects your true sleep need. Track subjective alertness, mood, and cognitive function at different sleep durations to identify your optimal amount.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2240" alt="Personalized sleep optimization and sleep tracking" style="max-width:100%; border-radius:8px;" /></div><p>Finding your personal sleep sweet spot is key to maximizing sleep's health benefits.</p>`
   },
   {
     id: "circadian-rhythms",
@@ -19526,7 +19526,7 @@ Understanding and preventing the Koebner phenomenon reduces psoriasis burden and
     categorySlug: "sleep",
     description: "Understanding circadian rhythms and their critical role in sleep, health, and daily function.",
     author: "SixHealth Team",
-    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1579154204601-01d82b27d100?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Circadian rhythm timing" style="max-width:100%; border-radius:8px;" /></div><p>Your body operates on a roughly 24-hour internal clock called the circadian rhythm. This biological timing system regulates sleep-wake cycles, hormone release, body temperature, and numerous physiological processes. Aligning daily activities with your circadian rhythm optimizes sleep quality and overall health.</p><h2>What Controls the Circadian Rhythm?</h2><p>The suprachiasmatic nucleus (SCN) in the brain's hypothalamus serves as the master clock, receiving direct input from the eyes about light exposure. Light, particularly blue light, signals daytime activity and suppresses melatonin (sleep hormone). Darkness signals nighttime and triggers melatonin production. This light-based system has evolved over millions of years to align our physiology with Earth's day-night cycles. Secondary zeitgebers (time cues) including temperature, meal timing, social interaction, and exercise also influence the rhythm but are less powerful than light.</p><h2>Typical Circadian Cycle</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&fm=webp&q=70" alt="24-hour circadian rhythm timing cycles and phases" style="max-width:100%; border-radius:8px;" /></div><p>Most humans have a natural rhythm slightly longer than 24 hours--about 24.1 to 24.3 hours. Light exposure each morning resets and entrains this rhythm to exactly 24 hours. Melatonin begins rising around 8-9 PM in most people, promoting sleepiness. Body temperature drops through the night, reaching minimum around 4 AM. Cortisol rises in early morning hours, promoting wakefulness. This pattern repeats predictably each day in properly aligned individuals.</p><h2>Circadian Misalignment and Health Effects</h2><p>Working night shifts or frequent travel across time zones causes circadian misalignment--your internal clock is out of sync with environmental time. This causes difficulty sleeping at desired times, daytime sleepiness, impaired cognitive function, and mood disturbance. Chronic circadian misalignment increases risk of metabolic disorders, cardiovascular disease, cancer, and psychiatric conditions.</p><h2>Optimizing Circadian Rhythm</h2><p>Consistent sleep-wake schedule (same times daily, even weekends) entrains the rhythm. Morning bright light exposure (outdoor or light therapy if dark mornings) sets the rhythm early. Avoiding bright light in evening hours--particularly blue light from screens--prevents rhythm shifts. Exercise in morning or afternoon promotes sleep; late exercise can delay sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Morning light exposure and dawn simulation optimizing rhythm" style="max-width:100%; border-radius:8px;" /></div><p>Respecting and optimizing your natural circadian rhythm improves sleep quality and daily function dramatically.</p>`
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2241" alt="Circadian rhythm timing" style="max-width:100%; border-radius:8px;" /></div><p>Your body operates on a roughly 24-hour internal clock called the circadian rhythm. This biological timing system regulates sleep-wake cycles, hormone release, body temperature, and numerous physiological processes. Aligning daily activities with your circadian rhythm optimizes sleep quality and overall health.</p><h2>What Controls the Circadian Rhythm?</h2><p>The suprachiasmatic nucleus (SCN) in the brain's hypothalamus serves as the master clock, receiving direct input from the eyes about light exposure. Light, particularly blue light, signals daytime activity and suppresses melatonin (sleep hormone). Darkness signals nighttime and triggers melatonin production. This light-based system has evolved over millions of years to align our physiology with Earth's day-night cycles. Secondary zeitgebers (time cues) including temperature, meal timing, social interaction, and exercise also influence the rhythm but are less powerful than light.</p><h2>Typical Circadian Cycle</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2242" alt="24-hour circadian rhythm timing cycles and phases" style="max-width:100%; border-radius:8px;" /></div><p>Most humans have a natural rhythm slightly longer than 24 hours--about 24.1 to 24.3 hours. Light exposure each morning resets and entrains this rhythm to exactly 24 hours. Melatonin begins rising around 8-9 PM in most people, promoting sleepiness. Body temperature drops through the night, reaching minimum around 4 AM. Cortisol rises in early morning hours, promoting wakefulness. This pattern repeats predictably each day in properly aligned individuals.</p><h2>Circadian Misalignment and Health Effects</h2><p>Working night shifts or frequent travel across time zones causes circadian misalignment--your internal clock is out of sync with environmental time. This causes difficulty sleeping at desired times, daytime sleepiness, impaired cognitive function, and mood disturbance. Chronic circadian misalignment increases risk of metabolic disorders, cardiovascular disease, cancer, and psychiatric conditions.</p><h2>Optimizing Circadian Rhythm</h2><p>Consistent sleep-wake schedule (same times daily, even weekends) entrains the rhythm. Morning bright light exposure (outdoor or light therapy if dark mornings) sets the rhythm early. Avoiding bright light in evening hours--particularly blue light from screens--prevents rhythm shifts. Exercise in morning or afternoon promotes sleep; late exercise can delay sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2243" alt="Morning light exposure and dawn simulation optimizing rhythm" style="max-width:100%; border-radius:8px;" /></div><p>Respecting and optimizing your natural circadian rhythm improves sleep quality and daily function dramatically.</p>`
   },
   {
     id: "sleep-and-health",
@@ -19536,7 +19536,7 @@ Understanding and preventing the Koebner phenomenon reduces psoriasis burden and
     categorySlug: "sleep",
     description: "Exploring connections between sleep and prevention of chronic diseases.",
     author: "SixHealth Team",
-    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep health and disease prevention" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is one of the most powerful health interventions available, comparable to diet and exercise in disease prevention. Adequate quality sleep reduces risk of numerous chronic conditions while poor sleep accelerates disease development.</p><h2>Cardiovascular Disease Prevention</h2><p>Sleep deprivation increases blood pressure, blood clotting tendency, arterial inflammation, and atherosclerosis progression. People sleeping less than 7 hours have significantly elevated heart attack and stroke risk. Sleep apnea--periodic breathing interruptions during sleep--causes repeated blood pressure spikes, arterial damage, and arrhythmias. Treating sleep apnea reduces heart disease risk.</p><h2>Type 2 Diabetes Prevention</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1551821440-e61b0aa8299c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Blood glucose monitoring and diabetes prevention" style="max-width:100%; border-radius:8px;" /></div><p>Poor sleep impairs insulin sensitivity and glucose control. Sleep deprivation increases diabetes risk 30-50% independent of weight gain. The effect occurs through multiple pathways: increased cortisol raises blood sugar, reduced physical activity reduces glucose utilization, poor food choices with fatigue increase calorie intake.</p><h2>Weight Management and Metabolic Health</h2><p>Inadequate sleep is a strong obesity risk factor acting through multiple mechanisms. Poor sleep alters appetite hormones, increases hunger and food cravings, particularly for high-calorie processed foods. Fatigue reduces motivation for exercise and physical activity. Achieving consistent adequate sleep is often more effective for weight loss than exercise or diet alone without addressing sleep.</p><h2>Cancer Risk Reduction</h2><p>Sleep deprivation increases cancer risk through multiple pathways: reduced immune surveillance allowing cancer cell growth, circadian misalignment affecting tumor suppression pathways, increased inflammation promoting malignancy. Some evidence suggests 7-9 hours nightly is optimal cancer-protective range.</p><h2>Cognitive Decline and Dementia Prevention</h2><p>Sleep plays critical roles in dementia prevention through multiple mechanisms: amyloid-beta clearance accelerates during sleep, tau protein clearance removes another dementia-linked protein, neuroinflammation reduces during sleep. People with chronic sleep insufficiency show cognitive decline and increased dementia risk.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Brain health and cognitive longevity through sleep" style="max-width:100%; border-radius:8px;" /></div><p>Prioritizing sleep may be the single most impactful health intervention available for disease prevention and longevity.</p>`
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2244" alt="Sleep health and disease prevention" style="max-width:100%; border-radius:8px;" /></div><p>Sleep is one of the most powerful health interventions available, comparable to diet and exercise in disease prevention. Adequate quality sleep reduces risk of numerous chronic conditions while poor sleep accelerates disease development.</p><h2>Cardiovascular Disease Prevention</h2><p>Sleep deprivation increases blood pressure, blood clotting tendency, arterial inflammation, and atherosclerosis progression. People sleeping less than 7 hours have significantly elevated heart attack and stroke risk. Sleep apnea--periodic breathing interruptions during sleep--causes repeated blood pressure spikes, arterial damage, and arrhythmias. Treating sleep apnea reduces heart disease risk.</p><h2>Type 2 Diabetes Prevention</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2245" alt="Blood glucose monitoring and diabetes prevention" style="max-width:100%; border-radius:8px;" /></div><p>Poor sleep impairs insulin sensitivity and glucose control. Sleep deprivation increases diabetes risk 30-50% independent of weight gain. The effect occurs through multiple pathways: increased cortisol raises blood sugar, reduced physical activity reduces glucose utilization, poor food choices with fatigue increase calorie intake.</p><h2>Weight Management and Metabolic Health</h2><p>Inadequate sleep is a strong obesity risk factor acting through multiple mechanisms. Poor sleep alters appetite hormones, increases hunger and food cravings, particularly for high-calorie processed foods. Fatigue reduces motivation for exercise and physical activity. Achieving consistent adequate sleep is often more effective for weight loss than exercise or diet alone without addressing sleep.</p><h2>Cancer Risk Reduction</h2><p>Sleep deprivation increases cancer risk through multiple pathways: reduced immune surveillance allowing cancer cell growth, circadian misalignment affecting tumor suppression pathways, increased inflammation promoting malignancy. Some evidence suggests 7-9 hours nightly is optimal cancer-protective range.</p><h2>Cognitive Decline and Dementia Prevention</h2><p>Sleep plays critical roles in dementia prevention through multiple mechanisms: amyloid-beta clearance accelerates during sleep, tau protein clearance removes another dementia-linked protein, neuroinflammation reduces during sleep. People with chronic sleep insufficiency show cognitive decline and increased dementia risk.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2246" alt="Brain health and cognitive longevity through sleep" style="max-width:100%; border-radius:8px;" /></div><p>Prioritizing sleep may be the single most impactful health intervention available for disease prevention and longevity.</p>`
   },
   {
     id: "sleep-across-lifespan",
@@ -19546,47 +19546,47 @@ Understanding and preventing the Koebner phenomenon reduces psoriasis burden and
     categorySlug: "sleep",
     description: "How sleep needs and quality change throughout different life stages.",
     author: "SixHealth Team",
-    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505628346881-b72b27e84530?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep through life stages" style="max-width:100%; border-radius:8px;" /></div><p>Sleep needs and characteristics change dramatically across the lifespan. Understanding age-specific sleep patterns and common challenges at each stage helps optimize sleep quality throughout life.</p><h2>Infants and Newborns (0-12 months)</h2><p>Newborns sleep 16-20 hours daily in fragmented 2-4 hour blocks around the clock. Circadian rhythm development occurs gradually over first 3-6 months as light exposure and feeding patterns establish day-night differentiation. By 6 months, most infants consolidate sleep to nighttime with 2-3 daytime naps. Sudden Infant Death Syndrome (SIDS) risk is highest 2-4 months; back sleeping and avoiding oversized bedding reduces risk.</p><h2>Toddlers and Preschoolers (1-5 years)</h2><p>Sleep needs gradually decrease from 14 hours (toddlers) to 11 hours (preschoolers). Overnight sleep consolidates to 10-12 hours with 1-2 daytime naps decreasing to none by age 4-5. Sleep terrors, sleepwalking, and nightmares common in this age, usually self-limiting. Behavioral sleep problems emerge--resistance to bedtime, frequent night waking. Consistent bedtime routines and limits setting become increasingly important.</p><h2>School-Age Children (6-12 years)</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1503803548695-659e2b13cf59?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Children school-age sleep and academic performance" style="max-width:100%; border-radius:8px;" /></div><p>Sleep requirements decline slightly to 9-12 hours nightly. Most no longer nap. Sleep terrors decrease while nightmares may continue. Social pressures, school stress, and extracurricular activities can reduce sleep. Electronic device access increases, often interfering with sleep--limiting bedroom screens improves sleep. ADHD and learning disorders often have underrecognized sleep components--addressing sleep symptoms improves daytime function.</p><h2>Adolescents and Teenagers (13-18 years)</h2><p>Recommended sleep 8-10 hours but most adolescents sleep 6-7 hours. Physiological circadian phase delay shifts sleep preference 1-3 hours later--teens naturally want to sleep and wake later. Early school start times conflict with this biological shift, causing chronic sleep debt with significant impacts on mood, behavior, and academic performance. This is optimal intervention period for sleep education.</p><h2>Young and Middle-Aged Adults (18-50 years)</h2><p>Optimal 7-9 hours nightly supports long-term health. Many report decreased sleep priority due to work and family demands. Sleep disorders increase--insomnia and sleep apnea begin appearing. This is critical period for preventing downstream disease through sleep optimization.</p><h2>Older Adults (50+ years)</h2><p>Sleep needs remain 7-8 hours but quality decreases. Deep sleep decreases by up to 50% compared to younger adults. More frequent night wakings and earlier morning awakening common. Sleep disorders emerge--sleep apnea, restless legs, REM behavior disorder increase. While reduced deep sleep is normal, chronic insomnia and daytime sleepiness are not normal and warrant evaluation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Aging and sleep quality changes across lifespan" style="max-width:100%; border-radius:8px;" /></div><p>Understanding stage-specific sleep needs and challenges enables proactive optimization throughout the lifespan.</p>`
+    content: `<div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2247" alt="Sleep through life stages" style="max-width:100%; border-radius:8px;" /></div><p>Sleep needs and characteristics change dramatically across the lifespan. Understanding age-specific sleep patterns and common challenges at each stage helps optimize sleep quality throughout life.</p><h2>Infants and Newborns (0-12 months)</h2><p>Newborns sleep 16-20 hours daily in fragmented 2-4 hour blocks around the clock. Circadian rhythm development occurs gradually over first 3-6 months as light exposure and feeding patterns establish day-night differentiation. By 6 months, most infants consolidate sleep to nighttime with 2-3 daytime naps. Sudden Infant Death Syndrome (SIDS) risk is highest 2-4 months; back sleeping and avoiding oversized bedding reduces risk.</p><h2>Toddlers and Preschoolers (1-5 years)</h2><p>Sleep needs gradually decrease from 14 hours (toddlers) to 11 hours (preschoolers). Overnight sleep consolidates to 10-12 hours with 1-2 daytime naps decreasing to none by age 4-5. Sleep terrors, sleepwalking, and nightmares common in this age, usually self-limiting. Behavioral sleep problems emerge--resistance to bedtime, frequent night waking. Consistent bedtime routines and limits setting become increasingly important.</p><h2>School-Age Children (6-12 years)</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2248" alt="Children school-age sleep and academic performance" style="max-width:100%; border-radius:8px;" /></div><p>Sleep requirements decline slightly to 9-12 hours nightly. Most no longer nap. Sleep terrors decrease while nightmares may continue. Social pressures, school stress, and extracurricular activities can reduce sleep. Electronic device access increases, often interfering with sleep--limiting bedroom screens improves sleep. ADHD and learning disorders often have underrecognized sleep components--addressing sleep symptoms improves daytime function.</p><h2>Adolescents and Teenagers (13-18 years)</h2><p>Recommended sleep 8-10 hours but most adolescents sleep 6-7 hours. Physiological circadian phase delay shifts sleep preference 1-3 hours later--teens naturally want to sleep and wake later. Early school start times conflict with this biological shift, causing chronic sleep debt with significant impacts on mood, behavior, and academic performance. This is optimal intervention period for sleep education.</p><h2>Young and Middle-Aged Adults (18-50 years)</h2><p>Optimal 7-9 hours nightly supports long-term health. Many report decreased sleep priority due to work and family demands. Sleep disorders increase--insomnia and sleep apnea begin appearing. This is critical period for preventing downstream disease through sleep optimization.</p><h2>Older Adults (50+ years)</h2><p>Sleep needs remain 7-8 hours but quality decreases. Deep sleep decreases by up to 50% compared to younger adults. More frequent night wakings and earlier morning awakening common. Sleep disorders emerge--sleep apnea, restless legs, REM behavior disorder increase. While reduced deep sleep is normal, chronic insomnia and daytime sleepiness are not normal and warrant evaluation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2249" alt="Aging and sleep quality changes across lifespan" style="max-width:100%; border-radius:8px;" /></div><p>Understanding stage-specific sleep needs and challenges enables proactive optimization throughout the lifespan.</p>`
   },
 
   // Sleep Disorders (5 articles)
-  { id: "insomnia", slug: "insomnia", title: "Insomnia: Causes, Symptoms, and Treatment", category: "Sleep", categorySlug: "sleep", description: "Comprehensive guide to insomnia causes and evidence-based treatments.", author: "SixHealth Team", content: `<h2>What Is Insomnia?</h2><p>Insomnia is persistent difficulty falling asleep, staying asleep, or waking too early despite adequate opportunity for sleep. Affecting 30-50% of adults, insomnia significantly impacts daytime functioning and quality of life. Insomnia is not a disease--it is a symptom that can be primary (idiopathic insomnia) or secondary to another condition.</p><h2>Causes of Insomnia</h2><p>Psychological factors are leading causes: anxiety, depression, stress, and worry activate the nervous system and interfere with sleep. Medical conditions including chronic pain, acid reflux, respiratory disease, and urinary problems disrupt sleep. Medications including stimulants, some antidepressants, and decongestants can cause insomnia. Lifestyle factors including caffeine use, alcohol, irregular sleep schedules, and excessive screen time worsen insomnia. Sleep apnea and other sleep disorders often coexist with insomnia.</p><h2>Types of Insomnia</h2><p>Sleep onset insomnia involves difficulty falling asleep despite sleepiness. Sleep maintenance insomnia involves frequent awakenings or difficulty returning to sleep after waking. Terminal insomnia involves waking 2 or more hours earlier than desired. Acute insomnia lasts less than 3 months and often follows stressful events. Chronic insomnia persists 3 or more months, disrupting functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1513384309470-d7000ce8aadb?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleepless struggle and nighttime insomnia challenges" style="max-width:100%; border-radius:8px;" /></div><h2>Evidence-Based Treatments</h2><p>Cognitive behavioral therapy for insomnia (CBT-I) is first-line treatment with 70-80% effectiveness. Sleep restriction temporarily reduces time in bed, increasing sleep efficiency. Stimulus control associates bed with sleep through specific behavioral rules. Relaxation training reduces physical tension and mental activity. Medications including sedative-hypnotics help some but carry dependence risk and should complement behavioral interventions.</p><h2>When to Seek Help</h2><p>Consult a sleep specialist if insomnia persists despite sleep hygiene efforts, occurs 3+ nights weekly, or significantly impacts functioning. Sleep studies can identify underlying sleep disorders requiring specific treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Restful sleep and insomnia recovery" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-apnea", slug: "sleep-apnea", title: "Sleep Apnea: Breathing Interruptions and Treatment", category: "Sleep", categorySlug: "sleep", description: "Understanding obstructive and central sleep apnea with treatment options.", author: "SixHealth Team", content: `<h2>What Is Sleep Apnea?</h2><p>Sleep apnea involves repeated breathing stops during sleep lasting 10 seconds or longer. Affecting 15-30% of adults, sleep apnea disrupts sleep quality and strains the cardiovascular system. Each breathing interruption causes blood oxygen to drop, triggering arousal. Recurrent arousals fragment sleep preventing restorative stages.</p><h2>Types of Sleep Apnea</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1599057696665-cd4628902daa?auto=format&fit=crop&w=900&fm=webp&q=70" alt="CPAP therapy mask and sleep apnea treatment" style="max-width:100%; border-radius:8px;" /></div><p>Obstructive sleep apnea (OSA) occurs when throat muscles relax excessively, blocking the airway despite breathing effort. Contributing factors include obesity, large neck circumference, relaxation of throat muscles, and anatomical narrowing. Central sleep apnea (CSA) occurs when the brain fails to signal breathing muscles. Less common, CSA often relates to heart disease, stroke, or medication. Mixed apnea combines obstructive and central components.</p><h2>Signs and Symptoms</h2><p>Loud snoring, gasping for air during sleep, witnessed breathing pauses, excessive daytime sleepiness, morning headaches, and difficulty concentrating are common symptoms. Many people remain undiagnosed because they don't experience subjective sleep disruption but bed partners report symptoms.</p><h2>Health Consequences</h2><p>Recurrent oxygen drops strain the cardiovascular system. Sleep apnea increases blood pressure, atrial fibrillation risk, heart attack, and stroke. Untreated severe apnea increases mortality significantly. Morning hypoxia impairs cognitive function and increases accident risk.</p><h2>Diagnosis and Treatment</h2><p>Sleep studies confirm diagnosis through monitoring oxygen levels, breathing patterns, and arousals. Continuous positive airway pressure (CPAP) machines deliver air pressure preventing airway collapse. Oral appliances adjust jaw position. Weight loss, positional therapy, and surgery offer additional options. Treating OSA reduces cardiovascular risk substantially.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep study results and diagnostic findings" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "restless-leg-syndrome", slug: "restless-leg-syndrome", title: "Restless Leg Syndrome: Causes and Management", category: "Sleep", categorySlug: "sleep", description: "Understanding RLS symptoms and evidence-based treatment strategies.", author: "SixHealth Team", content: `<h2>What Is Restless Leg Syndrome?</h2><p>Restless leg syndrome (RLS) is a neurological condition causing uncomfortable sensations in the legs and irresistible urge to move them. Affecting 5-10% of adults with higher prevalence in older individuals, RLS significantly disrupts sleep and quality of life. The urge to move legs is relieved temporarily by movement but returns with rest.</p><h2>Symptoms and Characteristics</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019613914-85f342c55f4c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active leg movement and restless leg discomfort" style="max-width:100%; border-radius:8px;" /></div><p>RLS causes sensations described as creeping, tingling, itching, or burning in legs, typically below the knees. Symptoms worsen in evening and when resting. Movement provides temporary relief causing repetitive leg movements and sleep disruption. RLS often co-occurs with periodic limb movements during sleep (PLMS) where legs kick involuntarily during sleep.</p><h2>Causes</h2><p>Primary RLS (idiopathic) involves genetic predisposition affecting dopamine regulation. Family history present in 50% of cases. Secondary RLS relates to iron deficiency, kidney disease, pregnancy, medications including some antidepressants and antihistamines, and caffeine excess. Identifying underlying causes enables targeted treatment.</p><h2>Treatment Approaches</h2><p>Dopamine agonists including pramipexole and ropinirole are first-line medications. Iron supplementation helps if iron deficient. Lifestyle modifications including regular exercise, stretching, reducing caffeine, and warm baths provide symptomatic relief. Compression stockings, leg massages, and avoiding alcohol help some individuals.</p><h2>When to Seek Evaluation</h2><p>Consult a sleep specialist if RLS significantly disrupts sleep, worsens quality of life, or doesn't respond to lifestyle measures. Proper diagnosis and treatment dramatically improves sleep and daytime function.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Active recovery and exercise for restless legs" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "narcolepsy", slug: "narcolepsy", title: "Narcolepsy: Excessive Daytime Sleepiness and Cataplexy", category: "Sleep", categorySlug: "sleep", description: "Understanding narcolepsy symptoms and treatment approaches.", author: "SixHealth Team", content: `<h2>What Is Narcolepsy?</h2><p>Narcolepsy is a chronic neurological condition characterized by excessive daytime sleepiness and often including sudden loss of muscle tone (cataplexy). Affecting 1 in 2000 people, narcolepsy results from impaired brain production of hypocretin (orexin), a neurochemical regulating wakefulness. The condition typically begins in adolescence or early adulthood.</p><h2>Types and Symptoms</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1520975922215-230c4c7c1a5c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Fatigue and overwhelming daytime sleepiness" style="max-width:100%; border-radius:8px;" /></div><p>Type 1 narcolepsy includes cataplexy--sudden loss of voluntary muscle control triggered by emotion (laughter, surprise, anger). Cataplexy ranges from facial drooping to complete body collapse. Type 2 narcolepsy lacks cataplexy. Both types involve overwhelming daytime sleepiness, sleep attacks, and fragmented nighttime sleep. Sleep paralysis (temporary inability to move while falling asleep or waking) and hypnagogic hallucinations (vivid dreams while transitioning between sleep and wake) commonly occur.</p><h2>Daytime Impairment</h2><p>Excessive sleepiness causes uncontrollable sleep episodes at inappropriate times--during conversations, while driving, or during important events. Cataplexy causes sudden falls risking serious injury. These symptoms significantly impair work, school, relationships, and safety. Many remain undiagnosed for years, with symptoms misattributed to laziness or depression.</p><h2>Diagnosis</h2><p>Sleep studies with multiple sleep latency test (MSLT) measure how quickly sleep onset occurs during daytime naps. Cerebrospinal fluid hypocretin levels confirm Type 1 narcolepsy. Early diagnosis enables treatment before symptoms cause major life disruption.</p><h2>Treatment</h2><p>Stimulant medications including methylphenidate and modafinil improve daytime wakefulness. Sodium oxybate (GHB) reduces cataplexy and improves nighttime sleep. Antidepressants help cataplexy and other symptoms. Strategic napping and sleep hygiene complement medications. While not curable, proper treatment substantially improves quality of life enabling educational and professional achievement.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Narcolepsy treatment and recovery" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "delayed-sleep-phase", slug: "delayed-sleep-phase", title: "Delayed Sleep Phase Syndrome: Circadian Rhythm Disorder", category: "Sleep", categorySlug: "sleep", description: "Understanding delayed sleep phase syndrome and chronotherapy approaches.", author: "SixHealth Team", content: `<h2>What Is Delayed Sleep Phase Syndrome?</h2><p>Delayed sleep phase syndrome (DSPS) is a circadian rhythm disorder where the sleep-wake cycle is delayed 2+ hours beyond desired. People with DSPS cannot fall asleep before 2-6 AM and cannot wake before 10 AM-noon despite effort, causing conflict with social and occupational demands. Affecting 1-3% of population with higher prevalence in adolescents and young adults, DSPS is highly treatable.</p><h2>Causes and Risk Factors</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Circadian rhythm disruption and delayed sleep phase" style="max-width:100%; border-radius:8px;" /></div><p>DSPS involves an underlying circadian period longer than 24 hours combined with reduced light sensitivity. Genetic predisposition is significant. Excessive late-night light exposure, particularly from screens, delays the rhythm further. Sleep extension encouraging later wake times worsens the condition. DSPS creates genuine circadian misalignment--it's not laziness or insomnia.</p><h2>Consequences</h2><p>DSPS causes chronic sleep deprivation from misalignment with school/work schedules. Missed early meetings, poor early-morning cognitive function, and daytime sleepiness result. Academic and occupational performance suffer. Social isolation occurs from inability to participate in normal social timing.</p><h2>Diagnostic Confirmation</h2><p>Actigraph monitoring (wristwatch-like device recording activity patterns) over 2+ weeks shows delayed sleep timing. Sleep logs documenting sleep times when free of constraints reveal the true delayed rhythm. Standardized questionnaires help identify DSPS.</p><h2>Treatment: Chronotherapy</h2><p>Bright light therapy in early morning (6-8 AM) resets the rhythm earlier. Evening light avoidance prevents further delays. Melatonin taken 4-6 hours before desired sleep time resets the rhythm earlier. Gradual sleep time advancement (moving bedtime 15 minutes earlier every 3-5 days) adjusts rhythm. Sleep schedule consistency is essential. While challenging, combined approaches successfully delay sleep phase 1-3 hours enabling normal functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Morning light therapy and circadian adjustment" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "insomnia", slug: "insomnia", title: "Insomnia: Causes, Symptoms, and Treatment", category: "Sleep", categorySlug: "sleep", description: "Comprehensive guide to insomnia causes and evidence-based treatments.", author: "SixHealth Team", content: `<h2>What Is Insomnia?</h2><p>Insomnia is persistent difficulty falling asleep, staying asleep, or waking too early despite adequate opportunity for sleep. Affecting 30-50% of adults, insomnia significantly impacts daytime functioning and quality of life. Insomnia is not a disease--it is a symptom that can be primary (idiopathic insomnia) or secondary to another condition.</p><h2>Causes of Insomnia</h2><p>Psychological factors are leading causes: anxiety, depression, stress, and worry activate the nervous system and interfere with sleep. Medical conditions including chronic pain, acid reflux, respiratory disease, and urinary problems disrupt sleep. Medications including stimulants, some antidepressants, and decongestants can cause insomnia. Lifestyle factors including caffeine use, alcohol, irregular sleep schedules, and excessive screen time worsen insomnia. Sleep apnea and other sleep disorders often coexist with insomnia.</p><h2>Types of Insomnia</h2><p>Sleep onset insomnia involves difficulty falling asleep despite sleepiness. Sleep maintenance insomnia involves frequent awakenings or difficulty returning to sleep after waking. Terminal insomnia involves waking 2 or more hours earlier than desired. Acute insomnia lasts less than 3 months and often follows stressful events. Chronic insomnia persists 3 or more months, disrupting functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2250" alt="Sleepless struggle and nighttime insomnia challenges" style="max-width:100%; border-radius:8px;" /></div><h2>Evidence-Based Treatments</h2><p>Cognitive behavioral therapy for insomnia (CBT-I) is first-line treatment with 70-80% effectiveness. Sleep restriction temporarily reduces time in bed, increasing sleep efficiency. Stimulus control associates bed with sleep through specific behavioral rules. Relaxation training reduces physical tension and mental activity. Medications including sedative-hypnotics help some but carry dependence risk and should complement behavioral interventions.</p><h2>When to Seek Help</h2><p>Consult a sleep specialist if insomnia persists despite sleep hygiene efforts, occurs 3+ nights weekly, or significantly impacts functioning. Sleep studies can identify underlying sleep disorders requiring specific treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2251" alt="Restful sleep and insomnia recovery" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-apnea", slug: "sleep-apnea", title: "Sleep Apnea: Breathing Interruptions and Treatment", category: "Sleep", categorySlug: "sleep", description: "Understanding obstructive and central sleep apnea with treatment options.", author: "SixHealth Team", content: `<h2>What Is Sleep Apnea?</h2><p>Sleep apnea involves repeated breathing stops during sleep lasting 10 seconds or longer. Affecting 15-30% of adults, sleep apnea disrupts sleep quality and strains the cardiovascular system. Each breathing interruption causes blood oxygen to drop, triggering arousal. Recurrent arousals fragment sleep preventing restorative stages.</p><h2>Types of Sleep Apnea</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2252" alt="CPAP therapy mask and sleep apnea treatment" style="max-width:100%; border-radius:8px;" /></div><p>Obstructive sleep apnea (OSA) occurs when throat muscles relax excessively, blocking the airway despite breathing effort. Contributing factors include obesity, large neck circumference, relaxation of throat muscles, and anatomical narrowing. Central sleep apnea (CSA) occurs when the brain fails to signal breathing muscles. Less common, CSA often relates to heart disease, stroke, or medication. Mixed apnea combines obstructive and central components.</p><h2>Signs and Symptoms</h2><p>Loud snoring, gasping for air during sleep, witnessed breathing pauses, excessive daytime sleepiness, morning headaches, and difficulty concentrating are common symptoms. Many people remain undiagnosed because they don't experience subjective sleep disruption but bed partners report symptoms.</p><h2>Health Consequences</h2><p>Recurrent oxygen drops strain the cardiovascular system. Sleep apnea increases blood pressure, atrial fibrillation risk, heart attack, and stroke. Untreated severe apnea increases mortality significantly. Morning hypoxia impairs cognitive function and increases accident risk.</p><h2>Diagnosis and Treatment</h2><p>Sleep studies confirm diagnosis through monitoring oxygen levels, breathing patterns, and arousals. Continuous positive airway pressure (CPAP) machines deliver air pressure preventing airway collapse. Oral appliances adjust jaw position. Weight loss, positional therapy, and surgery offer additional options. Treating OSA reduces cardiovascular risk substantially.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2253" alt="Sleep study results and diagnostic findings" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "restless-leg-syndrome", slug: "restless-leg-syndrome", title: "Restless Leg Syndrome: Causes and Management", category: "Sleep", categorySlug: "sleep", description: "Understanding RLS symptoms and evidence-based treatment strategies.", author: "SixHealth Team", content: `<h2>What Is Restless Leg Syndrome?</h2><p>Restless leg syndrome (RLS) is a neurological condition causing uncomfortable sensations in the legs and irresistible urge to move them. Affecting 5-10% of adults with higher prevalence in older individuals, RLS significantly disrupts sleep and quality of life. The urge to move legs is relieved temporarily by movement but returns with rest.</p><h2>Symptoms and Characteristics</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2254" alt="Active leg movement and restless leg discomfort" style="max-width:100%; border-radius:8px;" /></div><p>RLS causes sensations described as creeping, tingling, itching, or burning in legs, typically below the knees. Symptoms worsen in evening and when resting. Movement provides temporary relief causing repetitive leg movements and sleep disruption. RLS often co-occurs with periodic limb movements during sleep (PLMS) where legs kick involuntarily during sleep.</p><h2>Causes</h2><p>Primary RLS (idiopathic) involves genetic predisposition affecting dopamine regulation. Family history present in 50% of cases. Secondary RLS relates to iron deficiency, kidney disease, pregnancy, medications including some antidepressants and antihistamines, and caffeine excess. Identifying underlying causes enables targeted treatment.</p><h2>Treatment Approaches</h2><p>Dopamine agonists including pramipexole and ropinirole are first-line medications. Iron supplementation helps if iron deficient. Lifestyle modifications including regular exercise, stretching, reducing caffeine, and warm baths provide symptomatic relief. Compression stockings, leg massages, and avoiding alcohol help some individuals.</p><h2>When to Seek Evaluation</h2><p>Consult a sleep specialist if RLS significantly disrupts sleep, worsens quality of life, or doesn't respond to lifestyle measures. Proper diagnosis and treatment dramatically improves sleep and daytime function.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2255" alt="Active recovery and exercise for restless legs" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "narcolepsy", slug: "narcolepsy", title: "Narcolepsy: Excessive Daytime Sleepiness and Cataplexy", category: "Sleep", categorySlug: "sleep", description: "Understanding narcolepsy symptoms and treatment approaches.", author: "SixHealth Team", content: `<h2>What Is Narcolepsy?</h2><p>Narcolepsy is a chronic neurological condition characterized by excessive daytime sleepiness and often including sudden loss of muscle tone (cataplexy). Affecting 1 in 2000 people, narcolepsy results from impaired brain production of hypocretin (orexin), a neurochemical regulating wakefulness. The condition typically begins in adolescence or early adulthood.</p><h2>Types and Symptoms</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2256" alt="Fatigue and overwhelming daytime sleepiness" style="max-width:100%; border-radius:8px;" /></div><p>Type 1 narcolepsy includes cataplexy--sudden loss of voluntary muscle control triggered by emotion (laughter, surprise, anger). Cataplexy ranges from facial drooping to complete body collapse. Type 2 narcolepsy lacks cataplexy. Both types involve overwhelming daytime sleepiness, sleep attacks, and fragmented nighttime sleep. Sleep paralysis (temporary inability to move while falling asleep or waking) and hypnagogic hallucinations (vivid dreams while transitioning between sleep and wake) commonly occur.</p><h2>Daytime Impairment</h2><p>Excessive sleepiness causes uncontrollable sleep episodes at inappropriate times--during conversations, while driving, or during important events. Cataplexy causes sudden falls risking serious injury. These symptoms significantly impair work, school, relationships, and safety. Many remain undiagnosed for years, with symptoms misattributed to laziness or depression.</p><h2>Diagnosis</h2><p>Sleep studies with multiple sleep latency test (MSLT) measure how quickly sleep onset occurs during daytime naps. Cerebrospinal fluid hypocretin levels confirm Type 1 narcolepsy. Early diagnosis enables treatment before symptoms cause major life disruption.</p><h2>Treatment</h2><p>Stimulant medications including methylphenidate and modafinil improve daytime wakefulness. Sodium oxybate (GHB) reduces cataplexy and improves nighttime sleep. Antidepressants help cataplexy and other symptoms. Strategic napping and sleep hygiene complement medications. While not curable, proper treatment substantially improves quality of life enabling educational and professional achievement.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2257" alt="Narcolepsy treatment and recovery" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "delayed-sleep-phase", slug: "delayed-sleep-phase", title: "Delayed Sleep Phase Syndrome: Circadian Rhythm Disorder", category: "Sleep", categorySlug: "sleep", description: "Understanding delayed sleep phase syndrome and chronotherapy approaches.", author: "SixHealth Team", content: `<h2>What Is Delayed Sleep Phase Syndrome?</h2><p>Delayed sleep phase syndrome (DSPS) is a circadian rhythm disorder where the sleep-wake cycle is delayed 2+ hours beyond desired. People with DSPS cannot fall asleep before 2-6 AM and cannot wake before 10 AM-noon despite effort, causing conflict with social and occupational demands. Affecting 1-3% of population with higher prevalence in adolescents and young adults, DSPS is highly treatable.</p><h2>Causes and Risk Factors</h2><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2258" alt="Circadian rhythm disruption and delayed sleep phase" style="max-width:100%; border-radius:8px;" /></div><p>DSPS involves an underlying circadian period longer than 24 hours combined with reduced light sensitivity. Genetic predisposition is significant. Excessive late-night light exposure, particularly from screens, delays the rhythm further. Sleep extension encouraging later wake times worsens the condition. DSPS creates genuine circadian misalignment--it's not laziness or insomnia.</p><h2>Consequences</h2><p>DSPS causes chronic sleep deprivation from misalignment with school/work schedules. Missed early meetings, poor early-morning cognitive function, and daytime sleepiness result. Academic and occupational performance suffer. Social isolation occurs from inability to participate in normal social timing.</p><h2>Diagnostic Confirmation</h2><p>Actigraph monitoring (wristwatch-like device recording activity patterns) over 2+ weeks shows delayed sleep timing. Sleep logs documenting sleep times when free of constraints reveal the true delayed rhythm. Standardized questionnaires help identify DSPS.</p><h2>Treatment: Chronotherapy</h2><p>Bright light therapy in early morning (6-8 AM) resets the rhythm earlier. Evening light avoidance prevents further delays. Melatonin taken 4-6 hours before desired sleep time resets the rhythm earlier. Gradual sleep time advancement (moving bedtime 15 minutes earlier every 3-5 days) adjusts rhythm. Sleep schedule consistency is essential. While challenging, combined approaches successfully delay sleep phase 1-3 hours enabling normal functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2259" alt="Morning light therapy and circadian adjustment" style="max-width:100%; border-radius:8px;" /></div>` },
 
   // Symptoms & Warning Signs (6 articles)
-  { id: "daytime-sleepiness", slug: "daytime-sleepiness", title: "Excessive Daytime Sleepiness: Causes and Management", category: "Sleep", categorySlug: "sleep", description: "Understanding excessive daytime sleepiness and identifying underlying causes.", author: "SixHealth Team", content: `<h2>What Is Excessive Daytime Sleepiness?</h2><p>Excessive daytime sleepiness (EDS) is overwhelming difficulty staying awake and alert during the day, occurring despite adequate nighttime sleep duration. Affecting 10-20% of adults, EDS significantly impairs workplace safety, relationships, and quality of life. EDS is not simply being tired--it's an inability to maintain alertness and fight sleep attack.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Daytime exhaustion and overwhelming fatigue" style="max-width:100%; border-radius:8px;" /></div><h2>Causes of Daytime Sleepiness</h2><p>Sleep deprivation is the most common cause. Adults requiring 8-9 hours but averaging 6-7 hours accumulate sleep debt rapidly affecting daytime function. Sleep disorders including sleep apnea, narcolepsy, and restless legs disrupt nighttime sleep quality causing daytime consequences. Medical conditions including thyroid disease, anemia, diabetes, and autoimmune conditions cause sleepiness. Medications including antihistamines, some pain medications, and sedatives cause daytime effects. Circadian misalignment from shift work or jet lag disrupts daytime alertness.</p><h2>Specific Warning Signs</h2><p>Uncontrollable sleep episodes during day (sleep attacks), difficulty concentrating even on engaging tasks, impaired memory and learning, irritability and mood changes, microsleeps (brief 1-10 second sleep episodes), and impaired reaction time are concerning signs. Falling asleep during conversations, important meetings, or while driving threatens safety.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Impaired focus and daytime sleepiness effects" style="max-width:100%; border-radius:8px;" /></div><h2>When to Seek Evaluation</h2><p>Any persistent daytime sleepiness despite seemingly adequate sleep warrants evaluation. Sleep studies can diagnose sleep disorders. Medical evaluation identifies contributing conditions and medications.</p><h2>Management</h2><p>First address sleep adequacy and consistency. Evaluate for sleep disorders requiring specific treatment. Optimize sleep environment and hygiene. Strategic napping (20-30 minutes early afternoon) can boost alertness. Caffeine is effective but not ideal long-term solution. When underlying causes treated, daytime sleepiness typically resolves substantially.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Improved daytime alertness and wakefulness" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "insomnia-symptoms", slug: "insomnia-symptoms", title: "Insomnia Symptoms: Identifying Nighttime Sleep Problems", category: "Sleep", categorySlug: "sleep", description: "Understanding the spectrum of insomnia symptoms and warning signs.", author: "SixHealth Team", content: `<h2>Insomnia Spectrum</h2><p>Insomnia manifests along a spectrum from occasional difficulty to severe chronic sleep loss. Occasional insomnia (a few nights after stress) is normal. Recurring insomnia (several nights weekly) warrants attention. Chronic insomnia (3+ nights weekly for 3+ months) significantly affects functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1539814163228-cc544f2fe84b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep distress and insomnia anxiety" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Onset Difficulty</h2><p>Lying in bed unable to fall asleep after 20-30 minutes despite sleepiness is sleep onset insomnia. Mind races with thoughts and worries. Progressive tension develops from frustration at inability to sleep. Racing thoughts often include worry about sleep loss itself--anxiety about insomnia perpetuates the problem.</p><h2>Sleep Maintenance Problems</h2><p>Frequent nighttime awakenings (3+ times nightly) or waking for extended periods (20+ minutes) prevent restorative sleep. Some awaken after 2-3 hours and cannot return to sleep for hours. Fragmentary sleep despite adequate time in bed leaves people feeling unrefreshed.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Nighttime sleep disruption and awakenings" style="max-width:100%; border-radius:8px;" /></div><h2>Early Morning Awakening</h2><p>Waking 2+ hours earlier than desired (4-5 AM instead of 7 AM) despite no external stimulus is terminal insomnia. Often associated with depression and anxiety, terminal insomnia often resistant to sleep medications.</p><h2>Daytime Consequences</h2><p>Daytime fatigue despite 7+ hours in bed, difficulty concentrating, mood irritability, impaired work performance, relationship tension, and increased anxiety or worry are common daytime symptoms. Over time, poor sleep impacts overall health increasing disease risk.</p><h2>When Insomnia Is a Concern</h2><p>Occasional difficulty sleeping is normal and usually self-limited. Seek professional evaluation when insomnia occurs 3+ nights weekly, persists despite sleep hygiene efforts, or impairs daytime functioning. Early intervention prevents chronic insomnia development.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1560807707-e5b570494d24?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Insomnia resolution and sleep recovery" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-apnea-signs", slug: "sleep-apnea-signs", title: "Sleep Apnea Signs and Symptoms to Watch For", category: "Sleep", categorySlug: "sleep", description: "Recognizing signs and symptoms of obstructive and central sleep apnea.", author: "SixHealth Team", content: `<h2>Nighttime Symptoms</h2><p>Loud snoring is often the first noticed symptom. Witnessed breathing pauses--when breathing stops visibly and audibly for 10-30+ seconds followed by gasping or snorting--are diagnostic clues. Gasping, choking, or snorting awake signals oxygen drops. Restless sleep, tossing and turning, and frequent position changes reflect repeated arousals.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1549887534-f2cb8ff16145?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Breathing difficulty and sleep apnea signs" style="max-width:100%; border-radius:8px;" /></div><h2>Daytime Symptoms</h2><p>Excessive daytime sleepiness despite seemingly adequate sleep is cardinal symptom. Morning headaches occur from overnight oxygen drops and carbon dioxide retention. Waking unrefreshed despite 7-8 hours bed time suggests poor sleep quality. Difficulty concentrating, memory problems, or "brain fog" result from fragmented sleep and oxygen fluctuations. Mood irritability, depression, or anxiety reflect sleep disruption effects. Sexual dysfunction includes reduced libido and erectile dysfunction from chronic hypoxia effects.</p><h2>Physical Signs</h2><p>Morning dry mouth or sore throat from mouth breathing during arousals. Repeated throat clearing or coughing after sleep. Observed gasping or choking during sleep by bed partner. Witnessed complete breathing stops.</p><h2>Risk Factors Increasing Suspicion</h2><p>Obesity with large neck circumference (17+ inches in men, 16+ in women) increases OSA risk significantly. Hypertension present in 50% of OSA cases. Male gender carries higher risk especially ages 40-60. Smoking and alcohol use relax throat muscles worsening apnea. Hypothyroidism contributes. Anatomical features including narrowed airway, large tonsils, or deviated septum predispose.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1559757175-0eb1f29086b2?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep apnea risk factors and diagnosis" style="max-width:100%; border-radius:8px;" /></div><h2>When to Get Evaluated</h2><p>Any combination of snoring, breathing pauses, and daytime sleepiness warrants sleep study evaluation. Earlier diagnosis enables earlier treatment preventing cardiovascular damage and improving daytime function significantly.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep apnea evaluation and treatment" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "mood-behavior-changes", slug: "mood-behavior-changes", title: "Sleep Loss Effects on Mood and Behavior", category: "Sleep", categorySlug: "sleep", description: "Understanding how poor sleep affects emotional regulation and behavior.", author: "SixHealth Team", content: `<h2>Sleep Deprivation and Emotion</h2><p>Sleep and mood are intimately connected through multiple brain pathways. Even one night of poor sleep increases emotional reactivity and irritability. The amygdala--brain's emotional center--becomes overactive and disconnected from rational prefrontal cortex control during sleep deprivation. This amplifies emotional response to minor stressors.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1479033369192-db3f98f35cec?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emotional struggle and sleep deprivation" style="max-width:100%; border-radius:8px;" /></div><h2>Acute Sleep Deprivation Effects</h2><p>After one poor night's sleep: irritability increases significantly, patience decreases, minor annoyances trigger disproportionate frustration, anxiety increases, and emotional control weakens. Crying more easily occurs. Conflict resolution ability decreases. Motivation and drive decline.</p><h2>Chronic Sleep Deprivation Effects</h2><p>Over weeks and months of inadequate sleep: depression symptoms develop or worsen including persistent sad mood, loss of interest, and hopelessness. Anxiety increases with persistent worry and tension. Emotional numbness or flatness can develop. Impulsivity increases affecting decisions and behavior. Aggression or irritability becomes more pronounced. Relationships suffer from emotional volatility.</p><h2>Mental Health Connections</h2><p>Bidirectional relationship exists: sleep deprivation worsens depression and anxiety, while depression and anxiety impair sleep creating cycles of worsening both. Major depression involves sleep architecture disruption and circadian rhythm abnormalities. PTSD sufferers have hyperactive amygdala and fragmented sleep from nightmares. Treating sleep often substantially improves mood and anxiety even without psychiatric medications.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Behavioral changes and mood recovery" style="max-width:100%; border-radius:8px;" /></div><h2>Behavioral Changes</h2><p>Risk-taking behavior increases with sleep deprivation. Social withdrawal occurs. Appetite and eating patterns change. Substance use increases. Academic and work performance decline affecting self-esteem and mood further.</p><h2>Recovery</h2><p>Most emotional effects reverse within 1-3 nights of adequate sleep, though full recovery of mood and wellbeing requires consistent adequate sleep. This emphasizes sleep's essential role in mental health maintenance.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Emotional restoration and wellness recovery" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "cognitive-impairment", slug: "cognitive-impairment", title: "Cognitive Impairment from Sleep Disorders", category: "Sleep", categorySlug: "sleep", description: "Understanding sleep loss effects on memory, attention, and cognitive function.", author: "SixHealth Team", content: `<h2>Sleep and Memory Consolidation</h2><p>Sleep plays critical role in converting short-term working memories into long-term storage. REM sleep strengthens emotional memories. Non-REM sleep consolidates factual, procedural, and spatial memories. Without adequate sleep, encoding of new information suffers dramatically. Study material without proper sleep retention is impaired by 40% or more compared to equivalent material followed by sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Memory difficulty and cognitive impairment" style="max-width:100%; border-radius:8px;" /></div><h2>Attention and Concentration</h2><p>Sleep deprivation severely impairs sustained attention and concentration. The prefrontal cortex--critical for executive function--becomes hypoactive. Tasks requiring sustained focus become markedly difficult. Mistakes and errors increase. People often underestimate impairment thinking they're functioning normally when actually significantly impaired.</p><h2>Processing Speed and Reaction Time</h2><p>Cognitive and motor reaction time slows meaningfully with sleep loss. Decision-making suffers. Complex problem-solving ability decreases. The effect accumulates with chronic sleep loss exceeding acute effects.</p><h2>Working Memory and Executive Function</h2><p>Ability to hold multiple pieces of information and manipulate them mentally decreases. Planning, task switching, and organization suffer. Multitasking ability decreases significantly. Impulse control and judgment impair affecting decision quality.</p><h2>Long-Term Effects</h2><p>Weeks to months of inadequate sleep increase dementia risk. Chronic sleep deprivation fails to clear amyloid-beta and tau proteins from brain, allowing accumulation linked to Alzheimer's disease progression. Neuroinflammation increases chronic sleep loss accelerating neurodegeneration.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Brain fog and cognitive decline" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Disorder Impact</h2><p>Sleep disorders like sleep apnea with recurrent oxygen drops directly damage hippocampus and prefrontal cortex affecting memory and executive function. Fragmented sleep from any cause impairs consolidation. Treating underlying sleep disorders often dramatically improves cognitive function.</p><h2>Recovery</h2><p>Single night of adequate sleep partially reverses acute effects but full recovery requires consistent sleep. Some animal studies suggest permanent cognitive damage from prolonged sleep deprivation emphasizing importance of preventing chronic insufficiency.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cognitive restoration and mental clarity" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "physical-health-impacts", slug: "physical-health-impacts", title: "Physical Health Impacts of Poor Sleep", category: "Sleep", categorySlug: "sleep", description: "Understanding how sleep deprivation affects physical health and disease risk.", author: "SixHealth Team", content: `<h2>Immune System Suppression</h2><p>Sleep deprivation impairs immune function significantly. White blood cell and antibody production decreases. Inflammation markers increase. Vaccine effectiveness decreases. Infection and illness risk increases 2-3 fold with chronic sleep loss. Recovery from illness slows dramatically without adequate sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Physical health consequences of poor sleep" style="max-width:100%; border-radius:8px;" /></div><h2>Metabolic and Weight Effects</h2><p>Sleep deprivation disrupts glucose regulation increasing diabetes risk. Appetite hormones ghrelin and leptin become dysregulated increasing hunger 25-30%. Food cravings particularly for carbohydrates and high-calorie foods increase. Overeating results. Conversely, calorie expenditure may decrease. Weight gain occurs from combined effects. Weight loss becomes more difficult without adequate sleep.</p><h2>Cardiovascular Stress</h2><p>Sleep deprivation increases blood pressure and heart rate continuously. Stiffer arteries develop. Inflammation increases. Blood clotting tendency increases. Heart attack and stroke risk increase substantially, particularly with sleep apnea. Circadian-disrupted shift workers show accelerated atherosclerosis.</p><h2>Hormonal Disruption</h2><p>Cortisol (stress hormone) remains elevated with chronic sleep deprivation. Thyroid function impairs. Sexual hormones including testosterone decrease. Growth hormone decreases reducing recovery. These hormonal changes contribute to increased disease risk and accelerated aging.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516438773951-0205fb841497?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Health markers and physical wellbeing" style="max-width:100%; border-radius:8px;" /></div><h2>Pain Sensitivity</h2><p>Pain perception increases with sleep deprivation. Chronic pain conditions worsen. Pain thresholds decrease. This creates concerning cycle where pain impairs sleep and poor sleep worsens pain.</p><h2>Inflammation and Aging</h2><p>Chronic sleep loss increases systemic inflammation accelerating aging. Telomere shortening (cellular aging marker) accelerates. Biological age markers worsen. Over years this cumulative inflammatory burden drives chronic disease development.</p><h2>Gastrointestinal Effects</h2><p>Sleep deprivation impairs gut barrier function and microbiome balance. Inflammation increases. Irritable bowel symptoms worsen. Constipation or diarrhea may develop.</p><h2>Long-Term Disease Risk</h2><p>Chronic sleep insufficiency increases risk of all chronic diseases: cardiovascular disease, type 2 diabetes, obesity, autoimmune disease, cancer, and Alzheimer's disease. The magnitude of effect rivals or exceeds effects of smoking, sedentary lifestyle, and certain diets.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Health improvement through sleep optimization" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "daytime-sleepiness", slug: "daytime-sleepiness", title: "Excessive Daytime Sleepiness: Causes and Management", category: "Sleep", categorySlug: "sleep", description: "Understanding excessive daytime sleepiness and identifying underlying causes.", author: "SixHealth Team", content: `<h2>What Is Excessive Daytime Sleepiness?</h2><p>Excessive daytime sleepiness (EDS) is overwhelming difficulty staying awake and alert during the day, occurring despite adequate nighttime sleep duration. Affecting 10-20% of adults, EDS significantly impairs workplace safety, relationships, and quality of life. EDS is not simply being tired--it's an inability to maintain alertness and fight sleep attack.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2260" alt="Daytime exhaustion and overwhelming fatigue" style="max-width:100%; border-radius:8px;" /></div><h2>Causes of Daytime Sleepiness</h2><p>Sleep deprivation is the most common cause. Adults requiring 8-9 hours but averaging 6-7 hours accumulate sleep debt rapidly affecting daytime function. Sleep disorders including sleep apnea, narcolepsy, and restless legs disrupt nighttime sleep quality causing daytime consequences. Medical conditions including thyroid disease, anemia, diabetes, and autoimmune conditions cause sleepiness. Medications including antihistamines, some pain medications, and sedatives cause daytime effects. Circadian misalignment from shift work or jet lag disrupts daytime alertness.</p><h2>Specific Warning Signs</h2><p>Uncontrollable sleep episodes during day (sleep attacks), difficulty concentrating even on engaging tasks, impaired memory and learning, irritability and mood changes, microsleeps (brief 1-10 second sleep episodes), and impaired reaction time are concerning signs. Falling asleep during conversations, important meetings, or while driving threatens safety.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2261" alt="Impaired focus and daytime sleepiness effects" style="max-width:100%; border-radius:8px;" /></div><h2>When to Seek Evaluation</h2><p>Any persistent daytime sleepiness despite seemingly adequate sleep warrants evaluation. Sleep studies can diagnose sleep disorders. Medical evaluation identifies contributing conditions and medications.</p><h2>Management</h2><p>First address sleep adequacy and consistency. Evaluate for sleep disorders requiring specific treatment. Optimize sleep environment and hygiene. Strategic napping (20-30 minutes early afternoon) can boost alertness. Caffeine is effective but not ideal long-term solution. When underlying causes treated, daytime sleepiness typically resolves substantially.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2262" alt="Improved daytime alertness and wakefulness" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "insomnia-symptoms", slug: "insomnia-symptoms", title: "Insomnia Symptoms: Identifying Nighttime Sleep Problems", category: "Sleep", categorySlug: "sleep", description: "Understanding the spectrum of insomnia symptoms and warning signs.", author: "SixHealth Team", content: `<h2>Insomnia Spectrum</h2><p>Insomnia manifests along a spectrum from occasional difficulty to severe chronic sleep loss. Occasional insomnia (a few nights after stress) is normal. Recurring insomnia (several nights weekly) warrants attention. Chronic insomnia (3+ nights weekly for 3+ months) significantly affects functioning.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2263" alt="Sleep distress and insomnia anxiety" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Onset Difficulty</h2><p>Lying in bed unable to fall asleep after 20-30 minutes despite sleepiness is sleep onset insomnia. Mind races with thoughts and worries. Progressive tension develops from frustration at inability to sleep. Racing thoughts often include worry about sleep loss itself--anxiety about insomnia perpetuates the problem.</p><h2>Sleep Maintenance Problems</h2><p>Frequent nighttime awakenings (3+ times nightly) or waking for extended periods (20+ minutes) prevent restorative sleep. Some awaken after 2-3 hours and cannot return to sleep for hours. Fragmentary sleep despite adequate time in bed leaves people feeling unrefreshed.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2264" alt="Nighttime sleep disruption and awakenings" style="max-width:100%; border-radius:8px;" /></div><h2>Early Morning Awakening</h2><p>Waking 2+ hours earlier than desired (4-5 AM instead of 7 AM) despite no external stimulus is terminal insomnia. Often associated with depression and anxiety, terminal insomnia often resistant to sleep medications.</p><h2>Daytime Consequences</h2><p>Daytime fatigue despite 7+ hours in bed, difficulty concentrating, mood irritability, impaired work performance, relationship tension, and increased anxiety or worry are common daytime symptoms. Over time, poor sleep impacts overall health increasing disease risk.</p><h2>When Insomnia Is a Concern</h2><p>Occasional difficulty sleeping is normal and usually self-limited. Seek professional evaluation when insomnia occurs 3+ nights weekly, persists despite sleep hygiene efforts, or impairs daytime functioning. Early intervention prevents chronic insomnia development.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2265" alt="Insomnia resolution and sleep recovery" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-apnea-signs", slug: "sleep-apnea-signs", title: "Sleep Apnea Signs and Symptoms to Watch For", category: "Sleep", categorySlug: "sleep", description: "Recognizing signs and symptoms of obstructive and central sleep apnea.", author: "SixHealth Team", content: `<h2>Nighttime Symptoms</h2><p>Loud snoring is often the first noticed symptom. Witnessed breathing pauses--when breathing stops visibly and audibly for 10-30+ seconds followed by gasping or snorting--are diagnostic clues. Gasping, choking, or snorting awake signals oxygen drops. Restless sleep, tossing and turning, and frequent position changes reflect repeated arousals.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2266" alt="Breathing difficulty and sleep apnea signs" style="max-width:100%; border-radius:8px;" /></div><h2>Daytime Symptoms</h2><p>Excessive daytime sleepiness despite seemingly adequate sleep is cardinal symptom. Morning headaches occur from overnight oxygen drops and carbon dioxide retention. Waking unrefreshed despite 7-8 hours bed time suggests poor sleep quality. Difficulty concentrating, memory problems, or "brain fog" result from fragmented sleep and oxygen fluctuations. Mood irritability, depression, or anxiety reflect sleep disruption effects. Sexual dysfunction includes reduced libido and erectile dysfunction from chronic hypoxia effects.</p><h2>Physical Signs</h2><p>Morning dry mouth or sore throat from mouth breathing during arousals. Repeated throat clearing or coughing after sleep. Observed gasping or choking during sleep by bed partner. Witnessed complete breathing stops.</p><h2>Risk Factors Increasing Suspicion</h2><p>Obesity with large neck circumference (17+ inches in men, 16+ in women) increases OSA risk significantly. Hypertension present in 50% of OSA cases. Male gender carries higher risk especially ages 40-60. Smoking and alcohol use relax throat muscles worsening apnea. Hypothyroidism contributes. Anatomical features including narrowed airway, large tonsils, or deviated septum predispose.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2267" alt="Sleep apnea risk factors and diagnosis" style="max-width:100%; border-radius:8px;" /></div><h2>When to Get Evaluated</h2><p>Any combination of snoring, breathing pauses, and daytime sleepiness warrants sleep study evaluation. Earlier diagnosis enables earlier treatment preventing cardiovascular damage and improving daytime function significantly.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2268" alt="Sleep apnea evaluation and treatment" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "mood-behavior-changes", slug: "mood-behavior-changes", title: "Sleep Loss Effects on Mood and Behavior", category: "Sleep", categorySlug: "sleep", description: "Understanding how poor sleep affects emotional regulation and behavior.", author: "SixHealth Team", content: `<h2>Sleep Deprivation and Emotion</h2><p>Sleep and mood are intimately connected through multiple brain pathways. Even one night of poor sleep increases emotional reactivity and irritability. The amygdala--brain's emotional center--becomes overactive and disconnected from rational prefrontal cortex control during sleep deprivation. This amplifies emotional response to minor stressors.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2269" alt="Emotional struggle and sleep deprivation" style="max-width:100%; border-radius:8px;" /></div><h2>Acute Sleep Deprivation Effects</h2><p>After one poor night's sleep: irritability increases significantly, patience decreases, minor annoyances trigger disproportionate frustration, anxiety increases, and emotional control weakens. Crying more easily occurs. Conflict resolution ability decreases. Motivation and drive decline.</p><h2>Chronic Sleep Deprivation Effects</h2><p>Over weeks and months of inadequate sleep: depression symptoms develop or worsen including persistent sad mood, loss of interest, and hopelessness. Anxiety increases with persistent worry and tension. Emotional numbness or flatness can develop. Impulsivity increases affecting decisions and behavior. Aggression or irritability becomes more pronounced. Relationships suffer from emotional volatility.</p><h2>Mental Health Connections</h2><p>Bidirectional relationship exists: sleep deprivation worsens depression and anxiety, while depression and anxiety impair sleep creating cycles of worsening both. Major depression involves sleep architecture disruption and circadian rhythm abnormalities. PTSD sufferers have hyperactive amygdala and fragmented sleep from nightmares. Treating sleep often substantially improves mood and anxiety even without psychiatric medications.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2270" alt="Behavioral changes and mood recovery" style="max-width:100%; border-radius:8px;" /></div><h2>Behavioral Changes</h2><p>Risk-taking behavior increases with sleep deprivation. Social withdrawal occurs. Appetite and eating patterns change. Substance use increases. Academic and work performance decline affecting self-esteem and mood further.</p><h2>Recovery</h2><p>Most emotional effects reverse within 1-3 nights of adequate sleep, though full recovery of mood and wellbeing requires consistent adequate sleep. This emphasizes sleep's essential role in mental health maintenance.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2271" alt="Emotional restoration and wellness recovery" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "cognitive-impairment", slug: "cognitive-impairment", title: "Cognitive Impairment from Sleep Disorders", category: "Sleep", categorySlug: "sleep", description: "Understanding sleep loss effects on memory, attention, and cognitive function.", author: "SixHealth Team", content: `<h2>Sleep and Memory Consolidation</h2><p>Sleep plays critical role in converting short-term working memories into long-term storage. REM sleep strengthens emotional memories. Non-REM sleep consolidates factual, procedural, and spatial memories. Without adequate sleep, encoding of new information suffers dramatically. Study material without proper sleep retention is impaired by 40% or more compared to equivalent material followed by sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2272" alt="Memory difficulty and cognitive impairment" style="max-width:100%; border-radius:8px;" /></div><h2>Attention and Concentration</h2><p>Sleep deprivation severely impairs sustained attention and concentration. The prefrontal cortex--critical for executive function--becomes hypoactive. Tasks requiring sustained focus become markedly difficult. Mistakes and errors increase. People often underestimate impairment thinking they're functioning normally when actually significantly impaired.</p><h2>Processing Speed and Reaction Time</h2><p>Cognitive and motor reaction time slows meaningfully with sleep loss. Decision-making suffers. Complex problem-solving ability decreases. The effect accumulates with chronic sleep loss exceeding acute effects.</p><h2>Working Memory and Executive Function</h2><p>Ability to hold multiple pieces of information and manipulate them mentally decreases. Planning, task switching, and organization suffer. Multitasking ability decreases significantly. Impulse control and judgment impair affecting decision quality.</p><h2>Long-Term Effects</h2><p>Weeks to months of inadequate sleep increase dementia risk. Chronic sleep deprivation fails to clear amyloid-beta and tau proteins from brain, allowing accumulation linked to Alzheimer's disease progression. Neuroinflammation increases chronic sleep loss accelerating neurodegeneration.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2273" alt="Brain fog and cognitive decline" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Disorder Impact</h2><p>Sleep disorders like sleep apnea with recurrent oxygen drops directly damage hippocampus and prefrontal cortex affecting memory and executive function. Fragmented sleep from any cause impairs consolidation. Treating underlying sleep disorders often dramatically improves cognitive function.</p><h2>Recovery</h2><p>Single night of adequate sleep partially reverses acute effects but full recovery requires consistent sleep. Some animal studies suggest permanent cognitive damage from prolonged sleep deprivation emphasizing importance of preventing chronic insufficiency.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2274" alt="Cognitive restoration and mental clarity" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "physical-health-impacts", slug: "physical-health-impacts", title: "Physical Health Impacts of Poor Sleep", category: "Sleep", categorySlug: "sleep", description: "Understanding how sleep deprivation affects physical health and disease risk.", author: "SixHealth Team", content: `<h2>Immune System Suppression</h2><p>Sleep deprivation impairs immune function significantly. White blood cell and antibody production decreases. Inflammation markers increase. Vaccine effectiveness decreases. Infection and illness risk increases 2-3 fold with chronic sleep loss. Recovery from illness slows dramatically without adequate sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2275" alt="Physical health consequences of poor sleep" style="max-width:100%; border-radius:8px;" /></div><h2>Metabolic and Weight Effects</h2><p>Sleep deprivation disrupts glucose regulation increasing diabetes risk. Appetite hormones ghrelin and leptin become dysregulated increasing hunger 25-30%. Food cravings particularly for carbohydrates and high-calorie foods increase. Overeating results. Conversely, calorie expenditure may decrease. Weight gain occurs from combined effects. Weight loss becomes more difficult without adequate sleep.</p><h2>Cardiovascular Stress</h2><p>Sleep deprivation increases blood pressure and heart rate continuously. Stiffer arteries develop. Inflammation increases. Blood clotting tendency increases. Heart attack and stroke risk increase substantially, particularly with sleep apnea. Circadian-disrupted shift workers show accelerated atherosclerosis.</p><h2>Hormonal Disruption</h2><p>Cortisol (stress hormone) remains elevated with chronic sleep deprivation. Thyroid function impairs. Sexual hormones including testosterone decrease. Growth hormone decreases reducing recovery. These hormonal changes contribute to increased disease risk and accelerated aging.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2276" alt="Health markers and physical wellbeing" style="max-width:100%; border-radius:8px;" /></div><h2>Pain Sensitivity</h2><p>Pain perception increases with sleep deprivation. Chronic pain conditions worsen. Pain thresholds decrease. This creates concerning cycle where pain impairs sleep and poor sleep worsens pain.</p><h2>Inflammation and Aging</h2><p>Chronic sleep loss increases systemic inflammation accelerating aging. Telomere shortening (cellular aging marker) accelerates. Biological age markers worsen. Over years this cumulative inflammatory burden drives chronic disease development.</p><h2>Gastrointestinal Effects</h2><p>Sleep deprivation impairs gut barrier function and microbiome balance. Inflammation increases. Irritable bowel symptoms worsen. Constipation or diarrhea may develop.</p><h2>Long-Term Disease Risk</h2><p>Chronic sleep insufficiency increases risk of all chronic diseases: cardiovascular disease, type 2 diabetes, obesity, autoimmune disease, cancer, and Alzheimer's disease. The magnitude of effect rivals or exceeds effects of smoking, sedentary lifestyle, and certain diets.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2277" alt="Health improvement through sleep optimization" style="max-width:100%; border-radius:8px;" /></div>` },
 
   // Diagnosis & Evaluation (5 articles)
-  { id: "polysomnography", slug: "polysomnography", title: "Polysomnography: The Gold Standard Sleep Study", category: "Sleep", categorySlug: "sleep", description: "Understanding polysomnography testing and what to expect during a sleep study.", author: "SixHealth Team", content: `<h2>What Is Polysomnography?</h2><p>Polysomnography (PSG) is a comprehensive overnight sleep study recording multiple physiological functions simultaneously. Considered gold standard for sleep disorder diagnosis, PSG measures brain electrical activity (EEG), eye movements (EOG), muscle activity (EMG), heart rhythm (ECG), breathing rate and patterns, oxygen saturation, airflow, and leg movements. This multi-parameter recording enables precise diagnosis of sleep disorders and severity assessment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep lab setup and polysomnography equipment" style="max-width:100%; border-radius:8px;" /></div><h2>What to Expect During Sleep Study</h2><p>Patients arrive 1-2 hours before normal bedtime at sleep center. Technician applies approximately 20-25 electrodes and sensors to head, face, chest, legs, and finger. Despite electrode coverage, most people acclimate and sleep adequately. Patients sleep in private, comfortable bedroom in their own clothing. Technician monitors from adjacent observation room. Emergency call button available. Study typically lasts 7-8 hours enabling 6 hours recording time.</p><h2>What PSG Measures</h2><p>Sleep stages (light sleep, deep sleep, REM) are identified from brain wave patterns. Total sleep time and sleep efficiency (percentage of bed time actually sleeping) calculated. Arousals (brief awakenings) counted. Apnea-hypopnea index (AHI) counts breathing events per hour indicating sleep apnea severity. Oxygen saturation monitoring shows minimum oxygen levels and time spent below 90%. Periodic limb movement index counts involuntary leg kicks. Heart rhythm abnormalities detected during sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep study monitoring equipment and analysis" style="max-width:100%; border-radius:8px;" /></div><h2>Interpreting Results</h2><p>Normal PSG shows 85-90% sleep efficiency, 5-15 arousals per hour, less than 5 apnea-hypopnea events per hour, and oxygen saturation above 90% throughout. Findings exceed normal values indicate specific disorders: elevated AHI indicates sleep apnea (mild 5-15/hr, moderate 15-30/hr, severe >30/hr), fragmented sleep with elevated arousals indicates insomnia or other disorders, prolonged time to first REM sleep may indicate depression, excessive deep sleep loss indicates various conditions.</p><h2>Home Sleep Testing Alternative</h2><p>For sleep apnea suspicion, portable sleep apnea tests record fewer parameters (respiratory effort, airflow, oxygen saturation, body position) but increase convenience and access. However, PSG remains gold standard for comprehensive diagnosis when multiple disorders suspected or results equivocal.</p><h2>Limitations</h2><p>First night effect where sleep differs from normal due to unfamiliar environment and electrode discomfort occurs in some patients. Despite limitations, PSG provides irreplaceable diagnostic information guiding treatment decisions.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep study interpretation and results" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "home-sleep-testing", slug: "home-sleep-testing", title: "Home Sleep Testing: Convenient Sleep Apnea Screening", category: "Sleep", categorySlug: "sleep", description: "Understanding portable sleep apnea testing in home environment.", author: "SixHealth Team", content: `<h2>What Is Home Sleep Testing?</h2><p>Home sleep apnea test (HSAT), also called portable sleep apnea test, enables sleep apnea screening in patient's home. Portable devices record breathing effort, airflow, oxygen saturation, and sometimes body position and heart rhythm. Testing occurs in natural sleep environment using patient's typical sleep schedule, potentially yielding more representative sleep than laboratory setting.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Portable home sleep testing device" style="max-width:100%; border-radius:8px;" /></div><h2>Types of Home Tests</h2><p>Type 2 devices are sophisticated portable systems resembling lab equipment but suitable for home use. Type 3 devices record fewer parameters (typically respiratory effort, airflow, oxygen saturation). Type 4 devices may record only oxygen saturation and heart rate providing limited data. More parameters generally yield more reliable diagnosis.</p><h2>When Home Testing Is Appropriate</h2><p>Home sleep testing is appropriate when sleep apnea pretest probability is intermediate-to-high based on symptoms and risk factors. Positive results reliably indicate sleep apnea. Negative results in low-to-moderate suspicion cases can rule out moderate-to-severe disease. However, home testing may miss mild apnea not detected by limited parameter recording.</p><h2>How Testing Works</h2><p>Device includes small nasal sensors detecting airflow, chest and abdominal bands detecting breathing effort, finger pulse oximeter detecting oxygen saturation. Equipment weighs 1-2 pounds. Technician instructs patient in application. Patient wears device one to three nights at home during normal sleep. Data automatically downloaded to sleep center for analysis by sleep specialist.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1599483881033-5bfff4ef49aa?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Home sleep test monitoring and data collection" style="max-width:100%; border-radius:8px;" /></div><h2>Advantages of Home Testing</h2><p>Patient sleeps in familiar environment potentially yielding more representative sleep. No travel to sleep center required increasing accessibility. Lower cost than laboratory testing. Same-night repeat testing possible if needed. Tests natural sleep schedule without forced napping.</p><h2>Limitations</h2><p>Limited sensor data may miss sleep stage information and parasomnias. Results may be uninterpretable if inadequate sleep or technical problems. Doesn't detect other sleep disorders. Positive results require confirmation with PSG in some cases.</p><h2>Interpreting Results</h2><p>Apnea-hypopnea index (AHI) follows same classification: normal <5/hour, mild 5-15/hour, moderate 15-30/hour, severe >30/hour. When apnea confirmed, treatment initiated based on severity and symptoms.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516438773951-0205fb841497?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Home sleep test results and analysis" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-diary", slug: "sleep-diary", title: "Sleep Diary: Tracking Sleep Patterns and Quality", category: "Sleep", categorySlug: "sleep", description: "Using sleep diaries to identify patterns and guide sleep improvement.", author: "SixHealth Team", content: `<h2>What Is a Sleep Diary?</h2><p>A sleep diary is simple daily log documenting sleep patterns and daytime symptoms. Kept for 1-4 weeks minimum, sleep diaries provide objective documentation of sleep patterns, variability, and relationships to daytime function, lifestyle factors, and treatment response. The act of tracking often improves awareness and motivation for change.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1507842217343-583e67e8ac36?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep diary journaling and tracking" style="max-width:100%; border-radius:8px;" /></div><h2>Information Recorded</h2><p>Typical sleep diary daily entries include: bedtime and wake time, time to fall asleep, number and duration of nighttime awakenings, estimated sleep quality (rated 1-10), daytime sleepiness rating, medication or caffeine times, exercise timing, and subjective comments. Some diaries include mood ratings, meal times, screen time, or alcohol use.</p><h2>Benefits of Sleep Diaries</h2><p>Sleep diaries reveal patterns not apparent from subjective memory. Some people overestimate sleep time while others underestimate. Diaries show sleep variability and relationships to specific daytime activities or lifestyle factors. Comparison of multiple weeks reveals whether sleep changing with treatment. Weekly sleep duration trends identify chronic insufficiency patterns. Diaries provide data for clinical consultation improving diagnosis and treatment planning.</p><h2>Common Findings</h2><p>Many people discover they're getting less sleep than realized. Diaries reveal weekend delay pattern (sleeping much later weekends than weekdays) indicating circadian misalignment. Relationship between caffeine/alcohol timing and sleep quality becomes apparent. Exercise timing effects become visible. Stress-related sleep disruption patterns identified.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516534775068-bb57fa6c1d35?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep pattern tracking and analysis" style="max-width:100%; border-radius:8px;" /></div><h2>How to Start</h2><p>Use printed sleep diary format provided by healthcare provider or online versions. Fill out morning after waking while memory is fresh. Include previous night's sleep and current morning. Be consistent for at least 2 weeks to identify patterns. Share diary with healthcare provider aiding diagnosis and treatment planning.</p><h2>Sleep Diary Uses in Diagnosis</h2><p>Sleep diaries help distinguish insomnia from other conditions. Consistent short sleep duration combined with difficulty adjusting schedule suggests delayed sleep phase. Highly variable sleep suggests poor habits or circadian misalignment. Day-to-day consistency despite good sleep hygiene suggests disorder requiring investigation. Diaries enable objective treatment monitoring showing whether interventions improving sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep diary review and interpretation" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "medical-history-assessment", slug: "medical-history-assessment", title: "Medical History and Sleep Disorder Evaluation", category: "Sleep", categorySlug: "sleep", description: "How medical history helps identify sleep disorders and underlying causes.", author: "SixHealth Team", content: `<h2>Information Collected in Sleep History</h2><p>Comprehensive sleep evaluation systematically addresses multiple domains. Main sleep complaints are detailed including specific symptoms, onset, and temporal pattern. Duration of problem revealed (acute onset vs gradual development). Current sleep schedule and variability documented. Daytime consequences including alertness, mood, cognitive function, work performance assessed. Bedroom and sleep environment reviewed. Medical conditions documented including pain disorders, respiratory disease, acid reflux, neurological conditions, and endocrine disorders--all affecting sleep. Surgical history including adenoidectomy or nasal surgery relevant to airway anatomy. Medication review identifies sleep-affecting drugs. Caffeine and alcohol use quantified. Nicotine use status recorded. Mental health history including depression, anxiety, PTSD identified. Family history of sleep disorders, depression, or sudden deaths during sleep noted. Occupational factors including shift work or work stress documented.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medical consultation and sleep evaluation" style="max-width:100%; border-radius:8px;" /></div><h2>Why Medical History Matters</h2><p>Medical history often reveals sleep disorder causes. Someone with bipolar disorder and insomnia warrant antimanic rather than sedative treatment. Chronic pain patient likely benefits from pain optimization over sleep medications. Acid reflux causing nighttime arousals requires reflux management. Thyroid disease must be corrected before judging CPAP therapy adequacy. History directly shapes treatment strategy.</p><h2>Sleep-Related Medical Conditions</h2><p>Heart failure increases sleep apnea risk. Stroke survivors often have sleep apnea contributing to poor recovery. COPD patients experience oxygen desaturation during sleep. Restless legs syndrome accompanies kidney disease, iron deficiency, and neuropathy. Depression fundamentally alters sleep architecture. Anxiety creates insomnia patterns. PTSD causes nightmares and fragmented sleep. Autoimmune diseases increase insomnia risk. Chronic pain disrupts sleep quality.</p><h2>Medications Affecting Sleep</h2><p>Stimulants including methylphenidate, modafinil, and some blood pressure medications cause insomnia. Anticholinergics worsen restless legs. Beta-blockers impair REM sleep. Selective serotonin reuptake inhibitors (SSRIs) can initially worsen insomnia or cause sleep-related side effects. Corticosteroids impair sleep. Antihistamines may improve sleep initially but tolerance develops. Certain antiseizure medications worsen sleep. Diuretics cause frequent urination disrupting sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Medication evaluation and assessment" style="max-width:100%; border-radius:8px;" /></div><h2>Lifestyle Assessment</h2><p>Sleep schedule regularity evaluated. Social jet lag (large differences between weekday and weekend sleep) identified. Screen use timing before bed noted. Exercise timing documented. Bedroom temperature, light, and noise assessed. Bed partner characteristics affecting shared sleep environment.</p><h2>Comprehensive Diagnosis</h2><p>Thorough history combined with sleep diary and objective testing (sleep study, actigraphy) enables accurate diagnosis. History identifies likely primary disorder from presenting symptoms and modifiable factors. This comprehensive approach prevents misdiagnosis and guides targeted, effective treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Diagnostic findings and sleep evaluation results" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-questionnaires", slug: "sleep-questionnaires", title: "Sleep Assessment Questionnaires and Screening Tools", category: "Sleep", categorySlug: "sleep", description: "Understanding standardized sleep questionnaires for diagnosis and monitoring.", author: "SixHealth Team", content: `<h2>Common Sleep Questionnaires</h2><p>Epworth Sleepiness Scale (ESS) quantifies daytime sleepiness severity asking about actual sleep probability in typical daytime situations. Score 0-24 with >10 indicating excessive daytime sleepiness. STOP-BANG questionnaire screens for sleep apnea risk using Snoring, Tiredness, Observed apneas, blood Pressure elevation, BMI, Age, Neck circumference, and Gender. Four or more risk factors warrant sleep study. Pittsburgh Sleep Quality Index (PSQI) comprehensively evaluates sleep quality over past month assessing sleep duration, latency, efficiency, disturbances, and daytime dysfunction. INSOMNIA Severity Index (ISI) specifically quantifies insomnia severity including difficulty falling asleep, staying asleep, and daytime impairment. Berlin Questionnaire screens for sleep apnea risk.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep assessment questionnaires and screening" style="max-width:100%; border-radius:8px;" /></div><h2>Purpose of Questionnaires</h2><p>Questionnaires efficiently quantify often-vague subjective symptoms into objective scores. Changes in scores track treatment response objectively. Pre-post treatment comparison shows whether intervention effective. Questionnaires identify individuals requiring further testing. Questionnaires enable rapid screening in large populations. Communication with healthcare providers improved through standardized terminology and severity scaling.</p><h2>Daytime Sleepiness Assessment</h2><p>Epworth scale asks about probability of dozing in 8 situations: sitting and reading, watching TV, sitting inactive in public, riding passenger 1+ hour without stopping, lying in afternoon when circumstances permit, sitting and talking to someone, sitting quietly after lunch without alcohol, stopped in traffic. Each rated 0-3 for doze likelihood. Total score over 10 indicates abnormal daytime sleepiness warranting investigation.</p><h2>Sleep Quality Assessment</h2><p>PSQI addresses seven components: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, daytime dysfunction. Global PSQI score >5 indicates poor sleep quality. Individual components identify specific problem areas guiding targeted interventions.</p><h2>Insomnia Severity</h2><p>ISI rates difficulty falling asleep, staying asleep, and early morning awakening (0-4 each=12 total), satisfaction with current sleep pattern (0-4), and how noticeable sleep problems affecting daily or social functioning (0-4). Total scores: 0-7 normal, 8-14 subthreshold, 15-21 moderate, 22-28 severe. Changes in ISI track CBT-I or other treatment effectiveness.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1507842217343-583e67e8ac36?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep severity screening and assessment tools" style="max-width:100%; border-radius:8px;" /></div><h2>Apnea Screening</h2><p>STOP-BANG scores 0-8 with: Snoring loudly (2 points if yes), Tiredness daytime (2 points if yes), Observed apneas (2 points if yes), blood Pressure high (1 point if yes), BMI >30 (1 point if yes), Age >50 (1 point if yes), Neck circumference large (1 point if yes), Gender male (1 point if yes). Score 3-4 warrants sleep study; >5 high apnea probability.</p><h2>Using Results</h2><p>Questionnaire results guide diagnosis when combined with clinical assessment. Serial questionnaires over time objectively measure treatment effectiveness beyond subjective perception. Questionnaires prevent underestimation or overestimation of symptom severity. Healthcare providers prefer objective scales to subjective descriptions enabling consistent communication.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516534775068-bb57fa6c1d35?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Questionnaire interpretation and results review" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "polysomnography", slug: "polysomnography", title: "Polysomnography: The Gold Standard Sleep Study", category: "Sleep", categorySlug: "sleep", description: "Understanding polysomnography testing and what to expect during a sleep study.", author: "SixHealth Team", content: `<h2>What Is Polysomnography?</h2><p>Polysomnography (PSG) is a comprehensive overnight sleep study recording multiple physiological functions simultaneously. Considered gold standard for sleep disorder diagnosis, PSG measures brain electrical activity (EEG), eye movements (EOG), muscle activity (EMG), heart rhythm (ECG), breathing rate and patterns, oxygen saturation, airflow, and leg movements. This multi-parameter recording enables precise diagnosis of sleep disorders and severity assessment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2278" alt="Sleep lab setup and polysomnography equipment" style="max-width:100%; border-radius:8px;" /></div><h2>What to Expect During Sleep Study</h2><p>Patients arrive 1-2 hours before normal bedtime at sleep center. Technician applies approximately 20-25 electrodes and sensors to head, face, chest, legs, and finger. Despite electrode coverage, most people acclimate and sleep adequately. Patients sleep in private, comfortable bedroom in their own clothing. Technician monitors from adjacent observation room. Emergency call button available. Study typically lasts 7-8 hours enabling 6 hours recording time.</p><h2>What PSG Measures</h2><p>Sleep stages (light sleep, deep sleep, REM) are identified from brain wave patterns. Total sleep time and sleep efficiency (percentage of bed time actually sleeping) calculated. Arousals (brief awakenings) counted. Apnea-hypopnea index (AHI) counts breathing events per hour indicating sleep apnea severity. Oxygen saturation monitoring shows minimum oxygen levels and time spent below 90%. Periodic limb movement index counts involuntary leg kicks. Heart rhythm abnormalities detected during sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2279" alt="Sleep study monitoring equipment and analysis" style="max-width:100%; border-radius:8px;" /></div><h2>Interpreting Results</h2><p>Normal PSG shows 85-90% sleep efficiency, 5-15 arousals per hour, less than 5 apnea-hypopnea events per hour, and oxygen saturation above 90% throughout. Findings exceed normal values indicate specific disorders: elevated AHI indicates sleep apnea (mild 5-15/hr, moderate 15-30/hr, severe >30/hr), fragmented sleep with elevated arousals indicates insomnia or other disorders, prolonged time to first REM sleep may indicate depression, excessive deep sleep loss indicates various conditions.</p><h2>Home Sleep Testing Alternative</h2><p>For sleep apnea suspicion, portable sleep apnea tests record fewer parameters (respiratory effort, airflow, oxygen saturation, body position) but increase convenience and access. However, PSG remains gold standard for comprehensive diagnosis when multiple disorders suspected or results equivocal.</p><h2>Limitations</h2><p>First night effect where sleep differs from normal due to unfamiliar environment and electrode discomfort occurs in some patients. Despite limitations, PSG provides irreplaceable diagnostic information guiding treatment decisions.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2280" alt="Sleep study interpretation and results" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "home-sleep-testing", slug: "home-sleep-testing", title: "Home Sleep Testing: Convenient Sleep Apnea Screening", category: "Sleep", categorySlug: "sleep", description: "Understanding portable sleep apnea testing in home environment.", author: "SixHealth Team", content: `<h2>What Is Home Sleep Testing?</h2><p>Home sleep apnea test (HSAT), also called portable sleep apnea test, enables sleep apnea screening in patient's home. Portable devices record breathing effort, airflow, oxygen saturation, and sometimes body position and heart rhythm. Testing occurs in natural sleep environment using patient's typical sleep schedule, potentially yielding more representative sleep than laboratory setting.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2281" alt="Portable home sleep testing device" style="max-width:100%; border-radius:8px;" /></div><h2>Types of Home Tests</h2><p>Type 2 devices are sophisticated portable systems resembling lab equipment but suitable for home use. Type 3 devices record fewer parameters (typically respiratory effort, airflow, oxygen saturation). Type 4 devices may record only oxygen saturation and heart rate providing limited data. More parameters generally yield more reliable diagnosis.</p><h2>When Home Testing Is Appropriate</h2><p>Home sleep testing is appropriate when sleep apnea pretest probability is intermediate-to-high based on symptoms and risk factors. Positive results reliably indicate sleep apnea. Negative results in low-to-moderate suspicion cases can rule out moderate-to-severe disease. However, home testing may miss mild apnea not detected by limited parameter recording.</p><h2>How Testing Works</h2><p>Device includes small nasal sensors detecting airflow, chest and abdominal bands detecting breathing effort, finger pulse oximeter detecting oxygen saturation. Equipment weighs 1-2 pounds. Technician instructs patient in application. Patient wears device one to three nights at home during normal sleep. Data automatically downloaded to sleep center for analysis by sleep specialist.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2282" alt="Home sleep test monitoring and data collection" style="max-width:100%; border-radius:8px;" /></div><h2>Advantages of Home Testing</h2><p>Patient sleeps in familiar environment potentially yielding more representative sleep. No travel to sleep center required increasing accessibility. Lower cost than laboratory testing. Same-night repeat testing possible if needed. Tests natural sleep schedule without forced napping.</p><h2>Limitations</h2><p>Limited sensor data may miss sleep stage information and parasomnias. Results may be uninterpretable if inadequate sleep or technical problems. Doesn't detect other sleep disorders. Positive results require confirmation with PSG in some cases.</p><h2>Interpreting Results</h2><p>Apnea-hypopnea index (AHI) follows same classification: normal <5/hour, mild 5-15/hour, moderate 15-30/hour, severe >30/hour. When apnea confirmed, treatment initiated based on severity and symptoms.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2283" alt="Home sleep test results and analysis" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-diary", slug: "sleep-diary", title: "Sleep Diary: Tracking Sleep Patterns and Quality", category: "Sleep", categorySlug: "sleep", description: "Using sleep diaries to identify patterns and guide sleep improvement.", author: "SixHealth Team", content: `<h2>What Is a Sleep Diary?</h2><p>A sleep diary is simple daily log documenting sleep patterns and daytime symptoms. Kept for 1-4 weeks minimum, sleep diaries provide objective documentation of sleep patterns, variability, and relationships to daytime function, lifestyle factors, and treatment response. The act of tracking often improves awareness and motivation for change.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2284" alt="Sleep diary journaling and tracking" style="max-width:100%; border-radius:8px;" /></div><h2>Information Recorded</h2><p>Typical sleep diary daily entries include: bedtime and wake time, time to fall asleep, number and duration of nighttime awakenings, estimated sleep quality (rated 1-10), daytime sleepiness rating, medication or caffeine times, exercise timing, and subjective comments. Some diaries include mood ratings, meal times, screen time, or alcohol use.</p><h2>Benefits of Sleep Diaries</h2><p>Sleep diaries reveal patterns not apparent from subjective memory. Some people overestimate sleep time while others underestimate. Diaries show sleep variability and relationships to specific daytime activities or lifestyle factors. Comparison of multiple weeks reveals whether sleep changing with treatment. Weekly sleep duration trends identify chronic insufficiency patterns. Diaries provide data for clinical consultation improving diagnosis and treatment planning.</p><h2>Common Findings</h2><p>Many people discover they're getting less sleep than realized. Diaries reveal weekend delay pattern (sleeping much later weekends than weekdays) indicating circadian misalignment. Relationship between caffeine/alcohol timing and sleep quality becomes apparent. Exercise timing effects become visible. Stress-related sleep disruption patterns identified.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2285" alt="Sleep pattern tracking and analysis" style="max-width:100%; border-radius:8px;" /></div><h2>How to Start</h2><p>Use printed sleep diary format provided by healthcare provider or online versions. Fill out morning after waking while memory is fresh. Include previous night's sleep and current morning. Be consistent for at least 2 weeks to identify patterns. Share diary with healthcare provider aiding diagnosis and treatment planning.</p><h2>Sleep Diary Uses in Diagnosis</h2><p>Sleep diaries help distinguish insomnia from other conditions. Consistent short sleep duration combined with difficulty adjusting schedule suggests delayed sleep phase. Highly variable sleep suggests poor habits or circadian misalignment. Day-to-day consistency despite good sleep hygiene suggests disorder requiring investigation. Diaries enable objective treatment monitoring showing whether interventions improving sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2286" alt="Sleep diary review and interpretation" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "medical-history-assessment", slug: "medical-history-assessment", title: "Medical History and Sleep Disorder Evaluation", category: "Sleep", categorySlug: "sleep", description: "How medical history helps identify sleep disorders and underlying causes.", author: "SixHealth Team", content: `<h2>Information Collected in Sleep History</h2><p>Comprehensive sleep evaluation systematically addresses multiple domains. Main sleep complaints are detailed including specific symptoms, onset, and temporal pattern. Duration of problem revealed (acute onset vs gradual development). Current sleep schedule and variability documented. Daytime consequences including alertness, mood, cognitive function, work performance assessed. Bedroom and sleep environment reviewed. Medical conditions documented including pain disorders, respiratory disease, acid reflux, neurological conditions, and endocrine disorders--all affecting sleep. Surgical history including adenoidectomy or nasal surgery relevant to airway anatomy. Medication review identifies sleep-affecting drugs. Caffeine and alcohol use quantified. Nicotine use status recorded. Mental health history including depression, anxiety, PTSD identified. Family history of sleep disorders, depression, or sudden deaths during sleep noted. Occupational factors including shift work or work stress documented.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2287" alt="Medical consultation and sleep evaluation" style="max-width:100%; border-radius:8px;" /></div><h2>Why Medical History Matters</h2><p>Medical history often reveals sleep disorder causes. Someone with bipolar disorder and insomnia warrant antimanic rather than sedative treatment. Chronic pain patient likely benefits from pain optimization over sleep medications. Acid reflux causing nighttime arousals requires reflux management. Thyroid disease must be corrected before judging CPAP therapy adequacy. History directly shapes treatment strategy.</p><h2>Sleep-Related Medical Conditions</h2><p>Heart failure increases sleep apnea risk. Stroke survivors often have sleep apnea contributing to poor recovery. COPD patients experience oxygen desaturation during sleep. Restless legs syndrome accompanies kidney disease, iron deficiency, and neuropathy. Depression fundamentally alters sleep architecture. Anxiety creates insomnia patterns. PTSD causes nightmares and fragmented sleep. Autoimmune diseases increase insomnia risk. Chronic pain disrupts sleep quality.</p><h2>Medications Affecting Sleep</h2><p>Stimulants including methylphenidate, modafinil, and some blood pressure medications cause insomnia. Anticholinergics worsen restless legs. Beta-blockers impair REM sleep. Selective serotonin reuptake inhibitors (SSRIs) can initially worsen insomnia or cause sleep-related side effects. Corticosteroids impair sleep. Antihistamines may improve sleep initially but tolerance develops. Certain antiseizure medications worsen sleep. Diuretics cause frequent urination disrupting sleep.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2288" alt="Medication evaluation and assessment" style="max-width:100%; border-radius:8px;" /></div><h2>Lifestyle Assessment</h2><p>Sleep schedule regularity evaluated. Social jet lag (large differences between weekday and weekend sleep) identified. Screen use timing before bed noted. Exercise timing documented. Bedroom temperature, light, and noise assessed. Bed partner characteristics affecting shared sleep environment.</p><h2>Comprehensive Diagnosis</h2><p>Thorough history combined with sleep diary and objective testing (sleep study, actigraphy) enables accurate diagnosis. History identifies likely primary disorder from presenting symptoms and modifiable factors. This comprehensive approach prevents misdiagnosis and guides targeted, effective treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2289" alt="Diagnostic findings and sleep evaluation results" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-questionnaires", slug: "sleep-questionnaires", title: "Sleep Assessment Questionnaires and Screening Tools", category: "Sleep", categorySlug: "sleep", description: "Understanding standardized sleep questionnaires for diagnosis and monitoring.", author: "SixHealth Team", content: `<h2>Common Sleep Questionnaires</h2><p>Epworth Sleepiness Scale (ESS) quantifies daytime sleepiness severity asking about actual sleep probability in typical daytime situations. Score 0-24 with >10 indicating excessive daytime sleepiness. STOP-BANG questionnaire screens for sleep apnea risk using Snoring, Tiredness, Observed apneas, blood Pressure elevation, BMI, Age, Neck circumference, and Gender. Four or more risk factors warrant sleep study. Pittsburgh Sleep Quality Index (PSQI) comprehensively evaluates sleep quality over past month assessing sleep duration, latency, efficiency, disturbances, and daytime dysfunction. INSOMNIA Severity Index (ISI) specifically quantifies insomnia severity including difficulty falling asleep, staying asleep, and daytime impairment. Berlin Questionnaire screens for sleep apnea risk.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2290" alt="Sleep assessment questionnaires and screening" style="max-width:100%; border-radius:8px;" /></div><h2>Purpose of Questionnaires</h2><p>Questionnaires efficiently quantify often-vague subjective symptoms into objective scores. Changes in scores track treatment response objectively. Pre-post treatment comparison shows whether intervention effective. Questionnaires identify individuals requiring further testing. Questionnaires enable rapid screening in large populations. Communication with healthcare providers improved through standardized terminology and severity scaling.</p><h2>Daytime Sleepiness Assessment</h2><p>Epworth scale asks about probability of dozing in 8 situations: sitting and reading, watching TV, sitting inactive in public, riding passenger 1+ hour without stopping, lying in afternoon when circumstances permit, sitting and talking to someone, sitting quietly after lunch without alcohol, stopped in traffic. Each rated 0-3 for doze likelihood. Total score over 10 indicates abnormal daytime sleepiness warranting investigation.</p><h2>Sleep Quality Assessment</h2><p>PSQI addresses seven components: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, daytime dysfunction. Global PSQI score >5 indicates poor sleep quality. Individual components identify specific problem areas guiding targeted interventions.</p><h2>Insomnia Severity</h2><p>ISI rates difficulty falling asleep, staying asleep, and early morning awakening (0-4 each=12 total), satisfaction with current sleep pattern (0-4), and how noticeable sleep problems affecting daily or social functioning (0-4). Total scores: 0-7 normal, 8-14 subthreshold, 15-21 moderate, 22-28 severe. Changes in ISI track CBT-I or other treatment effectiveness.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2291" alt="Sleep severity screening and assessment tools" style="max-width:100%; border-radius:8px;" /></div><h2>Apnea Screening</h2><p>STOP-BANG scores 0-8 with: Snoring loudly (2 points if yes), Tiredness daytime (2 points if yes), Observed apneas (2 points if yes), blood Pressure high (1 point if yes), BMI >30 (1 point if yes), Age >50 (1 point if yes), Neck circumference large (1 point if yes), Gender male (1 point if yes). Score 3-4 warrants sleep study; >5 high apnea probability.</p><h2>Using Results</h2><p>Questionnaire results guide diagnosis when combined with clinical assessment. Serial questionnaires over time objectively measure treatment effectiveness beyond subjective perception. Questionnaires prevent underestimation or overestimation of symptom severity. Healthcare providers prefer objective scales to subjective descriptions enabling consistent communication.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2292" alt="Questionnaire interpretation and results review" style="max-width:100%; border-radius:8px;" /></div>` },
 
   // Treatment Options (7 articles)
-  { id: "sleep-medications", slug: "sleep-medications", title: "Sleep Medications: Options and Considerations", category: "Sleep", categorySlug: "sleep", description: "Understanding medication options for sleep disorders.", author: "SixHealth Team", content: `<h2>Sleep Medications Overview</h2><p>Multiple medication classes affect sleep through different mechanisms. While behavioral interventions remain first-line treatment, medications help selected patients. Understanding options enables informed decision-making with healthcare providers.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1587854692152-cbe660dbde36?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep medication options and pharmacy" style="max-width:100%; border-radius:8px;" /></div><h2>Benzodiazepines</h2><p>Ancient class including diazepam, temazepam, triazolam. Rapidly effective inducing sleep within 15-30 minutes. Risks include tolerance development (requiring dose escalation), dependence, next-day cognitive impairment, and complex sleep behaviors. Now generally avoided due to safer alternatives. Reserved for short-term acute insomnia or anxiety-related insomnia.</p><h2>Non-Benzodiazepine Hypnotics (Z-Drugs)</h2><p>Zolpidem, zaleplon, eszopiclone work similarly to benzodiazepines at lower abuse risk. Z-drugs bind selectively to sleep-promoting brain receptors. Side effects including complex sleep behaviors, morning sedation, anterograde amnesia reported. Zolpidem lasts 3-4 hours, zaleplon 1 hour (useful for middle-of-night awakening), eszopiclone 6 hours. Tolerance develops. Long-term use associated with cognitive decline in older adults.</p><h2>Sedating Antidepressants</h2><p>Trazodone commonly used off-label for insomnia. 50-100 mg helps sleep without establishing dependence. Advantages include lack of abuse potential, antidepressant benefits if depression present, continued effectiveness over time. Mirtazapine also used. Side effects include morning grogginess, weight gain, and dry mouth. Contraindicated in certain heart conditions.</p><h2>Melatonin Agonists</h2><p>Ramelteon (Rozerem) binds melatonin receptors promoting sleep. Non-habit forming with minimal side effects. Slow onset (30-90 minutes). Effective for sleep onset insomnia. Less studied for maintenance insomnia. No complex sleep behaviors reported. Gradually increasing use in clinical practice.</p><h2>Orexin Antagonists</h2><p>New class including suvorexant blocking wake-promoting orexin system. Effective across insomnia types changing architecture toward normal. Low abuse potential. Morning sedation possible. Expensive but increasingly prescribed. Represents mechanistic advancement over older drugs.</p><h2>Melatonin Supplements</h2><p>Natural hormone supporting circadian rhythm. Doses 0.5-5 mg taken 30-60 minutes before desired sleep time. Most effective for circadian rhythm disorders. Variable effectiveness for primary insomnia. Generally safe with minimal side effects. Non-prescription availability. Quality and purity variable across manufacturers.</p><h2>Antihistamines</h2><p>Over-the-counter diphenhydramine and doxylamine induce sleepiness through central anticholinergic effects. Effective initially but tolerance develops within 1-2 weeks rendering ineffective. Side effects include next-day drowsiness, dry mouth, urinary retention. Cause anticholinergic-related dementia risk in older adults. Generally discouraged for long-term use.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep medication administration and timing" style="max-width:100%; border-radius:8px;" /></div><h2>Treatment Principles</h2><p>Medications work best combined with behavioral therapy. Lowest effective dose for shortest duration recommended. Tolerance development requires periodic reassessment. Abrupt discontinuation can cause rebound insomnia. Behavioral interventions increasingly effective over time while medication effectiveness plateaus. Gradual medication taper combined with behavioral therapy often optimal.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep medication success and recovery" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "cognitive-behavioral-therapy-sleep", slug: "cognitive-behavioral-therapy-sleep", title: "Cognitive Behavioral Therapy for Sleep (CBT-I)", category: "Sleep", categorySlug: "sleep", description: "Understanding the most effective psychological treatment for insomnia.", author: "SixHealth Team", content: `<h2>What Is CBT-I?</h2><p>Cognitive Behavioral Therapy for Insomnia (CBT-I) is structured psychological treatment modifying thoughts, emotions, and behaviors perpetuating insomnia. First-line recommended treatment by sleep medicine societies and American Academy of Sleep Medicine, CBT-I maintains 70-80% effectiveness with durability exceeding medication approaches. Effects persist after treatment ends unlike medication dependence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Cognitive behavioral therapy session" style="max-width:100%; border-radius:8px;" /></div><h2>Core Components</h2><p>Sleep education addresses misconceptions and sleep physiology. Sleep restriction therapy initially limits time in bed to actual sleep time increasing sleep efficiency. Stimulus control establishes bed association with sleep alone. Relaxation training reduces both physical and mental tension. Cognitive therapy addresses catastrophic thoughts and anxiety perpetuating insomnia. Sleep hygiene optimization removes environmental and behavioral impediments to sleep.</p><h2>Sleep Restriction Therapy</h2><p>Counterintuitively improving sleep by temporarily restricting time in bed. If sleeping 5 hours out of 8 hours in bed (62.5% efficiency), reduce bed time to 5.5 hours. Only spend time in bed when sleepy; if awake 20+ minutes, get out of bed. As sleep consolidates improving efficiency, gradually extend bed time. Process improves sleep architecture and efficiency substantially.</p><h2>Stimulus Control</h2><p>Establishing strong association between bed/bedroom and sleep: use bed only for sleep (not TV, work, or eating), set consistent sleep schedule, leave bed if not asleep 20 minutes within 10 minutes of getting in bed. These rules retrain the brain to associate bed with rapid sleep onset.</p><h2>Cognitive Restructuring</h2><p>Identifying catastrophic thoughts ("If I don't sleep I can't function tomorrow", "I'll never sleep again") perpetuating anxiety and insomnia. Replacing with realistic thoughts ("I might be tired but can manage", "I've recovered from poor nights before"). Thought records track anxious thoughts and rational alternatives.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="CBT techniques and cognitive restructuring" style="max-width:100%; border-radius:8px;" /></div><h2>Relaxation Techniques</h2><p>Progressive muscle relaxation sequentially tenses and releases muscle groups reducing physical tension. Diaphragmatic breathing slows breathing and activates parasympathetic nervous system. Meditation and mindfulness reduce mental activity facilitating sleep.</p><h2>Treatment Duration and Outcomes</h2><p>Typically 6-8 sessions over 8-12 weeks. Sessions 60 minutes weekly involve instruction, practice, and personalized treatment plans. Many patients see improvement within 2-3 weeks. Substantial improvement typical by 8 weeks. Chronic insomnia responding poorly to medication often responds dramatically to CBT-I. Long-term benefits persist years after treatment completion unlike medication requiring continued use.</p><h2>Access to CBT-I</h2><p>Sleep medicine specialists and psychologists trained in CBT-I provide treatment. Online CBT-I programs increasingly available. Some insurance covers treatment. Despite superior efficacy to medication, medication use remains higher reflecting awareness gaps and access barriers. Increasing awareness improving CBT-I utilization.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&fm=webp&q=70" alt="CBT-I outcomes and improved sleep" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-restriction-therapy", slug: "sleep-restriction-therapy", title: "Sleep Restriction Therapy: Boosting Sleep Efficiency", category: "Sleep", categorySlug: "sleep", description: "Understanding sleep restriction therapy improving sleep quality.", author: "SixHealth Team", content: `<h2>Sleep Restriction Fundamentals</h2><p>Sleep restriction therapy (SRT) counterintuively improves insomnia by temporarily restricting time allowed in bed. Consolidating fragmented sleep, SRT increases sleep efficiency and improves overall sleep quality substantially. Core principle: creating mild sleep debt increases sleep drive and consolidation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep schedule management and optimization" style="max-width:100%; border-radius:8px;" /></div><h2>How It Works</h2><p>Initial assessment determines average actual sleep duration from sleep diary (example: average 5-5.5 hours despite 8 hours in bed). Bed time restricted to actual sleep duration plus 30 minutes (example: 5.5-6 hours bed time window). Only sleep time spent in restrictive window; if not asleep 20 minutes after getting in bed, get out of bed. Gradually as sleep consolidates (approaching 85-90% sleep efficiency), extend bed time by 15-30 minutes weekly until achieving 7-8 hours.</p><h2>Expected Experience</h2><p>Initial phase involves temporary increased daytime sleepiness from mild sleep restriction creating sleep pressure. Paradoxically, fragmented 8 hours sleep improves to consolidated 6 hours sleep despite reduced total time. Patients typically experience deeper, more restful sleep despite less total time. Within 2-4 weeks, most patients consolidate sleep substantially. Then gradual bed time extension restores adequate total sleep with maintained consolidation.</p><h2>Mechanisms</h2><p>Sleep deprivation increases sleep drive homeostatically. Higher sleep pressure facilitates sleep onset. Reduced time in bed prevents negative associations with bed and wakefulness. Consolidated sleep architecture becomes normal including adequate deep sleep and REM. Anxiety about sleep often reduces as success builds confidence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Behavioral adjustment and sleep consolidation" style="max-width:100%; border-radius:8px;" /></div><h2>Ideal Candidates</h2><p>Most appropriate for sleep maintenance insomnia (frequent nighttime awakenings). Also effective for sleep onset insomnia through building sleep drive. Particularly effective combined with cognitive therapy addressing unhelpful thoughts. Not advised for bipolar disorder (risk of mood destabilization) or untreated sleep apnea (risk of increased apnea events).</p><h2>Practical Implementation</h2><p>Requires healthcare provider guidance for safe implementation. Sleep specialist calculates appropriate initial restriction amount. Patient monitors sleep timing and efficiency weekly. Adjustments made as sleep consolidates. Process typically requires 8-12 weeks for full benefit. Maintenance requires continued consistent sleep schedule even after achieving adequate sleep quantity.</p><h2>Success Rates</h2><p>80% of appropriate candidates achieve significant improvement. Combined with stimulus control and cognitive therapy, success exceeds 85%. Long-term adherence to regular sleep timing maintains benefits. Many patients prefer SRT to sedating medications given maintained effectiveness and lack of dependence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep consolidation and success" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "light-therapy-sleep", slug: "light-therapy-sleep", title: "Light Therapy for Sleep and Circadian Rhythm", category: "Sleep", categorySlug: "sleep", description: "Using light exposure to reset circadian rhythm and improve sleep.", author: "SixHealth Team", content: `<h2>Light as Circadian Regulator</h2><p>Light is the most powerful environmental signal resetting circadian rhythm. Retinal photoreceptors communicate directly with suprachiasmatic nucleus (SCN) master clock. Blue wavelengths particularly suppress melatonin and promote wakefulness. Light therapy applies principles of light-circadian interactions to reset misaligned rhythm.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Light therapy device and treatment" style="max-width:100%; border-radius:8px;" /></div><h2>Timing Principles</h2><p>Morning bright light exposure (6-8 AM) advances (earlier) sleep timing. Evening bright light exposure can delay (later) sleep timing though newer evidence suggests morning timing more reliable. Exact timing calculation depends on individual circadian period (typically 24.1-24.3 hours). Sleep specialists calculate optimal light timing for individual rhythm.</p><h2>Intensity and Duration</h2><p>Effective light therapy requires 2500-10000 lux intensity depending on wavelength. Standard light therapy boxes provide 10000 lux. Duration 20-60 minutes recommended. Morning therapy most effective and recommended. Evening light exposure can delay rhythm but may worsen evening insomnia if not carefully timed. Outdoor light (20000+ lux) provides faster rhythm adjustment.</p><h2>Practical Implementation</h2><p>Patient positioned 16-24 inches from light therapy box. Early morning (6-8 AM) light use for delayed sleep phase. No direct eye exposure needed; light enters via peripheral vision. Typical therapy 20-30 minutes daily. Many devices include timer. Effects accumulate over days requiring consistent use. Adjustments based on response.</p><h2>Conditions Benefiting from Light Therapy</h2><p>Delayed sleep phase syndrome (DSPS) responds excellently to morning light therapy. Seasonal affective disorder (SAD) with associated sleep problems improves significantly. Shift workers using properly timed light can adapt to shifted schedules. Advanced sleep phase (early awakening) uses evening light to delay rhythm. Circadian misalignment from jet lag addresses through strategic light exposure and avoidance.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Morning light exposure and rhythm adjustment" style="max-width:100%; border-radius:8px;" /></div><h2>Combining With Melatonin</h2><p>Light therapy plus melatonin timing optimization produces superior results to either alone. Melatonin taken 4-6 hours before desired sleep time advances rhythm. Combined with appropriate morning light therapy, most circadian misalignment resolves within 3-5 days.</p><h2>Safety Considerations</h2><p>Light therapy generally safe with few side effects. Eye strain or mild headache possible. Rarely triggers mania in bipolar disorder patients. Not suitable for certain eye conditions. Should not use evening light therapy within 8 hours of desired sleep time as this further delays sleep. Professional guidance recommended for optimal protocol.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Circadian rhythm reset and sleep improvement" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "bedroom-environment", slug: "bedroom-environment", title: "Bedroom Environment Optimization for Sleep", category: "Sleep", categorySlug: "sleep", description: "Creating an ideal sleep environment promoting deep sleep.", author: "SixHealth Team", content: `<h2>Temperature</h2><p>Slightly cool bedroom temperature (60-67°F/15-19°C) promotes sleep. Body temperature naturally drops at sleep initiating circadian rhythm. Cool environment facilitates this drop. Individual preferences vary but generally cooler than daytime preferences. Bedding allows temperature adjustment. Weighted blankets improve sleep for some through tactile comfort and warmth regulation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1540932626666-e92a0cac2f5f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Optimized bedroom environment and comfort" style="max-width:100%; border-radius:8px;" /></div><h2>Darkness and Light Control</h2><p>Complete darkness optimizes melatonin production critical for sleep. Any light suppresses melatonin disrupting sleep-wake cycle. Using blackout curtains, eye masks, or covering light sources (alarm clocks, electronics) maintains darkness. Gradual morning light exposure helpful for waking but ensure complete darkness during sleep hours. Dimmable lights or gradually brightening alarm clocks help morning awakening.</p><h2>Sound Management</h2><p>Quiet environment facilitates sleep. Loud environmental sounds disrupt sleep even during sleep. Earplugs reduce external sound. White noise machines mask disruptive sounds while providing consistent auditory input. Some people sleep better with soft background noise. Removing bedroom TV and using bedroom only for sleep and intimacy improves sleep associations.</p><h2>Visual Clutter and Aesthetics</h2><p>Visually calming bedroom promotes relaxation. Soft colors (blues, greens, earth tones) more conducive to sleep than bright, stimulating colors. Removing work-related items, screens, and stressful visual reminders from bedroom reduces mental activation. Plants and natural elements create calming aesthetic. Bedroom dedicated primarily to sleep rather than multipurpose use.</p><h2>Comfort and Bedding</h2><p>Comfortable, high-quality mattress and pillows essential. Supportive, well-formed pillows maintain neutral neck alignment. Breathable, natural fiber bedding (cotton, linen) often preferred. Mattress firmness varies by individual preference and sleeping position. Bed size should allow comfortable sleep without partner disturbance. Investing in quality sleep infrastructure pays long-term health dividends.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Comfortable bedding and sleep comfort" style="max-width:100%; border-radius:8px;" /></div><h2>Air Quality</h2><p>Fresh air and adequate oxygen critical for quality sleep. Slightly humid air (40-60% relative humidity) more comfortable than very dry air. Humidifiers help very dry environments. Adequate ventilation prevents carbon dioxide accumulation. Air purifiers address allergy concerns affecting sleep. Fresh bedding regularly laundered supports comfort.</p><h2>Screen Lighting</h2><p>Blue light from screens (phones, tablets, TVs) suppresses melatonin disrupting sleep. Remove all screens from bedroom or use blue light filtering glasses 1-2 hours before bed. Better approach: complete screen avoidance 1+ hour before sleep. Many devices offer night mode reducing blue light but this incomplete solution.</p><h2>Ambient Environment</h2><p>Minimize bedroom distractions. Remove electronic notifications. Leave work-related items out. Make bedroom sanctum dedicated to sleep and intimacy. This environmental control supports sleep-wake distinction preventing bed association with wakefulness.</p>` },
-  { id: "relaxation-techniques", slug: "relaxation-techniques", title: "Relaxation Techniques for Better Sleep", category: "Sleep", categorySlug: "sleep", description: "Evidence-based techniques reducing tension and promoting sleep onset.", author: "SixHealth Team", content: `<h2>Progressive Muscle Relaxation (PMR)</h2><p>PMR sequentially tenses then releases muscle groups throughout body. Focus on progressive tension release reducing physical tension perpetuating insomnia. Typical sequence: feet, calves, thighs, buttocks, abdomen, chest, back, hands, forearms, arms, shoulders, neck, face. Each group tensions 5 seconds then releases 10 seconds noting tension contrast. Sessions 15-20 minutes. Regular practice improves relaxation response and sleep. Particularly useful for people with high muscle tension.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Relaxation and meditation for sleep" style="max-width:100%; border-radius:8px;" /></div><h2>Diaphragmatic Breathing</h2><p>Deep belly breathing activates parasympathetic nervous system promoting relaxation. Typically inhale slowly for 4 counts through nose, hold 4 counts, exhale 6 counts through mouth. Extended exhale activates parasympathetic response. Continue 5-10 minutes. Can practice while lying in bed. Breathing slowing naturally reduces anxiety and prepares body for sleep. Easy technique requiring no equipment.</p><h2>Autogenic Training</h2><p>Mental repetition of calming phrases ("My arms feel warm and heavy", "My heartbeat is calm and even") inducing physiologic relaxation. Combines cognitive and somatic relaxation. Standard autogenic training detailed formulas repeated mentally. Particularly useful for anxiety-related insomnia. Requires 4-8 week training but subsequent 10-minute sessions powerfully induce relaxation.</p><h2>Meditation and Mindfulness</h2><p>Meditation reducing mental activity and anxiety interfering with sleep. Focused attention meditation (concentrating on breath, mantra, or sensation) quiets racing thoughts. Open monitoring meditation (non-judgmentatively observing thoughts without attachment) reduces anxiety about thoughts. Body scan meditation moving attention through body progressively relaxing each area. Consistent daily practice improves sleep quality. Apps and guided meditations increase accessibility.</p><h2>Visualization and Guided Imagery</h2><p>Mental imagery of peaceful, safe place induces relaxation. Imagining favorite vacation location, natural setting, or other calming scene engages mind in positive direction. Involving multiple senses (sight, sound, smell, touch) increases effectiveness. Can combine with breathing exercises. 10- minute guided imagery recordings available. Particularly useful for racing thoughts or anxiety.</p><h2>Yoga and Gentle Stretching</h2><p>Gentle pre-sleep yoga combining stretching with breathing and meditation. Yin yoga particularly useful with long holds building relaxation. Forward folds, gentle twists, and supported positions relax nervous system. 15-30 minutes pre-sleep yoga significantly improves sleep for many. Yoga improves flexibility reducing physical tension. Requires minimal equipment. Can learn from classes or online instruction.</p><h2>Combination Approaches</h2><p>Combining multiple relaxation techniques offers synergistic benefits. Evening routine combining gentle yoga, breathing exercise, and guided imagery powerfully reduces sleep-interfering tension and anxiety. Regular practice builds resilience to stress. Ideally, chose techniques matching personal preference and schedule. Consistency matters more than perfection.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512941691920-25bdb36edc60?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Yoga and relaxation practices" style="max-width:100%; border-radius:8px;" /></div><h2>Practical Implementation</h2><p>Practice initially outside bedroom during day. Once proficient, practice 30 minutes before bed. Avoid perfectionistic approach; imperfect practice still effective. Record favorites for easy evening reference. Consistent practice (daily or 5-6 x weekly) builds skills and effects. After techniques mastered, brief abbreviated versions maintain benefits.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Peaceful sleep and relaxation success" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-medications", slug: "sleep-medications", title: "Sleep Medications: Options and Considerations", category: "Sleep", categorySlug: "sleep", description: "Understanding medication options for sleep disorders.", author: "SixHealth Team", content: `<h2>Sleep Medications Overview</h2><p>Multiple medication classes affect sleep through different mechanisms. While behavioral interventions remain first-line treatment, medications help selected patients. Understanding options enables informed decision-making with healthcare providers.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2293" alt="Sleep medication options and pharmacy" style="max-width:100%; border-radius:8px;" /></div><h2>Benzodiazepines</h2><p>Ancient class including diazepam, temazepam, triazolam. Rapidly effective inducing sleep within 15-30 minutes. Risks include tolerance development (requiring dose escalation), dependence, next-day cognitive impairment, and complex sleep behaviors. Now generally avoided due to safer alternatives. Reserved for short-term acute insomnia or anxiety-related insomnia.</p><h2>Non-Benzodiazepine Hypnotics (Z-Drugs)</h2><p>Zolpidem, zaleplon, eszopiclone work similarly to benzodiazepines at lower abuse risk. Z-drugs bind selectively to sleep-promoting brain receptors. Side effects including complex sleep behaviors, morning sedation, anterograde amnesia reported. Zolpidem lasts 3-4 hours, zaleplon 1 hour (useful for middle-of-night awakening), eszopiclone 6 hours. Tolerance develops. Long-term use associated with cognitive decline in older adults.</p><h2>Sedating Antidepressants</h2><p>Trazodone commonly used off-label for insomnia. 50-100 mg helps sleep without establishing dependence. Advantages include lack of abuse potential, antidepressant benefits if depression present, continued effectiveness over time. Mirtazapine also used. Side effects include morning grogginess, weight gain, and dry mouth. Contraindicated in certain heart conditions.</p><h2>Melatonin Agonists</h2><p>Ramelteon (Rozerem) binds melatonin receptors promoting sleep. Non-habit forming with minimal side effects. Slow onset (30-90 minutes). Effective for sleep onset insomnia. Less studied for maintenance insomnia. No complex sleep behaviors reported. Gradually increasing use in clinical practice.</p><h2>Orexin Antagonists</h2><p>New class including suvorexant blocking wake-promoting orexin system. Effective across insomnia types changing architecture toward normal. Low abuse potential. Morning sedation possible. Expensive but increasingly prescribed. Represents mechanistic advancement over older drugs.</p><h2>Melatonin Supplements</h2><p>Natural hormone supporting circadian rhythm. Doses 0.5-5 mg taken 30-60 minutes before desired sleep time. Most effective for circadian rhythm disorders. Variable effectiveness for primary insomnia. Generally safe with minimal side effects. Non-prescription availability. Quality and purity variable across manufacturers.</p><h2>Antihistamines</h2><p>Over-the-counter diphenhydramine and doxylamine induce sleepiness through central anticholinergic effects. Effective initially but tolerance develops within 1-2 weeks rendering ineffective. Side effects include next-day drowsiness, dry mouth, urinary retention. Cause anticholinergic-related dementia risk in older adults. Generally discouraged for long-term use.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2294" alt="Sleep medication administration and timing" style="max-width:100%; border-radius:8px;" /></div><h2>Treatment Principles</h2><p>Medications work best combined with behavioral therapy. Lowest effective dose for shortest duration recommended. Tolerance development requires periodic reassessment. Abrupt discontinuation can cause rebound insomnia. Behavioral interventions increasingly effective over time while medication effectiveness plateaus. Gradual medication taper combined with behavioral therapy often optimal.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2295" alt="Sleep medication success and recovery" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "cognitive-behavioral-therapy-sleep", slug: "cognitive-behavioral-therapy-sleep", title: "Cognitive Behavioral Therapy for Sleep (CBT-I)", category: "Sleep", categorySlug: "sleep", description: "Understanding the most effective psychological treatment for insomnia.", author: "SixHealth Team", content: `<h2>What Is CBT-I?</h2><p>Cognitive Behavioral Therapy for Insomnia (CBT-I) is structured psychological treatment modifying thoughts, emotions, and behaviors perpetuating insomnia. First-line recommended treatment by sleep medicine societies and American Academy of Sleep Medicine, CBT-I maintains 70-80% effectiveness with durability exceeding medication approaches. Effects persist after treatment ends unlike medication dependence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2296" alt="Cognitive behavioral therapy session" style="max-width:100%; border-radius:8px;" /></div><h2>Core Components</h2><p>Sleep education addresses misconceptions and sleep physiology. Sleep restriction therapy initially limits time in bed to actual sleep time increasing sleep efficiency. Stimulus control establishes bed association with sleep alone. Relaxation training reduces both physical and mental tension. Cognitive therapy addresses catastrophic thoughts and anxiety perpetuating insomnia. Sleep hygiene optimization removes environmental and behavioral impediments to sleep.</p><h2>Sleep Restriction Therapy</h2><p>Counterintuitively improving sleep by temporarily restricting time in bed. If sleeping 5 hours out of 8 hours in bed (62.5% efficiency), reduce bed time to 5.5 hours. Only spend time in bed when sleepy; if awake 20+ minutes, get out of bed. As sleep consolidates improving efficiency, gradually extend bed time. Process improves sleep architecture and efficiency substantially.</p><h2>Stimulus Control</h2><p>Establishing strong association between bed/bedroom and sleep: use bed only for sleep (not TV, work, or eating), set consistent sleep schedule, leave bed if not asleep 20 minutes within 10 minutes of getting in bed. These rules retrain the brain to associate bed with rapid sleep onset.</p><h2>Cognitive Restructuring</h2><p>Identifying catastrophic thoughts ("If I don't sleep I can't function tomorrow", "I'll never sleep again") perpetuating anxiety and insomnia. Replacing with realistic thoughts ("I might be tired but can manage", "I've recovered from poor nights before"). Thought records track anxious thoughts and rational alternatives.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2297" alt="CBT techniques and cognitive restructuring" style="max-width:100%; border-radius:8px;" /></div><h2>Relaxation Techniques</h2><p>Progressive muscle relaxation sequentially tenses and releases muscle groups reducing physical tension. Diaphragmatic breathing slows breathing and activates parasympathetic nervous system. Meditation and mindfulness reduce mental activity facilitating sleep.</p><h2>Treatment Duration and Outcomes</h2><p>Typically 6-8 sessions over 8-12 weeks. Sessions 60 minutes weekly involve instruction, practice, and personalized treatment plans. Many patients see improvement within 2-3 weeks. Substantial improvement typical by 8 weeks. Chronic insomnia responding poorly to medication often responds dramatically to CBT-I. Long-term benefits persist years after treatment completion unlike medication requiring continued use.</p><h2>Access to CBT-I</h2><p>Sleep medicine specialists and psychologists trained in CBT-I provide treatment. Online CBT-I programs increasingly available. Some insurance covers treatment. Despite superior efficacy to medication, medication use remains higher reflecting awareness gaps and access barriers. Increasing awareness improving CBT-I utilization.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1512621776951-1b1e6d8a6d6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2298" alt="CBT-I outcomes and improved sleep" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-restriction-therapy", slug: "sleep-restriction-therapy", title: "Sleep Restriction Therapy: Boosting Sleep Efficiency", category: "Sleep", categorySlug: "sleep", description: "Understanding sleep restriction therapy improving sleep quality.", author: "SixHealth Team", content: `<h2>Sleep Restriction Fundamentals</h2><p>Sleep restriction therapy (SRT) counterintuively improves insomnia by temporarily restricting time allowed in bed. Consolidating fragmented sleep, SRT increases sleep efficiency and improves overall sleep quality substantially. Core principle: creating mild sleep debt increases sleep drive and consolidation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2299" alt="Sleep schedule management and optimization" style="max-width:100%; border-radius:8px;" /></div><h2>How It Works</h2><p>Initial assessment determines average actual sleep duration from sleep diary (example: average 5-5.5 hours despite 8 hours in bed). Bed time restricted to actual sleep duration plus 30 minutes (example: 5.5-6 hours bed time window). Only sleep time spent in restrictive window; if not asleep 20 minutes after getting in bed, get out of bed. Gradually as sleep consolidates (approaching 85-90% sleep efficiency), extend bed time by 15-30 minutes weekly until achieving 7-8 hours.</p><h2>Expected Experience</h2><p>Initial phase involves temporary increased daytime sleepiness from mild sleep restriction creating sleep pressure. Paradoxically, fragmented 8 hours sleep improves to consolidated 6 hours sleep despite reduced total time. Patients typically experience deeper, more restful sleep despite less total time. Within 2-4 weeks, most patients consolidate sleep substantially. Then gradual bed time extension restores adequate total sleep with maintained consolidation.</p><h2>Mechanisms</h2><p>Sleep deprivation increases sleep drive homeostatically. Higher sleep pressure facilitates sleep onset. Reduced time in bed prevents negative associations with bed and wakefulness. Consolidated sleep architecture becomes normal including adequate deep sleep and REM. Anxiety about sleep often reduces as success builds confidence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1609662226302-786571fdf67e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2300" alt="Behavioral adjustment and sleep consolidation" style="max-width:100%; border-radius:8px;" /></div><h2>Ideal Candidates</h2><p>Most appropriate for sleep maintenance insomnia (frequent nighttime awakenings). Also effective for sleep onset insomnia through building sleep drive. Particularly effective combined with cognitive therapy addressing unhelpful thoughts. Not advised for bipolar disorder (risk of mood destabilization) or untreated sleep apnea (risk of increased apnea events).</p><h2>Practical Implementation</h2><p>Requires healthcare provider guidance for safe implementation. Sleep specialist calculates appropriate initial restriction amount. Patient monitors sleep timing and efficiency weekly. Adjustments made as sleep consolidates. Process typically requires 8-12 weeks for full benefit. Maintenance requires continued consistent sleep schedule even after achieving adequate sleep quantity.</p><h2>Success Rates</h2><p>80% of appropriate candidates achieve significant improvement. Combined with stimulus control and cognitive therapy, success exceeds 85%. Long-term adherence to regular sleep timing maintains benefits. Many patients prefer SRT to sedating medications given maintained effectiveness and lack of dependence.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2301" alt="Sleep consolidation and success" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "light-therapy-sleep", slug: "light-therapy-sleep", title: "Light Therapy for Sleep and Circadian Rhythm", category: "Sleep", categorySlug: "sleep", description: "Using light exposure to reset circadian rhythm and improve sleep.", author: "SixHealth Team", content: `<h2>Light as Circadian Regulator</h2><p>Light is the most powerful environmental signal resetting circadian rhythm. Retinal photoreceptors communicate directly with suprachiasmatic nucleus (SCN) master clock. Blue wavelengths particularly suppress melatonin and promote wakefulness. Light therapy applies principles of light-circadian interactions to reset misaligned rhythm.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2302" alt="Light therapy device and treatment" style="max-width:100%; border-radius:8px;" /></div><h2>Timing Principles</h2><p>Morning bright light exposure (6-8 AM) advances (earlier) sleep timing. Evening bright light exposure can delay (later) sleep timing though newer evidence suggests morning timing more reliable. Exact timing calculation depends on individual circadian period (typically 24.1-24.3 hours). Sleep specialists calculate optimal light timing for individual rhythm.</p><h2>Intensity and Duration</h2><p>Effective light therapy requires 2500-10000 lux intensity depending on wavelength. Standard light therapy boxes provide 10000 lux. Duration 20-60 minutes recommended. Morning therapy most effective and recommended. Evening light exposure can delay rhythm but may worsen evening insomnia if not carefully timed. Outdoor light (20000+ lux) provides faster rhythm adjustment.</p><h2>Practical Implementation</h2><p>Patient positioned 16-24 inches from light therapy box. Early morning (6-8 AM) light use for delayed sleep phase. No direct eye exposure needed; light enters via peripheral vision. Typical therapy 20-30 minutes daily. Many devices include timer. Effects accumulate over days requiring consistent use. Adjustments based on response.</p><h2>Conditions Benefiting from Light Therapy</h2><p>Delayed sleep phase syndrome (DSPS) responds excellently to morning light therapy. Seasonal affective disorder (SAD) with associated sleep problems improves significantly. Shift workers using properly timed light can adapt to shifted schedules. Advanced sleep phase (early awakening) uses evening light to delay rhythm. Circadian misalignment from jet lag addresses through strategic light exposure and avoidance.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1454023492551-3d65d2c4f3c2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2303" alt="Morning light exposure and rhythm adjustment" style="max-width:100%; border-radius:8px;" /></div><h2>Combining With Melatonin</h2><p>Light therapy plus melatonin timing optimization produces superior results to either alone. Melatonin taken 4-6 hours before desired sleep time advances rhythm. Combined with appropriate morning light therapy, most circadian misalignment resolves within 3-5 days.</p><h2>Safety Considerations</h2><p>Light therapy generally safe with few side effects. Eye strain or mild headache possible. Rarely triggers mania in bipolar disorder patients. Not suitable for certain eye conditions. Should not use evening light therapy within 8 hours of desired sleep time as this further delays sleep. Professional guidance recommended for optimal protocol.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2304" alt="Circadian rhythm reset and sleep improvement" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "bedroom-environment", slug: "bedroom-environment", title: "Bedroom Environment Optimization for Sleep", category: "Sleep", categorySlug: "sleep", description: "Creating an ideal sleep environment promoting deep sleep.", author: "SixHealth Team", content: `<h2>Temperature</h2><p>Slightly cool bedroom temperature (60-67°F/15-19°C) promotes sleep. Body temperature naturally drops at sleep initiating circadian rhythm. Cool environment facilitates this drop. Individual preferences vary but generally cooler than daytime preferences. Bedding allows temperature adjustment. Weighted blankets improve sleep for some through tactile comfort and warmth regulation.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1526256262350-7da4c6157f6a?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2305" alt="Optimized bedroom environment and comfort" style="max-width:100%; border-radius:8px;" /></div><h2>Darkness and Light Control</h2><p>Complete darkness optimizes melatonin production critical for sleep. Any light suppresses melatonin disrupting sleep-wake cycle. Using blackout curtains, eye masks, or covering light sources (alarm clocks, electronics) maintains darkness. Gradual morning light exposure helpful for waking but ensure complete darkness during sleep hours. Dimmable lights or gradually brightening alarm clocks help morning awakening.</p><h2>Sound Management</h2><p>Quiet environment facilitates sleep. Loud environmental sounds disrupt sleep even during sleep. Earplugs reduce external sound. White noise machines mask disruptive sounds while providing consistent auditory input. Some people sleep better with soft background noise. Removing bedroom TV and using bedroom only for sleep and intimacy improves sleep associations.</p><h2>Visual Clutter and Aesthetics</h2><p>Visually calming bedroom promotes relaxation. Soft colors (blues, greens, earth tones) more conducive to sleep than bright, stimulating colors. Removing work-related items, screens, and stressful visual reminders from bedroom reduces mental activation. Plants and natural elements create calming aesthetic. Bedroom dedicated primarily to sleep rather than multipurpose use.</p><h2>Comfort and Bedding</h2><p>Comfortable, high-quality mattress and pillows essential. Supportive, well-formed pillows maintain neutral neck alignment. Breathable, natural fiber bedding (cotton, linen) often preferred. Mattress firmness varies by individual preference and sleeping position. Bed size should allow comfortable sleep without partner disturbance. Investing in quality sleep infrastructure pays long-term health dividends.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2306" alt="Comfortable bedding and sleep comfort" style="max-width:100%; border-radius:8px;" /></div><h2>Air Quality</h2><p>Fresh air and adequate oxygen critical for quality sleep. Slightly humid air (40-60% relative humidity) more comfortable than very dry air. Humidifiers help very dry environments. Adequate ventilation prevents carbon dioxide accumulation. Air purifiers address allergy concerns affecting sleep. Fresh bedding regularly laundered supports comfort.</p><h2>Screen Lighting</h2><p>Blue light from screens (phones, tablets, TVs) suppresses melatonin disrupting sleep. Remove all screens from bedroom or use blue light filtering glasses 1-2 hours before bed. Better approach: complete screen avoidance 1+ hour before sleep. Many devices offer night mode reducing blue light but this incomplete solution.</p><h2>Ambient Environment</h2><p>Minimize bedroom distractions. Remove electronic notifications. Leave work-related items out. Make bedroom sanctum dedicated to sleep and intimacy. This environmental control supports sleep-wake distinction preventing bed association with wakefulness.</p>` },
+  { id: "relaxation-techniques", slug: "relaxation-techniques", title: "Relaxation Techniques for Better Sleep", category: "Sleep", categorySlug: "sleep", description: "Evidence-based techniques reducing tension and promoting sleep onset.", author: "SixHealth Team", content: `<h2>Progressive Muscle Relaxation (PMR)</h2><p>PMR sequentially tenses then releases muscle groups throughout body. Focus on progressive tension release reducing physical tension perpetuating insomnia. Typical sequence: feet, calves, thighs, buttocks, abdomen, chest, back, hands, forearms, arms, shoulders, neck, face. Each group tensions 5 seconds then releases 10 seconds noting tension contrast. Sessions 15-20 minutes. Regular practice improves relaxation response and sleep. Particularly useful for people with high muscle tension.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1576091160069-112de9d332a5?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2307" alt="Relaxation and meditation for sleep" style="max-width:100%; border-radius:8px;" /></div><h2>Diaphragmatic Breathing</h2><p>Deep belly breathing activates parasympathetic nervous system promoting relaxation. Typically inhale slowly for 4 counts through nose, hold 4 counts, exhale 6 counts through mouth. Extended exhale activates parasympathetic response. Continue 5-10 minutes. Can practice while lying in bed. Breathing slowing naturally reduces anxiety and prepares body for sleep. Easy technique requiring no equipment.</p><h2>Autogenic Training</h2><p>Mental repetition of calming phrases ("My arms feel warm and heavy", "My heartbeat is calm and even") inducing physiologic relaxation. Combines cognitive and somatic relaxation. Standard autogenic training detailed formulas repeated mentally. Particularly useful for anxiety-related insomnia. Requires 4-8 week training but subsequent 10-minute sessions powerfully induce relaxation.</p><h2>Meditation and Mindfulness</h2><p>Meditation reducing mental activity and anxiety interfering with sleep. Focused attention meditation (concentrating on breath, mantra, or sensation) quiets racing thoughts. Open monitoring meditation (non-judgmentatively observing thoughts without attachment) reduces anxiety about thoughts. Body scan meditation moving attention through body progressively relaxing each area. Consistent daily practice improves sleep quality. Apps and guided meditations increase accessibility.</p><h2>Visualization and Guided Imagery</h2><p>Mental imagery of peaceful, safe place induces relaxation. Imagining favorite vacation location, natural setting, or other calming scene engages mind in positive direction. Involving multiple senses (sight, sound, smell, touch) increases effectiveness. Can combine with breathing exercises. 10- minute guided imagery recordings available. Particularly useful for racing thoughts or anxiety.</p><h2>Yoga and Gentle Stretching</h2><p>Gentle pre-sleep yoga combining stretching with breathing and meditation. Yin yoga particularly useful with long holds building relaxation. Forward folds, gentle twists, and supported positions relax nervous system. 15-30 minutes pre-sleep yoga significantly improves sleep for many. Yoga improves flexibility reducing physical tension. Requires minimal equipment. Can learn from classes or online instruction.</p><h2>Combination Approaches</h2><p>Combining multiple relaxation techniques offers synergistic benefits. Evening routine combining gentle yoga, breathing exercise, and guided imagery powerfully reduces sleep-interfering tension and anxiety. Regular practice builds resilience to stress. Ideally, chose techniques matching personal preference and schedule. Consistency matters more than perfection.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2308" alt="Yoga and relaxation practices" style="max-width:100%; border-radius:8px;" /></div><h2>Practical Implementation</h2><p>Practice initially outside bedroom during day. Once proficient, practice 30 minutes before bed. Avoid perfectionistic approach; imperfect practice still effective. Record favorites for easy evening reference. Consistent practice (daily or 5-6 x weekly) builds skills and effects. After techniques mastered, brief abbreviated versions maintain benefits.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2309" alt="Peaceful sleep and relaxation success" style="max-width:100%; border-radius:8px;" /></div>` },
 
   // Sleep Hygiene (2 articles)
-  { id: "sleep-hygiene-practices", slug: "sleep-hygiene-practices", title: "Sleep Hygiene: Best Practices for Healthy Sleep Habits", category: "Sleep", categorySlug: "sleep", description: "Evidence-based sleep hygiene practices improving sleep quality and consistency.", author: "SixHealth Team", content: `<h2>What Is Sleep Hygiene?</h2><p>Sleep hygiene encompasses behaviors and environment practices supporting quality sleep. While insufficient alone for established sleep disorders, sleep hygiene forms foundation of good sleep. Implementing sleep hygiene recommendations resolves many cases of mild sleep problems and supports treatment outcomes for more severe disorders.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1540932626666-e92a0cac2f5f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep hygiene routines and healthy habits" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Schedule Consistency</h2><p>Maintaining consistent sleep-wake times (even weekends) entrains circadian rhythm optimizing sleep quality. Variable schedule disrupts sleep timing triggering insomnia and daytime sleepiness. Existing research supports consistency more than absolute duration. Weekday/weekend variation of 2+ hours creates "social jet lag" disrupting function. Ideal: within 1 hour consistent timing.</p><h2>Light Exposure Optimization</h2><p>Morning bright light exposure (outdoor or light therapy box) synchronizes circadian rhythm and boosts morning alertness. Evening bright light avoidance (particularly blue light from screens) prevents melatonin suppression. Screen time limitation 1+ hour before bed especially important. Dim bedroom lights signaling sleep time. Consistent light timing strengthens circadian alignment.</p><h2>Caffeine and Alcohol Management</h2><p>Caffeine consumed after 2 PM remains in system impairing sleep onset. Limit daily intake ideally under 300-400 mg. Alcohol despite sedative effect impairs sleep architecture reducing restorative sleep. Avoid alcohol within 3-4 hours of sleep. Both substances interfere with sleep quality despite potentially easing initial sleep onset.</p><h2>Exercise Timing</h2><p>Regular exercise significantly improves sleep quality. Aerobic and strength training both beneficial. Exercise timing matters: morning or afternoon exercise promotes sleep; late evening exercise (within 3 hours of bedtime) activates nervous system potentially impairing sleep. Most benefit from consistent timing supporting circadian rhythm. 150 minutes weekly moderate aerobic activity recommended.</p><h2>Meal Timing and Composition</h2><p>Heavy meals within 2-3 hours of sleep impair sleep through gastrointestinal activity and discomfort. Large meals trigger acid reflux. Light snacks acceptable. Late-night stimulant foods (sugar, chocolate) impair sleep. Balanced dinner with protein and complex carbohydrates supports sleep. Staying well-hydrated important but limit fluids 1 hour before bed to minimize nighttime urination.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019613914-85f342c55f4c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep hygiene habits and daily practices" style="max-width:100%; border-radius:8px;" /></div><h2>Bedroom Use Guidelines</h2><p>Bedroom reserved primarily for sleep (and intimacy). Avoid working, watching TV, or eating in bed. These activities create negative bed associations causing wakefulness. If can't sleep 20 minutes after getting into bed, leave bedroom doing relaxing activity elsewhere until sleepy. This stimulus control strengthens bed-sleep association.</p><h2>Temperature and Environment</h2><p>Cool bedroom temperature (60-67°F) promotes sleep. Darkness through blackout curtains or eye mask. Quiet environment through earplugs or white noise. These environmental controls consistently support better sleep. Individual preferences vary but generally cooler, darker, quieter environments superior for most.</p><h2>Night-Shift Worker Considerations</h2><p>Schedule consistency difficult with shift work but remaining possible. Workers should use strategically-timed light exposure, melatonin, and consistent sleep schedule as possible within job constraints. Sleep in darkened environment regardless of time. Some adjustment possible though never achieves normal daytime sleep quality. Improving awareness among employers of sleep importance can reduce schedule disruptions.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Sleep success and healthy habits" style="max-width:100%; border-radius:8px;" /></div>` },
-  { id: "sleep-environment-optimization", slug: "sleep-environment-optimization", title: "Optimizing Your Sleep Environment for Better Rest", category: "Sleep", categorySlug: "sleep", description: "Complete guide to designing a ideal bedroom for quality sleep.", author: "SixHealth Team", content: `<h2>Bedroom as Sleep Sanctuary</h2><p>Bedroom environment profoundly impacts sleep quality. Investing time and resources in bedroom optimization pays substantial dividends in sleep quality and daytime function. Think of bedroom as health investment comparable to medical treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Optimized bedroom environment and design" style="max-width:100%; border-radius:8px;" /></div><h2>Physical Environment Survey</h2><p>Assess current bedroom temperature (ideal 60-67°F), light (any light sources?), noise (audible sounds disruptive?), air quality (stuffy or fresh?), and visual organization (cluttered or calm?). Note what sleep-interfering factors present. Prioritize changes addressing biggest sleep impediments first.</p><h2>Temperature Control</h2><p>Install programmable thermostat setting bedroom to cool temperature. Use breathable, moisture-wicking bedding allowing heat dissipation. Ceiling fan increases air circulation helping cooling. In winter, heavy comforter maintains warmth without raising room temperature. Some people benefit from keeping feet outside covers allowing temperature self-regulation. Individual experimentation identifies optimal personal temperature.</p><h2>Light Elimination</h2><p>Install blackout curtains completely blocking external light. Apply blackout film to windows. Cover electronic lights (chargers, alarm clocks, electronics status lights). Use eye mask if light sources remain. Complete darkness optimizes melatonin production. Light sensitivity varies individually but generally darker better for most.</p><h2>Sound Management</h2><p>Use high-quality earplugs reducing disruptive noise while maintaining ability to hear alarm. White noise machines mask disruptive environmental sounds. Soft background noise (rain sounds, nature sounds, brown noise) masks disruptive sounds without startling. Some people prefer complete silence adjusted through earplugs.</p><h2>Bedding Investment</h2><p>Quality mattress (supporting 7-10 years) worth investment. Test various firmness levels finding personal preference. Supportive, properly-contoured pillow maintains neutral neck alignment. High thread-count natural fiber sheets (Egyptian cotton, bamboo) more comfortable than synthetic. Weighted blankets preferred by some. Invest in comfortable sleep infrastructure.</p><h2>Air Quality</h2><p>Open windows when possible allowing fresh air circulation. Air purifiers address allergen concerns affecting sleep quality. Humidifiers help very dry climates. Maintain humidity 40-60% for comfort. Regular bedding laundering maintains cleanliness supporting sleep.</p><h2>Furniture and Organization</h2><p>Remove furniture introducing visual clutter and distraction. Nightstands holding only essentials (lamp, water, alarm clock). Remove work-related items, exercise equipment, or other mentally stimulating items. Peaceful, organized space psychologically promotes relaxation and sleep. Some people benefit from minimal furniture focusing on bed as centerpiece.</p><h2>Scent Optimization</h2><p>Some people sleep better with calming scents (lavender, chamomile, sandalwood). Subtle aromatherapy through diffuser or sachet acceptable. Strong artificial fragrances can interfere with sleep. Natural scents at low intensity when personal preference.</p><h2>Technology Removal</h2><p>Ideally remove all screens (TV, computer, tablets) from bedroom. Blue light suppresses melatonin. If screen must be in bedroom, hide out of sight. Never use screens 1+ hour before bed. Airplane mode blocks notifications during sleep. Some people benefit from leaving phone outside bedroom reducing temptation to check notifications.</p><h2>Personal Touches</h2><p>Calming artwork, plants, or natural elements create pleasant aesthetic. Avoid stimulating images or work-related reminders. Bedroom should feel like peaceful refuge supporting relaxation and sleep. Individual decor choices should reflect personal preference creating comforting space.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Bedroom details and calming environment" style="max-width:100%; border-radius:8px;" /></div><h2>Implementation Strategy</h2><p>Prioritize changes addressing greatest sleep impediments first. Gradual implementation allows adjusting to changes. Experiment with different options finding personal optimization. After initial implementation, maintain environment consistency. Seasonal adjustments (heavier bedding winter, lighter summer) optimize perennial comfort. Periodic reassessment ensures environment remains optimized as needs change.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1540932626666-e92a0cac2f5f?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Perfect sleep environment and optimization" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-hygiene-practices", slug: "sleep-hygiene-practices", title: "Sleep Hygiene: Best Practices for Healthy Sleep Habits", category: "Sleep", categorySlug: "sleep", description: "Evidence-based sleep hygiene practices improving sleep quality and consistency.", author: "SixHealth Team", content: `<h2>What Is Sleep Hygiene?</h2><p>Sleep hygiene encompasses behaviors and environment practices supporting quality sleep. While insufficient alone for established sleep disorders, sleep hygiene forms foundation of good sleep. Implementing sleep hygiene recommendations resolves many cases of mild sleep problems and supports treatment outcomes for more severe disorders.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2310" alt="Sleep hygiene routines and healthy habits" style="max-width:100%; border-radius:8px;" /></div><h2>Sleep Schedule Consistency</h2><p>Maintaining consistent sleep-wake times (even weekends) entrains circadian rhythm optimizing sleep quality. Variable schedule disrupts sleep timing triggering insomnia and daytime sleepiness. Existing research supports consistency more than absolute duration. Weekday/weekend variation of 2+ hours creates "social jet lag" disrupting function. Ideal: within 1 hour consistent timing.</p><h2>Light Exposure Optimization</h2><p>Morning bright light exposure (outdoor or light therapy box) synchronizes circadian rhythm and boosts morning alertness. Evening bright light avoidance (particularly blue light from screens) prevents melatonin suppression. Screen time limitation 1+ hour before bed especially important. Dim bedroom lights signaling sleep time. Consistent light timing strengthens circadian alignment.</p><h2>Caffeine and Alcohol Management</h2><p>Caffeine consumed after 2 PM remains in system impairing sleep onset. Limit daily intake ideally under 300-400 mg. Alcohol despite sedative effect impairs sleep architecture reducing restorative sleep. Avoid alcohol within 3-4 hours of sleep. Both substances interfere with sleep quality despite potentially easing initial sleep onset.</p><h2>Exercise Timing</h2><p>Regular exercise significantly improves sleep quality. Aerobic and strength training both beneficial. Exercise timing matters: morning or afternoon exercise promotes sleep; late evening exercise (within 3 hours of bedtime) activates nervous system potentially impairing sleep. Most benefit from consistent timing supporting circadian rhythm. 150 minutes weekly moderate aerobic activity recommended.</p><h2>Meal Timing and Composition</h2><p>Heavy meals within 2-3 hours of sleep impair sleep through gastrointestinal activity and discomfort. Large meals trigger acid reflux. Light snacks acceptable. Late-night stimulant foods (sugar, chocolate) impair sleep. Balanced dinner with protein and complex carbohydrates supports sleep. Staying well-hydrated important but limit fluids 1 hour before bed to minimize nighttime urination.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2311" alt="Sleep hygiene habits and daily practices" style="max-width:100%; border-radius:8px;" /></div><h2>Bedroom Use Guidelines</h2><p>Bedroom reserved primarily for sleep (and intimacy). Avoid working, watching TV, or eating in bed. These activities create negative bed associations causing wakefulness. If can't sleep 20 minutes after getting into bed, leave bedroom doing relaxing activity elsewhere until sleepy. This stimulus control strengthens bed-sleep association.</p><h2>Temperature and Environment</h2><p>Cool bedroom temperature (60-67°F) promotes sleep. Darkness through blackout curtains or eye mask. Quiet environment through earplugs or white noise. These environmental controls consistently support better sleep. Individual preferences vary but generally cooler, darker, quieter environments superior for most.</p><h2>Night-Shift Worker Considerations</h2><p>Schedule consistency difficult with shift work but remaining possible. Workers should use strategically-timed light exposure, melatonin, and consistent sleep schedule as possible within job constraints. Sleep in darkened environment regardless of time. Some adjustment possible though never achieves normal daytime sleep quality. Improving awareness among employers of sleep importance can reduce schedule disruptions.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1584220815890-62b87adac204?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2312" alt="Sleep success and healthy habits" style="max-width:100%; border-radius:8px;" /></div>` },
+  { id: "sleep-environment-optimization", slug: "sleep-environment-optimization", title: "Optimizing Your Sleep Environment for Better Rest", category: "Sleep", categorySlug: "sleep", description: "Complete guide to designing a ideal bedroom for quality sleep.", author: "SixHealth Team", content: `<h2>Bedroom as Sleep Sanctuary</h2><p>Bedroom environment profoundly impacts sleep quality. Investing time and resources in bedroom optimization pays substantial dividends in sleep quality and daytime function. Think of bedroom as health investment comparable to medical treatment.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2313" alt="Optimized bedroom environment and design" style="max-width:100%; border-radius:8px;" /></div><h2>Physical Environment Survey</h2><p>Assess current bedroom temperature (ideal 60-67°F), light (any light sources?), noise (audible sounds disruptive?), air quality (stuffy or fresh?), and visual organization (cluttered or calm?). Note what sleep-interfering factors present. Prioritize changes addressing biggest sleep impediments first.</p><h2>Temperature Control</h2><p>Install programmable thermostat setting bedroom to cool temperature. Use breathable, moisture-wicking bedding allowing heat dissipation. Ceiling fan increases air circulation helping cooling. In winter, heavy comforter maintains warmth without raising room temperature. Some people benefit from keeping feet outside covers allowing temperature self-regulation. Individual experimentation identifies optimal personal temperature.</p><h2>Light Elimination</h2><p>Install blackout curtains completely blocking external light. Apply blackout film to windows. Cover electronic lights (chargers, alarm clocks, electronics status lights). Use eye mask if light sources remain. Complete darkness optimizes melatonin production. Light sensitivity varies individually but generally darker better for most.</p><h2>Sound Management</h2><p>Use high-quality earplugs reducing disruptive noise while maintaining ability to hear alarm. White noise machines mask disruptive environmental sounds. Soft background noise (rain sounds, nature sounds, brown noise) masks disruptive sounds without startling. Some people prefer complete silence adjusted through earplugs.</p><h2>Bedding Investment</h2><p>Quality mattress (supporting 7-10 years) worth investment. Test various firmness levels finding personal preference. Supportive, properly-contoured pillow maintains neutral neck alignment. High thread-count natural fiber sheets (Egyptian cotton, bamboo) more comfortable than synthetic. Weighted blankets preferred by some. Invest in comfortable sleep infrastructure.</p><h2>Air Quality</h2><p>Open windows when possible allowing fresh air circulation. Air purifiers address allergen concerns affecting sleep quality. Humidifiers help very dry climates. Maintain humidity 40-60% for comfort. Regular bedding laundering maintains cleanliness supporting sleep.</p><h2>Furniture and Organization</h2><p>Remove furniture introducing visual clutter and distraction. Nightstands holding only essentials (lamp, water, alarm clock). Remove work-related items, exercise equipment, or other mentally stimulating items. Peaceful, organized space psychologically promotes relaxation and sleep. Some people benefit from minimal furniture focusing on bed as centerpiece.</p><h2>Scent Optimization</h2><p>Some people sleep better with calming scents (lavender, chamomile, sandalwood). Subtle aromatherapy through diffuser or sachet acceptable. Strong artificial fragrances can interfere with sleep. Natural scents at low intensity when personal preference.</p><h2>Technology Removal</h2><p>Ideally remove all screens (TV, computer, tablets) from bedroom. Blue light suppresses melatonin. If screen must be in bedroom, hide out of sight. Never use screens 1+ hour before bed. Airplane mode blocks notifications during sleep. Some people benefit from leaving phone outside bedroom reducing temptation to check notifications.</p><h2>Personal Touches</h2><p>Calming artwork, plants, or natural elements create pleasant aesthetic. Avoid stimulating images or work-related reminders. Bedroom should feel like peaceful refuge supporting relaxation and sleep. Individual decor choices should reflect personal preference creating comforting space.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2314" alt="Bedroom details and calming environment" style="max-width:100%; border-radius:8px;" /></div><h2>Implementation Strategy</h2><p>Prioritize changes addressing greatest sleep impediments first. Gradual implementation allows adjusting to changes. Experiment with different options finding personal optimization. After initial implementation, maintain environment consistency. Seasonal adjustments (heavier bedding winter, lighter summer) optimize perennial comfort. Periodic reassessment ensures environment remains optimized as needs change.</p><div style="text-align:center; margin-bottom:20px;"><img src="https://images.unsplash.com/photo-1532609025046-53143e090255?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2315" alt="Perfect sleep environment and optimization" style="max-width:100%; border-radius:8px;" /></div>` },
 
   // Wellness
   { id: "mental-well-being", slug: "mental-well-being", title: "Mental Well-Being: A Complete Guide to Emotional and Psychological Health", category: "Wellness", categorySlug: "wellness", description: "Learn what mental well-being means, why it matters, common challenges, and practical strategies to improve emotional and psychological health.", author: "SixHealth Editorial Team", reviewer: "SixHealth Clinical Team", readTime: "9 min read", content: `
 <img
-src="https://images.unsplash.com/photo-1571624436279-136fcf76f91e?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1505751172876-2b4f4b7f0a1b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2316"
 alt="Mental health counselor supporting patient wellness"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19602,7 +19602,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Strong mental well-being supports physical health, with research showing connections to lower inflammation, better immune function, and reduced risk of chronic diseases. People with good mental health demonstrate better focus, creativity, and decision-making. They maintain stronger relationships, perform better at work, and show greater resilience when facing difficulties. Conversely, poor mental health increases risk of depression, anxiety, substance misuse, and physical health problems. Prioritizing mental well-being is an investment in your overall health and longevity.</p>
 
 <img
-src="https://images.unsplash.com/photo-1500595046891-5b1f6fde99f4?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1576089541629-3ec6d7a28ba0?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2317"
 alt="Mindfulness meditation and peaceful wellness practice"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19625,7 +19625,7 @@ style="max-width:100%; border-radius:8px;"
 <p><strong>Find Purpose and Meaning:</strong> Engage in activities that feel meaningful—work you find purposeful, volunteering, creative pursuits, or learning new skills. Sense of purpose powerfully supports mental health and resilience.</p>
 
 <img
-src="https://images.unsplash.com/photo-1516307365426-f06628340bbb?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1516314775683-debb67b4e889?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2318"
 alt="Therapeutic counseling and professional mental health support"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19660,7 +19660,7 @@ style="max-width:100%; border-radius:8px;"
 
   { id: "sexual-health", slug: "sexual-health", title: "Sexual Health and Wellness: A Comprehensive Guide", category: "Wellness", categorySlug: "wellness", description: "Explore sexual health, reproductive wellness, relationship satisfaction, and practical strategies for maintaining sexual and reproductive well-being throughout life.", author: "SixHealth Editorial Team", reviewer: "SixHealth Clinical Team", readTime: "10 min read", content: `
 <img
-src="https://images.unsplash.com/photo-1576091160550-112169f7f8f0?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2319"
 alt="Sexual health education and reproductive wellness"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19681,7 +19681,7 @@ style="max-width:100%; border-radius:8px;"
 <p><strong>Relationship Dynamics:</strong> Open communication, mutual respect, enthusiastic consent, and shared values strengthen sexual relationships. Partners who discuss preferences, boundaries, and concerns openly build trust and intimacy. Couples therapy or sex therapy can help address communication challenges or sexual concerns.</p>
 
 <img
-src="https://images.unsplash.com/photo-1579154204601-01d82b27ebcc?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2320"
 alt="Intimate couple communication and relationship health"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19708,7 +19708,7 @@ style="max-width:100%; border-radius:8px;"
 <p><strong>Older Adults:</strong> Sexual activity and satisfaction remain possible and beneficial throughout life. Menopause and andropause bring hormonal changes sometimes requiring adjustment. Cardiovascular health and medication side effects may impact function. Open communication and sometimes medical or therapeutic support help maintain satisfying sexual lives.</p>
 
 <img
-src="https://images.unsplash.com/photo-1517457373614-b7152f800fd1?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1524230575278-9a0b3d2c2d3b?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2321"
 alt="Healthcare provider discussing sexual health wellness"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19747,7 +19747,7 @@ style="max-width:100%; border-radius:8px;"
 
   { id: "vitamins-supplements", slug: "vitamins-supplements", title: "Vitamins and Supplements: A Complete Evidence-Based Guide", category: "Wellness", categorySlug: "wellness", description: "Learn about essential vitamins and supplements, their health benefits, scientifically-supported uses, safety considerations, and how to choose quality products for your wellness needs.", author: "SixHealth Editorial Team", reviewer: "SixHealth Clinical Team", readTime: "11 min read", content: `
 <img
-src="https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2322"
 alt="Various vitamins and dietary supplements for health"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19763,7 +19763,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Minerals like calcium, magnesium, iron, and zinc support bone health, enzyme function, oxygen transport, and immune responses. A balanced diet containing whole grains, leafy greens, nuts, seeds, dairy products, and lean proteins typically provides adequate minerals. However, specific populations—vegetarians, athletes, pregnant women, older adults—may benefit from targeted supplementation. Mineral bioavailability varies; some minerals enhance others' absorption while certain compounds inhibit absorption. Understanding these interactions helps optimize supplementation efficacy.</p>
 
 <img
-src="https://images.unsplash.com/photo-1576091160677-112d6d749f6d?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2323"
 alt="Healthy nutrition and balanced vitamin intake from food"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19796,7 +19796,7 @@ style="max-width:100%; border-radius:8px;"
 <p><strong>Excessive Supplementation:</strong> Fat-soluble vitamins (A, D, E, K) accumulate in body fat. Excessive vitamin A supplementation increases birth defect risk. Mega-dose vitamin E increases bleeding risk. More isn't always better; excessive supplementation can harm.</p>
 
 <img
-src="https://images.unsplash.com/photo-1576091160393-112c9ce7e5a9?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2324"
 alt="Quality supplement selection and evidence-based wellness"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19851,7 +19851,7 @@ style="max-width:100%; border-radius:8px;"
     readTime: "12 min read",
     content: `
 <img
-src="https://images.unsplash.com/photo-1576091160550-112169f7f8f0?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1522335618666-a8ca199e6e05?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2325"
 alt="Women's wellness and healthcare consultation"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19866,7 +19866,7 @@ style="max-width:100%; border-radius:8px;"
 <p>For women planning pregnancy, preconception care including adequate folic acid, management of chronic conditions, and addressing substance use optimizes outcomes. During pregnancy, regular prenatal visits, appropriate weight gain, and attention to blood pressure and glucose support maternal and fetal health. After childbirth, postpartum screening addresses physical recovery, mental health including postpartum depression, and contraceptive needs if desired.</p>
 
 <img
-src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2326"
 alt="Women healthcare and wellness support"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"
@@ -19881,7 +19881,7 @@ style="max-width:100%; border-radius:8px;"
 <p>Women lose bone density rapidly after menopause due to falling estrogen levels. Osteoporosis increases fracture risk, particularly hip, spine, and wrist fractures, which can devastate independence and quality of life. Prevention starts early: adequate calcium intake (1,200 mg daily for women over 50), vitamin D (600–800 IU daily, more if deficient), and regular weight-bearing and strength-training exercise preserve bone density. Avoiding smoking and limiting alcohol also protect bone health. Bone density screening (DEXA scan) is recommended starting at age 65 or earlier if risk factors are present. Identified osteoporosis or osteopenia can be treated with medications and intensive lifestyle modifications.</p>
 
 <img
-src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=900&fm=webp&q=70"
+src="https://images.unsplash.com/photo-1568166452873-b990c0dfac32?auto=format&fit=crop&w=1200&q=80&fm=webp&unique=2327"
 alt="Healthy lifestyle and wellness practices for women"
 loading="lazy"
 style="max-width:100%; border-radius:8px;"

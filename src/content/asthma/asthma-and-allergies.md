@@ -11,10 +11,10 @@ byline: "Medically reviewed by Dr. James Wilson — Written by Dr. Sarah Mitchel
 readTime: "15 min read"
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1513224502586-d1e602410265?w=1200&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=1349&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1513224502586-d1e602410265?w=1200&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=1349&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 The connection between asthma and allergies is profound, with allergic asthma representing the most common type affecting 80% of asthma patients. This article reviews mechanisms, common allergens, testing, avoidance strategies, immunotherapy, and the interplay between allergic rhinitis and lower airway disease.
 

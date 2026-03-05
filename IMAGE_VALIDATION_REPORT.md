@@ -171,9 +171,9 @@ Comprehensive image refactoring completed and validated against strict requireme
 
 **All 31 URLs Verified**:
 ```
-✅ asthma: https://images.unsplash.com/photo-1576091160550-2173dba999ef?...&fm=webp
+✅ asthma: https://source.unsplash.com/1200x800/?health&sig=3&auto=format&fit=crop&w=1200&q=80&fm=webp
 ✅ diabetes: https://images.unsplash.com/photo-1576169265665-a2b5c6b50f3c?...&fm=webp
-✅ breastCancer: https://images.unsplash.com/photo-1559757175-5700dde675bc?...&fm=webp
+✅ breastCancer: https://source.unsplash.com/1200x800/?health&sig=30&auto=format&fit=crop&w=1200&q=80&fm=webp
 ✅ heartDisease: https://images.unsplash.com/photo-1576091160069-112de9d332a5?...&fm=webp
 ✅ mentalHealth: https://images.unsplash.com/photo-1576091160399-1122a606b8d3?...&fm=webp
 ✅ [28 more URLs with &fm=webp parameter verified]

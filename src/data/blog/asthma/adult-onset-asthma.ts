@@ -11,7 +11,7 @@ const adultOnsetAsthma = {
   publishDate: "2026-02-19",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Adult experiencing breathing difficulty consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Adult experiencing breathing difficulty consultation" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -25,7 +25,7 @@ Because symptoms may be mistaken for other respiratory or heart conditions, adul
 <h2>What Is Adult-Onset Asthma?</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Respiratory system medical illustration concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Respiratory system medical illustration concept" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -50,7 +50,7 @@ Because symptoms may develop gradually, many adults ignore early warning signs u
 <h2>Common Symptoms</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Adult experiencing asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Adult experiencing asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -91,7 +91,7 @@ Workplace-related asthma is especially important to identify early, as continued
 <h2>Diagnosis in Adults</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lung function testing in clinic" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Lung function testing in clinic" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -113,7 +113,7 @@ Accurate diagnosis helps distinguish asthma from COPD, chronic bronchitis, or ot
 <h2>Treatment Options</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Adult using asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Adult using asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -135,7 +135,7 @@ Adults should also receive education on inhaler technique and follow a personali
 <h2>Lifestyle and Long-Term Management</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle and outdoor activity for lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Healthy lifestyle and outdoor activity for lung health" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -196,3 +196,4 @@ Yes. Avoiding triggers, maintaining fitness, and managing weight improve symptom
 `};
 
 export default adultOnsetAsthma;
+

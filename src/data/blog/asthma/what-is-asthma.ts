@@ -12,7 +12,7 @@ const whatIsAsthma: BlogPost = {
   readTime: "15 min read",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Asthma overview" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Asthma overview" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -38,7 +38,7 @@ Although asthma cannot be cured, it can be effectively managed with proper treat
 <h2>Overview</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1580281658629-0c5a1f7e8f35?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Lung illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Lung illustration" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -75,7 +75,7 @@ People with allergies, eczema, or allergic rhinitis are more likely to develop a
 <h2>Symptoms</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Asthma symptoms" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -113,7 +113,7 @@ These tests help determine the severity of the condition and guide treatment pla
 <h2>Treatment Options</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Asthma inhaler treatment" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -134,7 +134,7 @@ Doctors often provide a personalized asthma action plan that outlines daily medi
 <h2>Lifestyle and Self-Care</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Healthy lifestyle and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Healthy lifestyle and exercise" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -184,3 +184,4 @@ Yes, asthma can develop at any age, even if there was no history in childhood.</
 };
 
 export default whatIsAsthma;
+

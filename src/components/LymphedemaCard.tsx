@@ -4,7 +4,7 @@ export default function LymphedemaCard() {
   return (
     <div className="bg-white border rounded shadow-sm overflow-hidden">
       <img
-        src="https://images.unsplash.com/photo-1584480174307-6d6f42a3b523?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=1b3c9d2c0e9f0e5b8b3f0d7f3e2d8a4a"
+        src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"
         alt="Lymphedema care"
         className="w-full h-36 object-cover"
       />
@@ -36,3 +36,4 @@ export default function LymphedemaCard() {
     </div>
   )
 }
+

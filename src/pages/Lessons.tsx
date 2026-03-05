@@ -50,17 +50,17 @@ const highlights = [
   {
     title: "Under 10 minutes a week",
     desc: "Short lessons that make a big difference.",
-    img: "/images/highlight-icon2.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   },
   {
     title: "Fun and effective",
     desc: "Quizzes and graphics that make learning easy.",
-    img: "/images/highlight-icon3.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   },
   {
     title: "Created by experts",
     desc: "Proven advice from specialists you can trust.",
-    img: "/images/highlight-icon1.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   },
 ];
 
@@ -100,7 +100,7 @@ const LessonsPage: React.FC = () => {
         <div className="my-12">
           <h2 className="text-2xl font-bold mb-4">Become the champion of your own health</h2>
           <p className="mb-6 text-lg">Managing your chronic condition can be a challenge, but Healthline Lessons is here to help. With lessons developed by health experts and inspired by real-life experience, you can climb that mountain one step at a time.</p>
-          <img src="/images/food-mountain.png" alt="hiker summiting a pile of healthy foods" className="mx-auto w-64 md:w-80 mb-6" />
+          <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="hiker summiting a pile of healthy foods" className="mx-auto w-64 md:w-80 mb-6" />
         </div>
         <div className="my-12">
           <h2 className="text-2xl font-bold mb-4">Join over 300,000 others improving their health</h2>
@@ -137,3 +137,4 @@ const LessonsPage: React.FC = () => {
 };
 
 export default LessonsPage;
+

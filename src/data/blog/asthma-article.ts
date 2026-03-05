@@ -1,6 +1,6 @@
 const asthmaArticle = `
 <h1>Asthma: Causes, Symptoms, and Practical Management</h1>
-<p><strong>Image:</strong> <img src="/images/asthma.webp" alt="Person using inhaler" /></p>
+<p><strong>Image:</strong> <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Person using inhaler" /></p>
 <h2>Introduction</h2>
 <p>Asthma is a chronic respiratory condition characterized by episodes of airway narrowing, inflammation, and excess mucus production. It affects people of all ages and can range from mild intermittent symptoms to severe, life-threatening attacks. Understanding what triggers asthma, how it is diagnosed, and the range of treatment options helps people live well with the condition and reduces the risk of exacerbations.</p>
 
@@ -47,3 +47,4 @@ const asthmaArticle = `
 `;
 
 export default asthmaArticle;
+

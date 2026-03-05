@@ -1,5 +1,5 @@
 import { useLocation, useParams, useNavigate } from "react-router-dom";
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 
 export default function SubSectionPage() {
   const { id } = useParams();
@@ -8,7 +8,7 @@ export default function SubSectionPage() {
   const title = location.state?.title || "Subsection";
 
   return (
-    <Layout>
+    <ArticleLayout title={title} toc={[]} relatedArticles={[]}>
       <div className="max-w-3xl mx-auto px-4 py-10">
         <button
           className="mb-6 text-purple-700 hover:underline"
@@ -21,6 +21,6 @@ export default function SubSectionPage() {
           {}
         </div>
       </div>
-    </Layout>
+    </ArticleLayout>
   );
 }

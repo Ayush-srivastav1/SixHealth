@@ -11,10 +11,10 @@ byline: "Medically reviewed by Dr. James Wilson — Written by Dr. Sarah Mitchel
 readTime: "15 min read"
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=1200&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=1350&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=1200&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=1350&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 Childhood asthma affects approximately 1 in 12 children. Early diagnosis and management are crucial for normal development and reducing complications. This article covers why children develop asthma, recognizing symptoms across ages, diagnostic challenges, appropriate inhaler delivery, medication choices, school management, and family strategies to keep children safe and active.
 

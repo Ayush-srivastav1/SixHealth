@@ -47,7 +47,7 @@ womensFitness, yoga, zogaSports
 
 **Sample Entry**:
 ```typescript
-asthma: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80&fm=webp"
+asthma: "https://source.unsplash.com/1200x800/?health&sig=2&auto=format&fit=crop&w=1200&q=80&fm=webp"
 ```
 
 ---

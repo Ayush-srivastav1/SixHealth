@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from "react-dom";
 import { cn } from "@/lib/utils";
 
 interface Props {
@@ -7,6 +8,12 @@ interface Props {
 	/** Inner panel classname (applied to centered panel) */
 	panelClassName?: string;
 	children: React.ReactNode;
+	/** forwarded mouse enter handler (used when rendering via portal) */
+	onMouseEnter?: () => void;
+	/** forwarded mouse leave handler (used when rendering via portal) */
+	onMouseLeave?: () => void;
+	/** optionally override top position (px) when rendering fixed panel */
+	topOverride?: number;
 }
 
 /**
@@ -20,21 +27,27 @@ export default function NavDropdownPanel({
 	children,
 	className = "",
 	panelClassName = "",
+	onMouseEnter: propsOnMouseEnter,
+	onMouseLeave: propsOnMouseLeave,
+	topOverride: propsTopOverride,
 }: Props) {
-	return (
+	const topStyle = typeof propsTopOverride === 'number' ? { top: `${propsTopOverride}px` } : undefined;
+
+	const content = (
 		<div
 			role="menu"
 			aria-label="Navigation dropdown"
-			className={cn(
-				"absolute left-0 top-full w-full z-50 transform opacity-0 translate-y-2 pointer-events-none",
-				"group-hover:opacity-100 group-hover:translate-y-0 group-hover:pointer-events-auto",
-				"transition-all duration-200 ease-out",
+			style={topStyle}
+			className={cn(
+				"fixed left-0 w-full z-[9999] transition-all duration-200 ease-out",
 				className
 			)}
 		>
 			<div
-				className={cn(
-					"mx-auto max-w-[1280px] px-12 py-8 bg-[#f4efe9] shadow-xl rounded-md",
+				onMouseEnter={propsOnMouseEnter}
+				onMouseLeave={propsOnMouseLeave}
+				className={cn(
+					"px-12 py-8 bg-[#f4efe9] shadow-xl rounded-md w-full",
 					panelClassName
 				)}
 			>
@@ -42,5 +55,8 @@ export default function NavDropdownPanel({
 			</div>
 		</div>
 	);
+
+	if (typeof document === "undefined") return content;
+	return ReactDOM.createPortal(content, document.body);
 }
 

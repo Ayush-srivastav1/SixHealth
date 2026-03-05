@@ -12,7 +12,7 @@ const typesOfAsthma: BlogPost = {
   readTime: "8 min read",
   content: `
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Types of asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Types of asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -22,7 +22,7 @@ Asthma is not a single disease but a group of conditions with different causes, 
 <h2>Allergic Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1580281658629-0c5a1f7e8f35?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Allergy-related asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Allergy-related asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -38,7 +38,7 @@ This form is triggered by factors such as infections, stress, weather changes, o
 <h2>Exercise-Induced Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Exercise asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Exercise asthma" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -54,7 +54,7 @@ This type results from exposure to workplace irritants such as chemicals, dust, 
 <h2>Severe Asthma</h2>
 
 <div style="text-align:center; margin:20px 0;">
-  <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&fm=webp&q=70" alt="Severe asthma care" loading="lazy" style="max-width:100%; border-radius:8px;" />
+  <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Severe asthma care" loading="lazy" style="max-width:100%; border-radius:8px;" />
 </div>
 
 <p>
@@ -101,3 +101,4 @@ No, but early specialist care improves outcomes.</p>
 };
 
 export default typesOfAsthma;
+

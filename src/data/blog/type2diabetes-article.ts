@@ -1,6 +1,6 @@
 const type2diabetesArticle = `
 <h1>Type 2 Diabetes: A Practical Guide to Management and Prevention of Complications</h1>
-<p><strong>Image:</strong> <img src="/images/type2diabetes.webp" alt="Glucose meter and healthy food" /></p>
+<p><strong>Image:</strong> <img src="https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp" alt="Glucose meter and healthy food" /></p>
 
 <h2>Introduction</h2>
 <p>Type 2 diabetes is a metabolic disorder characterized by insulin resistance and progressive beta-cell dysfunction, leading to elevated blood glucose. It is associated with increased risk of cardiovascular disease, kidney disease, nerve damage, and vision loss. Many cases can be delayed or prevented through lifestyle changes and early treatment.</p>
@@ -38,3 +38,4 @@ const type2diabetesArticle = `
 `;
 
 export default type2diabetesArticle;
+

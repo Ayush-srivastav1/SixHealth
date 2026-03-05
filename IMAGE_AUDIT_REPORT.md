@@ -67,7 +67,7 @@
 
 **Problem URLs** (missing `&fm=webp` parameter):
 ```
-❌ Line 164:  https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80
+❌ Line 164:  https://source.unsplash.com/1200x800/?health&sig=72&auto=format&fit=crop&w=1200&q=80&fm=webp
              MISSING: &fm=webp
 
 ❌ Line 181:  https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80
@@ -85,7 +85,7 @@
 ❌ Line 252:  https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80
              MISSING: &fm=webp
 
-❌ Line 304:  https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=80
+❌ Line 304:  https://source.unsplash.com/1200x800/?health&sig=72&auto=format&fit=crop&w=1200&q=80&fm=webp
              MISSING: &fm=webp (DUPLICATE of Line 164)
 
 ❌ Line 321:  https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80
@@ -145,13 +145,13 @@ Solution: Simplify to standard WebP format
 **Issue**: All URLs missing `&fm=webp` parameter
 
 ```
-❌ Line 25: image: "https://images.unsplash.com/photo-1576091160550-112173f7f869?w=500&h=300&fit=crop"
+❌ Line 25: image: "https://source.unsplash.com/1200x800/?health&sig=438&auto=format&fit=crop&w=1200&q=80&fm=webp"
            MISSING: &fm=webp
 
 ❌ Line 33: image: "https://images.unsplash.com/photo-1576091160579-112173f7f869?w=500&h=300&fit=crop"
            MISSING: &fm=webp
 
-❌ Line 41: image: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?w=500&h=300&fit=crop"
+❌ Line 41: image: "https://source.unsplash.com/1200x800/?health&sig=457&auto=format&fit=crop&w=1200&q=80&fm=webp"
            MISSING: &fm=webp
 
 ❌ Line 49: image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&h=300&fit=crop"
@@ -163,7 +163,7 @@ Solution: Simplify to standard WebP format
 ❌ Line 68: image: "https://images.unsplash.com/photo-1573496359142-b8d87734a775?w=500&h=300&fit=crop"
            MISSING: &fm=webp
 
-❌ Line 75: image: "https://images.unsplash.com/photo-1576091160550-112173f7f869?w=500&h=300&fit=crop"
+❌ Line 75: image: "https://source.unsplash.com/1200x800/?health&sig=438&auto=format&fit=crop&w=1200&q=80&fm=webp"
            MISSING: &fm=webp (DUPLICATE of Line 25 - same URL)
 
 ❌ Line 82: image: "https://images.unsplash.com/photo-1618328198882-2b51be8b0337?w=500&h=300&fit=crop"
@@ -172,7 +172,7 @@ Solution: Simplify to standard WebP format
 ❌ Line 89: image: "https://images.unsplash.com/photo-1579154204601-01d82b9c3054?w=500&h=300&fit=crop"
            MISSING: &fm=webp
 
-❌ Line 96: image: "https://images.unsplash.com/photo-1631217021380-72794b2a6a22?w=500&h=300&fit=crop"
+❌ Line 96: image: "https://source.unsplash.com/1200x800/?health&sig=457&auto=format&fit=crop&w=1200&q=80&fm=webp"
            MISSING: &fm=webp (DUPLICATE of Line 41 - same URL)
 
 ❌ Line 103: image: "https://images.unsplash.com/photo-1580489944761-b60bbb06ed43?w=500&h=300&fit=crop"
@@ -192,16 +192,16 @@ Solution: Simplify to standard WebP format
 Found 19 inline images with pattern: [IMAGE_RIGHT: https://... | caption]
 
 Examples:
-❌ Line 27: [IMAGE_RIGHT: https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=800 | ...]
+❌ Line 27: [IMAGE_RIGHT: https://source.unsplash.com/1200x800/?health&sig=1&auto=format&fit=crop&w=1200&q=80&fm=webp | ...]
            MISSING: &fm=webp (no standard format parameters)
 
-❌ Line 27: [IMAGE_LEFT: https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?q=80&w=800 | ...]
+❌ Line 27: [IMAGE_LEFT: https://source.unsplash.com/1200x800/?health&sig=437&auto=format&fit=crop&w=1200&q=80&fm=webp | ...]
            MISSING: &fm=webp
 
-❌ Line 27: [IMAGE_RIGHT: https://images.unsplash.com/photo-1631217314218-3e62f1bf8e8f?q=80&w=800 | ...]
+❌ Line 27: [IMAGE_RIGHT: https://source.unsplash.com/1200x800/?health&sig=437&auto=format&fit=crop&w=1200&q=80&fm=webp | ...]
            DUPLICATE URL (photo-1631217314218-3e62f1bf8e8f appears multiple times)
 
-❌ Line 27: [IMAGE_LEFT: https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=800 | ...]
+❌ Line 27: [IMAGE_LEFT: https://source.unsplash.com/1200x800/?health&sig=1&auto=format&fit=crop&w=1200&q=80&fm=webp | ...]
            DUPLICATE URL (photo-1576091160550-2173dba999ef appears multiple times)
 ```
 

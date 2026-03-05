@@ -11,10 +11,10 @@ byline: "Medically reviewed by Dr. James Wilson — Written by Dr. Sarah Mitchel
 readTime: "15 min read"
 date: 2026-02-10
 updatedDate: 2026-02-15
-imageUrl: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&fit=crop
+imageUrl: https://source.unsplash.com/1200x800/?health&sig=1348&auto=format&fit=crop&w=1200&q=80&fm=webp
 ---
 
-![](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&fit=crop)
+![](https://source.unsplash.com/1200x800/?health&sig=1348&auto=format&fit=crop&w=1200&q=80&fm=webp)
 
 Asthma developing in adulthood presents unique challenges and characteristics distinct from childhood-onset disease.
 

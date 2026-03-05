@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom"
-import { Layout } from "@/components/layout"
+import ArticleLayout from "@/components/ArticleLayout"
 import { findArticleBySlug } from "@/data/allArticles"
 import { breastCancerSections } from "@/data/breastCancerSections"
 import {
@@ -25,7 +25,7 @@ export default function BreastCancerArticleDetail() {
 
   if (!article) {
     return (
-      <Layout>
+      <ArticleLayout title="Article Not Found" toc={[]} relatedArticles={[]}>
         <div className="max-w-4xl mx-auto px-4 py-12 text-center">
           <h1 className="text-3xl font-bold mb-4">Article Not Found</h1>
           <p className="text-gray-600 mb-6">
@@ -38,7 +38,7 @@ export default function BreastCancerArticleDetail() {
             Back to Breast Cancer
           </Link>
         </div>
-      </Layout>
+      </ArticleLayout>
     )
   }
 
@@ -48,8 +48,32 @@ export default function BreastCancerArticleDetail() {
     day: "numeric",
   })
 
+  const slugify = (text: string) =>
+    text
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+
+  const tocItems = getHeadingsFromContent(article.content).map((title: string) => ({
+    id: slugify(title),
+    text: title,
+  }))
+
+  const related = breastCancerSections
+    .flatMap((s) => s.articles)
+    .filter((a) => a.slug !== slug)
+    .slice(0, 6)
+    .map((a) => ({ id: a.id, title: a.title, slug: a.slug, href: `/breast-cancer/article/${a.slug}`, imageUrl: a.image }))
+
   return (
-    <Layout>
+    <ArticleLayout
+      title={article.title}
+      heroImage={article.imageUrl}
+      author={{ name: "Editorial Team" }}
+      published={articleDate}
+      toc={tocItems}
+      relatedArticles={related}
+    >
       <article>
         {}
         <header className="border-b bg-white">
@@ -147,54 +171,13 @@ export default function BreastCancerArticleDetail() {
               </div>
             </div>
 
-            {}
-            <div className="lg:col-span-1">
-              <div className="sticky top-4">
-                <div className="bg-gray-50 border rounded-lg p-6">
-                  <h3 className="flex items-center gap-2 font-bold text-lg mb-4 text-gray-900">
-                    <BookOpen className="h-5 w-5" />
-                    On this page
-                  </h3>
-                  <nav className="space-y-2 text-sm">
-                    <a href="#intro" className="text-purple-600 hover:text-purple-700 block">
-                      Overview
-                    </a>
-                    {getHeadingsFromContent(article.content).map((title: string, idx: number) => {
-                      const id = title.toLowerCase().replace(/[^a-z0-9]+/g, '-')
-                      return (
-                        <a key={idx} href={`#${id}`} className="text-purple-600 hover:text-purple-700 block">
-                          {title}
-                        </a>
-                      )
-                    })}
-                  </nav>
-                </div>
-              </div>
-            </div>
+            {/* Left-side TOC is provided by ArticleLayout; removed page-level 'On this page' card */}
           </div>
 
           {}
-          <div className="mt-16 pt-8 border-t">
-            <h3 className="text-2xl font-bold text-gray-900 mb-6">Read this next</h3>
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {breastCancerSections.flatMap(section =>
-                section.articles.filter(a => a.slug !== slug).slice(0, 3).map(relArticle => (
-                  <Link
-                    key={relArticle.id}
-                    to={`/breast-cancer/article/${relArticle.slug}`}
-                    className="block p-4 bg-white border rounded hover:shadow-md transition"
-                  >
-                    <h4 className="font-semibold text-gray-900 mb-2 line-clamp-2">
-                      {relArticle.title}
-                    </h4>
-                    <p className="text-sm text-purple-600 font-semibold">READ MORE →</p>
-                  </Link>
-                ))
-              )}
-            </div>
-          </div>
+          {/* Related articles are rendered by ArticleLayout's sidebar; removed duplicate grid */}
         </div>
       </article>
-    </Layout>
+    </ArticleLayout>
   )
 }

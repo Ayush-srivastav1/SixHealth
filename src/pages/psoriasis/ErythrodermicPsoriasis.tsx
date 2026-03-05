@@ -1,10 +1,17 @@
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { allArticles, findArticleBySlug } from "@/data/allArticles";
 
 export default function ErythrodermicPsoriasis() {
   const article = findArticleBySlug("erythrodermic-psoriasis");
   return (
-    <Layout>
+    <ArticleLayout
+      title={article?.title ?? "Erythrodermic Psoriasis"}
+      heroImage={article?.imageUrl}
+      author={article?.author ? { name: article.author } : undefined}
+      published={article?.publishDate}
+      toc={[]}
+      relatedArticles={[]}
+    >
       <div className="max-w-3xl mx-auto px-4 py-10">
         <h1 className="text-3xl font-bold mb-4">{article?.title ?? "Erythrodermic Psoriasis"}</h1>
         <div className="text-gray-700 text-lg space-y-6 leading-relaxed">
@@ -74,6 +81,6 @@ export default function ErythrodermicPsoriasis() {
           </p>
         </div>
       </div>
-    </Layout>
+    </ArticleLayout>
   );
 }

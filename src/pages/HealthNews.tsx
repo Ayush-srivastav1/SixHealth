@@ -5,44 +5,45 @@ const newsArticles = [
     title: "To-Go Coffee Cups Release Thousands of Microplastics: How to Stay Safe",
     date: "JANUARY 26, 2026",
     href: "/health-news/to-go-coffee-cups-release-microplastics-study",
-    img: "/images/news-coffee-cups.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "A recent study has found that to-go coffee cups may release microplastics when hot beverages are in them. Find out how to stay safe here.",
   },
   {
     title: "Physical Activity May Reduce Breast Cancer Risk, Study Shows",
     date: "JANUARY 26, 2026",
     href: "/health-news/physical-activity-may-reduce-breast-cancer-risk",
-    img: "/images/news-breast-cancer.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "A recent study has found that being physically active at an earlier age may help reduce breast cancer risk later in life.",
   },
   {
     title: "And Just Like That... Sarah Jessica Parker Realized Her Vision Was Changing",
     date: "JANUARY 25, 2026",
     href: "/health-news/sarah-jessica-parker-talks-age-related-blurry-vision-treatment",
-    img: "/images/news-sjp-vision.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "Sarah Jessica Parker reveals how she is addressing age-related blurry vision. The 'And Just Like That...' and 'Sex and the City' star and avid reader…",
   },
   {
     title: "What TV Gets Wrong About CPR and Why It Matters",
     date: "JANUARY 24, 2026",
     href: "/health-news/what-tv-gets-wrong-about-cpr-and-why-it-matters",
-    img: "/images/news-cpr.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "Scripted television often shows CPR performed incorrectly. This can affect how the public responds to emergency situations, according to a recent…",
   },
   {
     title: "Heart Disease Deaths Decline, but Remain Leading Cause of Death in U.S.",
     date: "JANUARY 23, 2026",
     href: "/health-news/heart-disease-stroke-deaths-decline-but-remain-leading-cause-of-death",
-    img: "/images/news-heart-disease.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "Deaths from heart disease and stroke are declining, but still kill more Americans than any other cause, according to new data from the American Heart…",
   },
   {
     title: "Colorectal Cancer Is Now Leading Cause of Cancer Deaths in People Under 50",
     date: "JANUARY 23, 2026",
     href: "/health-news/colorectal-cancer-leading-cause-cancer-related-death-young-adults",
-    img: "/images/news-colorectal-cancer.jpg",
+    img: "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
     desc: "Colorectal cancer is now the leading cause of death due to cancer for Americans under 50, according to a new report from the American Cancer Society…",
-  },
+  },
+
 ];
 
 const HealthNewsPage: React.FC = () => {
@@ -90,3 +91,4 @@ const HealthNewsPage: React.FC = () => {
 };
 
 export default HealthNewsPage;
+

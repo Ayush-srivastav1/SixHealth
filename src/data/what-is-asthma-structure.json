@@ -3,7 +3,7 @@
   "title": "What is Asthma? A Comprehensive Guide to Symptoms, Causes, and Management",
   "excerpt": "Asthma is a chronic inflammatory disease of the airways causing breathing difficulties. Learn about its causes, risk factors, and how it affects the lungs in this detailed guide.",
   "category": "Basics",
-  "imageUrl": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&h=600&fit=crop",
+  "imageUrl": "${imageLibrary.healthcare}",
   "author": "Dr. Sarah Mitchell",
   "authorRole": "Pulmonologist",
   "reviewer": "Dr. James Wilson",
@@ -44,7 +44,7 @@
   ],
   "images": [
     {
-      "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=800&h=600&fit=crop",
+      "url": "${imageLibrary.healthcare}",
       "caption": null,
       "context": "lead image for article"
     }

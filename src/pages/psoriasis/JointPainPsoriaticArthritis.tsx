@@ -1,4 +1,4 @@
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 import { Link } from "react-router-dom";
 import { allArticles, findArticleBySlug } from "@/data/allArticles";
 import { ArticleCard } from "@/components/articles/ArticleCard";
@@ -8,11 +8,19 @@ export default function JointPainPsoriaticArthritis() {
 
   const related = allArticles.filter((a) =>
     (a.slug || "").includes("psoriatic") || (a.title || "").toLowerCase().includes("psoriatic")
-  );
+  );
+
   const fallback = allArticles.filter((a) => a.category === (article?.category || "conditions")).slice(0, 3);
 
   return (
-    <Layout>
+    <ArticleLayout
+      title={article?.title ?? "Joint Pain (Psoriatic Arthritis)"}
+      heroImage={article?.imageUrl}
+      author={article?.author ? { name: article.author } : undefined}
+      published={article?.date}
+      toc={[]}
+      relatedArticles={related.length > 0 ? related : fallback}
+    >
       <div className="max-w-4xl mx-auto px-4 py-10">
         {}
         <div className="grid gap-6 md:grid-cols-3 items-start mb-8">
@@ -23,7 +31,7 @@ export default function JointPainPsoriaticArthritis() {
             <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
               <div className="flex items-center gap-2">
                 <img
-                  src={article?.imageUrl || "https://images.unsplash.com/photo-1582719478176-2a1d9b6f8e7e?w=800&h=600&fit=crop"}
+                  src={article?.imageUrl || "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"}
                   alt={article?.title ?? "Psoriatic Arthritis"}
                   className="h-12 w-12 rounded object-cover"
                 />
@@ -64,7 +72,7 @@ export default function JointPainPsoriaticArthritis() {
 
           <div className="hidden md:block">
             <img
-              src={article?.imageUrl || "https://images.unsplash.com/photo-1582719478176-2a1d9b6f8e7e?w=800&h=1200&fit=crop"}
+              src={article?.imageUrl || "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp"}
               alt={article?.title ?? "Psoriatic Arthritis"}
               className="rounded-lg shadow-sm object-cover h-full w-full"
             />
@@ -152,13 +160,7 @@ export default function JointPainPsoriaticArthritis() {
             Seek medical attention if you have persistent joint pain, swelling, or morning stiffness lasting more than 30 minutes. Early rheumatology referral is recommended when inflammatory arthritis is suspected so that disease-modifying therapy can be considered to prevent damage.
           </p>
 
-          <h2 id="related">Related articles</h2>
-          <p className="mb-4">Further reading and related topics from our library:</p>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {(related.length > 0 ? related : fallback).map((a) => (
-              <ArticleCard key={a.id} {...a} compact />
-            ))}
-          </div>
+          {/* Related articles moved to the right-hand sidebar via ArticleLayout; in-content duplicate removed */}
 
           <h2 className="text-base font-semibold mt-8">Author and review information</h2>
           <p className="text-sm text-muted-foreground">Author: {article?.author ?? "Rheumatology Editorial Team"}</p>
@@ -172,6 +174,7 @@ export default function JointPainPsoriaticArthritis() {
           <p className="text-sm text-gray-500 mt-6">This content is for informational purposes only and does not replace professional medical advice.</p>
         </article>
       </div>
-    </Layout>
+    </ArticleLayout>
   );
 }
+

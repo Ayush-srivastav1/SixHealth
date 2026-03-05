@@ -1,11 +1,13 @@
-import { Layout } from "@/components/layout";
+import ArticleLayout from "@/components/ArticleLayout";
 
 export default function NailPsoriasis() {
   return (
-    <Layout>
-      <div className="max-w-3xl mx-auto px-4 py-10">
-        <h1 className="text-3xl font-bold mb-4">Nail Psoriasis</h1>
-        <div className="text-gray-700 text-lg space-y-6 leading-relaxed">
+    <ArticleLayout
+      title={"Nail Psoriasis"}
+      toc={[]}
+      relatedArticles={[]}
+    >
+      <div className="text-gray-700 text-lg space-y-6 leading-relaxed">
           <p>
             Nail psoriasis is a common manifestation in people with psoriasis and can affect fingernails and toenails. Changes range from tiny pits in the nail surface to thickening, discoloration, separation of the nail from the nail bed (onycholysis), and complete nail destruction in severe cases. Nail disease can be painful, reduce hand function, and carry social stigma.
           </p>
@@ -71,7 +73,6 @@ export default function NailPsoriasis() {
             This content is for informational purposes only and does not replace professional medical advice.
           </p>
         </div>
-      </div>
-    </Layout>
+    </ArticleLayout>
   );
 }
