@@ -26,10 +26,13 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { contentToString } from "@/lib/articleUtils";
-import { extractH2HeadingsFromHTML } from "@/lib/articleUtils";
+import { extractH2HeadingsFromHTML } from "@/lib/articleUtils";
+
 export const ArticleContent: React.FC<{ content?: string | ArticleSection[] }> = ({ content }) => {
-	if (typeof content === "string") {
-		const cleaned = content.replace(/<hr\/?>([\s\S]*?)<div[^>]*>\s*\n?\s*<p><strong>Author:[\s\S]*?<\/div>\s*$/i, '');
+	if (typeof content === "string") {
+
+		const cleaned = content.replace(/<hr\/?>([\s\S]*?)<div[^>]*>\s*\n?\s*<p><strong>Author:[\s\S]*?<\/div>\s*$/i, '');
+
 		const finalContent = cleaned.replace(/<hr\/?>[\s\S]*$/i, '');
 		return <div className="prose max-w-none" dangerouslySetInnerHTML={{ __html: finalContent }} />;
 	}
@@ -50,9 +53,11 @@ export const ArticleContent: React.FC<{ content?: string | ArticleSection[] }> =
 				})}
 			</div>
 		);
-	}
+	}
+
 	return <div className="prose max-w-none">{String(content)}</div>;
-};
+};
+
 export function getHeadingsFromContent(content?: string | ArticleSection[]): string[] {
 	if (Array.isArray(content)) {
 		return content.filter((s) => !!s?.heading).map((s) => s.heading as string);
@@ -66,7 +71,8 @@ export function getHeadingsFromContent(content?: string | ArticleSection[]): str
 interface ArticleRendererProps {
 	article: ArticleType;
 	related?: ArticleType[];
-}
+}
+
 export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related }) => {
 	const relatedArticles =
 		related ?? allArticles.filter((a) => a.category === article.category && a.id !== article.id).slice(0, 3);
@@ -95,8 +101,8 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 						{article.description && <p className="mb-6 text-lg text-muted-foreground">{article.description}</p>}
 
 						{(() => {
-							const displayAuthor = (article.author || "").replace(/SixHealth/gi, '').trim() || 'Editorial Team';
-							const displayReviewer = (article.reviewer || "").replace(/SixHealth/gi, '').trim() || 'Clinical Team';
+						const displayAuthor = (article.author || "").replace(/DoctorSix/gi, '').trim() || 'Editorial Team';
+						const displayReviewer = (article.reviewer || "").replace(/DoctorSix/gi, '').trim() || 'Clinical Team';
 							const displayUpdated = article.updatedDate || article.publishDate || undefined;
 							return (
 								<div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
@@ -122,7 +128,7 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 
 						{(article.reviewer || article.reviewer === '') && (
 							<div className="mt-4">
-								<MedicalBadge reviewer={(article.reviewer || '').replace(/SixHealth/gi, '').trim() || 'Clinical Team'} date={article.publishDate} />
+								<MedicalBadge reviewer={(article.reviewer || '').replace(/DoctorSix/gi, '').trim() || 'Clinical Team'} date={article.publishDate} />
 							</div>
 						)}
 					</div>
@@ -180,7 +186,7 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 										<User className="h-6 w-6 text-primary" />
 									</div>
 									<div>
-										<h3 className="font-semibold">{(article.author || '').replace(/SixHealth/gi, '').trim() || 'Editorial Team'}</h3>
+										<h3 className="font-semibold">{(article.author || '').replace(/DoctorSix/gi, '').trim() || 'Editorial Team'}</h3>
 										<p className="text-sm text-muted-foreground">{article.authorRole}</p>
 										<p className="mt-2 text-sm text-muted-foreground">A healthcare professional providing evidence-based information.</p>
 									</div>
@@ -205,7 +211,8 @@ export const ArticleLayout: React.FC<ArticleRendererProps> = ({ article, related
 			</article>
 		</Layout>
 	);
-};
+};
+
 export default function ArticleRenderer(props: { content?: string; article?: ArticleType }) {
 	if (props.article) {
 		return <ArticleLayout article={props.article} />;
@@ -216,4 +223,5 @@ export default function ArticleRenderer(props: { content?: string; article?: Art
 	}
 
 	return <div className="prose max-w-none">{String(props.content ?? "")}</div>;
-}
+}
+

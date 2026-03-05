@@ -12,7 +12,8 @@ type Props = {
   related?: RelatedArticle[];
 };
 
-function renderMarkdownLite(md: string) {
+function renderMarkdownLite(md: string) {
+
   const lines = md.split(/\n/);
   const elems: React.ReactNode[] = [];
   let listBuffer: React.ReactNode[] = [];
@@ -43,7 +44,8 @@ function renderMarkdownLite(md: string) {
     if (line.startsWith("- ")) {
       listBuffer.push(line.replace(/^-\s+/, ""));
       continue;
-    }
+    }
+
     const linkMatch = line.match(/\[(.*?)\]\((.*?)\)/);
     if (linkMatch) {
       const text = linkMatch[1];
@@ -67,7 +69,7 @@ export default function EarlyDetectionCard({
   title,
   image = "https://source.unsplash.com/1200x800/?healthcare&sig=501&auto=format&fit=crop&w=1200&q=80&fm=webp",
   content,
-  author = "SixHealth Editorial Team",
+  author = "DoctorSix Editorial Team",
   reviewer = "Dr. Faith Selchick, DNP, AOCNP",
   reviewedDate = "February 3, 2026",
   related = [],

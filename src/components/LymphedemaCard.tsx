@@ -13,7 +13,7 @@ export default function LymphedemaCard() {
         <p className="text-sm text-gray-600 mt-1">Practical strategies, compression guidance, and treatment pathways for managing lymphedema effectively.</p>
 
         <div className="mt-3 text-xs text-gray-500">
-          <div><strong>Author:</strong> SixHealth Editorial Team</div>
+          <div><strong>Author:</strong> DoctorSix Editorial Team</div>
           <div><strong>Reviewed by:</strong> Dr. Maya Patel, MSc (Physiotherapy)</div>
         </div>
 

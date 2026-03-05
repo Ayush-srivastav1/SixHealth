@@ -183,7 +183,7 @@ export function Header() {
       {}
       <header ref={headerRef} className="bg-black sticky top-0 z-50" style={{overflow: 'visible'}}>
         <div className="relative max-w-[1280px] mx-auto px-6 h-[72px] flex items-stretch justify-between" style={{overflow: 'visible'}}>
-          <div className="flex items-center text-white text-2xl font-bold">SixHealth</div>
+          <div className="flex items-center text-white text-2xl font-bold">DoctorSix</div>
 
           <nav className="absolute inset-x-0 top-0 h-full flex items-center justify-center" style={{overflow: 'visible'}}>
             <ul className="flex items-center gap-6 text-sm font-semibold text-white h-full" style={{overflow: 'visible'}}>
