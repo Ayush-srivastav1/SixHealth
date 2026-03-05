@@ -1,6 +1,14 @@
 import blogData from "./blogData";
+import { getCategoryImage } from "./imageLibrary";
 
-export const allArticles = blogData;
+// Map each article to include an imageUrl based on its category
+export const allArticles = blogData.map((article) => ({
+  ...article,
+  imageUrl: article.imageUrl || getCategoryImage(
+    article.categorySlug,
+    article.category
+  ),
+}));
 
 export const findArticleBySlug = (slug?: string, categorySlug?: string) => {
   if (!slug) return undefined;
@@ -12,7 +20,8 @@ export const findArticleBySlug = (slug?: string, categorySlug?: string) => {
     const slugVal = (article.slug || "").toString();
     const idVal = (article.id || "").toString();
     const aliases = (article as unknown as { aliases?: unknown }).aliases;
-    const aliasVals = Array.isArray(aliases) ? (aliases as unknown[]).map((a) => String(a)) : [];
+    const aliasVals = Array.isArray(aliases) ? (aliases as unknown[]).map((a) => String(a)) : [];
+
     const rawMatch = (slugVal || "").toString().toLowerCase() === sRaw.toLowerCase()
       || (idVal || "").toString().toLowerCase() === sRaw.toLowerCase()
       || aliasVals.map(a => a.toString().toLowerCase()).includes(sRaw.toLowerCase());
@@ -30,5 +39,6 @@ export const findArticleBySlug = (slug?: string, categorySlug?: string) => {
   });
 };
 
-export default allArticles;
+export default allArticles;
+
 export type Article = import("./blogData").BlogArticle;
